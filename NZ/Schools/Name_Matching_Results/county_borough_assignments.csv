@@ -1,0 +1,185 @@
+school,county_borough,evidence,confidence,locality,town_district,notes
+Aparima,Wallace County,"Polling: Wallace ED (line 1377); small_cities: Wallace",High,Aparima village,Riverton area,
+Ardlussa,Southland County,"Polling: Wakatipu ED; sheep station in Waikaia Valley area",Medium,Waikaia Valley,,Wakatipu ED ≠ Lake County; station is in Southland County
+Arrowtown,Arrowtown Borough,coordinates_boroughs.csv confirms borough,High,Arrowtown,,
+Arthur's Point,Lake County,"Polling: Wakatipu ED; near Queenstown",High,Arthur's Point,Queenstown,
+Athol,Southland County,"small_cities: Southland, 182",High,Athol,Lumsden area,
+Awarua Plains,Southland County,"Polling: Awarua ED (line 1409 ""Woodend, Awarua Plains"")",High,Awarua Plains,Invercargill area,
+Balfour,Southland County,"small_cities: Southland, 449; polling Wakatipu ED",High,Balfour,Lumsden–Gore corridor,
+Beaumont,Tuapeka County (Otago),"small_cities: Tuapeka, 245; polling Wakatipu ED",High,Beaumont,Tapanui area,School in Southland Ed. District but in Tuapeka County (Otago Province)
+Birchwood,Wallace County,"Polling: Wallace ED (line 1386); small_cities: Wallace, 217",High,Birchwood,Riverton area,
+Bluff,Bluff Borough,"coordinates_boroughs.csv; polling Awarua ED (""Courthouse, Campbelltown"" = Bluff)",High,Bluff,,Campbelltown is the historical name for Bluff
+Brown's,Southland County,"Polling: Awarua ED (line 1431); small_cities: Southland, 264",High,Brown's,Invercargill area,
+Brydone,Southland County,"small_cities: Southland, 203",High,Brydone,Winton area,
+Cainard,Unresolved,"AJHR 1919: opened 1918 as Grade 0 household school alongside Nine-mile, Lynwood, Mount Alfred; no gazetteer match",Unresolved,,,One of four household schools opened 1918; possible Lake or Southland County
+Cardrona,Lake County,"small_cities: Lake, 111; polling Wakatipu ED",High,Cardrona,Cromwell area,
+Caroline,Wallace County,Polling: Wallace ED (line 1393),High,Caroline,Tuatapere area,
+Charlton,Southland County,"small_cities: Southland, 317",High,Charlton,Winton area,
+Chatton North,Southland County,"small_cities: Chatton, Southland, 116",High,Chatton,Gore area,
+Clifden,Wallace County,"Polling: Wallace ED (line 1392); small_cities: Wallace, 163",High,Clifden,Tuatapere area,
+Clifton,Southland County,"LINZ gazetteer: Southland suburb at -46.452775, 168.36592; ~4.5km south of Invercargill centre",Medium,Clifton,South of Invercargill,Suburb of Invercargill but outside Borough boundary in 1918
+Colae Bay,Wallace County,"Polling: Wallace ED (line 1367); small_cities: Wallace, 178",High,Colac Bay,Riverton area,Original CSV spells as "Colae Bay" (OCR error for Colac Bay)
+Crown Terrace,Lake County,Polling: Wakatipu ED (line 1330),High,Crown Terrace,Arrowtown area,
+Croydon,Southland County,"small_cities: Croydon Bush, Southland, 186; polling Wakatipu ED",High,Croydon Bush,Gore area,
+Daere,Southland County,Dacre near Winton in Southland County; no direct source but well-known Southland locality,Medium,Dacre,Winton area,Original CSV spells as "Daere" (OCR/transcription error for Dacre)
+Dipton,Southland County,"small_cities: Southland, 486; despite appearing in Wallace ED polling, county boundary places it in Southland",Medium,Dipton,Winton–Nightcaps road,Polling in Wallace ED but small_cities confirms Southland County
+Drummond,Wallace County,"Polling: Wallace ED (line 1366); small_cities: Wallace, 443",High,Drummond,Otautau area,
+Eastern Bush,Wallace County,Polling: Wallace ED (line 1385),High,Eastern Bush,Riverton area,
+East Gore,Gore Borough,coordinates_boroughs.csv,High,East Gore,Gore,
+East Limehills,Southland County,"Near Limehills (small_cities: Southland); east variant in same county",High,East Limehills,Winton area,
+Edendale,Southland County,"LINZ gazetteer: Southland, -46.31477, 168.786081",High,Edendale,Mataura area,
+Elderslie,Southland County,"Polling: Awarua ED (line 1422 ""Elderslie, Lochiel"")",High,Elderslie/Lochiel,Winton area,
+Ermedale,Wallace County,Polling: Wallace ED (line 1404),High,Ermedale,Riverton–Otautau area,
+Etavale,Wallace County,"AJHR 1919 appendix: between Ermedale (Wallace) and Fairfax (Wallace) alphabetically; near Nightcaps coalfield. Also spelled ""Etalvale"" in AJHR",Low,Unknown,Nightcaps area (probable),Possible mining hamlet; "Eta Vale" not in modern gazetteer
+Etavale No.2,Wallace County,Same basis as Etavale,Low,Unknown,Nightcaps area (probable),Second school serving same locality
+Fairfax,Wallace County,"Polling: Wallace ED (line 1363); small_cities: Wallace, 154",High,Fairfax,Otautau area,
+Feldwick,Wallace County,Polling: Wallace ED (line 1397),High,Feldwick,Riverton–Tuatapere area,
+Ferndale,Southland County,"LINZ gazetteer: Southland, -46.189834, 168.973202; 11km from Mataura",High,Ferndale,Mataura area,Named by first schoolteacher Orchiston for bracken ferns in the valley
+Ferndunlaw,Wallace County,"LINZ gazetteer: hill at -46.131314, 167.883652 in Longwood Forest SE of Otautau",High,Ferndunlaw,Otautau area,
+Fernhills,Wallace County,"Railway file: ""Fernhill Tramway"" / ""Fernhill Branch"" linked to Nightcaps coalfield; AJHR appendix between Ferndunlaw (Wallace) and Five Rivers Siding (Southland)",Medium,Nightcaps area,Nightcaps,Fernhill colliery near Nightcaps confirms Wallace County context
+Five Rivers Siding,Southland County,"Polling: Wakatipu ED ""Goods-shed, Five Rivers Railway-station""; small_cities: Five Rivers, Southland, 125",High,Five Rivers,Lumsden area,
+Forest Hill North,Southland County,"Polling: Awarua ED (line 1428 ""North Forest Hill""); also South Forest Hill in Awarua ED",High,Forest Hill,Invercargill–Winton area,
+Fortrose,Southland County,"small_cities: Southland, 190",High,Fortrose,Catlins coast,
+Garston,Lake County,"small_cities: Lake, 133; polling Wakatipu ED",High,Garston,Kingston area,
+Gibbston,Lake County,Polling: Wakatipu ED; near Arrow River,High,Gibbston,Arrowtown area,
+Gladfield,Wallace County,Polling: Wallace ED (line 1402),High,Gladfield,Riverton–Tuatapere area,
+Glencoe,Southland County,"LINZ gazetteer: Southland, -46.192107, 168.646236",High,Glencoe,Mataura area,
+Glen Dhu,Southland County,"AJHR 1919: Grade 0, 3 pupils; alphabetical position between Glencoe (Southland) and Glenham (Southland)",Low,Unknown,Eastern Southland,Very small school; no gazetteer match; neighbouring schools both Southland County
+Glenham,Southland County,"small_cities: Southland, 238",High,Glenham,Wyndham area,
+Glenorchy,Lake County,"small_cities: Lake, 150; polling Wakatipu ED",High,Glenorchy,Queenstown area,
+Gore,Gore Borough,coordinates_boroughs.csv,High,Gore,,
+Granity,Wallace County,"Polling: Wallace ED (line 1405 ""Granity, Longwood""); distinct from Granity (Buller)",High,Granity (Longwood),Nightcaps area,Longwood qualifier confirms Wallace County; not the Buller Granity
+Greenhills,Southland County,"Polling: Awarua ED (line 1410); small_cities: Southland, 165",High,Greenhills,Invercargill area,
+Greenvale,Southland County,"Polling: Wakatipu ED; small_cities: Southland, 211",High,Greenvale,Gore area,
+Grove Bush,Southland County,"Polling: Awarua ED (line 1414); small_cities: Southland, 146",High,Grove Bush,Invercargill area,
+Gummie's Bush,Wallace County,"Polling: Wallace ED (line 1372); small_cities: Wallace, 159",High,Gummie's Bush,Orepuki area,
+Haldane,Southland County,Catlins area locality in eastern Southland; near Fortrose (Southland County),Medium,Haldane,Catlins coast,
+Half-moon Bay,Southland County,"Polling: Awarua ED (line 1427 ""Half-moon Bay, Stewart Island""); small_cities: Stewart Island, 209",High,Half-moon Bay,Stewart Island,Stewart Island was administered as part of Southland County
+Hamilton Burn,Wallace County,Polling: Wallace ED (line 1399),High,Hamilton Burn,Tuatapere area,
+Happy Valley,Wallace County,"LINZ gazetteer: Southland locality at -46.132447, 167.774598 (near Otautau); second valley at -46.020806, 167.523889",High,Happy Valley,Otautau area,Both gazetteer entries fall within Wallace County longitude range
+Heddon Bush,Wallace County,"Polling: Wallace ED (line 1373); small_cities: Wallace, 239",High,Heddon Bush,Otautau area,
+Hedgehope Lower,Southland County,"small_cities: Hedgehope, Southland, 227",High,Hedgehope,Winton–Invercargill area,
+Hedgehope Upper,Southland County,"small_cities: Hedgehope, Southland, 227 (same area)",High,Hedgehope,Winton–Invercargill area,
+Hillend,Wallace County,"Polling: Wallace ED (line 1369 ""South Hillend""); small_cities: South Hillend, Wallace, 111",High,South Hillend,Riverton area,CSV "Hillend" = "South Hillend" in polling records
+Hokonui,Southland County,"Polling: Awarua ED (line 1424); small_cities: Southland, 175",High,Hokonui,Winton area,
+Holmesdale,Wallace County,"Polling: Wallace ED (line 1383 ""Holmsdale"")",High,Holmsdale,Riverton area,CSV "Holmesdale" confirmed as "Holmsdale" in Wallace ED
+Invercargill Middle,Invercargill Borough,Urban Invercargill; coordinates_boroughs.csv,High,Invercargill,,
+Invercargill North,Invercargill Borough,Urban Invercargill; coordinates_boroughs.csv,High,Invercargill North,,
+Invercargill Park (see under Wai hopai),Invercargill Borough,"Cross-referenced under Waihopai; AJHR: side school of Waihopai (Grade 7a, 515 combined)",High,Invercargill,,Side school of Waihopai main school
+Invercargill South,South Invercargill Borough,"coordinates_boroughs.csv: ""Invercargill South"" listed as separate borough (-46.425, 168.35); metropolitan areas: pop. 1,712",High,Invercargill South,,Distinct from Invercargill Borough
+Kapuka,Southland County,"small_cities: Southland, 134",High,Kapuka,Invercargill area,
+Kapuka South,Southland County,Same locality area as Kapuka; Southland County,Medium,Kapuka South,Invercargill area,
+Kennington,Southland County,"Polling: Awarua ED (line 1433); small_cities: Southland, 378",High,Kennington,Invercargill area,
+Key,Fiord County,"LINZ gazetteer: ""The Key, Locality, Southland, -45.545138, 167.894217""; 19km from Te Anau; name from ""Key to the Lakes"" public house",Medium,The Key,Te Anau area,Near Fiord County/Lake County boundary; coordinates confirm Fiord County range
+Kingston,Lake County,Polling: Wakatipu ED; south end of Lake Wakatipu,High,Kingston,Queenstown area,
+Kinlock,Lake County,"Polling: Wakatipu ED ""Mr. Bryant's House, Kinloch""; near Queenstown",High,Kinloch,Queenstown area,CSV spells "Kinlock"
+Knapdale,Southland County,"Polling: Wakatipu ED; small_cities: Southland, 157",High,Knapdale,Gore area,In Wakatipu ED but county boundary confirms Southland County
+Limehills,Southland County,"Polling: Awarua ED (line 1426); small_cities: Southland, 382",High,Limehills,Winton area,
+Limestone Plains,Southland County,Polling: Awarua ED context (Awarua Plains area); near Winton in Southland County,Medium,Awarua Plains,Winton area,
+Longbush,Southland County,"small_cities: Southland, 251",High,Longbush,Winton area,
+Longridge Village,Southland County,"small_cities: Longridge, Southland, 205",High,Longridge,Gore area,
+Lumsden,Southland County,"Polling: Wakatipu ED ""The Public Hall, Lumsden""; Lumsden is the principal town of Southland County",High,Lumsden,,
+Mabel,Southland County,"small_cities: Mabel Bush, Southland, 203",High,Mabel Bush,Winton area,
+McNab,Southland County,"small_cities: McNab, Southland, 112",High,McNab,Gore area,
+Maitland Village,Southland County,"small_cities: Maitland, Southland, 145",High,Maitland,Eastern Southland,
+Makarewa,Southland County,"Polling: Awarua ED (line 1413 ""Makarewa Township""); small_cities: Southland, 591",High,Makarewa,Invercargill area,
+Makarewa North,Southland County,Same locality area as Makarewa; Southland County,High,Makarewa North,Invercargill area,
+Mandeville,Southland County,"Polling: Wakatipu ED; small_cities: Southland, 164",High,Mandeville,Gore area,
+Mataura,Mataura Borough,coordinates_boroughs.csv,High,Mataura,,
+Mataura Island,Southland County,"small_cities: Southland, 304; distinct settlement from Mataura Borough",High,Mataura Island,Mataura area,River island settlement; separate from Mataura Borough
+Menzies Ferry,Southland County,"small_cities: Southland, 232",High,Menzies Ferry,Eastern Southland,
+Merrivale,Wallace County,"LINZ gazetteer: Southland locality at -46.074185, 167.853345; 19km from Otautau",High,Merrivale,Otautau area,Merrivale Station established 1850s; coordinates confirm Wallace County
+Mimihau,Southland County,Locality near Wyndham in Southland County,Medium,Mimihau,Wyndham area,
+Mokoreta,Southland County,"small_cities: Southland, 131",High,Mokoreta,Wyndham area,
+Morton Mains,Southland County,"small_cities: Morton Mains, Southland, 290",High,Morton Mains,Invercargill area,
+Morton Mains siding,Southland County,Same area as Morton Mains; siding on same railway,High,Morton Mains,Invercargill area,
+Mossburn,Wallace County,"Polling: Wallace ED (line 1381); small_cities: Mossburn, Wallace, 180",High,Mossburn,Lumsden area,Two Mossburns in NZ; this is the Wallace County one (distinct from Mossburn Taieri)
+Motu Rimu,Southland County,"LINZ gazetteer: Southland, -46.472685, 168.420564 — south of Invercargill",High,Motu Rimu,South Invercargill area,
+Mount Alfred,Lake County,Polling: Wakatipu ED; sheep station near Garston,High,Mount Alfred,Garston area,One of four household schools opened 1918
+Mount Aspiring,Lake County,Near Pembroke/Wanaka; polling Wakatipu ED,High,Pembroke (Wanaka),Lake County,
+Myross Bush,Southland County,"Polling: Awarua ED (line 1415); small_cities: Southland, 189",High,Myross Bush,Invercargill area,
+New River Ferry,Southland County,Polling: Awarua ED (line 1435),High,New River Ferry,South Invercargill area,
+Niagara,Southland County,Near Wyndham in eastern Southland County; area confirmed,Medium,Niagara,Wyndham area,
+Nightcaps,Wallace County,"Polling: Wallace ED (line 1360); small_cities: Wallace, 439",High,Nightcaps,Otautau area,
+Nine-mile,Unresolved,"AJHR: household school opened 1918 alongside Mount Alfred (Lake County); no gazetteer or polling match",Low,,,Household school; opened same time as Lake County schools; could be Nine Mile Valley in Fiordland area
+Nokomai,Southland County,"Polling: Wakatipu ED; small_cities: Southland, 114",High,Nokomai,Waikaia area,
+Opio,Wallace County,Polling: Wallace ED (line 1391),High,Opio,Colac Bay area,
+Oraki,Wallace County,"Railway file: ""Oraki Invercargill–Tuatapere See Tihaka""; Tihaka is in Wallace ED",High,Tihaka/Oraki area,Aparima area,Oraki renamed to Tihaka on Invercargill–Tuatapere line; Wallace County confirmed
+Orepuki,Wallace County,"Polling: Wallace ED (line 1359); small_cities: Wallace, 746",High,Orepuki,Riverton coast,
+Oreti Plains,Southland County,Polling: Awarua ED (line 1425),High,Oreti Plains,West of Invercargill,
+Otahau,Wallace County,"Otahau = Maori name for Otautau; polling Wallace ED confirms; same town, separate school",High,Otautau,,Two separate schools in Otautau: one for the borough/town and one for the wider district
+Otama,Southland County,"small_cities: Southland, 123",High,Otama,Eastern Southland,
+Otapiri,Southland County,"Polling: Awarua ED (line 1437 ""Otapiri Gorge (Matai)""); small_cities: Southland, 138",High,Otapiri,Winton–Nightcaps area,
+Otara,Southland County,"small_cities: Southland, 286",High,Otara,Eastern Southland,
+Otatara,Southland County,"Polling: Awarua ED (line 1411 ""Otatara Bush""); small_cities: Southland, 191",High,Otatara,Invercargill area,
+Otautau,Wallace County,"Polling: Wallace ED (line 1358 ""Courthouse, Otautau"")",High,Otautau,,
+Oteramika,Southland County,Small locality near Invercargill; outside Borough boundary; within Southland County area,Medium,Oteramika,Invercargill area,No direct source; geographic area is Southland County
+Oteramika Gorge,Southland County,Same area as Oteramika; Southland County,Medium,Oteramika Gorge,Invercargill area,
+Pahia,Wallace County,"Polling: Wallace ED (line 1370 ""Paiha""); small_cities: Pahia, Wallace, 212",High,Pahia,Orepuki area,
+Papatotara,Wallace County,"Polling: Wallace ED (line 1389); small_cities: Wallace, 145",High,Papatotara,Tuatapere area,
+Pembroke,Lake County,"small_cities: Lake, 113; Pembroke = modern Wanaka",High,Pembroke (Wanaka),,
+Pine Bush,Southland County,"small_cities: Southland, 141",High,Pine Bush,Winton area,
+Pukerau,Southland County,"small_cities: Southland, 313",High,Pukerau,Gore area,
+Pyramid Siding,Southland County,Polling: Wakatipu ED; Pyramid Siding near Mataura in Southland County,Medium,Pyramid Siding,Lumsden–Gore area,In Wakatipu ED but geographically Southland County
+Quarry Hills (12) and Waikawa Valley (14),Southland County,"Combined entry; near Waikawa (Catlins); small_cities: Waikawa, Southland, 154",Medium,Quarry Hills / Waikawa Valley,Catlins,Numbers in original name are school roll numbers
+Queenstown,Queenstown Borough,coordinates_boroughs.csv,High,Queenstown,,
+Redan,Southland County,No direct source; Redan area near Waikaia/Gore in Southland County,Low,Redan,Gore area,Fallback: nearest borough is Gore
+Rees Valley,Lake County,Polling: Wakatipu ED; near Glenorchy,High,Rees Valley,Glenorchy area,
+Rimu,Southland County,"small_cities: Southland, 115",High,Rimu,Invercargill area,
+Riversdale,Southland County,"small_cities: Southland, 320",High,Riversdale,Gore area,
+Riverside,Wallace County,Polling: Wallace ED (line 1384),High,Riverside,Riverton area,
+Riverton,Riverton Borough,coordinates_boroughs.csv,High,Riverton,,
+Roslyn Bush,Southland County,Polling: Awarua ED (line 1432),High,Roslyn Bush,Winton area,
+Round Hill,Wallace County,"Polling: Wallace ED (line 1371); small_cities: Wallace, 155",High,Round Hill,Orepuki area,
+Ryal Bush,Southland County,"Polling: Awarua ED (line 1420); small_cities: Southland, 289",High,Ryal Bush,Winton area,
+Sandstone,Southland County,"LINZ gazetteer: Southland, -45.888683, 168.601937 — eastern Southland",High,Sandstone,Gore–Waikaka area,
+Scott's Gap,Wallace County,"Polling: Wallace ED (line 1378); small_cities: Wallace, 127",High,Scott's Gap,Tuatapere area,
+Seaward Downs,Southland County,"small_cities: Southland, 274",High,Seaward Downs,Eastern Southland,
+"Shotover, Lower",Lake County,"Polling: Wakatipu ED ""Lower Shotover""",High,Lower Shotover,Queenstown area,
+Spar Bush,Southland County,"Polling: Awarua ED (line 1419); small_cities: Southland, 149",High,Spar Bush,Winton area,
+Springbank,Southland County,"Polling: Awarua ED (line 1418 ""Spring Bank, Waianiwa"")",High,Spring Bank,Waianiwa area,
+Springhills,Southland County,"Polling: Awarua ED (line 1423 ""Spring Hills"")",High,Spring Hills,Winton area,
+St. George,Southland County,"Not in polling stations; AJHR appendix alphabetical position between Spar Bush (Southland) and Springbank (Southland)",Low,Unknown,Winton area (probable),No direct source; alphabetical position suggests Southland County; fallback nearest borough is Winton
+Taramoa,Southland County,Polling: Awarua ED (line 1436),High,Taramoa,South Invercargill area,
+Taunoa,Wallace County,"LINZ gazetteer: Taunoa Stream, Southland, -46.27663, 167.776082 — near Orepuki/Colac Bay",High,Taunoa,Colac Bay area,
+Te Anau,Fiord County,"coordinates_county.csv: Fiord, Southland; LINZ gazetteer confirms Te Anau in Fiord County area",High,Te Anau,,
+Te Tua,Wallace County,"Polling: Wallace ED (line 1375); small_cities: Te Tua, Wallace, 199",High,Te Tua,Tuatapere area,
+Te Waewae,Wallace County,"Polling: Wallace ED (line 1374); small_cities: Wallace, 106",High,Te Waewae,Tuatapere/Colac Bay area,
+Thornbury,Wallace County,"Polling: Wallace ED (line 1362); small_cities: Wallace, 304",High,Thornbury,Otautau area,
+Tisbury,Southland County,"Polling: Awarua ED (line 1434); small_cities: Southland, 155",High,Tisbury,Invercargill area,
+Titipua,Southland County,"LINZ gazetteer: Titipua Stream, Southland, -46.244963, 168.541108 — between Invercargill and Dipton",High,Titipua,Dipton–Hedgehope area,AJHR: reopened 1918
+Tokanui,Southland County,"small_cities: Southland, 177",High,Tokanui,Eastern Southland (Catlins),
+Tuatapere,Wallace County,"Polling: Wallace ED (line 1376); small_cities: Wallace, 401",High,Tuatapere,,
+Tussock Creek,Southland County,"small_cities: Southland, 139",High,Tussock Creek,Eastern Southland,
+Tuturau,Southland County,"small_cities: Southland, 349",High,Tuturau,Mataura area,
+Waianiwa,Southland County,"Polling: Awarua ED (line 1417); small_cities: Southland, 304",High,Waianiwa,Winton area,
+Waikoaka,Wallace County,"Polling: Wallace ED (line 1387 ""Waihoaka"")",High,Waihoaka/Waikoaka,Riverton area,CSV "Waikoaka" = "Waihoaka" in polling; same place with variant spelling
+Waihopai (407) and Invercargill Park (side school) (108),Invercargill Borough,"AJHR: Grade 7a, 515 combined pupils; Waihopai = historical Invercargill area; Invercargill Park = urban suburb",High,Invercargill (Waihopai),,One main school (407) + side school (108); both in Invercargill Borough
+Waikaia,Southland County,"Polling: Wakatipu ED ""Courthouse, Waikaia""; small_cities: Southland, 301",High,Waikaia,,
+Waikaka,Southland County,"small_cities: Southland, 235",High,Waikaka,Gore area,
+Waikaka Valley,Southland County,"small_cities: Southland, 309",High,Waikaka Valley,Gore area,
+Waikana,Southland County,"LINZ gazetteer: Waikana, Locality, Southland, -46.231498, 168.950939",High,Waikana,Wyndham area,AJHR: reopened 1918
+Waikawa,Southland County,"small_cities: Southland, 154",High,Waikawa,Catlins coast,
+Waikawa Valley (see under Quarry Hill),Southland County,Cross-referenced under Quarry Hills; same Catlins area,High,Waikawa Valley,Catlins,See Quarry Hills entry
+Waikiwi,Southland County,"small_cities: Southland, 583",High,Waikiwi,Invercargill (north suburb),North of Invercargill Borough; just outside borough boundary
+Waikouro,Wallace County,"Polling: Wallace ED ""Waikoura""; railway file: ""Waicola Otautau–Nightcaps See Waikouro""",High,Waikouro,Otautau–Nightcaps area,Railway confirms Otautau–Nightcaps branch = Wallace County
+Waimahaka,Southland County,"small_cities: Southland, 159",High,Waimahaka,Eastern Southland,
+Waimatua,Southland County,"small_cities: Waimatua, Southland, 103",High,Waimatua,South Invercargill area,AJHR: new school opened 1918
+Waimatuku,Wallace County,"Polling: Wallace ED (line 1365); small_cities: Wallace, 235",High,Waimatuku,Riverton area,
+Waimumu,Southland County,"small_cities: Southland, 228",High,Waimumu,Gore area,
+Waipounamu,Southland County,Polling: Wakatipu ED; locality between Lumsden and Balfour = Southland County,Medium,Waipounamu,Lumsden area,Wakatipu ED ≠ Lake County; geographically Southland County
+Wairaki,Wallace County,Polling: Wallace ED (line 1403),High,Wairaki,Riverton area,
+Wairekiki,Wallace County,"AJHR appendix: listed between Wairaki (Wallace) and Wairio (Wallace) alphabetically; not in polling stations",Medium,Unknown,Wallace County (probable),Not found in polling stations; alphabetical context strongly suggests Wallace County
+Wairio,Wallace County,"Polling: Wallace ED (line 1368); small_cities: Wallace, 279",High,Wairio,Riverton area,
+Waituna,Southland County,"small_cities: Southland, 118",High,Waituna,Eastern Southland (Awarua lagoon),
+Wallacetown,Southland County,"Polling: Awarua ED (line 1416); small_cities: Southland, 270",High,Wallacetown,Invercargill area,
+Wendon,Southland County,"Polling: Wakatipu ED; small_cities: Southland, 445",High,Wendon,Gore–Balfour area,
+Wendonside,Southland County,"Polling: Wakatipu ED; small_cities: Southland, 246",High,Wendonside,Gore area,
+Wendon Valley,Southland County,Near Wendon; Southland County,Medium,Wendon Valley,Gore–Balfour area,
+West Plains,Southland County,"Polling: Awarua ED (line 1412); small_cities: Southland, 309",High,West Plains,Invercargill area,
+Whitehead,Wallace County,"AJHR appendix: listed between Wild Bush (Wallace) and Winton (Winton Borough) alphabetically; no polling or gazetteer match",Low,Unknown,Wallace County (probable),No direct source; alphabetical position suggests Wallace County
+Wild Bush,Wallace County,"Polling: Wallace ED (line 1388); small_cities: Wallace, 150",High,Wild Bush,Riverton area,
+Winton,Winton Borough,"coordinates_boroughs.csv; polling: Awarua ED ""Council Chambers, Winton (principal)""",High,Winton,,
+Woodlands,Southland County,"small_cities: Southland, 432",High,Woodlands,Invercargill area,
+Wyndham,Southland County,Town in eastern Southland County near Mataura River,Medium,Wyndham,Eastern Southland,Well-known Southland County town; no direct source required
+Wyndham South,Southland County,Same district as Wyndham; Southland County,Medium,Wyndham South,Eastern Southland,

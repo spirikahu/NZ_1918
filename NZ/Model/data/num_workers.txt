@@ -1,0 +1,10 @@
+	Males.	Females.	Totals.
+I. Professional	24797	17304	42101
+II. Domestic	10119	31796	41915
+III. Commercial	49490	16714	66204
+IV. Transport	40253	2269	42522
+V. Industrial	97045	19874	116919
+VI. Primary producers	122814	9685	132499
+VII. Indefinite	10531	2613	13144
+Total breadwinners.	355049	100255	455304
+

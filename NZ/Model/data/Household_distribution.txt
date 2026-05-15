@@ -1,0 +1,23 @@
+# OCCUPANTS OF HOUSEHOLDS, BY GEOGRAPHICAL DIVISIONS.
+# Much information under the above head has already been disclosed in Section XIII of this report. A further table is now quoted summarizing the information relating to occupants by metropolitan and suburban districts:
+# Table showing the Number of Occupants of all Inhabited Private Dwellings and Tenements in each Metropolitan and Suburban Area and the Remainder of the Dominion, classified according to the Number in the Household, as at the Census of October, 1916.
+Metropolitan or Suburban Area.	Cases in which the Number of Persons in the Household was	Totals.
+1.	2.	3.	4.	5.	6.	7.	8.	9.	10.	11+.
+Metropolitan areas—	 	 	 	 	 	 	 	 	 	 	 	 
+    Auckland	1,296	4,250	5,684	5,490	4,481	3,041	1,808	1,112	567	305	227	28,261
+    Wellington	854	3,025	3,893	3,968	3,096	2,060	1,252	747	346	214	192	19,647
+    Christchurch	1,031	3,460	4,254	4,029	2,989	1,996	1,169	636	309	186	166	20,225
+    Dunedin	922	2,462	2,914	2,823	2,234	1,599	918	506	288	147	116	14,929
+Suburban areas—	 	 	 	 	 	 	 	 	 	 	 	 
+    Gisborne	147	307	453	542	476	352	201	117	61	24	22	2,702
+    Napier	170	482	611	655	468	320	192	117	64	30	22	3,131
+    New Plymouth	158	340	378	388	383	255	131	95	47	16	19	2,210
+    Wanganui	225	599	814	812	635	441	271	158	98	35	44	4,132
+    Palmerston North	193	464	587	520	427	335	216	112	57	41	24	2,976
+    Nelson	167	341	370	344	236	169	104	61	26	7	9	1,834
+    Grey Valley Boroughs	96	188	204	191	164	135	91	50	24	13	16	1,172
+    Timaru	172	431	589	520	468	327	194	103	60	29	35	2,928
+    Invercargill	268	571	719	775	619	388	287	165	83	63	44	3,982
+Totals, metropolitan and suburban areas	5,699	16,920	21,470	21,057	16,676	11,418	6,834	3,979	2,030	1,110	936	108,129
+Remainder of Dominion	16,360	18,615	20,277	21,081	18,197	13,394	9,003	5,723	3,387	1,971	1,929	129,937
+          Grand totals	22,059	35,535	41,747	42,138	34,873	24,812	15,837	9,702	5,417	3,081	2,865	238,066

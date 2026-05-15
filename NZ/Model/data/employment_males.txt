@@ -1,0 +1,9 @@
+Class	Proportion of Male workers.
+I. Professional	6.98
+II. Domestic	2.86
+III. Commercial	13.94
+IV. Transport.	11.33
+V. Industrial	27.33
+VI. Agricultural, pastoral, mineral, and other primary producers	34.59
+VII. Indefinite	2.97
+Totals	100

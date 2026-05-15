@@ -1,0 +1,10 @@
+Class.	Percentage of Total Male Population in each Class.	Percentage of Total Female Population in each Class.	Percentage of Total Population in each Class.
+Professional	4.5	3.16	3.83
+Domestic	1.83	5.81	3.81
+Commercial	8.97	3.05	6.02
+Transport and communication	7.3	0.42	3.87
+Industrial	17.59	3.62	10.64
+Primary	22.26	1.77	12.05
+Indefinite	1.91	0.48	1.2
+Dependent	35.64	81.69	58.58
+Totals	100	100	100

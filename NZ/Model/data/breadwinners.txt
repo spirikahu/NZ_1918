@@ -1,0 +1,21 @@
+Metropolitan or Suburban Area.	Number of Cases where the Household contained	Total Cases.
+No Worker.	No Non-Worker.	Only One Worker.
+Metropolitan areas—	 	 	 	 
+    Auckland	1,605	1,795	14,416	28,261
+    Wellington	972	1,460	9,687	19,647
+    Christchurch	932	1,401	10,876	20,225
+    Dunedin	913	1,128	6,827	14,929
+Suburban areas—	 	 	 	 
+    Gisborne	131	228	1,483	2,702
+    Napier	177	244	1,733	3,131
+    New Plymouth	151	195	1,178	2,210
+    Wanganui	236	331	2,299	4,132
+    Palmerston North	114	297	1,636	2,976
+    Nelson	59	295	1,001	1,834
+    Grey Valley Boroughs	80	135	637	1,172
+    Timaru	171	209	1,615	2,928
+    Invercargill	240	329	2,147	3,982
+                Totals, metropolitan and suburban areas	5,781	8,047	55,535	108,129
+Remainder of Dominion	4,522	24,901	72,323	129,937
+                Grand totals	10,303	32,948	127,858	238,066
+

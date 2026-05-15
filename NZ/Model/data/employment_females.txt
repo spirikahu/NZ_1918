@@ -1,0 +1,9 @@
+Class	Proportion of Female workers
+I. Professional	17.26
+II. Domestic	31.71
+III. Commercial	16.67
+IV. Transport.	2.26
+V. Industrial	19.83
+VI. Agricultural, pastoral, mineral, and other primary producers	9.66
+VII. Indefinite	2.61
+Totals	100
