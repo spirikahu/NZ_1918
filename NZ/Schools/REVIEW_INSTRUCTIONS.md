@@ -4,7 +4,7 @@
 
 The canonical data store is `Name_Matching_Results/*.csv`. Never edit the Matariki CSVs in `Databank/Schools/`.
 
-Two phases have been completed. What remains is **25 INVESTIGATE cases** across both phases.
+Two phases have been completed. Ongoing research has resolved many INVESTIGATE cases; **16 remain open**.
 
 ---
 
@@ -32,7 +32,7 @@ Two phases have been completed. What remains is **25 INVESTIGATE cases** across 
 
 ---
 
-## Remaining work — 25 INVESTIGATE cases
+## Remaining work — 16 INVESTIGATE cases
 
 ### From Phase 1 (mismatches_enriched.csv, verdict = INVESTIGATE)
 
@@ -69,7 +69,7 @@ Two phases have been completed. What remains is **25 INVESTIGATE cases** across 
 | Southland | Daere | Southland County | no direct source |
 | Southland | Glen Dhu | Southland County | grade 0, 3 pupils; no source |
 
-**Remaining open:** Berwen (Bruce County more likely than Clutha), Hill Springs, Killermont (grade 0/1 pupil — probably unresolvable), Table Hill.
+**Remaining open:** Berwen (Bruce County more likely than Clutha), Hill Springs, Killermont (grade 0/1 pupil — probably unresolvable), Table Hill. Also Hinekaka and Koreke (Collingwood County assignment unsupported by alphabetical context), Wairangi (grade 0/3 pupils).
 
 ---
 
