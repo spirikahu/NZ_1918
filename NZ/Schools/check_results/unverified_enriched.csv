@@ -454,7 +454,7 @@ Otago,Akatore Coast,Akatore Coast,Clutha County,High,Coastal south Otago; Clutha
 Otago,Arthurton,Arthurton,Clutha County,High,Polling: Otago Central ED (line 1260 as 'Otaria/Arthurton'); near Clinton railway,,,,arthurton,"Otago, Southland",,CONFIRM,Strong original evidence (small_cities / polling)
 Otago,Bald Hill,Bald Hill,Vincent County,High,Polling: Otago Central ED (line 1168 'Bald Hill Flat'); near Alexandra,,,,,,,CONFIRM,Strong original evidence (small_cities / polling)
 Otago,Bendigo,Bendigo,Lake County,Medium,Near Tarras/Cromwell gold area; Lake County,,,,bendigo,Otago,Otago,CONFIRM,Gazetteer land district 'Otago' consistent with district
-Otago,Berwen,Berwen,Clutha County,Low,Very small; no direct source; possibly Clutha area,,,,,,,INVESTIGATE,No direct source or uncertain assignment; needs further research
+Otago,Berwen,Berwen,Clutha County,Low,Very small; no direct source; possibly Clutha area,,,,,,,INVESTIGATE,"Grade 0, avg 4. Alphabetical neighbours Benhar and Blacks are Bruce County — original Clutha assignment has no alphabetical support. Bruce County more plausible but unconfirmed."
 Otago,Blacks,Blacks,Bruce County,Low,Near Milton; Bruce County,,,,,,,CONFIRM,KG evidence identifies location and county
 Otago,Blackstone,Blackstone,Maniototo County,High,Polling: Otago Central ED (line 1159 'Blackstone Hill'); near St Bathans,,,,,,,CONFIRM,Strong original evidence (small_cities / polling)
 Otago,Broad Bay,Broad Bay,Peninsula County,High,Polling: Chalmers ED (line 1265); Otago Peninsula,broad bay,Dunedin Central,Dunedin Central,broad bay,Otago,Otago,CONFIRM,Polling ED 'Dunedin Central' confirms county
@@ -474,7 +474,7 @@ Otago,Glenore,Glenore,Bruce County,Low,Near Milton/Lovell's Flat; Bruce County,,
 Otago,Greenfield,Greenfield,Waitaki County,Low,Near Oamaru; no direct source,,,,greenfield,Otago,Otago,CONFIRM,Gazetteer land district 'Otago' consistent with district
 Otago,Hampden,Hampden,Waitaki County,High,North Otago coastal town; Waitaki County (town board not borough),,,,hampden,Nelson | Otago,Otago,CONFIRM,Gazetteer land district 'Nelson | Otago' consistent with district
 Otago,Hawea,Hawea,Lake County,High,Near Lake Hawea; Lake County,hawera,Patea,,hawera,Wellington,,CONFIRM,KG evidence identifies location and county
-Otago,Hill Springs,Hill Springs,Waitaki County,Low,Possibly near Oamaru; no direct source,,,,,,,INVESTIGATE,No direct source or uncertain assignment; needs further research
+Otago,Hill Springs,Hill Springs,Waitaki County,Low,Possibly near Oamaru; no direct source,,,,,,,INVESTIGATE,"Grade 0, avg 5. Between Hillend (Bruce County) and Hinahina (Clutha County) alphabetically. No direct source."
 Otago,Hinahina,Hinahina,Clutha County,Low,Coastal south Otago; Clutha County,,,,hinahina,Otago,Otago,CONFIRM,Gazetteer land district 'Otago' consistent with district
 Otago,Hindon Railway,Hindon Railway,Maniototo County,High,"Polling: Otago Central ED (line 1211 'Ladies' Waiting-room, Hindon Railway-station')",,,,,,,CONFIRM,Strong original evidence (small_cities / polling)
 Otago,Hooper's Inlet,Hoopers Inlet,Peninsula County,High,Polling: Chalmers ED (line 1267); Otago Peninsula,hooper’s inlet,Dunedin Central,Dunedin Central,hoopers inlet,Otago,Otago,CONFIRM,Polling ED 'Dunedin Central' confirms county
@@ -484,8 +484,8 @@ Otago,Kaihiku,Kaihiku,Tuapeka County,Medium,Near Tapanui; Tuapeka County,kaihu,K
 Otago,Karitane,Karitane,Waikouaiti County,High,Coastal north of Dunedin; Waikouaiti County,,,,karitane,Otago,Otago,CONFIRM,Gazetteer land district 'Otago' consistent with district
 Otago,Kartigi,Kartigi,Waitaki County,Low,Possibly near Oamaru coast; no direct source,,,,kartigi,Otago,Otago,CONFIRM,Gazetteer land district 'Otago' consistent with district
 Otago,Kauroo,Kauroo,Waitaki County,Medium,Kauroo Hill near Oamaru; Waitaki County,,,,,,,CONFIRM,KG evidence identifies location and county
-Otago,Killermont,Killermont,Tuapeka County,Low,Very small (avg 1); possibly near Lawrence; no direct source,,,,,,,INVESTIGATE,No direct source or uncertain assignment; needs further research
-Otago,Kokoano,Kokoano,Clutha County,Low,Possibly Clutha/Catlins area; no direct source,,,,,,,INVESTIGATE,No direct source or uncertain assignment; needs further research
+Otago,Killermont,Killermont,Tuapeka County,Low,Very small (avg 1); possibly near Lawrence; no direct source,,,,,,,INVESTIGATE,"Grade 0, avg 1 — essentially no school. No source found in any Databank."
+Otago,Kokoano,Kokoano,Clutha County,Low,Possibly Clutha/Catlins area; no direct source,,,,,,,CONFIRM,Alphabetical neighbours Kia Ora and Kuriwao both confirmed Clutha County (near Balclutha/Owaka area)
 Otago,Kokonga,Kokonga,Maniototo County,High,Polling: Otago Central ED (line 1193); Maniototo,kokonga,Otago Central,,kokonga,Otago,Otago,CONFIRM,Gazetteer land district 'Otago' consistent with district
 Otago,Kuri Bush,Kuri Bush,Taieri County,High,Polling: Chalmers ED (line 1285); Taieri area near coast,kuri bush,Dunedin Central,,kuri bush,Otago,Otago,CONFIRM,Gazetteer land district 'Otago' consistent with district
 Otago,Kuriwao,Kuriwao,Clutha County,High,Railway: Balclutha-Invercargill (line 2716 Kuriwao); near Clinton,,,,kuriwao,Otago,Otago,CONFIRM,Gazetteer land district 'Otago' consistent with district
@@ -522,14 +522,14 @@ Otago,Puketi,Puketi,Bruce County,Low,Possibly near Milton; Bruce County,,,,puket
 Otago,Purakauiti,Purakauiti,Waitaki County,Low,Near Purakaunui North Otago coast; Waitaki County,purakanui,Dunedin Central,,purakauiti,Otago,Otago,CONFIRM,Gazetteer land district 'Otago' consistent with district
 Otago,Rae's Junction,Raes Junction,Vincent County,High,Polling: Otago Central ED (line 1173); near Roxburgh,rae’s junction,Otago Central,Otago Central,raes junction,Otago,Otago,CONFIRM,Polling ED 'Otago Central' confirms county
 Otago,Ravensbourne,Ravensbourne,Peninsula County,High,Polling: Chalmers ED (line 1261); inner harbour suburb,,,,ravensbourne,Otago,Otago,CONFIRM,Gazetteer land district 'Otago' consistent with district
-Otago,Reomoana,Reomoana,Clutha County,Low,Coastal Clutha area; no direct source,,,,,,,INVESTIGATE,No direct source or uncertain assignment; needs further research
+Otago,Reomoana,Reomoana,Clutha County,Low,Coastal Clutha area; no direct source,,,,,,,CONFIRM,Alphabetical neighbours Ratanui (Papatowai/Catlins) and Romahapa (Owaka) both confirmed Clutha County
 Otago,St. Leonards,St. Leonards,Peninsula County,High,Polling: Chalmers ED (line 1260); near Port Chalmers,,,,,,,CONFIRM,Strong original evidence (small_cities / polling)
 Otago,Southbridge,Southbridge,Clutha County,Low,Uncertain; Southbridge normally Canterbury/Ellesmere; possibly transcription error or different locality,southbridge,Ellesmere,,southbridge,Canterbury,,INVESTIGATE,No direct source or uncertain assignment; needs further research
 Otago,Spottis Creek,Spottis Creek,Clutha County,Medium,Near Owaka/Catlins; Clutha County,,,,,,,CONFIRM,KG evidence identifies location and county
 Otago,Spylaw Valley,Spylaw Valley,Clutha County,Low,Catlins area; Clutha County,,,,,,,CONFIRM,KG evidence identifies location and county
 Otago,Stony Creek,Stony Creek,Clutha County,Low,Clutha area; no direct source,,,,stony creek,Otago,Otago,CONFIRM,Gazetteer land district 'Otago' consistent with district
 Otago,Strath Taieri,Strath Taieri,Maniototo County,High,Middlemarch area; upper Taieri/Maniototo County,,,,,,,CONFIRM,KG evidence identifies location and county
-Otago,Table Hill,Table Hill,Taieri County,Low,Taieri area; no direct source,,,,,,,INVESTIGATE,No direct source or uncertain assignment; needs further research
+Otago,Table Hill,Table Hill,Taieri County,Low,Taieri area; no direct source,,,,,,,INVESTIGATE,"Multiple Table Hills in Otago gazetteer (Maniototo, Clutha, Waikouaiti areas). Alphabetically on boundary between Sutton (Taieri) and Tahakapa/Tahatika (Clutha). Assignment uncertain."
 Otago,Taieri Beach,Taieri Beach,Taieri County,High,Taieri coast; Taieri County,,,,taieri beach,Otago,Otago,CONFIRM,Gazetteer land district 'Otago' consistent with district
 Otago,Taieri Ferry,Taieri Ferry,Taieri County,High,Taieri River crossing; Taieri County,,,,,,,CONFIRM,KG evidence identifies location and county
 Otago,Tapui,Tapui,Bruce County,Medium,Near Milton; Bruce County,tapuhi,Bay Of Islands,,tapui,Otago,Otago,CONFIRM,Gazetteer land district 'Otago' consistent with district
@@ -547,7 +547,7 @@ Otago,Waitapeka,Waitapeka,Clutha County,Medium,Near Owaka/Catlins; Clutha County
 Otago,Wanaka,Wanaka,Lake County,High,"Wakatipu ED (line 1304 'The Public School, Pembroke'); Lake County",,,,,,,CONFIRM,Strong original evidence (small_cities / polling)
 Otago,Wanaka Road,Wanaka Road,Lake County,Medium,Near Wanaka; Lake County,,,,,,,CONFIRM,KG evidence identifies location and county
 Otago,Wangaloa,Wangaloa,Clutha County,Medium,Near Balclutha coast; Clutha County,whangaroa,Bay Of Islands,,wangaloa,Otago,Otago,CONFIRM,Gazetteer land district 'Otago' consistent with district
-Otago,Waronui,Waronui,Clutha County,Low,Clutha area; no direct source,,,,,,,INVESTIGATE,No direct source or uncertain assignment; needs further research
+Otago,Waronui,Waronui,Clutha County,Low,Clutha area; no direct source,,,,,,,CONFIRM,"Alphabetical neighbours Wangaloa, Warepa, Wetherstones all confirmed Clutha County. Railway ref ""Bruce Railway & Coal Coy"" is likely a company name; Clutha County confirmed by context."
 Otago,West Taieri,West Taieri,Taieri County,High,Taieri Plain; Taieri County,east taieri,Dunedin Central,,east taieri,Otago,Otago,CONFIRM,Gazetteer land district 'Otago' consistent with district
 Otago,Wetherstones,Wetherstones,Clutha County,Low,Catlins/south Otago; Clutha County,,,,wetherstons,Otago,Otago,CONFIRM,Gazetteer land district 'Otago' consistent with district
 Otago,Whare Flat,Whare Flat,Taieri County,High,Polling: Chalmers ED (line 1283); Taieri area,,,,whare flat,Otago,Otago,CONFIRM,Gazetteer land district 'Otago' consistent with district

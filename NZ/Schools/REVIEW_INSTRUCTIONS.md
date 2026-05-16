@@ -56,20 +56,20 @@ Two phases have been completed. What remains is **25 INVESTIGATE cases** across 
 | Nelson | Te Arowhenua | Nelson County | uncertain |
 | Nelson | Wairangi | Nelson County | no direct source |
 | Nelson | Wills Road | Buller County | no direct source |
-| Otago | Berwen | Clutha County | very small; no source |
-| Otago | Hill Springs | Waitaki County | no source |
-| Otago | Killermont | Tuapeka County | avg 1 pupil; no source |
-| Otago | Kokoano | Clutha County | no source |
-| Otago | Reomoana | Clutha County | no source |
+| Otago | Berwen | Clutha County | grade 0/4 pupils; neighbours Benhar+Blacks = Bruce County — Bruce more plausible |
+| Otago | Hill Springs | Waitaki County | grade 0/5 pupils; between Hillend (Bruce) and Hinahina (Clutha) alphabetically |
+| Otago | Killermont | Tuapeka County | grade 0/1 pupil — essentially no school; unresolvable |
+| ~~Otago~~ | ~~Kokoano~~ | ~~Clutha County~~ | ~~Resolved CONFIRM — neighbours Kia Ora + Kuriwao both Clutha County~~ |
+| ~~Otago~~ | ~~Reomoana~~ | ~~Clutha County~~ | ~~Resolved CONFIRM — neighbours Ratanui + Romahapa both Clutha County (Catlins)~~ |
 | ~~Otago~~ | ~~Southbridge~~ | ~~Clutha County~~ | ~~Resolved: marked Unresolved — AJHR transcription error; no Otago Southbridge exists~~ |
-| Otago | Table Hill | Taieri County | no source |
-| Otago | Waronui | Clutha County | no source |
+| Otago | Table Hill | Taieri County | alphabetical boundary between Sutton (Taieri) and Tahakapa (Clutha); multiple Table Hills in Otago |
+| ~~Otago~~ | ~~Waronui~~ | ~~Clutha County~~ | ~~Resolved CONFIRM — neighbours Wangaloa + Warepa + Wetherstones all Clutha County~~ |
 | Wanganui | Aratika | Wanganui County | no direct match |
 | Wanganui | Bluff Road | Wanganui County | no direct match |
 | Southland | Daere | Southland County | no direct source |
 | Southland | Glen Dhu | Southland County | grade 0, 3 pupils; no source |
 
-**Priority:** Remaining Otago cases (Berwen, Hill Springs, Killermont, Kokoano, Reomoana, Table Hill, Waronui) — all have no direct source.
+**Remaining open:** Berwen (Bruce County more likely than Clutha), Hill Springs, Killermont (grade 0/1 pupil — probably unresolvable), Table Hill.
 
 ---
 
