@@ -1,0 +1,872 @@
+source_district,school,school_cleaned,my_county,confidence,orig_evidence,poll_loc,poll_eds,poll_confirm,gaz_loc,gaz_lds,gaz_confirm,verdict,notes
+Auckland,Ahuroa Nos 1 (7) and 2 (9),Ahuroa Nos 1 and 2,Rodney County,Medium,KG: on Auckland–Whangarei road; railway file: Ahuroa on Waitakere–Whangarei line,,,,,,,CONFIRM,KG evidence identifies location and county
+Auckland,Albertland North (14) and Hoteo North (20),Albertland North and Hoteo North,Rodney County,Medium,"small_cities: Port Albert, Rodney, 266; Albertland = Port Albert district",,,,,,,CONFIRM,Strong original evidence (small_cities / polling)
+Auckland,Alexandra,Alexandra,Waipa County,Medium,KG: Alexandra was former name of Pirongia; in Waipa County,alexandra,Otago Central,,alexandra,South Auckland | Otago,South Auckland,CONFIRM,Gazetteer land district 'South Auckland | Otago' consistent with district
+Auckland,Amodeo Bay Nos. 1 (9) and 2 (8),Amodeo Bay Nos. 1 and 2,Coromandel County,High,KG: Amodeo Bay on Coromandel Peninsula coast,,,,,,,CONFIRM,KG evidence identifies location and county
+Auckland,Arapae,Arapae,Bay of Islands County,Low,"KG: probable Bay of Islands area; grade 1, 14 students",,,,arapae,South Auckland,South Auckland,CONFIRM,Gazetteer land district 'South Auckland' consistent with district
+Auckland,Araparara (10) and Mangakura (9),Araparara and Mangakura,Hokianga County,Medium,Post_offices: Araparara-Mititai mail service; Mititai in Hokianga County,,,,,,,CONFIRM,KG evidence identifies location and county
+Auckland,Ararimu (11) and Paparimu (12),Ararimu and Paparimu,Franklin County,High,"small_cities: Ararimu, Franklin, 120",,,,,,,CONFIRM,Strong original evidence (small_cities / polling)
+Auckland,Ararua,Ararua,Otamatea County,Medium,"Post_offices: Matakohe-Ararua mail service; small_cities: Matakohe, Otamatea",tararu,Thames,,ararua,North Auckland,,CONFIRM,Strong original evidence (small_cities / polling)
+Auckland,Avoca,Avoca,Ohinemuri County,Low,"KG: likely near Waihi mining district; grade 2, 27 students",,,,avoca,North Auckland | Canterbury,,CONFIRM,KG evidence identifies location and county
+Auckland,Awaroa (10) and Matira (8),Awaroa and Matira,Bay of Islands County,Low,KG: Awaroa locality in Northland; Matira likely same area,,,,,,,CONFIRM,KG evidence identifies location and county
+Auckland,Awitu No. 2,Awitu No. 2,Franklin County,High,Same area as Awitu Central; Awhitu Peninsula Franklin County,,,,,,,CONFIRM,Strong original evidence (small_cities / polling)
+Auckland,Bickerstaffe,Bickerstaffe,Otamatea County,Medium,Polling: Kaipara ED; Post_offices: Bickerstaffe–Waipu mail service near Maungaturoto,,,,,,,CONFIRM,Strong original evidence (small_cities / polling)
+Auckland,Birkdale,Birkdale,Waitemata County,High,KG: Birkdale on North Shore; Waitemata County,,,,birkdale,North Auckland,,CONFIRM,KG evidence identifies location and county
+Auckland,Bream Tail (5) and Waipu Cove (18),Bream Tail and Waipu Cove,Whangarei County,High,"small_cities: Waipu, Whangarei, 328; both near Waipu",,,,,,,CONFIRM,Strong original evidence (small_cities / polling)
+Auckland,Brighams Creek,Brighams Creek,Rodney County,Medium,KG: Brigham's Creek near Helensville; Rodney County,,,,,,,CONFIRM,KG evidence identifies location and county
+Auckland,Brookby,Brookby,Manukau County,Medium,"small_cities: Clevedon, Manukau, 539 (adjacent locality)",,,,brookby,North Auckland,,CONFIRM,Strong original evidence (small_cities / polling)
+Auckland,Brynavon (12) and Whareora (11),Brynavon and Whareora,Whangarei County,High,Polling: Marsden (Whangarei) ED lists Whareora as polling place,,,,,,,CONFIRM,Strong original evidence (small_cities / polling)
+Auckland,Brynderwyn,Brynderwyn,Otamatea County,Medium,Polling: Kaipara ED; KG: Brynderwyn on Maungaturoto road,,,,brynderwyn,North Auckland,,CONFIRM,Strong original evidence (small_cities / polling)
+Auckland,Cambridge Road,Cambridge Road,Waipa County,Medium,KG: near Cambridge; Waipa County,,,,,,,CONFIRM,KG evidence identifies location and county
+Auckland,Cambridge West,Cambridge West,Waipa County,Medium,KG: near Cambridge; Waipa County,,,,,,,CONFIRM,KG evidence identifies location and county
+Auckland,Cape Colvillw,Cape Colvillw,Coromandel County,High,KG: Cape Colville at northern tip of Coromandel Peninsula,,,,,,,CONFIRM,KG evidence identifies location and county
+Auckland,Dacre's (19) and Tawharanui (16),Dacres and Tawharanui,Rodney County,High,KG: Dacres and Tawharanui near Matakana; Rodney County,,,,,,,CONFIRM,KG evidence identifies location and county
+Auckland,Dairy Flat (19) and Fernilea (9),Dairy Flat and Fernilea,Waitemata County,High,"small_cities: Dairy Flat, Waitemata, 106",,,,,,,CONFIRM,Strong original evidence (small_cities / polling)
+Auckland,Dome Valley,Dome Valley,Rodney County,Medium,KG: Dome Valley northeast of Helensville; Rodney County,,,,dome valley,North Auckland,,CONFIRM,KG evidence identifies location and county
+Auckland,Edendale,Edendale,Eden County,Medium,KG: Edendale school in Auckland southern suburb (One Tree Hill/Epsom area); large school (699),greendale,Selwyn,,edendale,Southland,,CONFIRM,KG evidence identifies location and county
+Auckland,Fariburn's Road,Fariburns Road,Mongonui County,Medium,Polling: Bay of Islands ED lists Fairburn's; near Mangonui,,,,,,,CONFIRM,Strong original evidence (small_cities / polling)
+Auckland,Flat Bush,Flat Bush,Manukau County,Medium,KG: Flat Bush in South Auckland; Manukau County,,,,flat bush,North Auckland,,CONFIRM,KG evidence identifies location and county
+Auckland,Glenbervie,Glenbervie,Whangarei County,Medium,KG: Glenbervie near Whangarei; Whangarei County,,,,glenbervie,North Auckland,,CONFIRM,KG evidence identifies location and county
+Auckland,Glen Murray (12) and Opouatia (17),Glen Murray and Opouatia,Raglan County,High,"small_cities: Glen Murray, Raglan, 117; Opuatia, Raglan, 110",,,,,,,CONFIRM,Strong original evidence (small_cities / polling)
+Auckland,Graham's Fern,Grahams Fern,Thames County,Low,KG: Graham's Fern near Thames; Thames Electoral District area,,,,,,,CONFIRM,KG evidence identifies location and county
+Auckland,Great Barrier (7) and Katherine Bay (17),Great Barrier and Katherine Bay,Waitemata County,High,KG: Great Barrier Island in Hauraki Gulf; Waitemata County,,,,,,,CONFIRM,KG evidence identifies location and county
+Auckland,Greenhithe (12) and Long Bay (11),Greenhithe and Long Bay,Waitemata County,High,KG: Greenhithe on North Shore; Waitemata County,,,,,,,CONFIRM,KG evidence identifies location and county
+Auckland,Gumtown (11) and Whenuakite (10),Gumtown and Whenuakite,Thames County,High,Polling: Thames ED lists Gumtown and Whenuakite,,,,,,,CONFIRM,Strong original evidence (small_cities / polling)
+Auckland,Hakaru (14) and Tara Road (17),Hakaru and Tara Road,Otamatea County,Medium,KG: Hakaru near Maungaturoto; Otamatea County,,,,,,,CONFIRM,KG evidence identifies location and county
+Auckland,Helena Bay,Helena Bay,Whangarei County,High,KG: Helena Bay on east coast north of Whangarei; Whangarei County,,,,helena bay,North Auckland,,CONFIRM,KG evidence identifies location and county
+Auckland,Helensville,Helensville,Rodney County,High,Polling: Kaipara ED (Town Board Office Helensville); Rodney County,,,,helensville,North Auckland,,CONFIRM,Strong original evidence (small_cities / polling)
+Auckland,Henderson Valley,Henderson Valley,Waitemata County,High,KG: Henderson Valley near Henderson; Waitemata County,,,,henderson valley,North Auckland,,CONFIRM,KG evidence identifies location and county
+Auckland,Hikurangi,Hikurangi,Whangarei County,High,Polling: Marsden (Whangarei) ED lists Hikurangi as polling place,hikurangi,Bay Of Islands,,hikurangi,North Auckland,,CONFIRM,Strong original evidence (small_cities / polling)
+Auckland,Hora Hora,Hora Hora,Waikato County,Medium,KG: Hora Hora (Horahora) on Waikato River; dam/power station community,,,,horahora,South Auckland | North Auckland,South Auckland,CONFIRM,Gazetteer land district 'South Auckland | North Auckland' consistent with district
+Auckland,Hora Hora Rapids,Hora Hora Rapids,Waikato County,Low,"KG: same Horahora locality; grade 0, 8 students",,,,,,,INVESTIGATE,No direct source or uncertain assignment; needs further research
+Auckland,Houhora,Houhora,Mongonui County,High,Polling: Bay of Islands ED (Hohoura); KG: Far North,,,,houhora,North Auckland,,CONFIRM,Strong original evidence (small_cities / polling)
+Auckland,Houto (12) and Parakao (11),Houto and Parakao,Hobson County,Medium,KG: Hoteo near Kaipara Harbour; Hobson County,,,,,,,CONFIRM,KG evidence identifies location and county
+Auckland,Huarau,Huarau,Hobson County,Low,KG: Huarau in Kaipara/Dargaville area; Hobson County,,,,huarau,North Auckland,,CONFIRM,KG evidence identifies location and county
+Auckland,Huia,Huia,Eden County,Medium,KG: Huia at Manukau Harbour entrance near Titirangi; Eden County,,,,huia,North Auckland,,CONFIRM,KG evidence identifies location and county
+Auckland,Hukerenui South,Hukerenui South,Whangarei County,High,Polling: Bay of Islands ED lists Hukerenui; Whangarei County,,,,,,,CONFIRM,Strong original evidence (small_cities / polling)
+Auckland,Huntly District High School Primary (338) secondary (14),Huntly,Waikato County,High,KG: Huntly in Waikato County; not in coordinates_boroughs.csv,,,,huntly,South Auckland,South Auckland,CONFIRM,Gazetteer land district 'South Auckland' consistent with district
+Auckland,Jordan (10) and Miranda (9),Jordan and Miranda,Franklin County,Medium,Polling: Franklin ED lists school near Kaiaua; Miranda on Firth of Thames coast = Franklin County,,,,,,,CONFIRM,Strong original evidence (small_cities / polling)
+Auckland,Kaeaca (14) and Rira (17),Kaeaca and Rira,Waitomo County,Medium,Polling: Taumarunui ED lists Kaeaea; same district as Paemako (SC: Waitomo),,,,,,,CONFIRM,Strong original evidence (small_cities / polling)
+Auckland,Kaiawa (12) and Miranda (9),Kaiawa and Miranda,Franklin County,Medium,Polling: Franklin ED lists school near Kaiaua (Post Town Mangatawhiri); Kaiawa = Kaiaua spelling variant,,,,,,,CONFIRM,Strong original evidence (small_cities / polling)
+Auckland,Kaihere,Kaihere,Waikato County,Medium,KG: Kaihere near Ngatea/Patetonga on Hauraki Plains; Waikato County,,,,kaihere,South Auckland,South Auckland,CONFIRM,Gazetteer land district 'South Auckland' consistent with district
+Auckland,Kaimanawa,Kaimanawa,East Taupo County,Low,KG: Kaimanawa ranges in East Taupo County; small Maori school,,,,,,,CONFIRM,KG evidence identifies location and county
+Auckland,Kamo,Kamo,Whangarei County,High,Polling: Marsden (Whangarei) ED lists Kamo as polling place,kamo,Marsden,Marsden,kamo,North Auckland,,CONFIRM,Polling ED 'Marsden' confirms county
+Auckland,Kara (11) and Kokupu (19),Kara and Kokupu,Whangarei County,High,Polling: Marsden (Whangarei) ED lists Kara as polling place,,,,,,,CONFIRM,Strong original evidence (small_cities / polling)
+Auckland,Katikati No.1,Katikati No.1,Tauranga County,High,"small_cities: Katikati, Tauranga, 261",,,,,,,CONFIRM,Strong original evidence (small_cities / polling)
+Auckland,Katikati No.2,Katikati No.2,Tauranga County,High,"small_cities: Katikati, Tauranga, 261",,,,,,,CONFIRM,Strong original evidence (small_cities / polling)
+Auckland,Katikati No.3,Katikati No.3,Tauranga County,High,"small_cities: Katikati, Tauranga, 261",,,,,,,CONFIRM,Strong original evidence (small_cities / polling)
+Auckland,Kawa No.1 (13) and Kawa No.2 (20),Kawa No.1 and Kawa No.2,Waipa County,Low,KG: Kawa locality near Te Awamutu; Waipa County,,,,,,,CONFIRM,KG evidence identifies location and county
+Auckland,Kawakawa,Kawakawa,Bay of Islands County,High,Polling: Bay of Islands ED lists Kawakawa (County Council Chambers); Bay of Islands County,kawakawa,Bay Of Islands,Bay Of Islands,kawakawa,North Auckland,,CONFIRM,Polling ED 'Bay Of Islands' confirms county
+Auckland,Kawhia,Kawhia,Kawhia County,High,"coordinates_county.csv: Kawhia, Auckland; Kawhia County confirmed",,,,kawhia,South Auckland,South Auckland,CONFIRM,Gazetteer land district 'South Auckland' consistent with district
+Auckland,Kennedy Bay,Kennedy Bay,Coromandel County,High,Polling: Thames ED lists Kennedy's Bay as polling place,kennedy’s bay,Thames,,kennedy bay,South Auckland,South Auckland,CONFIRM,Gazetteer land district 'South Auckland' consistent with district
+Auckland,Kerepehi,Kerepehi,Thames County,Medium,KG: Kerepehi on Hauraki Plains; Thames County,,,,kerepehi,South Auckland,South Auckland,CONFIRM,Gazetteer land district 'South Auckland' consistent with district
+Auckland,Kereta (11) and Waikaway (10),Kereta and Waikaway,Coromandel County,Medium,Polling: Thames ED lists Wilson's Bay Kerita; Kereta = Kerita/Coromandel coast,,,,,,,CONFIRM,Strong original evidence (small_cities / polling)
+Auckland,Kerikeri Inlet,Kerikeri Inlet,Bay of Islands County,High,KG: Kerikeri Inlet adjacent to Kerikeri; same county,,,,kerikeri inlet,North Auckland,,CONFIRM,KG evidence identifies location and county
+Auckland,Kihikihi,Kihikihi,Waipa County,High,Polling: Waikato ED lists Kihikihi; near Te Awamutu = Waipa County,kihikibi,Waikato,,kihikihi,South Auckland,South Auckland,CONFIRM,Gazetteer land district 'South Auckland' consistent with district
+Auckland,Kinohaku No.1,Kinohaku No.1,Waitomo County,Medium,Polling: Taumarunui ED lists Kinohaku; Waitomo County area,,,,,,,CONFIRM,Strong original evidence (small_cities / polling)
+Auckland,Kinohaku No.2,Kinohaku No.2,Waitomo County,Medium,Polling: Taumarunui ED lists Kinohaku; Waitomo County area,,,,,,,CONFIRM,Strong original evidence (small_cities / polling)
+Auckland,Kohukohu,Kohukohu,Hokianga County,High,Polling: Bay of Islands ED lists Kohukohu (Courthouse),kohukohu,Bay Of Islands,,kohukohu,North Auckland,,CONFIRM,Strong original evidence (small_cities / polling)
+Auckland,Komata South,Komata South,Ohinemuri County,High,"small_cities: Komata, Ohinemuri; same area",,,,,,,CONFIRM,Strong original evidence (small_cities / polling)
+Auckland,Kopuarahi,Kopuarahi,Thames County,Medium,Polling: Thames ED lists Kopuarahi (Grundy's Store),,,,kopuarahi,South Auckland,South Auckland,CONFIRM,Gazetteer land district 'South Auckland' consistent with district
+Auckland,Kutarere,Kutarere,Opotiki County,Medium,Polling: Bay of Plenty ED lists Kutarere; south of Ohiwa Harbour = Opotiki County,,,,kutarere,Gisborne,,CONFIRM,Strong original evidence (small_cities / polling)
+Auckland,Lichfield,Lichfield,Matamata County,Medium,"Post_offices: Putaruru-Lichfield mail service; small_cities: Putaruru, Matamata = same area",birchfield,Buller,,lichfield,South Auckland,South Auckland,CONFIRM,Gazetteer land district 'South Auckland' consistent with district
+Auckland,Lochnorrie (23) and Wainui (15),Lochnorrie and Wainui,Rodney County,Low,KG: Wainui near Helensville in Rodney County; Lochnorrie likely same area,,,,,,,CONFIRM,KG evidence identifies location and county
+Auckland,Lower Waitoa,Lower Waitoa,Piako County,High,"small_cities: Waitoa, Piako, 454 (same district)",,,,,,,CONFIRM,Strong original evidence (small_cities / polling)
+Auckland,Mahurangi Heads West (13) and Puhuehue (9),Mahurangi Heads West and Puhuehue,Rodney County,Medium,KG: Mahurangi near Warkworth; Rodney County,,,,,,,CONFIRM,KG evidence identifies location and county
+Auckland,Maihiihi,Maihiihi,Waitomo County,Medium,KG: Maihiihi near Otorohanga; Waitomo County,,,,maihiihi,South Auckland,South Auckland,CONFIRM,Gazetteer land district 'South Auckland' consistent with district
+Auckland,Mairoa (16) and Waitanguru (17),Mairoa and Waitanguru,Waitomo County,Medium,Polling: Taumarunui ED lists Mairoa; same area as Kinohaku (Waitomo),,,,,,,CONFIRM,Strong original evidence (small_cities / polling)
+Auckland,Makarau (15) and Tahekeroa (15),Makarau and Tahekeroa,Rodney County,Medium,KG: Makarau near Helensville; Rodney County,,,,,,,CONFIRM,KG evidence identifies location and county
+Auckland,Manawahe,Manawahe,Rotorua County,Medium,Polling: Bay of Plenty ED lists Manawahe near Roto-iti; Rotorua County,manawahe,Thames,,manawahe,South Auckland,South Auckland,CONFIRM,Gazetteer land district 'South Auckland' consistent with district
+Auckland,Mangaotaki,Mangaotaki,Waitomo County,Medium,"KG: Mangaotaki near Pio Pio; small_cities: Piopio, Waitomo, 311",mangatoki,Egmont,,mangaotaki,South Auckland,South Auckland,CONFIRM,Gazetteer land district 'South Auckland' consistent with district
+Auckland,Mangatu (14) and Tuamoe (8),Mangatu and Tuamoe,Otamatea County,Medium,Polling: Marsden (Kaipara) ED lists Tutamoe; Otamatea County,,,,,,,CONFIRM,Strong original evidence (small_cities / polling)
+Auckland,Mangawai beach,Mangawai beach,Otamatea County,High,"small_cities: Mangawai, Otamatea, 109",,,,,,,CONFIRM,Strong original evidence (small_cities / polling)
+Auckland,Mangawhero,Mangawhero,Matamata County,Medium,"small_cities: Mangawhero Valley, Matamata, 101; same locality",matawhero,Gisborne,,mangawhero,Taranaki | South Auckland | North Auckland,South Auckland,CONFIRM,Gazetteer land district 'Taranaki | South Auckland | North Auckland' consistent with district
+Auckland,Manukau Heads,Manukau Heads,Franklin County,Medium,Polling: Franklin ED lists Manukau Heads,,,,,,,CONFIRM,Strong original evidence (small_cities / polling)
+Auckland,Manurewa,Manurewa,Manukau County,High,KG: Manurewa in South Auckland; Manukau County,manurewa,Franklin,,manurewa,North Auckland,,CONFIRM,KG evidence identifies location and county
+Auckland,Maraetai Nos.1 (13) and 2 (8),Maraetai Nos.1 and 2,Franklin County,Medium,Polling: Franklin ED lists Maraetai; Maraetai Beach area = Franklin County,,,,,,,CONFIRM,Strong original evidence (small_cities / polling)
+Auckland,Maramarua (13) and Maramarya East (10),Maramarua and Maramarya East,Franklin County,Medium,KG: Maramarua near Maraetai/Clevedon = Franklin County,,,,,,,CONFIRM,Strong original evidence (small_cities / polling)
+Auckland,Marlow (7) and Ruapekapeka West (12),Marlow and Ruapekapeka West,Bay of Islands County,Medium,KG: Ruapekapeka near Kawakawa; Bay of Islands County,,,,,,,CONFIRM,KG evidence identifies location and county
+Auckland,Marsden Point,Marsden Point,Whangarei County,High,KG: Marsden Point on Whangarei Harbour entrance; Whangarei County,,,,marsden point,North Auckland,,CONFIRM,Strong original evidence (small_cities / polling)
+Auckland,Matahuru Nos 1 (16) and 2 (21),Matahuru Nos 1 and 2,Waikato County,High,"small_cities: Matahuru, Waikato, 164",,,,,,,CONFIRM,Strong original evidence (small_cities / polling)
+Auckland,Matakohe No.2,Matakohe No.2,Otamatea County,High,same locality as Matakohe; Otamatea County,matakohe no. 1,Kaipara,,,,,CONFIRM,KG evidence identifies location and county
+Auckland,Matapouri (16) and Tutukaka (17),Matapouri and Tutukaka,Whangarei County,High,KG: Matapouri and Tutukaka on Whangarei east coast; Whangarei County,,,,,,,CONFIRM,KG evidence identifies location and county
+Auckland,Maungatautari No.2,Maungatautari No.2,Matamata County,High,same locality as Maungatautari; Matamata County,,,,,,,CONFIRM,KG evidence identifies location and county
+Auckland,Maungatawhiri Valley,Maungatawhiri Valley,Franklin County,High,"small_cities: Maungatawhiri, Franklin, 150",,,,,,,CONFIRM,Strong original evidence (small_cities / polling)
+Auckland,Mercer,Mercer,Waikato County,High,KG: Mercer on Waikato River; Waikato County,mercer,Raglan,,mercer,North Auckland,,CONFIRM,KG evidence identifies location and county
+Auckland,Mercury Bay,Mercury Bay,Coromandel County,High,KG: Mercury Bay on Coromandel Peninsula; Coromandel County,,,,mercury bay,South Auckland,South Auckland,CONFIRM,Gazetteer land district 'South Auckland' consistent with district
+Auckland,Motutara (11) and Muriwai (15),Motutara and Muriwai,Rodney County,Medium,KG: Muriwai on west coast near Helensville = Rodney County; Motutara same area,,,,,,,CONFIRM,KG evidence identifies location and county
+Auckland,Moumoukai,Moumoukai,Franklin County,High,Polling: Franklin ED lists Moumoukai,moumoukai. ~,Franklin,Franklin,moumoukai,North Auckland,,CONFIRM,Polling ED 'Franklin' confirms county
+Auckland,Mount Maunganui,Mount Maunganui,Tauranga County,High,KG: Mount Maunganui at Tauranga Harbour entrance; Tauranga County,,,,mount maunganui,South Auckland,South Auckland,CONFIRM,Gazetteer land district 'South Auckland' consistent with district
+Auckland,Mullet Point,Mullet Point,Whangarei County,Medium,Polling: Marsden (Whangarei) ED lists Mullet Point,,,,,,,CONFIRM,Strong original evidence (small_cities / polling)
+Auckland,Ngahape (17) and Tokanui (16),Ngahape and Tokanui,West Taupo County,Medium,"small_cities: Tokanui, West Taupo, *259; Ngahape in same area",,,,,,,CONFIRM,Strong original evidence (small_cities / polling)
+Auckland,Ngapuke,Ngapuke,Ohura County,Medium,Post_offices: Manunui-Ngapuke mail service; Manunui near Taumarunui = Ohura County,,,,ngapuke,South Auckland,South Auckland,CONFIRM,Gazetteer land district 'South Auckland' consistent with district
+Auckland,Ngararatunua,Ngararatunua,Waikato County,Low,"KG: probable Waikato County area; grade 3A, 42 students",,,,ngararatunua,North Auckland,,CONFIRM,KG evidence identifies location and county
+Auckland,Ngunguru,Ngunguru,Whangarei County,High,KG: Ngunguru on east coast near Whangarei; Whangarei County,,,,ngunguru,North Auckland,,CONFIRM,KG evidence identifies location and county
+Auckland,Ngutunui,Ngutunui,Kawhia County,Low,KG: Ngutunui near Kawhia; Kawhia County,,,,ngutunui,South Auckland,South Auckland,CONFIRM,Gazetteer land district 'South Auckland' consistent with district
+Auckland,Nukuhou,Nukuhou,Opotiki County,Low,KG: Nukuhou near Opotiki; Opotiki County,,,,,,,CONFIRM,KG evidence identifies location and county
+Auckland,Ohauiti,Ohauiti,Tauranga County,Medium,KG: Ohauiti near Tauranga; Tauranga County,,,,ohauiti,South Auckland,South Auckland,CONFIRM,Gazetteer land district 'South Auckland' consistent with district
+Auckland,Ohaupo,Ohaupo,Waipa County,High,Polling: Waikato ED lists Ohaupo; near Te Awamutu = Waipa County,ohaupo,Waikato,,,,,CONFIRM,Strong original evidence (small_cities / polling)
+Auckland,Okahu Nos.1 (13) and 2 (7),Okahu Nos.1 and 2,Hobson County,High,"small_cities: Okahu, Hobson, 108",,,,,,,CONFIRM,Strong original evidence (small_cities / polling)
+Auckland,Okaihau No.2 (8) and Utakura Valley (13),Okaihau No.2 and Utakura Valley,Bay of Islands County,High,same area as Okaihau; Bay of Islands County,,,,,,,CONFIRM,KG evidence identifies location and county
+Auckland,Okaihau East,Okaihau East,Bay of Islands County,High,same area as Okaihau; Bay of Islands County,,,,,,,CONFIRM,KG evidence identifies location and county
+Auckland,Okupu (11) and Tryphena (13),Okupu and Tryphena,Waitemata County,High,KG: Okupu and Tryphena on Great Barrier Island; Waitemata County,,,,,,,CONFIRM,KG evidence identifies location and county
+Auckland,Omaha Little,Omaha Little,Rodney County,Medium,KG: Little Omaha near Warkworth; Rodney County,,,,,,,CONFIRM,KG evidence identifies location and county
+Auckland,Omahine,Omahine,Waikato County,Low,"KG: probable Waikato County; grade 3A, 55 students",,,,,,,CONFIRM,KG evidence identifies location and county
+Auckland,Omana,Omana,Franklin County,Low,KG: Omana Beach near Maraetai/Beachlands = Franklin County,,,,omana,North Auckland,,CONFIRM,Strong original evidence (small_cities / polling)
+Auckland,Omanawa (8) and Omanawa Falls (18),Omanawa and Omanawa Falls,Tauranga County,High,"small_cities: Omanawa, Tauranga, 123",,,,,,,CONFIRM,Strong original evidence (small_cities / polling)
+Auckland,Omapere,Omapere,Hokianga County,High,Polling: Bay of Islands ED lists Omapere; at Hokianga Harbour entrance,omapere,Bay Of Islands,,,,,CONFIRM,Strong original evidence (small_cities / polling)
+Auckland,Omokoroa,Omokoroa,Tauranga County,High,KG: Omokoroa peninsula in Tauranga Harbour; Tauranga County,omokoroa,Taumarunui,,ōmokoroa,South Auckland,South Auckland,CONFIRM,Gazetteer land district 'South Auckland' consistent with district
+Auckland,Onerahi,Onerahi,Whangarei County,High,Polling: Marsden (Whangarei) ED lists Onerahi,onerahi,Marsden,Marsden,onerahi,North Auckland,,CONFIRM,Polling ED 'Marsden' confirms county
+Auckland,Opouriao South,Opouriao South,Whakatane County,High,"small_cities: Opouriao, Whakatane, 250",,,,,,,CONFIRM,Strong original evidence (small_cities / polling)
+Auckland,Opuawhango (18) and Otonga (20),Opuawhango and Otonga,Opotiki County,Low,KG: Opuawhango in Bay of Plenty/Opotiki area,,,,,,,CONFIRM,KG evidence identifies location and county
+Auckland,Oruaiti (14) and Upper Oruaiti (7),Oruaiti and Upper Oruaiti,Whangaroa County,Medium,KG: Oruaiti near Whangaroa/Mangonui area; Whangaroa County,,,,,,,CONFIRM,KG evidence identifies location and county
+Auckland,Ostend (5) and Te Huruhi (9),Ostend and Te Huruhi,Waitemata County,High,KG: Ostend on Waiheke Island; Waitemata County,,,,,,,CONFIRM,KG evidence identifies location and county
+Auckland,Otaika Valley,Otaika Valley,Whangarei County,High,same area as Otaika; Whangarei County,,,,otaika valley,North Auckland,,CONFIRM,KG evidence identifies location and county
+Auckland,Otamarakau,Otamarakau,Tauranga County,Medium,KG: Otamarakau near Maketu; Tauranga County,,,,otamarakau,South Auckland,South Auckland,CONFIRM,Gazetteer land district 'South Auckland' consistent with district
+Auckland,Otara East (19) and Tirohanga (17),Otara East and Tirohanga,Opotiki County,Medium,same area as Otara (Opotiki County),,,,,,,CONFIRM,KG evidence identifies location and county
+Auckland,Otewe,Otewe,Waipa County,Low,KG: Otewe likely near Cambridge; Waipa County,,,,,,,CONFIRM,KG evidence identifies location and county
+Auckland,Otorohanga,Otorohanga,Waitomo County,High,KG: Otorohanga in Waitomo County; not in coordinates_boroughs.csv,,,,otorohanga,South Auckland,South Auckland,CONFIRM,Gazetteer land district 'South Auckland' consistent with district
+Auckland,Owhiwha (13) and Taraunui (13),Owhiwha and Taraunui,Whakatane County,Medium,KG: Owhiwha = Ohiwa near Whakatane Harbour; Whakatane County,,,,,,,CONFIRM,KG evidence identifies location and county
+Auckland,Paemako (25) and Wairiri Falls (15),Paemako and Wairiri Falls,Waitomo County,High,"small_cities: Paemako, Waitomo, 110",,,,,,,CONFIRM,Strong original evidence (small_cities / polling)
+Auckland,Paerata Ridge,Paerata Ridge,Franklin County,High,"small_cities: Paerata, Franklin, 146",,,,paerata ridge,Gisborne,,CONFIRM,Strong original evidence (small_cities / polling)
+Auckland,Pakanae,Pakanae,Hokianga County,Medium,KG: Pakanae in Hokianga area; Hokianga County,,,,pakanae,North Auckland,,CONFIRM,KG evidence identifies location and county
+Auckland,Pakautukua (8) and Port Charles (8),Pakautukua and Port Charles,Coromandel County,High,KG: both on Coromandel Peninsula; Coromandel County,,,,,,,CONFIRM,KG evidence identifies location and county
+Auckland,Pakiri,Pakiri,Rodney County,High,Polling: Marsden ED lists Pakiri; Rodney County geography,pakiri,Marsden,,,,,CONFIRM,Strong original evidence (small_cities / polling)
+Auckland,Pakotai,Pakotai,Hobson County,Low,KG: Pakotai near Dargaville; Hobson County area,,,,pakotai,North Auckland,,CONFIRM,KG evidence identifies location and county
+Auckland,Papakura,Papakura,Manukau County,Medium,KG: Papakura in South Auckland; not in coordinates_boroughs.csv despite Borough status from 1914,papakura,Franklin,,papakura,North Auckland,,CONFIRM,KG evidence identifies location and county
+Auckland,Papamoa No.1,Papamoa No.1,Tauranga County,High,"small_cities: Papamoa, Tauranga, 210",,,,,,,CONFIRM,Strong original evidence (small_cities / polling)
+Auckland,Papamoa No.2,Papamoa No.2,Tauranga County,High,"small_cities: Papamoa, Tauranga, 210",,,,,,,CONFIRM,Strong original evidence (small_cities / polling)
+Auckland,Papatoetoe,Papatoetoe,Manukau County,High,"small_cities: Papatoitoi, Manukau, 1062 (same place)",papatoe,Franklin,,papatoetoe,North Auckland,,CONFIRM,Strong original evidence (small_cities / polling)
+Auckland,Paranui (14) and Taipa(5),Paranui and Taipa,Mongonui County,High,KG: Taipa near Mangonui = Mongonui County; Paranui in same area,,,,,,,CONFIRM,KG evidence identifies location and county
+Auckland,Parenga,Parenga,Mongonui County,Low,KG: Parenga in Far North near Mangonui area,,,,paenga,Nelson,,CONFIRM,KG evidence identifies location and county
+Auckland,Parua Bay Nos. 1 (23) and 2 (25),Parua Bay Nos. 1 and 2,Whangarei County,High,"small_cities: Parua Bay, Whangarei, 127",,,,,,,CONFIRM,Strong original evidence (small_cities / polling)
+Auckland,Patetonga,Patetonga,Thames County,Medium,KG: Patetonga on Hauraki Plains near Ngatea; Thames County,,,,patetonga,South Auckland,South Auckland,CONFIRM,Gazetteer land district 'South Auckland' consistent with district
+Auckland,Piarere,Piarere,Matamata County,Low,KG: Piarere near Cambridge/Matamata border; Matamata County,,,,piarere,South Auckland,South Auckland,CONFIRM,Gazetteer land district 'South Auckland' consistent with district
+Auckland,Piha (6) and Whatipu (7),Piha and Whatipu,Waitemata County,High,"small_cities: Piha, Waitemata, 137",,,,,,,CONFIRM,Strong original evidence (small_cities / polling)
+Auckland,Pollock,Pollock,Franklin County,High,Polling: Franklin ED lists Pollock Settlement,,,,pollok,North Auckland,,CONFIRM,Strong original evidence (small_cities / polling)
+Auckland,Ponga,Ponga,Franklin County,High,Polling: Franklin ED lists Ponga,ponga,Franklin,Franklin,ponga,North Auckland,,CONFIRM,Polling ED 'Franklin' confirms county
+Auckland,Ponui,Ponui,Franklin County,Low,KG: Ponui Island in Firth of Thames; Franklin County,,,,,,,CONFIRM,Strong original evidence (small_cities / polling)
+Auckland,Puahue,Puahue,Waitomo County,Low,KG: Puahue near Otorohanga; Waitomo County,,,,puahue,South Auckland,South Auckland,CONFIRM,Gazetteer land district 'South Auckland' consistent with district
+Auckland,Pukekawa,Pukekawa,Waikato County,Medium,KG: Pukekawa on Waikato River near Meremere; Waikato County,,,,pukekawa,South Auckland,South Auckland,CONFIRM,Gazetteer land district 'South Auckland' consistent with district
+Auckland,Pukemiro Colleries,Pukemiro Colleries,Raglan County,High,"small_cities: Pukemiro, Raglan, 223",,,,,,,CONFIRM,Strong original evidence (small_cities / polling)
+Auckland,Punakitere,Punakitere,Hokianga County,Medium,KG: Punakitere near Rawene; Hokianga County,,,,punakitere,North Auckland,,CONFIRM,KG evidence identifies location and county
+Auckland,Purua No.1,Purua No.1,Whangarei County,Medium,KG: Purua in Whangarei district; Whangarei County,,,,,,,CONFIRM,KG evidence identifies location and county
+Auckland,Putake (7) and Waitomo Caves (6),Putake and Waitomo Caves,Waitomo County,High,KG: Waitomo Caves in Waitomo County; Putake same area,,,,,,,CONFIRM,KG evidence identifies location and county
+Auckland,Raglan,Raglan,Raglan County,High,Polling: Raglan ED lists Courthouse Raglan; Raglan County,raglan,Raglan,Raglan,raglan,South Auckland,South Auckland,CONFIRM,Polling ED 'Raglan' confirms county
+Auckland,Rangiahua (24) and Upper Waihou (19),Rangiahua and Upper Waihou,Hokianga County,High,"small_cities: Rangiahua, Hokianga, 119",,,,,,,CONFIRM,Strong original evidence (small_cities / polling)
+Auckland,Rangitoto No.2,Rangitoto No.2,Waitemata County,Low,KG: probable Rangitoto Island area; Waitemata County,,,,,,,CONFIRM,KG evidence identifies location and county
+Auckland,Rotokakahi (12) and Salt Springs (9),Rotokakahi and Salt Springs,Rotorua County,High,KG: Rotokakahi (Lake Green) near Rotorua; Rotorua County,,,,,,,CONFIRM,KG evidence identifies location and county
+Auckland,Rotokauri,Rotokauri,Waikato County,Medium,KG: Rotokauri near Hamilton; Waikato County,,,,rotokauri,South Auckland,South Auckland,CONFIRM,Gazetteer land district 'South Auckland' consistent with district
+Auckland,Rotorua Island,Rotorua Island,Rotorua County,Low,KG: island on Lake Rotorua (Mokoia Island); Rotorua County,,,,,,,CONFIRM,KG evidence identifies location and county
+Auckland,Ruatangata East,Ruatangata East,Whangarei County,High,Polling: Marsden (Whangarei) ED lists Ruatangata West; same area,,,,ruatangata west,North Auckland,,CONFIRM,Strong original evidence (small_cities / polling)
+Auckland,Ruatangata West,Ruatangata West,Whangarei County,High,"small_cities: Ruatangata, Whangarei, 170",,,,ruatangata west,North Auckland,,CONFIRM,Strong original evidence (small_cities / polling)
+Auckland,Stanley Bay,Stanley Bay,Waitemata County,Medium,KG: Stanley Bay on North Shore near Devonport; not in CB as separate Borough,,,,stanley bay,North Auckland,,CONFIRM,KG evidence identifies location and county
+Auckland,Tangitu,Tangitu,Ohura County,Medium,Polling: Taumarunui ED lists Tangitu; Ohura County area,,,,tangitu,Taranaki,,CONFIRM,Strong original evidence (small_cities / polling)
+Auckland,Tangowahine Valley,Tangowahine Valley,Hobson County,High,same area as Tangowahine; Hobson County,,,,,,,CONFIRM,KG evidence identifies location and county
+Auckland,Taotaoroa No.1,Taotaoroa No.1,Matamata County,Medium,KG: Taotaoroa near Matamata; Matamata County,,,,,,,CONFIRM,KG evidence identifies location and county
+Auckland,Tapapa,Tapapa,Matamata County,Medium,KG: Tapapa near Matamata; Matamata County,,,,tapapa,South Auckland,South Auckland,CONFIRM,Gazetteer land district 'South Auckland' consistent with district
+Auckland,Tapu,Tapu,Thames County,High,Polling: Thames ED lists Tapu,tapu,Thames,Thames,tapu,South Auckland,South Auckland,CONFIRM,Polling ED 'Thames' confirms county
+Auckland,Tapuhi,Tapuhi,Bay of Islands County,High,Polling: Bay of Islands ED lists Tapuhi,tapuhi,Bay Of Islands,Bay Of Islands,tapuhi,North Auckland,,CONFIRM,Polling ED 'Bay Of Islands' confirms county
+Auckland,Tauhei No.1,Tauhei No.1,Piako County,High,"small_cities: Tauhei, Piako, 243",,,,,,,CONFIRM,Strong original evidence (small_cities / polling)
+Auckland,Tauhei No.2,Tauhei No.2,Piako County,High,"small_cities: Tauhei, Piako, 243",,,,,,,CONFIRM,Strong original evidence (small_cities / polling)
+Auckland,Tauraroa,Tauraroa,Otamatea County,Medium,KG: Tauraroa near Maungaturoto; Otamatea County,,,,tauraroa,North Auckland | South Auckland,South Auckland,CONFIRM,Gazetteer land district 'North Auckland | South Auckland' consistent with district
+Auckland,Te Akau,Te Akau,Raglan County,Medium,KG: Te Akau near Raglan; Raglan County,,,,,,,CONFIRM,KG evidence identifies location and county
+Auckland,Te Aroha West,Te Aroha West,Matamata County,High,KG: Te Aroha West in rural Matamata County surrounding Te Aroha Borough,te aroha west,Taumarunui,,te aroha west,South Auckland,South Auckland,CONFIRM,Gazetteer land district 'South Auckland' consistent with district
+Auckland,Te Hihi,Te Hihi,Franklin County,Medium,KG: Te Hihi near Waiuku; Franklin County,,,,te hihi,North Auckland,,CONFIRM,Strong original evidence (small_cities / polling)
+Auckland,Te Hoe,Te Hoe,Waikato County,Medium,Polling: Waikato ED lists Te Hoe (Public Hall),,,,te hoe,South Auckland,South Auckland,CONFIRM,Gazetteer land district 'South Auckland' consistent with district
+Auckland,Te Pahu,Te Pahu,Waipa County,Medium,KG: Te Pahu near Whatawhata; Waipa County,,,,te pahu,South Auckland,South Auckland,CONFIRM,Gazetteer land district 'South Auckland' consistent with district
+Auckland,Te Papapa,Te Papapa,Eden County,Medium,KG: Te Papapa near Onehunga; Eden County suburbs,,,,te papapa,North Auckland,,CONFIRM,KG evidence identifies location and county
+Auckland,Te Pua,Te Pua,Hokianga County,Low,KG: Te Pua in Hokianga area; Hokianga County,te tua,Wallace,,te pua,North Auckland,,CONFIRM,KG evidence identifies location and county
+Auckland,Te Puke,Te Puke,Tauranga County,High,KG: Te Puke in Bay of Plenty; Tauranga County,te puke,Taumarunui,,te puke,South Auckland,South Auckland,CONFIRM,Gazetteer land district 'South Auckland' consistent with district
+Auckland,Te Puke No.2,Te Puke No.2,Tauranga County,High,same area as Te Puke; Tauranga County,,,,,,,CONFIRM,KG evidence identifies location and county
+Auckland,Te Puna,Te Puna,Tauranga County,Medium,KG: Te Puna near Tauranga; Tauranga County,,,,te puna,South Auckland,South Auckland,CONFIRM,Gazetteer land district 'South Auckland' consistent with district
+Auckland,Te Rahu,Te Rahu,Waitomo County,Medium,KG: Te Rahu near Otorohanga; Waitomo County,,,,te rahu,South Auckland,South Auckland,CONFIRM,Gazetteer land district 'South Auckland' consistent with district
+Auckland,Te Rauamoa,Te Rauamoa,Waitomo County,Medium,Polling: Taumarunui ED lists Te Rauamoa; Waitomo County,te rauamoa,Bay Of Plenty,,te rauamoa,South Auckland,South Auckland,CONFIRM,Gazetteer land district 'South Auckland' consistent with district
+Auckland,Tererenga (10) and Whangapoua (11),Tererenga and Whangapoua,Coromandel County,High,Polling: Thames ED lists Whangapoua; Coromandel Peninsula,,,,,,,CONFIRM,Strong original evidence (small_cities / polling)
+Auckland,Te Uku,Te Uku,Raglan County,Medium,KG: Te Uku near Raglan; Raglan County,,,,te uku,South Auckland,South Auckland,CONFIRM,Gazetteer land district 'South Auckland' consistent with district
+Auckland,Thames North,Thames North,Thames County,Medium,KG: north of Thames Borough; Thames County,,,,thames north,South Auckland,South Auckland,CONFIRM,Gazetteer land district 'South Auckland' consistent with district
+Auckland,Thornton,Thornton,Whakatane County,Medium,KG: Thornton near Whakatane; Whakatane County,,,,thornton,South Auckland,South Auckland,CONFIRM,Gazetteer land district 'South Auckland' consistent with district
+Auckland,Ti Point,Ti Point,Rodney County,Medium,KG: Ti Point near Leigh on Rodney coast; Rodney County,,,,tī point,North Auckland,,CONFIRM,KG evidence identifies location and county
+Auckland,Titoki (22) and Wharekohe (16),Titoki and Wharekohe,Whangarei County,High,"small_cities: Titoki, Whangarei, 110",,,,,,,CONFIRM,Strong original evidence (small_cities / polling)
+Auckland,Tuakau,Tuakau,Franklin County,High,KG: Tuakau on Waikato River; Franklin County,tuakau,Raglan,,tuakau,North Auckland,,CONFIRM,Strong original evidence (small_cities / polling)
+Auckland,Tuhikaramea,Tuhikaramea,Waikato County,Medium,KG: Tuhikaramea near Hamilton; Waikato County,,,,tuhikaramea,South Auckland,South Auckland,CONFIRM,Gazetteer land district 'South Auckland' consistent with district
+Auckland,Upper Waiwera,Upper Waiwera,Waitemata County,High,"small_cities: Waiwera, Waitemata, 213; same area",,,,,,,CONFIRM,Strong original evidence (small_cities / polling)
+Auckland,Waikiekie East (17) and Waikiekie West (29),Waikiekie East and Waikiekie West,Whangarei County,High,"small_cities: Waikiekie, Whangarei, 190",,,,,,,CONFIRM,Strong original evidence (small_cities / polling)
+Auckland,Waimai (6) and Waingaro (9),Waimai and Waingaro,Raglan County,High,"small_cities: Waingaro, Raglan, 138; same area",,,,,,,CONFIRM,Strong original evidence (small_cities / polling)
+Auckland,Waimamaku Valley,Waimamaku Valley,Hokianga County,High,"small_cities: Waimamaku, Hokianga, 174",,,,,,,CONFIRM,Strong original evidence (small_cities / polling)
+Auckland,Waimatenui,Waimatenui,Bay of Islands County,Low,KG: near Waimate North; Bay of Islands County,waimate,Temuka,,waimatenui,North Auckland,,CONFIRM,KG evidence identifies location and county
+Auckland,Waiotahi Valley,Waiotahi Valley,Opotiki County,High,"small_cities: Waiotahi, Opotiki, 139; same area",,,,waiotahi valley,Gisborne,,CONFIRM,Strong original evidence (small_cities / polling)
+Auckland,Waiotemarama (18) and Weke-weka (17),Waiotemarama and Weke-weka,Hokianga County,High,Polling: Bay of Islands ED lists Waiotemarama,,,,,,,CONFIRM,Strong original evidence (small_cities / polling)
+Auckland,Waipari (18) and Wharepuhunga (18),Waipari and Wharepuhunga,Waipa County,Medium,KG: Wharepuhunga near Kihikihi/Te Awamutu = Waipa County,,,,,,,CONFIRM,KG evidence identifies location and county
+Auckland,Waipu Cave,Waipu Cave,Whangarei County,High,"small_cities: Waipu, Whangarei, 328; cave locality nearby",,,,waipu caves,North Auckland,,CONFIRM,Strong original evidence (small_cities / polling)
+Auckland,Waipu North,Waipu North,Whangarei County,High,same area as Waipu; Whangarei County,,,,,,,CONFIRM,KG evidence identifies location and county
+Auckland,Waipu Upper,Waipu Upper,Whangarei County,High,same area as Waipu; Whangarei County,,,,,,,CONFIRM,KG evidence identifies location and county
+Auckland,Waitakaruru,Waitakaruru,Thames County,High,Polling: Thames ED lists Waitakaruru (Pinchess & Bird's Shed),waitakaruru,Thames,Thames,waitakaruru,South Auckland,South Auckland,CONFIRM,Polling ED 'Thames' confirms county
+Auckland,Waitangi,Waitangi,Bay of Islands County,High,KG: Waitangi Treaty Grounds; Bay of Islands County,waitangi,Westland,,waitangi,North Auckland | Wellington,,CONFIRM,KG evidence identifies location and county
+Auckland,Waitomo Valley Road (12) and Te Rau Mauku (13),Waitomo Valley Road and Te Rau Mauku,Waitomo County,High,KG: Waitomo Valley; Waitomo County,,,,,,,CONFIRM,KG evidence identifies location and county
+Auckland,Wardville,Wardville,Piako County,Low,KG: Wardville near Morrinsville; Piako County,,,,wardville,South Auckland,South Auckland,CONFIRM,Gazetteer land district 'South Auckland' consistent with district
+Auckland,Warkworth,Warkworth,Rodney County,High,KG: Warkworth in Rodney County; not in CB,warkworth,Marsden,,warkworth,North Auckland,,CONFIRM,KG evidence identifies location and county
+Auckland,Wayby,Wayby,Rodney County,Medium,KG: Wayby near Wellsford; Rodney County,,,,wayby,North Auckland,,CONFIRM,KG evidence identifies location and county
+Auckland,Weymouth,Weymouth,Franklin County,Medium,Polling: Franklin ED lists Weymouth (Post Town Manurewa),weymouth,Franklin,Franklin,weymouth,North Auckland,,CONFIRM,Polling ED 'Franklin' confirms county
+Auckland,Whananaki,Whananaki,Whangarei County,High,KG: Whananaki near Ngunguru; Whangarei County,,,,whananaki,North Auckland,,CONFIRM,KG evidence identifies location and county
+Auckland,Whangarei Heads (42) and side school (14),Whangarei Heads,Whangarei County,High,KG: Whangarei Heads outside Borough; Whangarei County,,,,whangārei heads,North Auckland,,CONFIRM,KG evidence identifies location and county
+Auckland,Whangaroa North,Whangaroa North,Whangaroa County,High,Polling: Bay of Islands ED lists Whangaroa (Courthouse),,,,,,,CONFIRM,Strong original evidence (small_cities / polling)
+Auckland,Wharehine,Wharehine,Hokianga County,Medium,KG: Wharehine near Rawene; Hokianga County,,,,wharehine,North Auckland,,CONFIRM,KG evidence identifies location and county
+Auckland,Whitford No.1,Whitford No.1,Manukau County,High,"small_cities: Whitford, Manukau, 265",,,,,,,CONFIRM,Strong original evidence (small_cities / polling)
+Auckland,Whitford No.2,Whitford No.2,Manukau County,High,"small_cities: Whitford, Manukau, 265",,,,,,,CONFIRM,Strong original evidence (small_cities / polling)
+Canterbury,Adair,Adair,Levels County,High,"small_cities: Adair, Levels, 103",adair,Timaru,Timaru,adair,Canterbury,Canterbury,CONFIRM,Polling ED 'Timaru' confirms county
+Canterbury,Amberly,Amberly,Kowai County,High,KG: Amberley in Kowai County; file spells Amberly,amberley,Hurunut,,amberley,Canterbury,Canterbury,CONFIRM,Gazetteer land district 'Canterbury' consistent with district
+Canterbury,Arahura Road,Arahura Road,Westland County,High,KG: Arahura on Westland coast near Hokitika; Westland County,,,,,,,CONFIRM,KG evidence identifies location and county
+Canterbury,Aratika,Aratika,Grey County,Medium,railway file: Aratika on Greymouth–Otira line; Grey County,aratika,Westland,,aratika,Westland,Westland,CONFIRM,Gazetteer land district 'Westland' consistent with district
+Canterbury,Ashburton Forks,Ashburton Forks,Ashburton County,Medium,KG: Ashburton Forks in Ashburton County rural area,,,,ashburton forks,Canterbury,Canterbury,CONFIRM,Gazetteer land district 'Canterbury' consistent with district
+Canterbury,Ashley Gorge,Ashley Gorge,Ashley County,Medium,KG: Ashley Gorge on Ashley River; Ashley County,,,,ashley gorge,Canterbury,Canterbury,CONFIRM,Gazetteer land district 'Canterbury' consistent with district
+Canterbury,Ashton,Ashton,Ashburton County,Low,KG: Ashton near Ashburton; Ashburton County,,,,ashton,Canterbury,Canterbury,CONFIRM,Gazetteer land district 'Canterbury' consistent with district
+Canterbury,Ashwick Flat,Ashwick Flat,Mackenzie County,Medium,KG: Ashwick Flat near Fairlie; Mackenzie County,,,,ashwick flat,Canterbury,Canterbury,CONFIRM,Gazetteer land district 'Canterbury' consistent with district
+Canterbury,Ataahua,Ataahua,Geraldine County,Low,KG: Ataahua near Geraldine area; Geraldine County,ataahura,Ellesmere,,ataahua,Canterbury,Canterbury,CONFIRM,Gazetteer land district 'Canterbury' consistent with district
+Canterbury,Barr Hill,Barr Hill,Malvern County,Low,KG: Barr Hill in Malvern County area,barrhill,Selwyn,,barrhill,Canterbury,Canterbury,CONFIRM,Gazetteer land district 'Canterbury' consistent with district
+Canterbury,Barrytown,Barrytown,Grey County,High,KG: Barrytown on West Coast north of Greymouth; Grey County,barrytown,Grey,Grey,barrytown,Westland,Westland,CONFIRM,Polling ED 'Grey' confirms county
+Canterbury,Big River,Big River,Inangahua County,Medium,KG: Big River near Reefton; Inangahua County,big river,Grey,,big river,Nelson,,CONFIRM,KG evidence identifies location and county
+Canterbury,Birdling's Flat,Birdlings Flat,Ellesmere County,Medium,KG: Birdling's Flat on Lake Ellesmere coast; Ellesmere County,,,,birdlings flat,Canterbury,Canterbury,CONFIRM,Gazetteer land district 'Canterbury' consistent with district
+Canterbury,Boddytown,Boddytown,Grey County,Medium,KG: Boddytown near Greymouth; Grey County,,,,boddytown,Westland,Westland,CONFIRM,Gazetteer land district 'Westland' consistent with district
+Canterbury,Broadfield,Broadfield,Paparua County,Medium,KG: Broadfield near Rolleston; Paparua County,,,,broadfield,Canterbury,Canterbury,CONFIRM,Gazetteer land district 'Canterbury' consistent with district
+Canterbury,Broomfield,Broomfield,Levels County,Low,KG: Broomfield near Timaru; Levels County,,,,broomfield,Canterbury,Canterbury,CONFIRM,Gazetteer land district 'Canterbury' consistent with district
+Canterbury,Bruce Bay,Bruce Bay,Westland County,High,KG: Bruce Bay on South Westland coast; Westland County,bruce bay,Westland,Westland,bruce bay,Westland,Westland,CONFIRM,Polling ED 'Westland' confirms county
+Canterbury,Callaghan's,Callaghans,Selwyn County,Medium,KG: Callaghan's near Lake Coleridge; Selwyn County,,,,callaghans,Westland,Westland,CONFIRM,Gazetteer land district 'Westland' consistent with district
+Canterbury,Calrleton,Calrleton,Eyre County,Medium,KG: Carleton near Kaiapoi; Eyre County; file spells Calrleton,carleton,Kaiapot,,carleton,Canterbury,Canterbury,CONFIRM,Gazetteer land district 'Canterbury' consistent with district
+Canterbury,Charing Cross,Charing Cross,Paparua County,Medium,Polling: Riccarton ED lists Charing Cross; Paparua County,,,,charing cross,Canterbury,Canterbury,CONFIRM,Gazetteer land district 'Canterbury' consistent with district
+Canterbury,Claremont,Claremont,Malvern County,Low,KG: Claremont near Malvern; Malvern County,,,,claremont,Canterbury,Canterbury,CONFIRM,Gazetteer land district 'Canterbury' consistent with district
+Canterbury,Cook's River,Cooks River,Westland County,Low,KG: Cook's River near Hokitika; Westland County,,,,,,,CONFIRM,KG evidence identifies location and county
+Canterbury,Cooper's Creek,Coopers Creek,Ashburton County,Low,KG: Cooper's Creek near Methven; Ashburton County,,,,coopers creek,Canterbury,Canterbury,CONFIRM,Gazetteer land district 'Canterbury' consistent with district
+Canterbury,Dobson,Dobson,Grey County,High,KG: Dobson near Greymouth; Grey County,,,,dobson,Westland,Westland,CONFIRM,Gazetteer land district 'Westland' consistent with district
+Canterbury,Dromore,Dromore,Ashburton County,Medium,KG: Dromore near Methven; Ashburton County,dromore,Selwyn,,dromore,Canterbury,Canterbury,CONFIRM,Gazetteer land district 'Canterbury' consistent with district
+Canterbury,Dunganville (7) andd Marsden (4),Dunganville andd Marsden,Cheviot County,Low,KG: Dunganville in north Canterbury; Cheviot County area,,,,,,,CONFIRM,KG evidence identifies location and county
+Canterbury,Eyreton West,Eyreton West,Eyre County,High,same area as Eyreton; Eyre County,,,,,,,CONFIRM,KG evidence identifies location and county
+Canterbury,Fairton,Fairton,Ashburton County,Medium,KG: Fairton near Ashburton; Ashburton County,fairton,Selwyn,,fairton,Canterbury,Canterbury,CONFIRM,Gazetteer land district 'Canterbury' consistent with district
+Canterbury,Four Peaks,Four Peaks,Geraldine County,Low,KG: Four Peaks near Geraldine; Geraldine County,,,,four peaks,Canterbury,Canterbury,CONFIRM,Gazetteer land district 'Canterbury' consistent with district
+Canterbury,French Farm,French Farm,Akaroa County,Low,KG: French Farm near Akaroa; Akaroa County,,,,french farm,Canterbury,Canterbury,CONFIRM,Gazetteer land district 'Canterbury' consistent with district
+Canterbury,Glen Kowhai,Glen Kowhai,Oxford County,Low,KG: Glen Kowhai near Oxford; Oxford County,,,,,,,CONFIRM,KG evidence identifies location and county
+Canterbury,Goldsborough,Goldsborough,Westland County,High,KG: Goldsborough near Hokitika; Westland County,goldsborough,Westland,Westland,,,,CONFIRM,Polling ED 'Westland' confirms county
+Canterbury,Governor's Bay,Governors Bay,Mt Herbert County,Medium,KG: Governor's Bay on Banks Peninsula; Mt Herbert County,governor’s bay,Lyitelion,,governors bay,Canterbury,Canterbury,CONFIRM,Gazetteer land district 'Canterbury' consistent with district
+Canterbury,Greta Valley,Greta Valley,Cheviot County,Medium,KG: Greta Valley in north Canterbury; Cheviot County,,,,greta valley,Canterbury,Canterbury,CONFIRM,Gazetteer land district 'Canterbury' consistent with district
+Canterbury,Hanmer Plains,Hanmer Plains,Amuri County,High,"small_cities: Hanmer, Amuri, 167",,,,,,,CONFIRM,Strong original evidence (small_cities / polling)
+Canterbury,Hannaton,Hannaton,Malvern County,Low,KG: Hannaton near Darfield; Malvern County,,,,,,,CONFIRM,KG evidence identifies location and county
+Canterbury,Hatters,Hatters,Grey County,Low,KG: Hatters near Greymouth; Grey County,,,,,,,CONFIRM,KG evidence identifies location and county
+Canterbury,Hazelburn,Hazelburn,Geraldine County,Medium,KG: Hazelburn near Geraldine; Geraldine County,hazelburn,Temuka,Temuka,,,,CONFIRM,Polling ED 'Temuka' confirms county
+Canterbury,Homebush,Homebush,Ashburton County,Low,KG: Homebush near Methven; Ashburton County,,,,homebush,Canterbury | Wellington,Canterbury,CONFIRM,Gazetteer land district 'Canterbury | Wellington' consistent with district
+Canterbury,Hook Bush,Hook Bush,Waimate County,Medium,same area as Hook; Waimate County,,,,,,,CONFIRM,KG evidence identifies location and county
+Canterbury,Horsley Downs,Horsley Downs,Cheviot County,Medium,KG: Horsley Downs in north Canterbury; Cheviot County,,,,horsley down,Canterbury,Canterbury,CONFIRM,Gazetteer land district 'Canterbury' consistent with district
+Canterbury,Humphrey's,Humphreys,Westland County,High,"small_cities: Humphrey's Gully, Westland, 105",humphrey’s,Westland,Westland,humphreys,Westland,Westland,CONFIRM,Polling ED 'Westland' confirms county
+Canterbury,Hundalee,Hundalee,Cheviot County,Medium,KG: Hundalee near Gore Bay; Cheviot County,,,,hundalee,Marlborough,,CONFIRM,KG evidence identifies location and county
+Canterbury,Huntingdon,Huntingdon,Ashburton County,Medium,KG: Huntingdon near Methven; Ashburton County,,,,huntingdon,Canterbury,Canterbury,CONFIRM,Gazetteer land district 'Canterbury' consistent with district
+Canterbury,Hurunui,Hurunui,Amuri County,Low,KG: Hurunui River area; Amuri County,,,,hurunui,Canterbury,Canterbury,CONFIRM,Gazetteer land district 'Canterbury' consistent with district
+Canterbury,Ikawai,Ikawai,Waimate County,High,Polling: Waitaki ED lists Ikawai (Post-office) — in Waimate County context,,,,ikawai,Canterbury,Canterbury,CONFIRM,Gazetteer land district 'Canterbury' consistent with district
+Canterbury,Inchbonnie,Inchbonnie,Grey County,High,KG: Inchbonnie near Lake Brunner; Grey County,,,,inchbonnie,Westland,Westland,CONFIRM,Gazetteer land district 'Westland' consistent with district
+Canterbury,Jack's Mill,Jacks Mill,Grey County,Medium,KG: Jack's Mill near Greymouth; Grey County,,,,,,,CONFIRM,KG evidence identifies location and county
+Canterbury,Jackson,Jackson,Westland County,High,Polling: Westland ED lists Jackson's (Public School),jackson’s,Westland,Westland,jacksons,Westland,Westland,CONFIRM,Polling ED 'Westland' confirms county
+Canterbury,Kaikoura Surburban,Kaikoura Surburban,Kaikoura County,High,KG: Kaikoura Suburban outside Kaikoura Town District; Kaikoura County,,,,,,,CONFIRM,KG evidence identifies location and county
+Canterbury,Kaikoura Town District High School Primary (94) secondary (9),Kaikoura Town,Kaikoura County,High,KG: Kaikoura Town District (not a Borough); Kaikoura County,,,,,,,CONFIRM,KG evidence identifies location and county
+Canterbury,Kakahu Bush,Kakahu Bush,Geraldine County,High,"small_cities: Kakahu, Geraldine, 156",,,,kakahu bush,Canterbury,Canterbury,CONFIRM,Gazetteer land district 'Canterbury' consistent with district
+Canterbury,Kohika,Kohika,Westland County,Low,KG: Kohika near Hokitika; Westland County,,,,kohika,Canterbury,Canterbury,CONFIRM,Gazetteer land district 'Canterbury' consistent with district
+Canterbury,Kokatahi Lower,Kokatahi Lower,Westland County,High,"small_cities: Kokatahi, Westland, 184",,,,,,,CONFIRM,Strong original evidence (small_cities / polling)
+Canterbury,Kokatahi Upper,Kokatahi Upper,Westland County,High,same area as Kokatahi Lower; Westland County,,,,,,,CONFIRM,KG evidence identifies location and county
+Canterbury,Kokiri,Kokiri,Grey County,High,KG: Kokiri near Greymouth; Grey County,kokiri,Westland,,kokiri,Westland,Westland,CONFIRM,Gazetteer land district 'Westland' consistent with district
+Canterbury,Kowhai Bush,Kowhai Bush,Malvern County,Low,KG: Kowhai Bush in Malvern County area,,,,kowai bush,Canterbury,Canterbury,CONFIRM,Gazetteer land district 'Canterbury' consistent with district
+Canterbury,Kumara Junction,Kumara Junction,Westland County,High,KG: Kumara Junction near Kumara Borough; Westland County,,,,kumara junction,Westland,Westland,CONFIRM,Gazetteer land district 'Westland' consistent with district
+Canterbury,La Fontaine,La Fontaine,Levels County,Low,KG: La Fontaine near Timaru; Levels County,,,,,,,CONFIRM,KG evidence identifies location and county
+Canterbury,Le Bon's Bay,Le Bons Bay,Akaroa County,High,"small_cities: Le Bon's Bay, Akaroa, 140",le bon’s bay,Lyitelion,,le bons bay,Canterbury,Canterbury,CONFIRM,Gazetteer land district 'Canterbury' consistent with district
+Canterbury,Loburn North,Loburn North,Ashley County,High,same area as Loburn; Ashley County,,,,loburn north,Canterbury,Canterbury,CONFIRM,Gazetteer land district 'Canterbury' consistent with district
+Canterbury,Lyalldale,Lyalldale,Amuri County,Low,KG: Lyalldale in north Canterbury; Amuri County,,,,lyalldale,Canterbury,Canterbury,CONFIRM,Gazetteer land district 'Canterbury' consistent with district
+Canterbury,Lynton Downs,Lynton Downs,Mackenzie County,Low,KG: Lynton Downs in Mackenzie County area,,,,,,,CONFIRM,KG evidence identifies location and county
+Canterbury,Mahitahi,Mahitahi,Westland County,High,KG: Mahitahi on South Westland coast; Westland County,,,,mahitahi,Westland,Westland,CONFIRM,Gazetteer land district 'Westland' consistent with district
+Canterbury,Mananui,Mananui,Westland County,Low,KG: Mananui near Hokitika; Westland County,mananui,Waimarino,,mananui,Westland,Westland,CONFIRM,Gazetteer land district 'Westland' consistent with district
+Canterbury,Mason's Flat,Masons Flat,Grey County,Low,KG: Mason's Flat on West Coast; Grey County,,,,masons flat,Canterbury,Canterbury,CONFIRM,Gazetteer land district 'Canterbury' consistent with district
+Canterbury,Mead,Mead,Ashburton County,Low,KG: Mead near Rakaia; Ashburton County,,,,mead,Canterbury,Canterbury,CONFIRM,Gazetteer land district 'Canterbury' consistent with district
+Canterbury,Mikonui,Mikonui,Westland County,Medium,KG: Mikonui near Hari Hari; Westland County,,,,,,,CONFIRM,KG evidence identifies location and county
+Canterbury,Milford,Milford,Levels County,Low,KG: Milford near Temuka; Levels County,,,,milford,Canterbury | North Auckland,Canterbury,CONFIRM,Gazetteer land district 'Canterbury | North Auckland' consistent with district
+Canterbury,Moana,Moana,Grey County,High,railway file: Moana on Greymouth–Otira line; Grey County,moana,Westland,,moana,Nelson | Westland,Westland,CONFIRM,Gazetteer land district 'Nelson | Westland' consistent with district
+Canterbury,Moonlight,Moonlight,Westland County,Medium,KG: Moonlight near old Hokitika goldfields; Westland County,moonlight,Otago Central,,moonlight,Otago,,CONFIRM,KG evidence identifies location and county
+Canterbury,Mount Grey Downs,Mount Grey Downs,Ashley County,Low,KG: Mount Grey near Rangiora; Ashley County,,,,,,,CONFIRM,KG evidence identifies location and county
+Canterbury,Okarito,Okarito,Westland County,High,Polling: Westland ED lists Okarito (Courthouse),okarito,Westland,Westland,okarito,Westland,Westland,CONFIRM,Polling ED 'Westland' confirms county
+Canterbury,Okarito Forks,Okarito Forks,Westland County,High,same area as Okarito; Westland County,,,,,,,CONFIRM,KG evidence identifies location and county
+Canterbury,Okuku,Okuku,Ashley County,Low,KG: Okuku near Rangiora; Ashley County,,,,okuku,Canterbury,Canterbury,CONFIRM,Gazetteer land district 'Canterbury' consistent with district
+Canterbury,Okuru,Okuru,Westland County,High,KG: Okuru on South Westland coast; Westland County,,,,okuru,Westland,Westland,CONFIRM,Gazetteer land district 'Westland' consistent with district
+Canterbury,Okute Valley,Okute Valley,Westland County,Low,KG: Okute near Whataroa; Westland County,,,,okuti valley,Canterbury,Canterbury,CONFIRM,Gazetteer land district 'Canterbury' consistent with district
+Canterbury,Opawa,Opawa,Heathcote County,High,KG: Opawa suburb south of Christchurch; Heathcote County,opawa,Lyitelion,,opawa,Canterbury,Canterbury,CONFIRM,Gazetteer land district 'Canterbury' consistent with district
+Canterbury,Opihi,Opihi,Geraldine County,Medium,KG: Opihi near Temuka/Geraldine; Geraldine County,,,,opihi,Canterbury,Canterbury,CONFIRM,Gazetteer land district 'Canterbury' consistent with district
+Canterbury,Orari Bridge,Orari Bridge,Geraldine County,High,same area as Orari; Geraldine County,,,,orari bridge,Canterbury,Canterbury,CONFIRM,Gazetteer land district 'Canterbury' consistent with district
+Canterbury,Orari Gorge,Orari Gorge,Geraldine County,High,same area as Orari; Geraldine County,otapiri gorge,Awarua,,,,,CONFIRM,KG evidence identifies location and county
+Canterbury,Oxford East District High School - Primary (106) Secondary (13),Oxford East,Oxford County,High,"small_cities: Oxford, Oxford, 989",,,,,,,CONFIRM,Strong original evidence (small_cities / polling)
+Canterbury,Oxford West,Oxford West,Oxford County,High,same area; Oxford County,,,,,,,CONFIRM,KG evidence identifies location and county
+Canterbury,Papanui (262) and Bligh's Road (side school) (104),Papanui and Blighs Road (side school,Waimairi County,High,"small_cities: Papanui, Waimairi, 2844",,,,,,,CONFIRM,Strong original evidence (small_cities / polling)
+Canterbury,Pareora East,Pareora East,Levels County,High,"small_cities: Pareora, Levels, 330",,,,pareora west,Canterbury,Canterbury,CONFIRM,Gazetteer land district 'Canterbury' consistent with district
+Canterbury,Pareora West,Pareora West,Levels County,High,same area; Levels County,,,,pareora west,Canterbury,Canterbury,CONFIRM,Gazetteer land district 'Canterbury' consistent with district
+Canterbury,Pendarves,Pendarves,Ashburton County,Medium,KG: Pendarves near Methven; Ashburton County,,,,pendarves,Canterbury,Canterbury,CONFIRM,Gazetteer land district 'Canterbury' consistent with district
+Canterbury,Pigeon's Bay,Pigeons Bay,Akaroa County,Medium,KG: Pigeon Bay on Banks Peninsula; Akaroa County,,,,pigeon bay,Canterbury,Canterbury,CONFIRM,Gazetteer land district 'Canterbury' consistent with district
+Canterbury,Pleasant Point District High School Primary (146) Secondary (22),Pleasant Point,Levels County,High,KG: Pleasant Point in Levels County; not in CB,,,,pleasant point,Canterbury,Canterbury,CONFIRM,Gazetteer land district 'Canterbury' consistent with district
+Canterbury,Port Levy,Port Levy,Mt Herbert County,Medium,KG: Port Levy on Banks Peninsula; Mt Herbert County,port levy,Lyitelion,,port levy,Canterbury,Canterbury,CONFIRM,Gazetteer land district 'Canterbury' consistent with district
+Canterbury,Port Robinson,Port Robinson,Cheviot County,Low,KG: Port Robinson near Cheviot; Cheviot County,,,,port robinson,Canterbury,Canterbury,CONFIRM,Gazetteer land district 'Canterbury' consistent with district
+Canterbury,Rakaia South,Rakaia South,Ashburton County,High,"small_cities: South Rakaia, Ashburton, 162",,,,,,,CONFIRM,Strong original evidence (small_cities / polling)
+Canterbury,Rangitata Station,Rangitata Station,Geraldine County,Low,KG: Rangitata Station near Ashburton/Geraldine boundary; Geraldine County,,,,,,,CONFIRM,KG evidence identifies location and county
+Canterbury,Roa,Roa,Grey County,High,Polling: Grey ED lists Roa (Miners' Hall),,,,roa,Westland,Westland,CONFIRM,Gazetteer land district 'Westland' consistent with district
+Canterbury,Robinson's Bay,Robinsons Bay,Akaroa County,Medium,KG: Robinson's Bay on Banks Peninsula; Akaroa County,,,,robinsons bay,Canterbury,Canterbury,CONFIRM,Gazetteer land district 'Canterbury' consistent with district
+Canterbury,Rokeby,Rokeby,Ashburton County,Low,KG: Rokeby near Ashburton; Ashburton County,,,,rokeby,Canterbury,Canterbury,CONFIRM,Gazetteer land district 'Canterbury' consistent with district
+Canterbury,Rosewill,Rosewill,Levels County,Medium,KG: Rosewill near Timaru; Levels County,rosewill,Timaru,Timaru,rosewill,Canterbury,Canterbury,CONFIRM,Polling ED 'Timaru' confirms county
+Canterbury,Rotomanu,Rotomanu,Grey County,High,KG: Rotomanu near Lake Brunner; Grey County,rotomanu,Westland,,rotomanu,Westland,Westland,CONFIRM,Gazetteer land district 'Westland' consistent with district
+Canterbury,Salisbury,Salisbury,Waimairi County,Low,KG: Salisbury near Christchurch north; Waimairi County,,,,salisbury,Canterbury,Canterbury,CONFIRM,Gazetteer land district 'Canterbury' consistent with district
+Canterbury,Saltwater Creek,Saltwater Creek,Westland County,Medium,KG: Saltwater Creek near Hokitika; Westland County,,,,saltwater creek,Canterbury,Canterbury,CONFIRM,Gazetteer land district 'Canterbury' consistent with district
+Canterbury,Seaview,Seaview,Heathcote County,Low,KG: Seaview near Christchurch; Heathcote County,,,,seaview,Canterbury | Westland | Wellington,Canterbury,CONFIRM,Gazetteer land district 'Canterbury | Westland | Wellington' consistent with district
+Canterbury,Sedgemere,Sedgemere,Ashburton County,Low,KG: Sedgemere near Ashburton; Ashburton County,,,,sedgemere,Canterbury,Canterbury,CONFIRM,Gazetteer land district 'Canterbury' consistent with district
+Canterbury,Shirley Road,Shirley Road,Waimairi County,High,"small_cities: Shirley, Waimairi, 338",,,,,,,CONFIRM,Strong original evidence (small_cities / polling)
+Canterbury,Southbridge District High School Primary (140) Secondary (23),Southbridge,Ellesmere County,High,KG: Southbridge in Ellesmere County,southbridge,Ellesmere,Ellesmere,southbridge,Canterbury,Canterbury,CONFIRM,Polling ED 'Ellesmere' confirms county
+Canterbury,South Malvern,South Malvern,Malvern County,Medium,KG: South Malvern in Malvern County,,,,south malvern,Canterbury,Canterbury,CONFIRM,Gazetteer land district 'Canterbury' consistent with district
+Canterbury,Spencerville,Spencerville,Waimairi County,Medium,KG: Spencerville north of Christchurch; Waimairi County,,,,spencerville,Canterbury,Canterbury,CONFIRM,Gazetteer land district 'Canterbury' consistent with district
+Canterbury,Springbrook,Springbrook,Malvern County,Low,KG: Springbrook near Darfield; Malvern County,,,,springbrook,Canterbury,Canterbury,CONFIRM,Gazetteer land district 'Canterbury' consistent with district
+Canterbury,Stillwater,Stillwater,Grey County,High,KG: Stillwater near Greymouth; Grey County,,,,stillwater,Westland | North Auckland,Westland,CONFIRM,Gazetteer land district 'Westland | North Auckland' consistent with district
+Canterbury,Summerhill,Summerhill,Levels County,Low,KG: Summerhill near Timaru; Levels County,,,,summerhill,Wellington | Canterbury,Canterbury,CONFIRM,Gazetteer land district 'Wellington | Canterbury' consistent with district
+Canterbury,Swedes Mill,Swedes Mill,Grey County,Low,KG: Swedes Mill near Greymouth; Grey County,,,,,,,CONFIRM,KG evidence identifies location and county
+Canterbury,Taramakau,Taramakau,Grey County,Low,KG: Taramakau near Kumara; Grey County,,,,taramakau,Westland,Westland,CONFIRM,Gazetteer land district 'Westland' consistent with district
+Canterbury,Taylorville,Taylorville,Grey County,High,KG: Taylorville near Greymouth; Grey County,,,,taylorville,Westland,Westland,CONFIRM,Gazetteer land district 'Westland' consistent with district
+Canterbury,Teddington,Teddington,Akaroa County,Medium,Polling: Lyttelton ED lists Teddington; Banks Peninsula = Akaroa County,,,,teddington,Canterbury,Canterbury,CONFIRM,Gazetteer land district 'Canterbury' consistent with district
+Canterbury,Te Moana,Te Moana,Geraldine County,Low,KG: Te Moana near Geraldine; Geraldine County,,,,te moana,Canterbury,Canterbury,CONFIRM,Gazetteer land district 'Canterbury' consistent with district
+Canterbury,Te Pirita,Te Pirita,Ashburton County,Low,KG: Te Pirita near Rakaia; Ashburton County,,,,te pirita,Canterbury,Canterbury,CONFIRM,Gazetteer land district 'Canterbury' consistent with district
+Canterbury,Teschmakers,Teschmakers,Waimate County,Low,KG: Teschmakers near Waimate area; Waimate County,,,,teschemakers,Otago,,CONFIRM,KG evidence identifies location and county
+Canterbury,Tuahiwi,Tuahiwi,Eyre County,Medium,KG: Tuahiwi near Kaiapoi; Eyre County,,,,tuahiwi,Canterbury,Canterbury,CONFIRM,Gazetteer land district 'Canterbury' consistent with district
+Canterbury,Waihao Downs,Waihao Downs,Waimate County,High,"small_cities: Waihao Downs, Waimate, 157",,,,waihao downs,Canterbury,Canterbury,CONFIRM,Gazetteer land district 'Canterbury' consistent with district
+Canterbury,Wainihinihi,Wainihinihi,Westland County,High,KG: Wainihinihi near Hokitika; Westland County,,,,wainihinihi,Westland,Westland,CONFIRM,Gazetteer land district 'Westland' consistent with district
+Canterbury,Wairewa,Wairewa,Wairewa County,High,"coordinates_county.csv: Wairewa, Canterbury",warea,Egmont,,,,,CONFIRM,KG evidence identifies location and county
+Canterbury,Waitohi Flat,Waitohi Flat,Geraldine County,Medium,KG: Waitohi near Temuka; Geraldine County,,,,,,,CONFIRM,KG evidence identifies location and county
+Canterbury,Waitohi Upper,Waitohi Upper,Geraldine County,Medium,same area as Waitohi Flat; Geraldine County,,,,,,,CONFIRM,KG evidence identifies location and county
+Canterbury,Waituna Creek,Waituna Creek,Ashburton County,Low,KG: Waituna Creek near Ashburton; Ashburton County,,,,,,,CONFIRM,KG evidence identifies location and county
+Canterbury,Westbrook,Westbrook,Grey County,Low,KG: Westbrook near Greymouth; Grey County,,,,,,,CONFIRM,KG evidence identifies location and county
+Canterbury,Whiterock,Whiterock,Waimate County,Low,KG: Whiterock near Waimate; Waimate County,,,,whiterock,Canterbury,Canterbury,CONFIRM,Gazetteer land district 'Canterbury' consistent with district
+Canterbury,Winslow,Winslow,Ashburton County,Low,KG: Winslow near Ashburton; Ashburton County,,,,winslow,Canterbury,Canterbury,CONFIRM,Gazetteer land district 'Canterbury' consistent with district
+HawkesBay,Argyll East,Argyll East,Waipawa County,High,"small_cities: Argyll, Waipawa, 228",,,,argyll east,Hawke's Bay,Hawke's Bay,CONFIRM,"Gazetteer land district ""Hawke's Bay"" consistent with district"
+HawkesBay,Awariki,Awariki,Wairoa County,Low,KG: Awariki in Wairoa hinterland; Wairoa County,,,,awariki,Hawke's Bay,Hawke's Bay,CONFIRM,"Gazetteer land district ""Hawke's Bay"" consistent with district"
+HawkesBay,Fernhill,Fernhill,Hawke's Bay County,Medium,KG: Fernhill near Hastings; Hawke's Bay County,,,,fernhill,Otago | Hawke's Bay,Hawke's Bay,CONFIRM,"Gazetteer land district ""Otago | Hawke's Bay"" consistent with district"
+HawkesBay,Flemington,Flemington,Waipawa County,Low,KG: Flemington in Waipawa County area,,,,flemington,Hawke's Bay | Canterbury,Hawke's Bay,CONFIRM,"Gazetteer land district ""Hawke's Bay | Canterbury"" consistent with district"
+HawkesBay,Havelock North,Havelock North,Hawke's Bay County,High,KG: Havelock North near Hastings; Hawke's Bay County; not in CB,havelock north,Hawke'S Bay,Hawke'S Bay,havelock north,Hawke's Bay,Hawke's Bay,CONFIRM,"Polling ED ""Hawke'S Bay"" confirms county"
+HawkesBay,Heretaunga,Heretaunga,Hawke's Bay County,Medium,KG: Heretaunga plains area near Hastings; Hawke's Bay County,,,,heretaunga,Wellington,,CONFIRM,KG evidence identifies location and county
+HawkesBay,Hopelands,Hopelands,Waipawa County,Low,KG: Hopelands in Waipawa County area,,,,hopelands,Hawke's Bay,Hawke's Bay,CONFIRM,"Gazetteer land district ""Hawke's Bay"" consistent with district"
+HawkesBay,Ihungia,Ihungia,Waiapu County,Low,KG: Ihungia near Ruatoria; Waiapu County,shungia,Tauranga,,ihungia,Gisborne,,CONFIRM,KG evidence identifies location and county
+HawkesBay,Kaitaratahi,Kaitaratahi,Cook County,Low,KG: Kaitaratahi near Gisborne; Cook County,,,,kaitaratahi,Gisborne,,CONFIRM,KG evidence identifies location and county
+HawkesBay,Keruru,Keruru,Cook County,Low,KG: Keruru in Gisborne hinterland near Tiniroto; Cook County,,,,,,,CONFIRM,KG evidence identifies location and county
+HawkesBay,Maharahara West,Maharahara West,Weber County,Low,KG: Maharahara near Weber/Manawatu area; Weber County,,,,maharahara west,Hawke's Bay,Hawke's Bay,CONFIRM,"Gazetteer land district ""Hawke's Bay"" consistent with district"
+HawkesBay,Makaretu South,Makaretu South,Waipawa County,High,"small_cities: Makaretu, Waipawa, 268",,,,,,,CONFIRM,Strong original evidence (small_cities / polling)
+HawkesBay,Mangatahi,Mangatahi,Hawke's Bay County,Low,KG: Mangatahi near Napier; Hawke's Bay County,manutahi,Patea,,mangati,South Auckland,,CONFIRM,KG evidence identifies location and county
+HawkesBay,Marakeke,Marakeke,Cook County,Low,KG: Marakeke near Gisborne; Cook County,,,,māharakeke,Hawke's Bay,Hawke's Bay,CONFIRM,"Gazetteer land district ""Hawke's Bay"" consistent with district"
+HawkesBay,Marumaru,Marumaru,Cook County,High,"small_cities: Marumaru, Cook, 222",,,,marumaru,Gisborne,,CONFIRM,Strong original evidence (small_cities / polling)
+HawkesBay,Morere,Morere,Wairoa County,Medium,KG: Morere hot springs near Nuhaka; Wairoa County,,,,,,,CONFIRM,KG evidence identifies location and county
+HawkesBay,Ngatarawa,Ngatarawa,Hawke's Bay County,Medium,KG: Ngatarawa near Hastings; Hawke's Bay County,,,,,,,CONFIRM,KG evidence identifies location and county
+HawkesBay,Norsewood,Norsewood,Waipawa County,High,Polling: Waipawa ED lists Norsewood (Public Library),norsewood,Gisborne,,norsewood,Hawke's Bay,Hawke's Bay,CONFIRM,"Gazetteer land district ""Hawke's Bay"" consistent with district"
+HawkesBay,Omakere,Omakere,Patangata County,Low,KG: Omakere near Porangahau; Patangata County,omapere,Bay Of Islands,,,,,CONFIRM,KG evidence identifies location and county
+HawkesBay,Opapa,Opapa,Waipawa County,Medium,KG: Opapa near Ongaonga; Waipawa County,,,,opapa,Hawke's Bay,Hawke's Bay,CONFIRM,"Gazetteer land district ""Hawke's Bay"" consistent with district"
+HawkesBay,Opoutama,Opoutama,Wairoa County,Medium,KG: Opoutama near Mahia Peninsula; Wairoa County,,,,ōpoutama,Hawke's Bay,Hawke's Bay,CONFIRM,"Gazetteer land district ""Hawke's Bay"" consistent with district"
+HawkesBay,Ormondville,Ormondville,Dannevirke County,High,Polling: Waipawa ED lists Ormondville (Town Board Office); Dannevirke County,ormondville,Gisborne,,ormondville,Hawke's Bay,Hawke's Bay,CONFIRM,"Gazetteer land district ""Hawke's Bay"" consistent with district"
+HawkesBay,Otamauri,Otamauri,Hawke's Bay County,Low,KG: Otamauri near Tikokino; Hawke's Bay County,,,,ōtamauri,Hawke's Bay,Hawke's Bay,CONFIRM,"Gazetteer land district ""Hawke's Bay"" consistent with district"
+HawkesBay,Otane,Otane,Waipawa County,High,Polling: Waipawa ED lists Otane (Public Hall),,,,otane,Gisborne,,CONFIRM,Strong original evidence (small_cities / polling)
+HawkesBay,Patangata,Patangata,Patangata County,Medium,"KG: Patangata in Patangata County; small_cities: Tamumu, Patangata nearby",,,,pātangata,Hawke's Bay,Hawke's Bay,CONFIRM,"Gazetteer land district ""Hawke's Bay"" consistent with district"
+HawkesBay,Port Awanui,Port Awanui,Waiapu County,High,KG: Port Awanui on East Cape; Waiapu County,,,,port awanui,Gisborne,,CONFIRM,KG evidence identifies location and county
+HawkesBay,Putorino,Putorino,Wairoa County,Low,KG: Putorino north of Wairoa; Wairoa County,,,,putorino,Wellington,,CONFIRM,KG evidence identifies location and county
+HawkesBay,Ruaroa,Ruaroa,Cook County,Low,KG: Ruaroa near Gisborne; Cook County,,,,ruaroa,Hawke's Bay | North Auckland,Hawke's Bay,CONFIRM,"Gazetteer land district ""Hawke's Bay | North Auckland"" consistent with district"
+HawkesBay,Ruataniwha,Ruataniwha,Waipawa County,Medium,KG: Ruataniwha near Waipawa; Waipawa County,,,,ruataniwha,Hawke's Bay,Hawke's Bay,CONFIRM,"Gazetteer land district ""Hawke's Bay"" consistent with district"
+HawkesBay,Sherenden,Sherenden,Hawke's Bay County,Low,KG: Sherenden near Napier; Hawke's Bay County,,,,sherenden,Hawke's Bay,Hawke's Bay,CONFIRM,"Gazetteer land district ""Hawke's Bay"" consistent with district"
+HawkesBay,Tangitere,Tangitere,Cook County,Low,KG: Tangitere near Gisborne; Cook County,,,,,,,CONFIRM,KG evidence identifies location and county
+HawkesBay,Taradale (237) and Greenmeadows (side school) (53),Taradale and Greenmeadows (side school,Hawke's Bay County,High,Polling: Napier ED lists Taradale (Town Hall); not a Borough; Hawke's Bay County,,,,,,,CONFIRM,Strong original evidence (small_cities / polling)
+HawkesBay,Te Arai,Te Arai,Hawke's Bay County,Medium,KG: Te Arai near Napier; Hawke's Bay County,te arai,Marsden | Pahiatua,,,,,CONFIRM,KG evidence identifies location and county
+HawkesBay,Te Pohue,Te Pohue,Hawke's Bay County,Low,KG: Te Pohue inland from Napier; Hawke's Bay County,,,,te pōhue,Hawke's Bay,Hawke's Bay,CONFIRM,"Gazetteer land district ""Hawke's Bay"" consistent with district"
+HawkesBay,Te Puia Springs,Te Puia Springs,Waiapu County,Medium,KG: Te Puia Springs on East Cape; Waiapu County,,,,te puia springs,Gisborne,,CONFIRM,KG evidence identifies location and county
+HawkesBay,Tipapakuku,Tipapakuku,Hawke's Bay County,Medium,KG: Tipapakuku near Napier; Hawke's Bay County,,,,tipapakuku,Hawke's Bay,Hawke's Bay,CONFIRM,"Gazetteer land district ""Hawke's Bay"" consistent with district"
+HawkesBay,Tutira,Tutira,Hawke's Bay County,High,KG: Tutira north of Napier at Lake Tutira; Hawke's Bay County,,,,,,,CONFIRM,KG evidence identifies location and county
+HawkesBay,Waitahora,Waitahora,Dannevirke County,Low,KG: Waitahora near Dannevirke; Dannevirke County,waitaha,Westland,,waitahora,Hawke's Bay,Hawke's Bay,CONFIRM,"Gazetteer land district ""Hawke's Bay"" consistent with district"
+HawkesBay,Wigan,Wigan,Cook County,High,Polling: Gisborne ED lists Wigan (Tolaga Bay); Cook County,wigan,Tauranga,,,,,CONFIRM,Strong original evidence (small_cities / polling)
+Nelson,Addison's Flat,Addisons Flat,Buller County,High,Polling: Buller ED (line 764); west of Westport,,,,,,,CONFIRM,Strong original evidence (small_cities / polling)
+Nelson,Anatimo,Anatimo,Buller County,Low,No direct source; possibly near Maruia River/Murchison area,,,,anatimo,Nelson,Nelson,CONFIRM,Gazetteer land district 'Nelson' consistent with district
+Nelson,Arapito,Arapito,Buller County,High,Postal data: Karamea-Arapito route; near Little Wanganui,,,,arapito,Nelson,Nelson,CONFIRM,Gazetteer land district 'Nelson' consistent with district
+Nelson,Awaroa,Awaroa,Waimea County,Medium,Abel Tasman coast; Waimea County coastal area,akaroa,Ellesmere,,awaroa,North Auckland,,CONFIRM,KG evidence identifies location and county
+Nelson,Blackwater Upper,Blackwater Upper,Inangahua County,High,Blackwater River is in Inangahua County near Reefton,,,,,,,CONFIRM,KG evidence identifies location and county
+Nelson,Brightwater (59) and River Terrace (side school) (22),Brightwater and River Terrace (side school,Waimea County,High,Polling: Nelson ED (line 693); Waimea Plains,,,,,,,CONFIRM,Strong original evidence (small_cities / polling)
+Nelson,Brooklyn,Brooklyn,Waimea County,High,Polling: Motueka ED (line 728); near Motueka,brooklyn,Motueka,Motueka,brooklyn,Nelson | Wellington,Nelson,CONFIRM,Polling ED 'Motueka' confirms county
+Nelson,Clifton Terrace,Clifton Terrace,Nelson County,High,"Polling: Nelson ED (line 705 'Clifton Terrace, Wakapuaka')",,,,,,,CONFIRM,Strong original evidence (small_cities / polling)
+Nelson,Fairdown,Fairdown,Buller County,High,Polling: Buller ED (line 768); near Westport,fairdown,Buller,Buller,fairdown,Nelson,Nelson,CONFIRM,Polling ED 'Buller' confirms county
+Nelson,Fern Flat,Fern Flat,Buller County,High,"Polling: Buller ED (line 775 'school-teacher's residence, Fern Flat'); near Karamea",fern flat,Buller,Buller,fern flat,Wellington | North Auckland,,CONFIRM,Polling ED 'Buller' confirms county
+Nelson,Ferntown,Ferntown,Collingwood County,High,Postal data: Collingwood-Ferntown route; near Collingwood,,,,ferntown,Nelson,Nelson,CONFIRM,Gazetteer land district 'Nelson' consistent with district
+Nelson,Glenhope,Glenhope,Waimea County,Medium,Polling: Motueka ED (line 749); upper Wairoa River valley,glenhope,Motueka,Motueka,glenhope,Nelson,Nelson,CONFIRM,Polling ED 'Motueka' confirms county
+Nelson,Golden Downs,Golden Downs,Nelson County,Low,Remote Nelson County forest area north of Wairoa River,,,,golden downs,Nelson,Nelson,CONFIRM,Gazetteer land district 'Nelson' consistent with district
+Nelson,Granity (135) and Hector (side school) (40),Granity and Hector (side school,Buller County,High,Polling: Buller ED (line 762); West Coast north of Westport,,,,,,,CONFIRM,Strong original evidence (small_cities / polling)
+Nelson,Hamama,Hamama,Waimea County,Low,Possibly near Motueka/Marahau area; no direct source,,,,,,,INVESTIGATE,No direct source or uncertain assignment; needs further research
+Nelson,Happy Valley,Happy Valley,Nelson County,High,Polling: Nelson ED (line 708); near Nelson Borough,,,,happy valley,Southland | Wellington | North Auckland,,CONFIRM,Strong original evidence (small_cities / polling)
+Nelson,Hinekaka,Hinekaka,Collingwood County,Low,Uncertain; possibly Golden Bay area,,,,,,,INVESTIGATE,No direct source or uncertain assignment; needs further research
+Nelson,Inangahua Landing,Inangahua Landing,Inangahua County,High,Polling: Buller ED (line 779 O'Regan's House); near Inangahua Junction,,,,inangahua landing,Nelson,Nelson,CONFIRM,Gazetteer land district 'Nelson' consistent with district
+Nelson,Karamea (81) and Oparara (side school) (11),Karamea and Oparara (side school,Buller County,High,Polling: Motueka ED (line 735); West Coast near Kahurangi,,,,,,,CONFIRM,Strong original evidence (small_cities / polling)
+Nelson,Kikiwa,Kikiwa,Waimea County,Medium,Upper Motueka River area; Waimea County,,,,kikiwa,Nelson,Nelson,CONFIRM,Gazetteer land district 'Nelson' consistent with district
+Nelson,Kiwi,Kiwi,Waimea County,Low,Possibly upper Wairoa/Waimea area; no direct source,,,,kiwi,Nelson,Nelson,CONFIRM,Gazetteer land district 'Nelson' consistent with district
+Nelson,Koreke,Koreke,Collingwood County,Low,Possibly Golden Bay area; no direct source,,,,,,,INVESTIGATE,No direct source or uncertain assignment; needs further research
+Nelson,Little Grey,Little Grey,Inangahua County,High,Little Grey River near Reefton; Inangahua County,,,,,,,CONFIRM,KG evidence identifies location and county
+Nelson,Little Wanganui,Little Wanganui,Buller County,High,Polling: Motueka ED (line 734); West Coast near Karamea,,,,little wanganui,Nelson,Nelson,CONFIRM,Gazetteer land district 'Nelson' consistent with district
+Nelson,Longford,Longford,Buller County,Medium,Near Murchison; Buller County,,,,longford,Nelson,Nelson,CONFIRM,Gazetteer land district 'Nelson' consistent with district
+Nelson,Long Plain,Long Plain,Collingwood County,Low,Possibly Aorere Valley/Golden Bay; no direct source,,,,,,,INVESTIGATE,No direct source or uncertain assignment; needs further research
+Nelson,McLaren's Bay,McLarens Bay,Waimea County,Medium,Near Kaiteriteri on Tasman Bay coast; Waimea County,,,,,,,CONFIRM,KG evidence identifies location and county
+Nelson,Mahana,Mahana,Waimea County,Medium,Near Mapua; Waimea County,,,,mahana,Nelson,Nelson,CONFIRM,Gazetteer land district 'Nelson' consistent with district
+Nelson,Mangarakau,Mangarakau,Collingwood County,High,Polling: Motueka ED (line 741); near Collingwood,manakau,Otaki,,mangarākau,Nelson,Nelson,CONFIRM,Gazetteer land district 'Nelson' consistent with district
+Nelson,Mangles Valley,Mangles Valley,Buller County,Medium,Mangles River near Murchison; Buller County,,,,mangles valley,Nelson,Nelson,CONFIRM,Gazetteer land district 'Nelson' consistent with district
+Nelson,Mapua,Mapua,Waimea County,High,Tasman Bay coast near Richmond; Waimea County,,,,,,,CONFIRM,KG evidence identifies location and county
+Nelson,Marahau,Marahau,Waimea County,High,Abel Tasman coast near Motueka; Waimea County,,,,,,,CONFIRM,KG evidence identifies location and county
+Nelson,Matai Valley,Matai Valley,Collingwood County,Medium,Matai Valley near Collingwood; Golden Bay,,,,,,,CONFIRM,KG evidence identifies location and county
+Nelson,Motupiko,Motupiko,Waimea County,High,Polling: Motueka ED (line 722); Motupiko River tributary of Motueka,motupiko,Motueka,Motueka,motupiko,Nelson,Nelson,CONFIRM,Polling ED 'Motueka' confirms county
+Nelson,Norris's Gully,Norriss Gully,Nelson County,Low,Near Nelson city area; no direct source,,,,,,,INVESTIGATE,No direct source or uncertain assignment; needs further research
+Nelson,Nuggety Creek,Nuggety Creek,Inangahua County,Medium,Near Reefton goldfields; Inangahua County,,,,,,,CONFIRM,KG evidence identifies location and county
+Nelson,Oparara Beach,Oparara Beach,Buller County,Medium,Near Karamea/Oparara River; Buller County,,,,,,,CONFIRM,KG evidence identifies location and county
+Nelson,Orinoco,Orinoco,Buller County,Low,Near Murchison; Buller County,,,,orinoco,Nelson,Nelson,CONFIRM,Gazetteer land district 'Nelson' consistent with district
+Nelson,Owen Junction,Owen Junction,Buller County,High,Polling: Buller ED (line 777 'Owen Junction'); near Murchison,,,,owen junction,Nelson,Nelson,CONFIRM,Gazetteer land district 'Nelson' consistent with district
+Nelson,Pakawau,Pakawau,Collingwood County,High,Near Farewell Spit base; Collingwood County,,,,,,,CONFIRM,KG evidence identifies location and county
+Nelson,Pariwhakaho,Pariwhakaho,Nelson County,Medium,Near Nelson city; Nelson County,,,,,,,CONFIRM,KG evidence identifies location and county
+Nelson,Pigeon Valley,Pigeon Valley,Waimea County,Medium,Between Nelson and Wakefield; Waimea County,,,,,,,CONFIRM,KG evidence identifies location and county
+Nelson,Pokororo,Pokororo,Waimea County,Medium,Near Motueka River; Waimea County,,,,pokororo,Nelson,Nelson,CONFIRM,Gazetteer land district 'Nelson' consistent with district
+Nelson,Progress,Progress,Buller County,High,Polling: Buller ED (line 772 'Progress Junction'); near Westport,,,,,,,CONFIRM,Strong original evidence (small_cities / polling)
+Nelson,Punakaikai,Punakaikai,Buller County,High,Punakaiki on West Coast; Buller County,,,,punakaiki,Westland,,CONFIRM,KG evidence identifies location and county
+Nelson,Ranzau,Ranzau,Waimea County,High,Polling: Nelson ED (line 695); near Hope/Richmond,ranzau,Nelson,,,,,CONFIRM,Strong original evidence (small_cities / polling)
+Nelson,Redwood's Valley,Redwoods Valley,Nelson County,Low,Near Nelson; Nelson County,,,,redwood valley,Nelson,Nelson,CONFIRM,Gazetteer land district 'Nelson' consistent with district
+Nelson,Rockville (42) and Dall's Creek (side school) (11),Rockville and Dalls Creek (side school,Collingwood County,High,"Polling: Motueka ED (line 729 'Old School, Rockville'); Golden Bay",,,,,,,CONFIRM,Strong original evidence (small_cities / polling)
+Nelson,Rocky River,Rocky River,Collingwood County,Medium,Aorere River tributary near Collingwood; Collingwood County,,,,,,,CONFIRM,KG evidence identifies location and county
+Nelson,Rotokohu,Rotokohu,Buller County,Low,Possibly near Murchison/Buller area; no direct source,,,,rotokohu,Nelson,Nelson,CONFIRM,Gazetteer land district 'Nelson' consistent with district
+Nelson,Sergeant's Hill,Sergeants Hill,Inangahua County,Medium,Near Reefton; Inangahua County,,,,sergeants hill,Nelson,Nelson,CONFIRM,Gazetteer land district 'Nelson' consistent with district
+Nelson,Sherry River,Sherry River,Waimea County,High,Polling: Motueka ED (line 724 'Sherry Valley'); near Motupiko,,,,,,,CONFIRM,Strong original evidence (small_cities / polling)
+Nelson,Six-mile,Six-mile,Buller County,Medium,Six-mile Creek area near Westport; Buller County,,,,six mile,Nelson,Nelson,CONFIRM,Gazetteer land district 'Nelson' consistent with district
+Nelson,Summerlea,Summerlea,Inangahua County,Medium,"Polling: Motueka ED (line 746 'Summerlea, St Helens Post-office'); near Inangahua",,,,summerlea,Nelson,Nelson,CONFIRM,Gazetteer land district 'Nelson' consistent with district
+Nelson,Takaka Central,Takaka,Collingwood County,High,Polling: Motueka ED (line 738 courthouse Takaka); Golden Bay,takaka,Motueka,,,,,CONFIRM,Strong original evidence (small_cities / polling)
+Nelson,Takaka Lower District High School,Takaka Lower,Collingwood County,High,Polling: Motueka ED (line 738); Collingwood County seat area,,,,,,,CONFIRM,Strong original evidence (small_cities / polling)
+Nelson,Takaka Upper,Takaka Upper,Collingwood County,High,Upper Takaka Valley; Collingwood County,,,,,,,CONFIRM,KG evidence identifies location and county
+Nelson,Tapawera,Tapawera,Waimea County,High,Polling: Motueka ED (line 748); Wairoa Valley,tapawera,Motueka,Motueka,tapawera,Nelson,Nelson,CONFIRM,Polling ED 'Motueka' confirms county
+Nelson,Tauranga Bay,Tauranga Bay,Buller County,Medium,Tauranga Bay near Westport on West Coast; Buller County,,,,tauranga bay,North Auckland,,CONFIRM,KG evidence identifies location and county
+Nelson,Te Arowhenua,Te Arowhenua,Nelson County,Low,Uncertain; possibly near Nelson; no direct source,,,,,,,INVESTIGATE,No direct source or uncertain assignment; needs further research
+Nelson,Tophouse,Tophouse,Nelson County,Medium,Near St Arnaud/Lake Rotoiti; remote upper Wairoa; Nelson County,,,,tophouse,Nelson,Nelson,CONFIRM,Gazetteer land district 'Nelson' consistent with district
+Nelson,Tuikea,Tuikea,Collingwood County,Medium,Golden Bay/Takaka area; Collingwood County,,,,,,,CONFIRM,KG evidence identifies location and county
+Nelson,Tutaki,Tutaki,Buller County,Medium,Near Murchison; upper Buller area,,,,,,,CONFIRM,KG evidence identifies location and county
+Nelson,Umere,Umere,Buller County,Low,No direct source; possibly near Murchison,,,,umere,Nelson,Nelson,CONFIRM,Gazetteer land district 'Nelson' consistent with district
+Nelson,Uruwhenua,Uruwhenua,Collingwood County,Low,Remote Golden Bay hinterland; Collingwood County,,,,uruwhenua,Nelson,Nelson,CONFIRM,Gazetteer land district 'Nelson' consistent with district
+Nelson,Waimea West,Waimea West,Waimea County,High,Polling: Motueka ED (line 743); western Waimea Plains,,,,,,,CONFIRM,Strong original evidence (small_cities / polling)
+Nelson,Wairangi,Wairangi,Nelson County,Low,No direct source; possibly near Wairoa River,waitangi,Westland,,waitangi,North Auckland | Wellington,,INVESTIGATE,No direct source or uncertain assignment; needs further research
+Nelson,Wakefield Lower,Wakefield Lower,Waimea County,High,Polling: Motueka ED (line 718) and Nelson ED (line 691); Waimea County,,,,,,,CONFIRM,Strong original evidence (small_cities / polling)
+Nelson,Will's Road,Wills Road,Buller County,Low,No direct source; possibly near Westport,,,,,,,INVESTIGATE,No direct source or uncertain assignment; needs further research
+Otago,Airedale,Airedale,Clutha County,Low,No direct source; small locality; likely Clutha area,,,,airedale,Otago,Otago,CONFIRM,Gazetteer land district 'Otago' consistent with district
+Otago,Akatore,Akatore,Clutha County,High,Coastal south Otago near Balclutha; Clutha County,,,,,,,CONFIRM,KG evidence identifies location and county
+Otago,Akatore Coast,Akatore Coast,Clutha County,High,Coastal south Otago; Clutha County,,,,,,,CONFIRM,KG evidence identifies location and county
+Otago,Arthurton,Arthurton,Clutha County,High,Polling: Otago Central ED (line 1260 as 'Otaria/Arthurton'); near Clinton railway,,,,arthurton,"Otago, Southland",,CONFIRM,Strong original evidence (small_cities / polling)
+Otago,Bald Hill,Bald Hill,Vincent County,High,Polling: Otago Central ED (line 1168 'Bald Hill Flat'); near Alexandra,,,,,,,CONFIRM,Strong original evidence (small_cities / polling)
+Otago,Bendigo,Bendigo,Lake County,Medium,Near Tarras/Cromwell gold area; Lake County,,,,bendigo,Otago,Otago,CONFIRM,Gazetteer land district 'Otago' consistent with district
+Otago,Berwen,Berwen,Clutha County,Low,Very small; no direct source; possibly Clutha area,,,,,,,INVESTIGATE,No direct source or uncertain assignment; needs further research
+Otago,Blacks,Blacks,Bruce County,Low,Near Milton; Bruce County,,,,,,,CONFIRM,KG evidence identifies location and county
+Otago,Blackstone,Blackstone,Maniototo County,High,Polling: Otago Central ED (line 1159 'Blackstone Hill'); near St Bathans,,,,,,,CONFIRM,Strong original evidence (small_cities / polling)
+Otago,Broad Bay,Broad Bay,Peninsula County,High,Polling: Chalmers ED (line 1265); Otago Peninsula,broad bay,Dunedin Central,Dunedin Central,broad bay,Otago,Otago,CONFIRM,Polling ED 'Dunedin Central' confirms county
+Otago,Chaslands,Chaslands,Clutha County,High,Remote Catlins coast; Clutha County,,,,chaslands,Otago,Otago,CONFIRM,Gazetteer land district 'Otago' consistent with district
+Otago,Chatto Creek,Chatto Creek,Vincent County,High,Polling: Otago Central ED (line 1165); near Omakau/Ophir,,,,chatto creek,Otago,Otago,CONFIRM,Gazetteer land district 'Otago' consistent with district
+Otago,Clark's Flat,Clarks Flat,Tuapeka County,Low,Near Lawrence; Tuapeka County,,,,,,,CONFIRM,KG evidence identifies location and county
+Otago,Dunrobin,Dunrobin,Tuapeka County,Medium,Polling: Otago Central ED (line 1182); near Tapanui area,,,,dunrobin,Otago,Otago,CONFIRM,Gazetteer land district 'Otago' consistent with district
+Otago,East Taieri,East Taieri,Taieri County,High,Polling: Chalmers ED (line 1287 'East Taieri'); Taieri Plain,east taieri,Dunedin Central,,east taieri,Otago,Otago,CONFIRM,Gazetteer land district 'Otago' consistent with district
+Otago,Edievale,Edievale,Tuapeka County,High,Polling: Otago Central ED (line 1176 Mr Spencer's House); near Kelso,edievale,Otago Central,,edievale,Otago,Otago,CONFIRM,Gazetteer land district 'Otago' consistent with district
+Otago,Elderslie,Elderslie,Bruce County,Low,Near Lovell's Flat/Bruce County area; no direct source,ellerslie,Manukau,,elderslie,Otago,Otago,CONFIRM,Gazetteer land district 'Otago' consistent with district
+Otago,Evansdale,Evansdale,Waikouaiti County,Medium,Near Dunedin north coast; Waikouaiti County,,,,evansdale,Otago,Otago,CONFIRM,Gazetteer land district 'Otago' consistent with district
+Otago,Evans Flat,Evans Flat,Tuapeka County,Medium,Near Lawrence; Tuapeka County,,,,evans flat,Canterbury,,CONFIRM,KG evidence identifies location and county
+Otago,Five Forks,Five Forks,Tuapeka County,Low,Gold area near Lawrence; Tuapeka County,,,,five forks,Otago,Otago,CONFIRM,Gazetteer land district 'Otago' consistent with district
+Otago,Flag Swamp,Flag Swamp,Taieri County,Medium,Taieri Plain south of Dunedin; Taieri County,,,,flag swamp,Otago,Otago,CONFIRM,Gazetteer land district 'Otago' consistent with district
+Otago,Glenledi,Glenledi,Clutha County,Low,Small; Catlins area; no direct source,,,,glenledi,Otago,Otago,CONFIRM,Gazetteer land district 'Otago' consistent with district
+Otago,Glenore,Glenore,Bruce County,Low,Near Milton/Lovell's Flat; Bruce County,,,,glenore,Otago,Otago,CONFIRM,Gazetteer land district 'Otago' consistent with district
+Otago,Greenfield,Greenfield,Waitaki County,Low,Near Oamaru; no direct source,,,,greenfield,Otago,Otago,CONFIRM,Gazetteer land district 'Otago' consistent with district
+Otago,Hampden,Hampden,Waitaki County,High,North Otago coastal town; Waitaki County (town board not borough),,,,hampden,Nelson | Otago,Otago,CONFIRM,Gazetteer land district 'Nelson | Otago' consistent with district
+Otago,Hawea,Hawea,Lake County,High,Near Lake Hawea; Lake County,hawera,Patea,,hawera,Wellington,,CONFIRM,KG evidence identifies location and county
+Otago,Hill Springs,Hill Springs,Waitaki County,Low,Possibly near Oamaru; no direct source,,,,,,,INVESTIGATE,No direct source or uncertain assignment; needs further research
+Otago,Hinahina,Hinahina,Clutha County,Low,Coastal south Otago; Clutha County,,,,hinahina,Otago,Otago,CONFIRM,Gazetteer land district 'Otago' consistent with district
+Otago,Hindon Railway,Hindon Railway,Maniototo County,High,"Polling: Otago Central ED (line 1211 'Ladies' Waiting-room, Hindon Railway-station')",,,,,,,CONFIRM,Strong original evidence (small_cities / polling)
+Otago,Hooper's Inlet,Hoopers Inlet,Peninsula County,High,Polling: Chalmers ED (line 1267); Otago Peninsula,hooper’s inlet,Dunedin Central,Dunedin Central,hoopers inlet,Otago,Otago,CONFIRM,Polling ED 'Dunedin Central' confirms county
+Otago,Inch Valley,Inch Valley,Waitaki County,Low,Near Maheno/Oamaru; no direct source,,,,inch valley,Otago,Otago,CONFIRM,Gazetteer land district 'Otago' consistent with district
+Otago,Island Cliffe,Island Cliffe,Waitaki County,Medium,Near Oamaru coast; Waitaki County,,,,island cliff,Otago,Otago,CONFIRM,Gazetteer land district 'Otago' consistent with district
+Otago,Kaihiku,Kaihiku,Tuapeka County,Medium,Near Tapanui; Tuapeka County,kaihu,Kaipara,,kaihiku,Otago,Otago,CONFIRM,Gazetteer land district 'Otago' consistent with district
+Otago,Karitane,Karitane,Waikouaiti County,High,Coastal north of Dunedin; Waikouaiti County,,,,karitane,Otago,Otago,CONFIRM,Gazetteer land district 'Otago' consistent with district
+Otago,Kartigi,Kartigi,Waitaki County,Low,Possibly near Oamaru coast; no direct source,,,,kartigi,Otago,Otago,CONFIRM,Gazetteer land district 'Otago' consistent with district
+Otago,Kauroo,Kauroo,Waitaki County,Medium,Kauroo Hill near Oamaru; Waitaki County,,,,,,,CONFIRM,KG evidence identifies location and county
+Otago,Killermont,Killermont,Tuapeka County,Low,Very small (avg 1); possibly near Lawrence; no direct source,,,,,,,INVESTIGATE,No direct source or uncertain assignment; needs further research
+Otago,Kokoano,Kokoano,Clutha County,Low,Possibly Clutha/Catlins area; no direct source,,,,,,,INVESTIGATE,No direct source or uncertain assignment; needs further research
+Otago,Kokonga,Kokonga,Maniototo County,High,Polling: Otago Central ED (line 1193); Maniototo,kokonga,Otago Central,,kokonga,Otago,Otago,CONFIRM,Gazetteer land district 'Otago' consistent with district
+Otago,Kuri Bush,Kuri Bush,Taieri County,High,Polling: Chalmers ED (line 1285); Taieri area near coast,kuri bush,Dunedin Central,,kuri bush,Otago,Otago,CONFIRM,Gazetteer land district 'Otago' consistent with district
+Otago,Kuriwao,Kuriwao,Clutha County,High,Railway: Balclutha-Invercargill (line 2716 Kuriwao); near Clinton,,,,kuriwao,Otago,Otago,CONFIRM,Gazetteer land district 'Otago' consistent with district
+Otago,Kyeburn Diggings,Kyeburn Diggings,Maniototo County,High,Polling: Otago Central ED (line 1192); Maniototo,,,,kyeburn diggings,Otago,Otago,CONFIRM,Gazetteer land district 'Otago' consistent with district
+Otago,Lauder Railway Station,Lauder Railway Station,Maniototo County,High,Same locality as Lauder; Otago Central ED,,,,,,,CONFIRM,KG evidence identifies location and county
+Otago,Lower Harbour,Lower Harbour,Peninsula County,High,"Polling: Chalmers ED (line 1273 'Lower Harbour, Port Chalmers'); Peninsula County",lower harbour,Dunedin Central,Dunedin Central,,,,CONFIRM,Polling ED 'Dunedin Central' confirms county
+Otago,Luggate,Luggate,Lake County,High,Wakatipu ED (line 1318); Lake County on Clutha,luggate,Wakatipu,Wakatipu,luggate,Otago,Otago,CONFIRM,Polling ED 'Wakatipu' confirms county
+Otago,McLennan,McLennan,Clutha County,Medium,Near Catlins; Clutha County,,,,maclennan,Otago,Otago,CONFIRM,Gazetteer land district 'Otago' consistent with district
+Otago,Manuka Creek,Manuka Creek,Clutha County,Low,Small; Catlins area; no direct source,,,,manuka creek,Otago,Otago,CONFIRM,Gazetteer land district 'Otago' consistent with district
+Otago,Matakanui,Matakanui,Maniototo County,High,Polling: Otago Central ED (line 1163); Maniototo,matakanui,Otago Central,,matakanui,Otago,Otago,CONFIRM,Gazetteer land district 'Otago' consistent with district
+Otago,Merino Downs,Merino Downs,Tuapeka County,High,Polling: Otago Central ED (line 1181); near Tapanui/Kelso,,,,merino downs,Otago,Otago,CONFIRM,Gazetteer land district 'Otago' consistent with district
+Otago,Moonlight,Moonlight,Maniototo County,High,Polling: Otago Central ED (line 1190); Maniototo,moonlight,Otago Central,,moonlight,Otago,Otago,CONFIRM,Gazetteer land district 'Otago' consistent with district
+Otago,Mount Cargill,Mount Cargill,Peninsula County,High,Polling: Chalmers ED (line 1272); Peninsula County above harbour,,,,mount cargill,Otago,Otago,CONFIRM,Gazetteer land district 'Otago' consistent with district
+Otago,Mount Stewart,Mount Stewart,Taieri County,Medium,Near Outram; Taieri County,,,,mount stuart,Otago,Otago,CONFIRM,Gazetteer land district 'Otago' consistent with district
+Otago,Ngapuna,Ngapuna,Maniototo County,High,Polling: Otago Central ED (line 1215); Strath Taieri,ngapuna,Otago Central,,ngapuna,Otago | South Auckland,Otago,CONFIRM,Gazetteer land district 'Otago | South Auckland' consistent with district
+Otago,North East Harbour,North East Harbour,Peninsula County,High,Polling: Chalmers ED (line 1268); north-east Otago Harbour,north-east hurbour,Dunedin Central,Dunedin Central,,,,CONFIRM,Polling ED 'Dunedin Central' confirms county
+Otago,North Taieri,North Taieri,Taieri County,High,Polling: Chalmers ED (line 1280); Taieri Plain,,,,north taieri,Otago,Otago,CONFIRM,Gazetteer land district 'Otago' consistent with district
+Otago,Nugget Point,Nugget Point,Clutha County,High,Catlins coast; Clutha County,,,,,,,CONFIRM,KG evidence identifies location and county
+Otago,Otakou,Otakou,Peninsula County,High,Polling: Chalmers ED (line 1269); Otago Peninsula,,,,otakou,Otago,Otago,CONFIRM,Gazetteer land district 'Otago' consistent with district
+Otago,Otanomomo,Otanomomo,Bruce County,Medium,Near Milton/Stirling; Bruce County,,,,otanomomo,Otago,Otago,CONFIRM,Gazetteer land district 'Otago' consistent with district
+Otago,Otekura,Otekura,Clutha County,Medium,Near Owaka/Catlins; Clutha County,okura,Westland,,otekura,Otago,Otago,CONFIRM,Gazetteer land district 'Otago' consistent with district
+Otago,Otepopo,Otepopo,Waitaki County,High,"Polling: Waitaki ED (line 1127 'Otepopo, Herbert Post-office')",otepopo,Temuka,,otepopo,Otago,Otago,CONFIRM,Gazetteer land district 'Otago' consistent with district
+Otago,Outram,Outram,Taieri County,High,Polling: Otago Central ED (line 1201 Courthouse Outram); Taieri County,outram,Otago Central,,outram,Otago,Otago,CONFIRM,Gazetteer land district 'Otago' consistent with district
+Otago,Owaka Valley,Owaka Valley,Clutha County,High,Near Owaka; Clutha County,,,,owaka valley,Otago,Otago,CONFIRM,Gazetteer land district 'Otago' consistent with district
+Otago,Paerau,Paerau,Maniototo County,High,"Polling: Otago Central ED (line 1185 'Howell's Wool-sheds, Paerau')",,,,paerau,Otago,Otago,CONFIRM,Gazetteer land district 'Otago' consistent with district
+Otago,Papatowai,Papatowai,Clutha County,High,Catlins coast; Clutha County,,,,papatowai,Otago,Otago,CONFIRM,Gazetteer land district 'Otago' consistent with district
+Otago,Popotunoa,Popotunoa,Bruce County,Medium,Near Tokoiti/Bruce County area,,,,popotunoa,Otago,Otago,CONFIRM,Gazetteer land district 'Otago' consistent with district
+Otago,Port Molyneux,Port Molyneux,Clutha County,High,Clutha River mouth; Clutha County,,,,port molyneux,Otago,Otago,CONFIRM,Gazetteer land district 'Otago' consistent with district
+Otago,Pounawea,Pounawea,Clutha County,High,Catlins estuary; Clutha County,,,,pounawea,Otago,Otago,CONFIRM,Gazetteer land district 'Otago' consistent with district
+Otago,Pukeiwitahi,Pukeiwitahi,Bruce County,Low,Near Milton area; Bruce County,kiwitahi,Tauranga,,,,,CONFIRM,KG evidence identifies location and county
+Otago,Pukema,Pukema,Maniototo County,Medium,Post offices: Hyde-Pukema listed together; near Hyde/Strath Taieri,,,,,,,CONFIRM,KG evidence identifies location and county
+Otago,Pukepito,Pukepito,Clutha County,Low,Possibly Clutha area; no direct source,,,,pukepito,Otago,Otago,CONFIRM,Gazetteer land district 'Otago' consistent with district
+Otago,Puketi,Puketi,Bruce County,Low,Possibly near Milton; Bruce County,,,,puketi,Otago | North Auckland,Otago,CONFIRM,Gazetteer land district 'Otago | North Auckland' consistent with district
+Otago,Purakauiti,Purakauiti,Waitaki County,Low,Near Purakaunui North Otago coast; Waitaki County,purakanui,Dunedin Central,,purakauiti,Otago,Otago,CONFIRM,Gazetteer land district 'Otago' consistent with district
+Otago,Rae's Junction,Raes Junction,Vincent County,High,Polling: Otago Central ED (line 1173); near Roxburgh,rae’s junction,Otago Central,Otago Central,raes junction,Otago,Otago,CONFIRM,Polling ED 'Otago Central' confirms county
+Otago,Ravensbourne,Ravensbourne,Peninsula County,High,Polling: Chalmers ED (line 1261); inner harbour suburb,,,,ravensbourne,Otago,Otago,CONFIRM,Gazetteer land district 'Otago' consistent with district
+Otago,Reomoana,Reomoana,Clutha County,Low,Coastal Clutha area; no direct source,,,,,,,INVESTIGATE,No direct source or uncertain assignment; needs further research
+Otago,St. Leonards,St. Leonards,Peninsula County,High,Polling: Chalmers ED (line 1260); near Port Chalmers,,,,,,,CONFIRM,Strong original evidence (small_cities / polling)
+Otago,Southbridge,Southbridge,Clutha County,Low,Uncertain; Southbridge normally Canterbury/Ellesmere; possibly transcription error or different locality,southbridge,Ellesmere,,southbridge,Canterbury,,INVESTIGATE,No direct source or uncertain assignment; needs further research
+Otago,Spottis Creek,Spottis Creek,Clutha County,Medium,Near Owaka/Catlins; Clutha County,,,,,,,CONFIRM,KG evidence identifies location and county
+Otago,Spylaw Valley,Spylaw Valley,Clutha County,Low,Catlins area; Clutha County,,,,,,,CONFIRM,KG evidence identifies location and county
+Otago,Stony Creek,Stony Creek,Clutha County,Low,Clutha area; no direct source,,,,stony creek,Otago,Otago,CONFIRM,Gazetteer land district 'Otago' consistent with district
+Otago,Strath Taieri,Strath Taieri,Maniototo County,High,Middlemarch area; upper Taieri/Maniototo County,,,,,,,CONFIRM,KG evidence identifies location and county
+Otago,Table Hill,Table Hill,Taieri County,Low,Taieri area; no direct source,,,,,,,INVESTIGATE,No direct source or uncertain assignment; needs further research
+Otago,Taieri Beach,Taieri Beach,Taieri County,High,Taieri coast; Taieri County,,,,taieri beach,Otago,Otago,CONFIRM,Gazetteer land district 'Otago' consistent with district
+Otago,Taieri Ferry,Taieri Ferry,Taieri County,High,Taieri River crossing; Taieri County,,,,,,,CONFIRM,KG evidence identifies location and county
+Otago,Tapui,Tapui,Bruce County,Medium,Near Milton; Bruce County,tapuhi,Bay Of Islands,,tapui,Otago,Otago,CONFIRM,Gazetteer land district 'Otago' consistent with district
+Otago,Tarara,Tarara,Clutha County,Medium,Polling: Dunedin ED (postal data Ratanui-Tarara); Catlins,tarras,Wakatipu,,tarara,Otago,Otago,CONFIRM,Gazetteer land district 'Otago' consistent with district
+Otago,Taumata,Taumata,Clutha County,Low,Possibly Clutha area; no direct source,,,,taumata,Otago,Otago,CONFIRM,Gazetteer land district 'Otago' consistent with district
+Otago,Teaneraki,Teaneraki,Waitaki County,High,"Polling: Waitaki ED (line 1119 'Teaneraki, Enfield Post-office')",teaneraki,Temuka,,,,,CONFIRM,Strong original evidence (small_cities / polling)
+Otago,Upper Junction,Upper Junction,Clutha County,Low,Possibly near Clutha/Owaka area; no direct source,,,,upper junction,Otago,Otago,CONFIRM,Gazetteer land district 'Otago' consistent with district
+Otago,Waihemo,Waihemo,Waihemo County,Medium,Waihemo County (upper Waitaki/Maniototo border area),waiho,Westland,,waihemo,Otago,Otago,CONFIRM,Gazetteer land district 'Otago' consistent with district
+Otago,Waikouaiti,Waikouaiti,Waikouaiti County,High,Polling: coordinates_boroughs.csv; Waikouaiti County (town board not borough),,,,waikouaiti,Otago,Otago,CONFIRM,Gazetteer land district 'Otago' consistent with district
+Otago,Waipori,Waipori,Taieri County,Medium,Waipori River; Taieri County,,,,waipori,Otago,Otago,CONFIRM,Gazetteer land district 'Otago' consistent with district
+Otago,Waipori Falls,Waipori Falls,Taieri County,Medium,Waipori Gorge; Taieri County,,,,waipori falls,Otago,Otago,CONFIRM,Gazetteer land district 'Otago' consistent with district
+Otago,Waitahuna Gully,Waitahuna Gully,Tuapeka County,High,Near Waitahuna; Tuapeka County,,,,waitahuna gully,Otago,Otago,CONFIRM,Gazetteer land district 'Otago' consistent with district
+Otago,Waitaki Bridge,Waitaki Bridge,Waitaki County,Medium,Waitaki River crossing; Waitaki County,,,,waitaki bridge,Otago,Otago,CONFIRM,Gazetteer land district 'Otago' consistent with district
+Otago,Waitapeka,Waitapeka,Clutha County,Medium,Near Owaka/Catlins; Clutha County,,,,waitepeka,Otago,Otago,CONFIRM,Gazetteer land district 'Otago' consistent with district
+Otago,Wanaka,Wanaka,Lake County,High,"Wakatipu ED (line 1304 'The Public School, Pembroke'); Lake County",,,,,,,CONFIRM,Strong original evidence (small_cities / polling)
+Otago,Wanaka Road,Wanaka Road,Lake County,Medium,Near Wanaka; Lake County,,,,,,,CONFIRM,KG evidence identifies location and county
+Otago,Wangaloa,Wangaloa,Clutha County,Medium,Near Balclutha coast; Clutha County,whangaroa,Bay Of Islands,,wangaloa,Otago,Otago,CONFIRM,Gazetteer land district 'Otago' consistent with district
+Otago,Waronui,Waronui,Clutha County,Low,Clutha area; no direct source,,,,,,,INVESTIGATE,No direct source or uncertain assignment; needs further research
+Otago,West Taieri,West Taieri,Taieri County,High,Taieri Plain; Taieri County,east taieri,Dunedin Central,,east taieri,Otago,Otago,CONFIRM,Gazetteer land district 'Otago' consistent with district
+Otago,Wetherstones,Wetherstones,Clutha County,Low,Catlins/south Otago; Clutha County,,,,wetherstons,Otago,Otago,CONFIRM,Gazetteer land district 'Otago' consistent with district
+Otago,Whare Flat,Whare Flat,Taieri County,High,Polling: Chalmers ED (line 1283); Taieri area,,,,whare flat,Otago,Otago,CONFIRM,Gazetteer land district 'Otago' consistent with district
+Otago,Wharekuri,Wharekuri,Waihemo County,Medium,Wharekuri near Omarama/upper Waitaki; Waihemo County,,,,wharekuri,Otago,Otago,CONFIRM,Gazetteer land district 'Otago' consistent with district
+Otago,Wharetoa,Wharetoa,Clutha County,Low,Possibly Clutha/Catlins area; no direct source,wharepoa,Thames,,wharetoa,Otago,Otago,CONFIRM,Gazetteer land district 'Otago' consistent with district
+Taranaki,Ackland,Ackland,Inglewood County,Low,Taranaki ED proximity; Ackland Road near Inglewood,,,,auckland,North Auckland,,CONFIRM,KG evidence identifies location and county
+Taranaki,Ahiti,Ahiti,Ohura County,Medium,Gazetteer: Ahititi locality (Taranaki province) at -38.862 174.605; 67km from NP per Reed; eastern Taranaki uplands,,,,,,,CONFIRM,KG evidence identifies location and county
+Taranaki,Aukopae,Aukopae,Ohura County,Medium,Gazetteer: Aukopae locality (Taranaki province) at -38.924 175.081; near Whanganui River eastern Taranaki; Te Aukopae Stream noted in gazetteer,,,,aukopae,Taranaki,Taranaki,CONFIRM,Gazetteer land district 'Taranaki' consistent with district
+Taranaki,Denbigh,Denbigh,Stratford County,Medium,Stratford ED; Denbigh Road south-west of Stratford,,,,,,,CONFIRM,KG evidence identifies location and county
+Taranaki,Dudley,Dudley,Stratford County,High,Stratford ED (polling line 456); Dudley Road near Stratford,,,,,,,CONFIRM,Strong original evidence (small_cities / polling)
+Taranaki,Durham,Durham,Stratford County,High,Stratford ED (polling line 455); Durham Road near Stratford,,,,,,,CONFIRM,Strong original evidence (small_cities / polling)
+Taranaki,Finnerty,Finnerty,Clifton County,Medium,Near Urenui on north Taranaki coast; not in main polls but locality in Clifton area,,,,,,,CONFIRM,KG evidence identifies location and county
+Taranaki,Fraser Road,Fraser Road,Egmont County,Medium,Egmont ED (polling line 532); Fraser Road near Opunake coast,,,,fraser road,Taranaki,Taranaki,CONFIRM,Gazetteer land district 'Taranaki' consistent with district
+Taranaki,Hapurua (6) and Waitewhena (5),Hapurua and Waitewhena,Clifton County,Low,Small Grade 1; Hapurua Valley near Urenui area (north coast),,,,,,,CONFIRM,KG evidence identifies location and county
+Taranaki,Herangi,Herangi,Ohura County,Medium,Gazetteer: Herangi Hill (Taranaki province) at -39.023 175.084; same eastern Taranaki uplands zone as Aukopae,,,,,,,CONFIRM,KG evidence identifies location and county
+Taranaki,Huiakama,Huiakama,Clifton County,Medium,Taranaki ED; Huiakama on north coastal strip near Urenui,,,,huiakama,Taranaki,Taranaki,CONFIRM,Gazetteer land district 'Taranaki' consistent with district
+Taranaki,Hurford,Hurford,Inglewood County,Low,Near Inglewood (Hurford Road area); Taranaki ED,,,,hurford,Taranaki,Taranaki,CONFIRM,Gazetteer land district 'Taranaki' consistent with district
+Taranaki,Kahui,Kahui,Egmont County,High,Egmont ED (polling line 517); near Opunake coast,kahui,Egmont,Egmont,,,,CONFIRM,Polling ED 'Egmont' confirms county
+Taranaki,Kaimiro,Kaimiro,Taranaki County,High,small_cities: Kaimiro implicit in Taranaki County area; corrected from Inglewood County,kaimiro,Taranaki,Taranaki,kaimiro,Taranaki,Taranaki,CONFIRM,Polling ED 'Taranaki' confirms county
+Taranaki,Kaponga,Kaponga,Eltham County,High,Egmont ED (polling line 509); Kaponga between Eltham and Opunake,kaponga,Egmont,,kaponga,Taranaki,Taranaki,CONFIRM,Gazetteer land district 'Taranaki' consistent with district
+Taranaki,Kent,Kent,Taranaki County,Medium,Taranaki ED; Kent Road school near New Plymouth,,,,,,,CONFIRM,KG evidence identifies location and county
+Taranaki,Kiore,Kiore,Stratford County,Medium,Gazetteer: Kiore locality (Taranaki province) at -39.226 174.536; east of Stratford in hill country; Reed: near Stratford area,,,,kiore,Taranaki,Taranaki,CONFIRM,Gazetteer land district 'Taranaki' consistent with district
+Taranaki,Koru,Koru,Taranaki County,High,Taranaki ED (polling line 479); near New Plymouth coast,koru,Taranaki,Taranaki,koru,Taranaki,Taranaki,CONFIRM,Polling ED 'Taranaki' confirms county
+Taranaki,Mahirakau,Mahirakau,Ohura County,Medium,Taumarunui ED (polling line 369); Mahirakau near Ohura,mahirakau,Bay Of Plenty,,,,,CONFIRM,Strong original evidence (small_cities / polling)
+Taranaki,Makahu,Makahu,Stratford County,Medium,"Gazetteer: Makahu locality (Taranaki province) at -39.293 174.631; Reed: ""near Stratford""; east of Stratford",omakau,Otago Central,,makahu,Taranaki,Taranaki,CONFIRM,Gazetteer land district 'Taranaki' consistent with district
+Taranaki,Manaia,Manaia,Hawera County,Medium,Egmont ED (polling line 528); Town Hall Manaia — town in Hawera County; not in borough list,manaia,Egmont,,manaia,Taranaki | South Auckland,Taranaki,CONFIRM,Gazetteer land district 'Taranaki | South Auckland' consistent with district
+Taranaki,Mangahume,Mangahume,Eltham County,High,Egmont ED (polling line 513); Mangahume (Eltham Road) near Eltham,mangahume,Egmont,,mangahu,Wellington,,CONFIRM,Strong original evidence (small_cities / polling)
+Taranaki,Mangamingi,Mangamingi,Eltham County,High,Egmont ED (polling line 506); near Eltham,,,,mangamingi,South Auckland | Taranaki,Taranaki,CONFIRM,Gazetteer land district 'South Auckland | Taranaki' consistent with district
+Taranaki,Mangorei Lower,Mangorei Lower,Taranaki County,High,Taranaki ED (polling line 498); Lower Mangorei near New Plymouth,,,,,,,CONFIRM,Strong original evidence (small_cities / polling)
+Taranaki,Mangorei Upper,Mangorei Upper,Taranaki County,High,Taranaki ED (polling line 490); Upper Mangorei near New Plymouth,,,,,,,CONFIRM,Strong original evidence (small_cities / polling)
+Taranaki,Marco,Marco,Whangamomona County,Medium,Gazetteer: Marco locality (Taranaki province) at -39.108 174.749; Marco Hill at -39.107 174.733; longitude matches Whangamomona County centroid (174.74),,,,marco,Taranaki,Taranaki,CONFIRM,Gazetteer land district 'Taranaki' consistent with district
+Taranaki,Matau (household),Matau (household,Clifton County,Medium,Near Matau/Urenui on north coast,,,,,,,CONFIRM,KG evidence identifies location and county
+Taranaki,Mimi,Mimi,Clifton County,High,North coast at Mimi River near Urenui; Clifton County,,,,mimi,Taranaki,Taranaki,CONFIRM,Gazetteer land district 'Taranaki' consistent with district
+Taranaki,Mokau River,Mokau River,Clifton County,Medium,Same locality as Mokau school; Grade 0 school,,,,,,,CONFIRM,KG evidence identifies location and county
+Taranaki,Mount Messenger,Mount Messenger,Clifton County,High,Near Urenui/Tongaporutu on north coast; Clifton County,,,,,,,CONFIRM,KG evidence identifies location and county
+Taranaki,Newall,Newall,Egmont County,High,Egmont ED (polling line 521); Newall Road near Opunake,,,,newall,Taranaki,Taranaki,CONFIRM,Gazetteer land district 'Taranaki' consistent with district
+Taranaki,Nihoniho,Nihoniho,Ohura County,High,Taumarunui ED (polling line 365); Nihoniho near Ohura,,,,nihoniho,Taranaki,Taranaki,CONFIRM,Gazetteer land district 'Taranaki' consistent with district
+Taranaki,Norfolk,Norfolk,Stratford County,High,Stratford ED (polling line 454); Norfolk Road near Stratford,,,,norfolk,Taranaki,Taranaki,CONFIRM,Gazetteer land district 'Taranaki' consistent with district
+Taranaki,Normanby,Normanby,Hawera County,High,Patea ED (polling line 540); Town Hall Normanby — near Hawera; not in borough list,normanby,Patea,,normanby,Canterbury | Otago | Taranaki,Taranaki,CONFIRM,Gazetteer land district 'Canterbury | Otago | Taranaki' consistent with district
+Taranaki,Okato,Okato,Taranaki County,Medium,Taranaki ED (polling line 482); Okato on west coast; Taranaki County,okato,Taranaki,Taranaki,okiato,North Auckland,,CONFIRM,Polling ED 'Taranaki' confirms county
+Taranaki,Okoke,Okoke,Clifton County,High,Egmont/Taumarunui ED right column (polling line 326); Okoke near Urenui; Clifton County,okoke,Taumarunui,,,,,CONFIRM,Strong original evidence (small_cities / polling)
+Taranaki,Opunake,Opunake,Egmont County,High,Egmont ED (polling line 514); Opunake on coast; not in borough list; coordinates_county Egmont matches,opunake,Egmont,Egmont,,,,CONFIRM,Polling ED 'Egmont' confirms county
+Taranaki,Otangiwai,Otangiwai,Ohura County,High,Taumarunui ED (polling line 364); Otangiwai near Ohura,,,,otangiwai,Taranaki,Taranaki,CONFIRM,Gazetteer land district 'Taranaki' consistent with district
+Taranaki,Paraketu Valley,Paraketu Valley,Ohura County,Low,Gazetteer: Paraketu Stream (Taranaki province) at -38.627 175.256; northern inland Taranaki in Whanganui headwaters area,,,,,,,CONFIRM,KG evidence identifies location and county
+Taranaki,Pehu,Pehu,Whangamomona County,Medium,Gazetteer: Pehu locality (Taranaki province) at -39.049 174.571; eastern hill country near Whangamomona boundary,,,,pehu,Taranaki,Taranaki,CONFIRM,Gazetteer land district 'Taranaki' consistent with district
+Taranaki,Piko,Piko,Stratford County,Medium,Gazetteer: Piko Hill (Taranaki province) at -39.028 174.495; eastern hill country north of Stratford,,,,,,,CONFIRM,KG evidence identifies location and county
+Taranaki,Pitone,Pitone,Taranaki County,Medium,Gazetteer: Pitone Stream (Taranaki province) at -39.152 173.898; western coastal strip near Okato; Taranaki County,picton,Wairau,,,,,CONFIRM,KG evidence identifies location and county
+Taranaki,Pukearuhe,Pukearuhe,Clifton County,High,Pukearuhe on north Taranaki coast above Urenui; Clifton County,,,,pukearuhe,Taranaki,Taranaki,CONFIRM,Gazetteer land district 'Taranaki' consistent with district
+Taranaki,Puniho,Puniho,Egmont County,High,Egmont ED (polling line 522); Puniho near Opunake coast,puniho,Taranaki | Egmont,Egmont,puniho,Taranaki,Taranaki,CONFIRM,Polling ED 'Egmont' confirms county
+Taranaki,Puniwhakau,Puniwhakau,Stratford County,Medium,Gazetteer: Puniwhakau locality (Taranaki province) at -39.331 174.613; east of Stratford in hill country,,,,puniwhakau,Taranaki,Taranaki,CONFIRM,Gazetteer land district 'Taranaki' consistent with district
+Taranaki,Purangi,Purangi,Stratford County,High,Stratford ED (polling line 462); Purangi near Stratford,purangi,Stratford,Stratford,purangi,South Auckland | Taranaki,Taranaki,CONFIRM,Polling ED 'Stratford' confirms county
+Taranaki,Raupuha,Raupuha,Taranaki County,Low,Near New Plymouth/Inglewood; Taranaki County,,,,,,,CONFIRM,KG evidence identifies location and county
+Taranaki,Rotokare,Rotokare,Eltham County,Medium,Near Eltham (Rotokare Lake/Reserve area); Egmont ED,,,,rotokare,Taranaki,Taranaki,CONFIRM,Gazetteer land district 'Taranaki' consistent with district
+Taranaki,Rowan,Rowan,Egmont County,Medium,Gazetteer: Rowan locality (Taranaki province) at -39.397 174.112; Reed: named after Captain Rowan (NZ Wars); western coastal area south of Egmont,,,,rowan,Taranaki,Taranaki,CONFIRM,Gazetteer land district 'Taranaki' consistent with district
+Taranaki,Stanley,Stanley,Stratford County,High,Stratford ED (polling line 452 — Stanley Road); near Stratford,,,,,,,CONFIRM,Strong original evidence (small_cities / polling)
+Taranaki,Tatu,Tatu,Ohura County,Medium,Taumarunui ED (polling line 367); Tatu near Ohura/Taumarunui,tatu,Bay Of Plenty,,tatu,Taranaki,Taranaki,CONFIRM,Gazetteer land district 'Taranaki' consistent with district
+Taranaki,Tokirima Road,Tokirima Road,Ohura County,High,Taumarunui ED (polling line 368); Tokirima near Ohura,,,,,,,CONFIRM,Strong original evidence (small_cities / polling)
+Taranaki,Tuna,Tuna,Stratford County,Medium,Gazetteer: Tuna locality (Taranaki province) at -39.267 174.297; between Inglewood and Stratford; closer to Stratford,,,,tuna,Taranaki,Taranaki,CONFIRM,Gazetteer land district 'Taranaki' consistent with district
+Taranaki,Tututawa,Tututawa,Whangamomona County,Medium,Stratford ED (polling line 465); Tututawa in eastern ranges near Whangamomona,tututawa,Stratford,,tututawa,Taranaki,Taranaki,CONFIRM,Gazetteer land district 'Taranaki' consistent with district
+Taranaki,Waitaanga,Waitaanga,Whangamomona County,Medium,Near Whangamomona/Stratford east ranges; Stratford ED,waitangi,Westland,,waitaanga,Taranaki,Taranaki,CONFIRM,Gazetteer land district 'Taranaki' consistent with district
+Taranaki,Waitewhena (half-time) See under Hapurua,Waitewhena,Clifton County,Medium,Half-time school listed under Hapurua; same locality,,,,,,,CONFIRM,KG evidence identifies location and county
+Taranaki,York,York,Clifton County,Medium,Railway stations file: York Road near Manganui station on New Plymouth section (1883); Manganui near Waitara; Clifton County,,,,,,,CONFIRM,KG evidence identifies location and county
+Wanganui,Aratika,Aratika,Wanganui County,Low,Maori name on Whanganui River; no direct match found; Wanganui County probable,aratika,Westland,,aratika,Westland,,INVESTIGATE,No direct source or uncertain assignment; needs further research
+Wanganui,Awahou,Awahou,Kiwitea County,Medium,Gazetteer: Awahou North locality (Wellington province) at -40.179 175.805; Kiwitea County area,waihou,Tauranga,,awahou,South Auckland,,CONFIRM,KG evidence identifies location and county
+Wanganui,Awahou South,Awahou South,Kiwitea County,Medium,Gazetteer: Awahou South locality (Wellington province) at -40.224 175.794; Kiwitea County area,,,,awahou south,Wellington,,CONFIRM,KG evidence identifies location and county
+Wanganui,Bainesse,Bainesse,Kiwitea County,High,small_cities.csv: Bainesse → Kiwitea County (253),,,,bainesse,Wellington,,CONFIRM,Strong original evidence (small_cities / polling)
+Wanganui,Bluff Road,Bluff Road,Wanganui County,Low,Road school near Wanganui; no direct match; Wanganui County probable,,,,,,,INVESTIGATE,No direct source or uncertain assignment; needs further research
+Wanganui,Bull's District High School Primary (127) Secondary (12),Bulls,Rangitikei County,High,Rangitikei ED (polling line 610); Bulls not in borough list; Rangitikei County,bulls,Rangitiket,,bulls,Wellington,,CONFIRM,Strong original evidence (small_cities / polling)
+Wanganui,Carnarvon,Carnarvon,Oroua County,Medium,Gazetteer: Carnarvon locality (Wellington province) at -40.290 175.357; Himatangi area; Reed: Carnarvon estate near Himatangi; Oroua County,,,,carnarvon,Wellington,,CONFIRM,KG evidence identifies location and county
+Wanganui,Durie Hill,Durie Hill,Wanganui County,Medium,suburban_areas.csv: Wanganui suburban remainder (Durie Hill not listed as separate Town District); outside borough,,,,durie hill,Wellington,,CONFIRM,KG evidence identifies location and county
+Wanganui,Fitzherbert East,Fitzherbert East,Kairanga County,Medium,East of Palmerston North (Fitzherbert area); Kairanga County; Palmerston ED adjacent,,,,,,,CONFIRM,KG evidence identifies location and county
+Wanganui,Halcombe,Halcombe,Oroua County,High,Oroua ED (polling line 597); Oroua County,haleombe,Waimarino,,halcombe,Wellington,,CONFIRM,Strong original evidence (small_cities / polling)
+Wanganui,Herrington (side school) See under Umumuri,Herrington (side school,Wanganui County,High,See Umumuri entry; same county,,,,,,,CONFIRM,KG evidence identifies location and county
+Wanganui,Hiwinui,Hiwinui,Kiwitea County,Medium,Gazetteer: Hiwinui locality (Wellington province) at -40.271 175.704; Reed: named by Wanganui Education Board; Kiwitea County area,,,,hiwinui,Wellington,,CONFIRM,KG evidence identifies location and county
+Wanganui,Hukapapa,Hukapapa,Rangitikei County,Low,Near Taihape/upper Rangitikei; Rangitikei County,,,,hukapapa,Wellington,,CONFIRM,KG evidence identifies location and county
+Wanganui,Hunterville District High School Primary (129) Secondary (14),Hunterville,Rangitikei County,High,Rangitikei ED (polling line 611); Hunterville not in borough list,,,,hunterville,Wellington,,CONFIRM,Strong original evidence (small_cities / polling)
+Wanganui,Kaheke,Kaheke,Wanganui County,Low,Maori name; likely on Whanganui River; Wanganui County probable,taheke,Bay Of Islands,,,,,CONFIRM,KG evidence identifies location and county
+Wanganui,Kaitieke,Kaitieke,Kaitieke County,High,Name matches county; Kaitieke County (Auckland Province),kaiteke,Waimarino,,kaitieke,Wellington,,CONFIRM,KG evidence identifies location and county
+Wanganui,Kaitoke,Kaitoke,Wanganui County,High,"Gazetteer: Kaitoke locality (Wellington province) at -39.962 175.091; Reed: ""8km from Wanganui""; Whanganui River",kaitoke,Hutt,,kaitoke,Wellington | South Auckland | Hawke's Bay,,CONFIRM,KG evidence identifies location and county
+Wanganui,Kakariki,Kakariki,Rangitikei County,High,"Gazetteer: Kakariki locality (Wellington province) at -40.124 175.450; Reed: ""13km from Marton""; Rangitikei County",paekakariki,Otaki,,kakariki,Wellington,,CONFIRM,KG evidence identifies location and county
+Wanganui,Kelvin Grove,Kelvin Grove,Kairanga County,High,"Gazetteer: Kelvin Grove (Wellington province) at -40.330 175.640; Reed: ""5km from Palmerston North""; Kairanga County",,,,kelvin grove,Wellington,,CONFIRM,KG evidence identifies location and county
+Wanganui,Kimbolton,Kimbolton,Kiwitea County,Medium,Oroua ED (polling line 600); Kiwitea County by coordinate proximity (-40.12 175.73),kimbolton,Waimarino,,kimbolton,Wellington,,CONFIRM,Strong original evidence (small_cities / polling)
+Wanganui,Kiwitea,Kiwitea,Kiwitea County,High,Name matches county; small_cities.csv: Kiwitea area confirmed,,,,kiwitea,Wellington,,CONFIRM,Strong original evidence (small_cities / polling)
+Wanganui,Koeke,Koeke,Rangitikei County,High,"Gazetteer: Koeke Junction (Wellington province) at -39.697 175.593; Reed: ""32km from Taihape""; Rangitikei County",,,,,,,CONFIRM,KG evidence identifies location and county
+Wanganui,Lacy's Landing,Lacys Landing,Wanganui County,Low,River landing on Whanganui River; Wanganui County,,,,,,,CONFIRM,KG evidence identifies location and county
+Wanganui,Main South Road,Main South Road,Wanganui County,Low,Road school south of Wanganui; Wanganui County probable,,,,,,,CONFIRM,KG evidence identifies location and county
+Wanganui,Makino Road,Makino Road,Oroua County,Medium,small_cities.csv: Makino → Oroua County (163); Makino Road near Feilding,,,,,,,CONFIRM,Strong original evidence (small_cities / polling)
+Wanganui,Makohine Valley,Makohine Valley,Rangitikei County,Medium,Makohine Valley near Hunterville; Rangitikei County,,,,makohine valley,Wellington,,CONFIRM,KG evidence identifies location and county
+Wanganui,Mangarimu,Mangarimu,Rangitikei County,High,"Gazetteer: Mangarimu locality (Wellington province) at -39.940 175.855; Reed: ""early names Bull Creek and Beef Creek""; near Taihape; Rangitikei County",,,,mangarimu,Wellington,,CONFIRM,KG evidence identifies location and county
+Wanganui,Mangatiti Landing,Mangatiti Landing,Wanganui County,Low,River landing on Whanganui River; Wanganui County,,,,,,,CONFIRM,KG evidence identifies location and county
+Wanganui,Mangaweka,Mangaweka,Rangitikei County,High,Rangitikei ED (polling line 612 — Town Board Office Mangaweka); Rangitikei County,mangawai,Marsden,,mangaweka,Wellington,,CONFIRM,Strong original evidence (small_cities / polling)
+Wanganui,Manunui,Manunui,Kaitieke County,Medium,Near Taumarunui; Kaitieke County (Auckland Province); Waimarino ED area,mananui,Waimarino,,manunui,Wellington,,CONFIRM,KG evidence identifies location and county
+Wanganui,Maxwell,Maxwell,Wanganui County,Medium,Near Wanganui city on Whanganui River; Wanganui County,,,,maxwell,Wellington,,CONFIRM,KG evidence identifies location and county
+Wanganui,Nukumaru,Nukumaru,Waitotara County,Low,Coastal Waitotara area; Waitotara County probable,,,,nukumaru,Wellington,,CONFIRM,KG evidence identifies location and county
+Wanganui,Opaku,Opaku,Patea County,Medium,Near Patea (suburb of Patea); Patea ED (polling line 549 — Opaku Patea); Patea County,,,,opaku,Taranaki,,CONFIRM,Strong original evidence (small_cities / polling)
+Wanganui,Orautoha,Orautoha,Wanganui County,Low,Maori name; near Whanganui River; Wanganui County probable,,,,orautoha,Wellington,,CONFIRM,KG evidence identifies location and county
+Wanganui,Pohonui,Pohonui,Wanganui County,Low,Near Whanganui River; Wanganui County probable,,,,pohonui,Wellington,,CONFIRM,KG evidence identifies location and county
+Wanganui,Pokako,Pokako,Rangitikei County,Low,Near upper Rangitikei; Rangitikei County probable,,,,,,,CONFIRM,KG evidence identifies location and county
+Wanganui,Poukiore,Poukiore,Wanganui County,Low,On Whanganui River; Wanganui County probable,,,,poukiore,Wellington,,CONFIRM,KG evidence identifies location and county
+Wanganui,Pukekaha,Pukekaha,Kiwitea County,Low,Near Kiwitea area; Kiwitea County probable,,,,puketaha,South Auckland,,CONFIRM,KG evidence identifies location and county
+Wanganui,Pukeokahu,Pukeokahu,Rangitikei County,Low,Near upper Rangitikei (Pukeokahu is in the Rangitikei headwaters); Rangitikei County,,,,pukeokahu,Wellington,,CONFIRM,KG evidence identifies location and county
+Wanganui,Raetihi,Raetihi,Waimarino County,High,Waimarino ED (polling line 588 — Council Chambers Raetihi); Waimarino County,,,,raetihi,Wellington,,CONFIRM,Strong original evidence (small_cities / polling)
+Wanganui,Rangataua,Rangataua,Waimarino County,High,Waimarino ED (polling line 589 — Town Hall Rangataua); near Ohakune; Waimarino County,rangatua,Waimarino,,rangataua,Wellington,,CONFIRM,Strong original evidence (small_cities / polling)
+Wanganui,Rata-iti,Rata-iti,Rangitikei County,Low,Near Rata; same county; Rangitikei County,,,,rataiti,Wellington,,CONFIRM,KG evidence identifies location and county
+Wanganui,Retaruke,Retaruke,Kaitieke County,Low,Near Ohura/Kaitieke area; Kaitieke County probable,,,,retaruke,Wellington,,CONFIRM,KG evidence identifies location and county
+Wanganui,Rewa,Rewa,Wanganui County,Low,On Whanganui River; Wanganui County probable,,,,rewa,Wellington,,CONFIRM,KG evidence identifies location and county
+Wanganui,Rongotea,Rongotea,Rangitikei County,Medium,Rangitikei ED (polling line 614 — Coronation Hall Rongotca); Rangitikei County,,,,rongotea,Wellington,,CONFIRM,Strong original evidence (small_cities / polling)
+Wanganui,Ruahine,Ruahine,Rangitikei County,Low,Near Ruahine Range/Rangitikei area; Rangitikei County probable,,,,ruahine,Wellington | Southland,,CONFIRM,KG evidence identifies location and county
+Wanganui,Ruatiti,Ruatiti,Waimarino County,High,Waimarino ED (polling line 591); on Whanganui River; Waimarino County,ruatiti,Waimarino,,ruatiti,Wellington,,CONFIRM,Strong original evidence (small_cities / polling)
+Wanganui,South Makirikiri,South Makirikiri,Wanganui County,High,small_cities.csv: Makirikiri → Wanganui County (294); South Makirikiri is southern part of same area,,,,,,,CONFIRM,Strong original evidence (small_cities / polling)
+Wanganui,Stoney Creek,Stoney Creek,Oroua County,Medium,Near Feilding/Oroua area; Oroua County probable,,,,stony creek,Otago,,CONFIRM,KG evidence identifies location and county
+Wanganui,Taihape District High School Primary (296) Secondary (18) and Winiata (side school) (17),Taihape,Rangitikei County,High,Taihape not in borough list; Rangitikei County; Waimarino ED (polling line 574 — Taihape principal),taihape,Waimarino,,taihape,Wellington,,CONFIRM,Strong original evidence (small_cities / polling)
+Wanganui,Tangiwai,Tangiwai,Waimarino County,Medium,Near Ohakune/Waimarino on Whanganui River; Waimarino County,,,,tangiwai,Wellington,,CONFIRM,KG evidence identifies location and county
+Wanganui,Taoroa Road,Taoroa Road,Rangitikei County,High,Same area as Taoroa; Rangitikei County,,,,,,,CONFIRM,KG evidence identifies location and county
+Wanganui,Te Ara-Kura,Te Ara-Kura,Wanganui County,Low,Near Wanganui area; Maori name on Whanganui River; Wanganui County probable,,,,te arakura,Wellington,,CONFIRM,KG evidence identifies location and county
+Wanganui,Te Rena,Te Rena,Wanganui County,Low,Near Whanganui River; Wanganui County probable,,,,,,,CONFIRM,KG evidence identifies location and county
+Wanganui,Tiakitahuna,Tiakitahuna,Kairanga County,Medium,South of Palmerston North; Kairanga County; Palmerston ED (polling line 631),tiakitahuna,Palmerston,,tiakitahuna,Wellington,,CONFIRM,Strong original evidence (small_cities / polling)
+Wanganui,Tiritea,Tiritea,Kairanga County,Medium,Near Palmerston North (Tiritea Stream area); Kairanga County probable,,,,tiritea,Wellington,,CONFIRM,KG evidence identifies location and county
+Wanganui,Torere,Torere,Wanganui County,Low,On Whanganui River; Wanganui County probable,,,,,,,CONFIRM,KG evidence identifies location and county
+Wanganui,Tunakotekote,Tunakotekote,Wanganui County,Low,On Whanganui River; Wanganui County probable,,,,tunakotekote,Wellington,,CONFIRM,KG evidence identifies location and county
+Wanganui,Umumuri (81) and Herrington (side school) (14),Umumuri and Herrington (side school,Wanganui County,Medium,Near Wanganui on Whanganui River; Wanganui County,,,,,,,CONFIRM,KG evidence identifies location and county
+Wanganui,Upokongaro,Upokongaro,Wanganui County,High,On Whanganui River near Wanganui; Waimarino ED (polling line 593); Wanganui County,,,,upokongaro,Wellington,,CONFIRM,Strong original evidence (small_cities / polling)
+Wanganui,Upper Kawhatau,Upper Kawhatau,Kiwitea County,Medium,Same area as Kawhatau; Kiwitea County,,,,upper kawhātau,Wellington,,CONFIRM,KG evidence identifies location and county
+Wanganui,Upper Retaruke,Upper Retaruke,Kaitieke County,Low,Same area as Retaruke; Kaitieke County,,,,,,,CONFIRM,KG evidence identifies location and county
+Wanganui,Upper Tutaenui,Upper Tutaenui,Rangitikei County,High,small_cities.csv: Tutaenui Upper → Rangitikei County (214),,,,,,,CONFIRM,Strong original evidence (small_cities / polling)
+Wanganui,Warrengate,Warrengate,Kairanga County,Low,Near Palmerston North (Kairanga direction); Kairanga County probable,,,,,,,CONFIRM,KG evidence identifies location and county
+Wanganui,Waverley,Waverley,Patea County,Medium,Patea ED (polling line 550 — Town Hall Waverley); Patea County,waverley,Patea,Patea,waverley,Otago | Wellington | Southland,,CONFIRM,Polling ED 'Patea' confirms county
+Wanganui,Western Rangitikei,Western Rangitikei,Rangitikei County,Medium,Name contains Rangitikei; Rangitikei County,,,,,,,CONFIRM,KG evidence identifies location and county
+Wanganui,Whaka Road,Whaka Road,Wanganui County,Low,Road school near Wanganui; Wanganui County probable,,,,,,,CONFIRM,KG evidence identifies location and county
+Wanganui,Winiata (side school) see under Taihape,Winiata (side school,Rangitikei County,High,Side school of Taihape DHS; same county,,,,,,,CONFIRM,KG evidence identifies location and county
+Wellington,Blind River,Blind River,Awatere County,Medium,Blind River in the Awatere valley south of Seddon; Awatere County,,,,blind river,Marlborough,Marlborough,CONFIRM,Gazetteer land district 'Marlborough' consistent with district
+Wellington,Brancott,Brancott,Marlborough County,Medium,Brancott Valley near Blenheim; Marlborough County,,,,,,,CONFIRM,KG evidence identifies location and county
+Wellington,Carluke,Carluke,Marlborough County,High,Polling line 710: Carluke (Timatanga Post-office) near Havelock; Marlborough County; in Wellington ED admin despite Nelson ED polling,carluke,Nelson,,carluke,Marlborough,Marlborough,CONFIRM,Gazetteer land district 'Marlborough' consistent with district
+Wellington,Dillon's Point,Dillons Point,Marlborough County,Medium,Dillon's Point on Wairau River near Blenheim; Marlborough County,,,,,,,CONFIRM,KG evidence identifies location and county
+Wellington,Eli Bay,Eli Bay,Sounds County,Medium,Eli Bay in Marlborough Sounds; Sounds County,,,,elfin bay,Southland,,CONFIRM,KG evidence identifies location and county
+Wellington,Fabian's Valley,Fabians Valley,Marlborough County,Medium,Fabian's Valley near Blenheim in Marlborough County,,,,,,,CONFIRM,KG evidence identifies location and county
+Wellington,Fairhall,Fairhall,Marlborough County,High,small_cities.csv: Fairhall Valley → Marlborough County (112); Wairau ED (polling line 867),fairhall,Wairau,Wairau,fairhall,Marlborough,Marlborough,CONFIRM,Polling ED 'Wairau' confirms county
+Wellington,Finnie's Creek,Finnies Creek,Marlborough County,Low,Small creek near Blenheim; Marlborough County probable,,,,,,,CONFIRM,KG evidence identifies location and county
+Wellington,Four-fathom Bay,Four-fathom Bay,Sounds County,Low,Remote Sounds bay; Sounds County,,,,,,,CONFIRM,KG evidence identifies location and county
+Wellington,French Pass,French Pass,Sounds County,High,French Pass at tip of D'Urville Island; Sounds County; polling line 714,french pass,Nelson,,french pass,South Auckland,,CONFIRM,Strong original evidence (small_cities / polling)
+Wellington,Havelock,Havelock,Marlborough County,High,Wairau ED (polling line 872 — Courthouse Havelock); not in borough list; Marlborough County,havelock,Wairau,Wairau,havelock,Marlborough,Marlborough,CONFIRM,Polling ED 'Wairau' confirms county
+Wellington,Hillersden,Hillersden,Marlborough County,Medium,Hillersden Valley near Blenheim; Marlborough County,,,,hillersden,Marlborough,Marlborough,CONFIRM,Gazetteer land district 'Marlborough' consistent with district
+Wellington,Jordan,Jordan,Awatere County,High,Polling line 882: Jordan Awatere — explicitly labelled Awatere; Awatere County,,,,,,,CONFIRM,Strong original evidence (small_cities / polling)
+Wellington,Kaiuma,Kaiuma,Sounds County,Medium,Kaiuma Bay in Queen Charlotte Sound; Sounds County,,,,,,,CONFIRM,KG evidence identifies location and county
+Wellington,Kakapou Bay,Kakapou Bay,Sounds County,Low,Remote Sounds bay; Sounds County,,,,,,,CONFIRM,KG evidence identifies location and county
+Wellington,Kekerangu,Kekerangu,Awatere County,High,Wairau ED (polling line 880 — Kekerangu); coastal south Marlborough; Awatere County,kekerangu,Wairau,,kekerangu,Marlborough,Marlborough,CONFIRM,Gazetteer land district 'Marlborough' consistent with district
+Wellington,Koromiko,Koromiko,Sounds County,High,Wairau ED (polling line 875 — Koromiko); near Picton; Sounds County,koromiko,Wairau,,koromiko,Marlborough,Marlborough,CONFIRM,Gazetteer land district 'Marlborough' consistent with district
+Wellington,Linkwater,Linkwater,Sounds County,High,Linkwater at head of Queen Charlotte Sound; Sounds County,,,,linkwater,Marlborough,Marlborough,CONFIRM,Gazetteer land district 'Marlborough' consistent with district
+Wellington,Maori Bay,Maori Bay,Sounds County,Low,Remote Sounds bay; Sounds County,,,,,,,CONFIRM,KG evidence identifies location and county
+Wellington,Marathon,Marathon,Sounds County,Low,Sounds County probable (remote location),marton,Rangitiket,,,,,CONFIRM,KG evidence identifies location and county
+Wellington,Marlboroughtown,Marlboroughtown,Marlborough County,High,small_cities.csv: Spring Creek/Marlboroughtown → Marlborough County; Wairau ED (polling line 865),,,,,,,CONFIRM,Strong original evidence (small_cities / polling)
+Wellington,Ocean Bay,Ocean Bay,Sounds County,Medium,Ocean Bay in Marlborough Sounds; Sounds County,,,,,,,CONFIRM,KG evidence identifies location and county
+Wellington,Onamalutu,Onamalutu,Marlborough County,High,Wairau ED (polling line 870); Onamalutu Valley near Blenheim; Marlborough County,onamalutu,Wairau,Wairau,,,,CONFIRM,Polling ED 'Wairau' confirms county
+Wellington,Pelorus Bridge,Pelorus Bridge,Marlborough County,Medium,Pelorus Bridge on Pelorus River; inland Marlborough; Marlborough County,,,,pelorus bridge,Marlborough,Marlborough,CONFIRM,Gazetteer land district 'Marlborough' consistent with district
+Wellington,Renwick,Renwick,Marlborough County,High,small_cities.csv: Renwicktown → Marlborough County (350); Wairau ED (polling line 868),,,,renwick,Marlborough,Marlborough,CONFIRM,Gazetteer land district 'Marlborough' consistent with district
+Wellington,Richmond Brook,Richmond Brook,Marlborough County,High,Wairau ED (polling line 881); Richmond Brook near Blenheim; Marlborough County,,,,,,,CONFIRM,Strong original evidence (small_cities / polling)
+Wellington,Riverlands,Riverlands,Marlborough County,Medium,Riverlands near Blenheim; Marlborough County,,,,riverlands,Marlborough,Marlborough,CONFIRM,Gazetteer land district 'Marlborough' consistent with district
+Wellington,Ronga Valley,Ronga Valley,Sounds County,Low,Ronga River flows into Pelorus Sound; Sounds County probable,,,,,,,CONFIRM,KG evidence identifies location and county
+Wellington,Saratoga Bay,Saratoga Bay,Sounds County,Low,Saratoga Bay in Marlborough Sounds; Sounds County,,,,,,,CONFIRM,KG evidence identifies location and county
+Wellington,Sea View,Sea View,Awatere County,Medium,Sea View on Awatere coast south of Blenheim; Awatere County probable,,,,seaview,Canterbury | Westland | Wellington,Wellington,CONFIRM,Gazetteer land district 'Canterbury | Westland | Wellington' consistent with district
+Wellington,Stephens Island,Stephens Island,Sounds County,Low,Lighthouse keeper school on Stephens Island; Sounds County,,,,,,,CONFIRM,KG evidence identifies location and county
+Wellington,Te Rou,Te Rou,Sounds County,Low,Te Rou in Marlborough Sounds; Sounds County,,,,te rou,Marlborough,Marlborough,CONFIRM,Gazetteer land district 'Marlborough' consistent with district
+Wellington,Ugbrooke,Ugbrooke,Awatere County,Medium,Ugbrooke in Awatere Valley; Awatere County,,,,,,,CONFIRM,KG evidence identifies location and county
+Wellington,Upton Downs,Upton Downs,Awatere County,Low,Upland Awatere area; Awatere County,,,,,,,CONFIRM,KG evidence identifies location and county
+Wellington,Wairau Bar,Wairau Bar,Marlborough County,Medium,Wairau Bar at Wairau River mouth; Marlborough County,,,,wairau bar,Marlborough,Marlborough,CONFIRM,Gazetteer land district 'Marlborough' consistent with district
+Wellington,Wairau Pa,Wairau Pa,Marlborough County,Medium,Wairau Pa near Blenheim; Marlborough County,,,,wairau pā,Marlborough,Marlborough,CONFIRM,Gazetteer land district 'Marlborough' consistent with district
+Wellington,Wantwood,Wantwood,Marlborough County,Medium,Wantwood in upper Wairau Valley; Marlborough County,,,,,,,CONFIRM,KG evidence identifies location and county
+Wellington,Wharanui,Wharanui,Awatere County,Medium,Wharanui on Awatere coast; Awatere County,,,,wharanui,Marlborough,Marlborough,CONFIRM,Gazetteer land district 'Marlborough' consistent with district
+Wellington,Woodbank,Woodbank,Marlborough County,Low,Woodbank in Marlborough area; Marlborough County probable,,,,,,,CONFIRM,KG evidence identifies location and county
+Wellington,East Taratahi,East Taratahi,Wairarapa South County,Medium,Near Carterton/Taratahi area; Wairarapa South County,west taratahi,Hawke'S Bay,,,,,CONFIRM,KG evidence identifies location and county
+Wellington,Ponatahi,Ponatahi,Wairarapa South County,Medium,Near Greytown in Wairarapa South; Wairarapa South County,ponatahi,Hawke'S Bay,,ponatahi,Wellington,Wellington,CONFIRM,Gazetteer land district 'Wellington' consistent with district
+Wellington,Horoeka,Horoeka,Eketahuna County,Medium,Near Pahiatua/Eketahuna area; Eketahuna County probable,,,,horoeka,Wellington,Wellington,CONFIRM,Gazetteer land district 'Wellington' consistent with district
+Wellington,Waione,Waione,Eketahuna County,Low,Near Alfredton/Eketahuna; Eketahuna County probable,,,,waione,Wellington,Wellington,CONFIRM,Gazetteer land district 'Wellington' consistent with district
+Wellington,Kaiparoro,Kaiparoro,Eketahuna County,Medium,Near Eketahuna in hill country; Eketahuna County,,,,kaiparoro,Wellington,Wellington,CONFIRM,Gazetteer land district 'Wellington' consistent with district
+Wellington,Mangamahoe,Mangamahoe,Eketahuna County,Low,Near Eketahuna area; Eketahuna County probable,,,,,,,CONFIRM,KG evidence identifies location and county
+Wellington,Mangaone,Mangaone,Eketahuna County,Low,Near Pahiatua/Eketahuna border; Eketahuna County probable,,,,mangaone,Wellington,Wellington,CONFIRM,Gazetteer land district 'Wellington' consistent with district
+Wellington,Putara,Putara,Pahiatua County,Low,Near Pahiatua in the bush; Pahiatua County probable,,,,putara,Wellington,Wellington,CONFIRM,Gazetteer land district 'Wellington' consistent with district
+Wellington,Saunders Road,Saunders Road,Eketahuna County,Low,Road school near Eketahuna; Eketahuna County probable,,,,,,,CONFIRM,KG evidence identifies location and county
+Wellington,Tane,Tane,Eketahuna County,Low,Near Eketahuna area; Eketahuna County probable,,,,tane,Wellington,Wellington,CONFIRM,Gazetteer land district 'Wellington' consistent with district
+Wellington,Waihoki Valley,Waihoki Valley,Eketahuna County,Low,Waihoki Valley near Eketahuna; Eketahuna County probable,,,,waihoki valley,Wellington,Wellington,CONFIRM,Gazetteer land district 'Wellington' consistent with district
+Wellington,Kahautara,Kahautara,Featherston County,Medium,Near Featherston in coastal Wairarapa; Featherston County,kahutara,Napier,,kahautara,Wellington,Wellington,CONFIRM,Gazetteer land district 'Wellington' consistent with district
+Wellington,Kaiwaiwai,Kaiwaiwai,Featherston County,High,Polling line 99 — Kaiwaiwai in Wairarapa ED; Featherston County coastal,kaiwaiwai,Napier,,kaiwaiwai,Wellington,Wellington,CONFIRM,Gazetteer land district 'Wellington' consistent with district
+Wellington,South Featherston,South Featherston,Featherston County,Medium,South of Featherston; Featherston County,,,,,,,CONFIRM,KG evidence identifies location and county
+Wellington,Eastern Hutt,Eastern Hutt,Hutt County,Medium,East side of Hutt Valley; outside Lower Hutt Borough; Hutt County,,,,,,,CONFIRM,KG evidence identifies location and county
+Wellington,Muhunoa East,Muhunoa East,Horowhenua County,Medium,Near Levin in Horowhenua; Horowhenua County,,,,muhunoa east,Wellington,Wellington,CONFIRM,Gazetteer land district 'Wellington' consistent with district
+Wellington,Dyer,Dyer,Wairarapa South County,Low,Near Martinborough area in Wairarapa South; Wairarapa South County,,,,,,,CONFIRM,KG evidence identifies location and county
+Wellington,Martinborough,Martinborough,Wairarapa South County,High,Polling line 436 — Town Hall Martinborough in Wairarapa ED; not in borough list; Wairarapa South County,,,,martinborough,Wellington,Wellington,CONFIRM,Gazetteer land district 'Wellington' consistent with district
+Wellington,Tablelands,Tablelands,Wairarapa South County,Low,Near Martinborough area; Wairarapa South County probable,,,,tablelands,Wellington | Gisborne,Wellington,CONFIRM,Gazetteer land district 'Wellington | Gisborne' consistent with district
+Wellington,Dreyers Rock,Dreyers Rock,Mauriceville County,High,Gazetteer: Dreyers Rock (Wellington province) at -40.785 175.775; Reed: near Mauriceville; Mauriceville County,,,,dreyers rock,Wellington,Wellington,CONFIRM,Gazetteer land district 'Wellington' consistent with district
+Wellington,Fernridge,Fernridge,Masterton County,Medium,Wairarapa ED (polling line 121 — The Public School Fernridge); Masterton County area,fernside,Kaiapot,,,,,CONFIRM,Strong original evidence (small_cities / polling)
+Wellington,Mangapakeha,Mangapakeha,Castlepoint County,Low,Mangapakeha Survey District is east of Masterton near Castlepoint; Castlepoint County,mangapakeha,Hawke'S Bay,,mangapakeha,Wellington,Wellington,CONFIRM,Gazetteer land district 'Wellington' consistent with district
+Wellington,Mauriceville West,Mauriceville West,Mauriceville County,High,Near Mauriceville; Mauriceville County,,,,mauriceville west,Wellington,Wellington,CONFIRM,Gazetteer land district 'Wellington' consistent with district
+Wellington,Mikimiki,Mikimiki,Masterton County,High,Polling line 420 — Mikimiki Upper Opaki in Wairarapa ED; Masterton County; Mikimiki Survey District,,,,mikimiki,Wellington,Wellington,CONFIRM,Gazetteer land district 'Wellington' consistent with district
+Wellington,Poroporo,Poroporo,Masterton County,Low,Near Masterton; Masterton County probable,,,,poroporo,South Auckland,,CONFIRM,KG evidence identifies location and county
+Wellington,Te Wharau,Te Wharau,Masterton County,High,Wairarapa ED (polling line 422 — The Public School Te Wharau); Masterton County,,,,te wharau,Wellington | North Auckland,Wellington,CONFIRM,Gazetteer land district 'Wellington | North Auckland' consistent with district
+Wellington,Te Whiti,Te Whiti,Masterton County,Low,Small school near Masterton; Masterton County probable,,,,te whaiti,South Auckland,,CONFIRM,KG evidence identifies location and county
+Wellington,Waingawa,Waingawa,Masterton County,High,Wairarapa ED (polling line 422 — The Public School Waingawa); Masterton County,,,,waingawa,Wellington,Wellington,CONFIRM,Gazetteer land district 'Wellington' consistent with district
+Wellington,Whareama,Whareama,Castlepoint County,Medium,Near Castlepoint coast; Castlepoint County probable,wharerata,Pahiatua,,whareama,Wellington,Wellington,CONFIRM,Gazetteer land district 'Wellington' consistent with district
+Wellington,Hinemoa,Hinemoa,Pahiatua County,Low,Near Pahiatua in hill country; Pahiatua County probable,,,,,,,CONFIRM,KG evidence identifies location and county
+Wellington,Kakariki,Kakariki,Pahiatua County,Medium,Near Pahiatua in Wellington ED Pahiatua section; Pahiatua County,paekakariki,Otaki,,kakariki,Wellington,Wellington,CONFIRM,Gazetteer land district 'Wellington' consistent with district
+Wellington,Kohiku,Kohiku,Pahiatua County,Low,Grade 0; near Pahiatua; Pahiatua County probable,,,,kohiku,Wellington,Wellington,CONFIRM,Gazetteer land district 'Wellington' consistent with district
+Wellington,Korora (14) and Pukehinau (19),Korora and Pukehinau,Pahiatua County,Medium,Near Pahiatua/Akitio boundary; Pahiatua County,,,,,,,CONFIRM,KG evidence identifies location and county
+Wellington,Makairo,Makairo,Pahiatua County,Low,Small rural school near Pahiatua; Pahiatua County probable,,,,,,,CONFIRM,KG evidence identifies location and county
+Wellington,Makomako,Makomako,Pahiatua County,Medium,Near Pahiatua; Pahiatua County probable,,,,makomako,Wellington | South Auckland,Wellington,CONFIRM,Gazetteer land district 'Wellington | South Auckland' consistent with district
+Wellington,Maungahao,Maungahao,Pahiatua County,Low,Near Woodville/Pahiatua area; Pahiatua County probable,,,,mangahao,Wellington,Wellington,CONFIRM,Gazetteer land district 'Wellington' consistent with district
+Wellington,Marima,Marima,Pahiatua County,Low,Small Grade 1 near Pahiatua; Pahiatua County probable,maimai,Grey,,marima,Wellington,Wellington,CONFIRM,Gazetteer land district 'Wellington' consistent with district
+Wellington,Ngaturi,Ngaturi,Pahiatua County,Medium,Near Pahiatua in Wellington ED section; Pahiatua County,,,,ngaturi,Wellington,Wellington,CONFIRM,Gazetteer land district 'Wellington' consistent with district
+Wellington,Nikau,Nikau,Pahiatua County,Low,Small Grade 1 near Pahiatua; Pahiatua County probable,,,,nikau,Nelson | Wellington,Wellington,CONFIRM,Gazetteer land district 'Nelson | Wellington' consistent with district
+Wellington,Puketoi,Puketoi,Pahiatua County,Low,Puketoi Range area near Pahiatua; Pahiatua County,,,,puketoi,Wellington,Wellington,CONFIRM,Gazetteer land district 'Wellington' consistent with district
+Wellington,Black Rock,Black Rock,Sounds County,Low,Remote Sounds bay school; Sounds County,,,,,,,CONFIRM,KG evidence identifies location and county
+Wellington,Coniston,Coniston,Sounds County,Low,Coniston in Marlborough Sounds; Sounds County,,,,,,,CONFIRM,KG evidence identifies location and county
+Wellington,Endeavour Inlet,Endeavour Inlet,Sounds County,High,Endeavour Inlet in Queen Charlotte Sound; Sounds County,,,,endeavour inlet,Marlborough,Marlborough,CONFIRM,Gazetteer land district 'Marlborough' consistent with district
+Wellington,Fitzroy Bay,Fitzroy Bay,Sounds County,Low,Fitzroy Bay in Marlborough Sounds; Sounds County,,,,,,,CONFIRM,KG evidence identifies location and county
+Wellington,Havelock Surburban,Havelock Surburban,Marlborough County,Medium,Near Havelock; Marlborough County,,,,,,,CONFIRM,KG evidence identifies location and county
+Wellington,Hitaua,Hitaua,Sounds County,Low,Remote Sounds location; Sounds County,,,,,,,CONFIRM,KG evidence identifies location and county
+Wellington,Hurituni,Hurituni,Sounds County,Low,Remote Sounds location; Sounds County,,,,,,,CONFIRM,KG evidence identifies location and county
+Wellington,Maude Island,Maude Island,Sounds County,High,Maude Island in Marlborough Sounds; Sounds County,,,,,,,CONFIRM,KG evidence identifies location and county
+Wellington,Nopera Bay,Nopera Bay,Sounds County,Low,Nopera Bay in Marlborough Sounds; Sounds County,,,,,,,CONFIRM,KG evidence identifies location and county
+Wellington,Ohana,Ohana,Sounds County,Low,Remote Sounds location; Sounds County,owhanga,Waimarino,,ohana,Nelson,,CONFIRM,KG evidence identifies location and county
+Wellington,Onauku,Onauku,Sounds County,Medium,Onauku Bay in Marlborough Sounds; Sounds County,,,,,,,CONFIRM,KG evidence identifies location and county
+Wellington,Resolution Bay,Resolution Bay,Sounds County,High,Resolution Bay in Queen Charlotte Sound; Sounds County,,,,,,,CONFIRM,KG evidence identifies location and county
+Wellington,Rocks,Rocks,Sounds County,Low,Remote Sounds location; Sounds County,,,,,,,CONFIRM,KG evidence identifies location and county
+Wellington,Te Weka,Te Weka,Sounds County,Medium,Te Weka Bay in Marlborough Sounds; Sounds County,te wera,Stratford,,,,,CONFIRM,KG evidence identifies location and county
+Wellington,Tira Ora,Tira Ora,Sounds County,Low,Remote Sounds location; Sounds County,,,,,,,CONFIRM,KG evidence identifies location and county
+Wellington,Waikawa Pah,Waikawa Pah,Sounds County,Medium,Waikawa Bay near Picton; Sounds County,,,,,,,CONFIRM,KG evidence identifies location and county
+Wellington,Waitaria,Waitaria,Sounds County,Medium,Waitaria Bay in Marlborough Sounds; Sounds County,waitotara,Patea,,waitara,Taranaki,,CONFIRM,KG evidence identifies location and county
+Wellington,Whareatea Bay,Whareatea Bay,Sounds County,Low,Whareatea Bay in Marlborough Sounds; Sounds County,,,,,,,CONFIRM,KG evidence identifies location and county
+Wellington,Wharehunga,Wharehunga,Sounds County,Low,Remote Sounds location; Sounds County,,,,wharepūhunga,South Auckland,,CONFIRM,KG evidence identifies location and county
+Wellington,Akaroa Road,Akaroa Road,Akitio County,Low,Gazetteer: Akaroa locality (Wellington province) near Pongaroa at -40.549 176.261; Akitio County area,,,,,,,CONFIRM,KG evidence identifies location and county
+Wellington,Bulwer,Bulwer,Sounds County,High,Bulwer on D'Urville Island; Sounds County,,,,bulwer,Nelson,,CONFIRM,KG evidence identifies location and county
+Wellington,Castlepoint,Castlepoint,Castlepoint County,High,Gazetteer: Castlepoint in Block X Castlepoint Survey District (Wellington province); Castlepoint County,,,,castlepoint,Wellington,Wellington,CONFIRM,Gazetteer land district 'Wellington' consistent with district
+Wellington,Catherine's Cove,Catherines Cove,Sounds County,Low,Remote Sounds cove; Sounds County,,,,,,,CONFIRM,KG evidence identifies location and county
+Wellington,Kaitoke,Kaitoke,Hutt County,High,Hutt ED (polling line 665 — The Public School Kaitoke); Hutt County,kaitoke,Hutt,Hutt,kaitoke,Wellington | South Auckland | Hawke's Bay,Wellington,CONFIRM,Polling ED 'Hutt' confirms county
+Wellington,Karapoti,Karapoti,Hutt County,Low,Near Upper Hutt in Tararua foothills; Hutt County probable,,,,,,,CONFIRM,KG evidence identifies location and county
+Wellington,Korokoro North,Korokoro North,Hutt County,High,Korokoro near Petone; Hutt County; Hutt ED (polling line 654 — The Public School Korokoro),,,,,,,CONFIRM,Strong original evidence (small_cities / polling)
+Wellington,Makerua,Makerua,Horowhenua County,Medium,Near Levin/Horowhenua; Horowhenua County,,,,makerua,Wellington,Wellington,CONFIRM,Gazetteer land district 'Wellington' consistent with district
+Wellington,Mangaroa,Mangaroa,Hutt County,High,small_cities.csv: Nainai/Mangaroa area → Hutt County; gazetteer confirmed Mangaroa in Hutt area,manaroa,Wairau,,mangaroa,Taranaki | Wellington,Wellington,CONFIRM,Gazetteer land district 'Taranaki | Wellington' consistent with district
+Wellington,Ngamuka,Ngamuka,Sounds County,Low,Grade 0 remote school; Sounds County probable,,,,mangamuka,North Auckland,,CONFIRM,KG evidence identifies location and county
+Wellington,Pahautanui,Pahautanui,Makara County,Medium,Near Porirua; Makara County,,,,pahautanui,Wellington,Wellington,CONFIRM,Gazetteer land district 'Wellington' consistent with district
+Wellington,Pukatea Bay,Pukatea Bay,Sounds County,Low,Remote Sounds bay; Sounds County,,,,,,,CONFIRM,KG evidence identifies location and county
+Wellington,St. Lawerence,St. Lawerence,Sounds County,Low,St. Lawrence Bay in Marlborough Sounds; Sounds County,,,,,,,CONFIRM,KG evidence identifies location and county
+Wellington,Stokes Valley,Stokes Valley,Hutt County,High,Near Upper Hutt; Hutt County; Hutt ED (polling line 660 — The Public School Taita adjacent area),,,,stokes valley,Wellington,Wellington,CONFIRM,Gazetteer land district 'Wellington' consistent with district
+Wellington,Te Marua,Te Marua,Hutt County,Medium,Near Upper Hutt; Hutt County,,,,te mārua,Wellington,Wellington,CONFIRM,Gazetteer land district 'Wellington' consistent with district
+Wellington,Upper Hutt,Upper Hutt,Hutt County,High,Hutt ED (polling line 664 — Courthouse Upper Hutt); not in borough list in 1918; Hutt County,upper hutt,Hutt,Hutt,upper hutt,Wellington,Wellington,CONFIRM,Polling ED 'Hutt' confirms county
+Wellington,Waikawa Bay,Waikawa Bay,Sounds County,Medium,Waikawa Bay near Picton; Sounds County,,,,,,,CONFIRM,KG evidence identifies location and county
+Wellington,Wallaceville,Wallaceville,Hutt County,High,Hutt ED (polling line 663 — The Public Hall Wallaceville); small_cities: Wallaceville Hutt,,,,wallaceville,Wellington,Wellington,CONFIRM,Gazetteer land district 'Wellington' consistent with district
+Southland,Ardlussa,Ardlussa,Southland County,Medium,Polling: Wakatipu ED; sheep station in Waikaia Valley area,,,,ardlussa,Southland,Southland,CONFIRM,Gazetteer land district 'Southland' consistent with district
+Southland,Arthur's Point,Arthurs Point,Lake County,High,Polling: Wakatipu ED; near Queenstown,arthur’s point,Wakatipu,Wakatipu,arthurs point,Otago,,CONFIRM,Polling ED 'Wakatipu' confirms county
+Southland,Awarua Plains,Awarua Plains,Southland County,High,"Polling: Awarua ED (line 1409 ""Woodend, Awarua Plains"")",,,,awarua plains,Southland,Southland,CONFIRM,Gazetteer land district 'Southland' consistent with district
+Southland,Caroline,Caroline,Wallace County,High,Polling: Wallace ED (line 1393),caroline,Wallace,Wallace,caroline,Southland,Southland,CONFIRM,Polling ED 'Wallace' confirms county
+Southland,Chatton North,Chatton North,Southland County,High,"small_cities: Chatton, Southland, 116",,,,chatton north,Southland,Southland,CONFIRM,Gazetteer land district 'Southland' consistent with district
+Southland,Crown Terrace,Crown Terrace,Lake County,High,Polling: Wakatipu ED (line 1330),,,,,,,CONFIRM,Strong original evidence (small_cities / polling)
+Southland,Croydon,Croydon,Southland County,High,"small_cities: Croydon Bush, Southland, 186; polling Wakatipu ED",,,,croydon,Southland | Taranaki,Southland,CONFIRM,Gazetteer land district 'Southland | Taranaki' consistent with district
+Southland,Daere,Daere,Southland County,Medium,Dacre near Winton in Southland County; no direct source but well-known Southland locality,,,,,,,INVESTIGATE,No direct source or uncertain assignment; needs further research
+Southland,Eastern Bush,Eastern Bush,Wallace County,High,Polling: Wallace ED (line 1385),,,,eastern bush,Southland,Southland,CONFIRM,Gazetteer land district 'Southland' consistent with district
+Southland,East Limehills,East Limehills,Southland County,High,Near Limehills (small_cities: Southland); east variant in same county,,,,,,,CONFIRM,Strong original evidence (small_cities / polling)
+Southland,Edendale,Edendale,Southland County,High,"LINZ gazetteer: Southland, -46.31477, 168.786081",greendale,Selwyn,,edendale,Southland,Southland,CONFIRM,Gazetteer land district 'Southland' consistent with district
+Southland,Elderslie,Elderslie,Southland County,High,"Polling: Awarua ED (line 1422 ""Elderslie, Lochiel"")",ellerslie,Manukau,,elderslie,Otago,,CONFIRM,Strong original evidence (small_cities / polling)
+Southland,Ermedale,Ermedale,Wallace County,High,Polling: Wallace ED (line 1404),ermedale,Wallace,Wallace,ermedale,Southland,Southland,CONFIRM,Polling ED 'Wallace' confirms county
+Southland,Etavale,Etavale,Wallace County,Low,"AJHR 1919 appendix: between Ermedale (Wallace) and Fairfax (Wallace) alphabetically; near Nightcaps coalfield. Also spelled ""Etalvale"" in AJHR",,,,,,,CONFIRM,Strong original evidence (small_cities / polling)
+Southland,Etavale No.2,Etavale No.2,Wallace County,Low,Same basis as Etavale,,,,,,,CONFIRM,KG evidence identifies location and county
+Southland,Feldwick,Feldwick,Wallace County,High,Polling: Wallace ED (line 1397),feldwick,Wallace,Wallace,feldwick,Southland,Southland,CONFIRM,Polling ED 'Wallace' confirms county
+Southland,Ferndale,Ferndale,Southland County,High,"LINZ gazetteer: Southland, -46.189834, 168.973202; 11km from Mataura",,,,ferndale,Taranaki | Southland,Southland,CONFIRM,Gazetteer land district 'Taranaki | Southland' consistent with district
+Southland,Ferndunlaw,Ferndunlaw,Wallace County,High,"LINZ gazetteer: hill at -46.131314, 167.883652 in Longwood Forest SE of Otautau",,,,,,,CONFIRM,KG evidence identifies location and county
+Southland,Fernhills,Fernhills,Wallace County,Medium,"Railway file: ""Fernhill Tramway"" / ""Fernhill Branch"" linked to Nightcaps coalfield; AJHR appendix between Ferndunlaw (Wallace) and Five Rivers Siding (Southland)",,,,fernhill,Otago | Hawke's Bay,,CONFIRM,Strong original evidence (small_cities / polling)
+Southland,Five Rivers Siding,Five Rivers Siding,Southland County,High,"Polling: Wakatipu ED ""Goods-shed, Five Rivers Railway-station""; small_cities: Five Rivers, Southland, 125",,,,,,,CONFIRM,Strong original evidence (small_cities / polling)
+Southland,Forest Hill North,Forest Hill North,Southland County,High,"Polling: Awarua ED (line 1428 ""North Forest Hill""); also South Forest Hill in Awarua ED",,,,,,,CONFIRM,Strong original evidence (small_cities / polling)
+Southland,Gibbston,Gibbston,Lake County,High,Polling: Wakatipu ED; near Arrow River,gibbston,Wakatipu,Wakatipu,gibbston,Otago,,CONFIRM,Polling ED 'Wakatipu' confirms county
+Southland,Gladfield,Gladfield,Wallace County,High,Polling: Wallace ED (line 1402),gladfield,Wallace,Wallace,gladfield,Southland,Southland,CONFIRM,Polling ED 'Wallace' confirms county
+Southland,Glencoe,Glencoe,Southland County,High,"LINZ gazetteer: Southland, -46.192107, 168.646236",,,,glencoe,Southland,Southland,CONFIRM,Gazetteer land district 'Southland' consistent with district
+Southland,Glen Dhu,Glen Dhu,Southland County,Low,"AJHR 1919: Grade 0, 3 pupils; alphabetical position between Glencoe (Southland) and Glenham (Southland)",,,,glendhu,Wellington,,INVESTIGATE,No direct source or uncertain assignment; needs further research
+Southland,Haldane,Haldane,Southland County,Medium,Catlins area locality in eastern Southland; near Fortrose (Southland County),,,,haldane,Southland,Southland,CONFIRM,Gazetteer land district 'Southland' consistent with district
+Southland,Hamilton Burn,Hamilton Burn,Wallace County,High,Polling: Wallace ED (line 1399),,,,,,,CONFIRM,Strong original evidence (small_cities / polling)
+Southland,Happy Valley,Happy Valley,Wallace County,High,"LINZ gazetteer: Southland locality at -46.132447, 167.774598 (near Otautau); second valley at -46.020806, 167.523889",,,,happy valley,Southland | Wellington | North Auckland,Southland,CONFIRM,Gazetteer land district 'Southland | Wellington | North Auckland' consistent with district
+Southland,Hedgehope Lower,Hedgehope Lower,Southland County,High,"small_cities: Hedgehope, Southland, 227",,,,,,,CONFIRM,Strong original evidence (small_cities / polling)
+Southland,Hedgehope Upper,Hedgehope Upper,Southland County,High,"small_cities: Hedgehope, Southland, 227 (same area)",,,,,,,CONFIRM,Strong original evidence (small_cities / polling)
+Southland,Holmesdale,Holmesdale,Wallace County,High,"Polling: Wallace ED (line 1383 ""Holmsdale"")",holmsdale,Wallace,Wallace,,,,CONFIRM,Polling ED 'Wallace' confirms county
+Southland,Kapuka South,Kapuka South,Southland County,Medium,Same locality area as Kapuka; Southland County,,,,kapuka south,Southland,Southland,CONFIRM,Gazetteer land district 'Southland' consistent with district
+Southland,Key,Key,Fiord County,Medium,"LINZ gazetteer: ""The Key, Locality, Southland, -45.545138, 167.894217""; 19km from Te Anau; name from ""Key to the Lakes"" public house",,,,,,,CONFIRM,KG evidence identifies location and county
+Southland,Kingston,Kingston,Lake County,High,Polling: Wakatipu ED; south end of Lake Wakatipu,kingston,Wakatipu,Wakatipu,kingston,Wellington | Southland,Southland,CONFIRM,Polling ED 'Wakatipu' confirms county
+Southland,Kinlock,Kinlock,Lake County,High,"Polling: Wakatipu ED ""Mr. Bryant's House, Kinloch""; near Queenstown",,,,,,,CONFIRM,Strong original evidence (small_cities / polling)
+Southland,Limestone Plains,Limestone Plains,Southland County,Medium,Polling: Awarua ED context (Awarua Plains area); near Winton in Southland County,,,,,,,CONFIRM,Strong original evidence (small_cities / polling)
+Southland,Longridge Village,Longridge Village,Southland County,High,"small_cities: Longridge, Southland, 205",,,,,,,CONFIRM,Strong original evidence (small_cities / polling)
+Southland,Lumsden,Lumsden,Southland County,High,"Polling: Wakatipu ED ""The Public Hall, Lumsden""; Lumsden is the principal town of Southland County",lumsden,Wakatipu,,lumsden,Southland,Southland,CONFIRM,Gazetteer land district 'Southland' consistent with district
+Southland,Mabel,Mabel,Southland County,High,"small_cities: Mabel Bush, Southland, 203",,,,,,,CONFIRM,Strong original evidence (small_cities / polling)
+Southland,Maitland Village,Maitland Village,Southland County,High,"small_cities: Maitland, Southland, 145",,,,,,,CONFIRM,Strong original evidence (small_cities / polling)
+Southland,Makarewa North,Makarewa North,Southland County,High,Same locality area as Makarewa; Southland County,,,,,,,CONFIRM,KG evidence identifies location and county
+Southland,Merrivale,Merrivale,Wallace County,High,"LINZ gazetteer: Southland locality at -46.074185, 167.853345; 19km from Otautau",,,,merrivale,Southland,Southland,CONFIRM,Gazetteer land district 'Southland' consistent with district
+Southland,Mimihau,Mimihau,Southland County,Medium,Locality near Wyndham in Southland County,,,,mimihau,Southland,Southland,CONFIRM,Gazetteer land district 'Southland' consistent with district
+Southland,Morton Mains siding,Morton Mains siding,Southland County,High,Same area as Morton Mains; siding on same railway,,,,,,,CONFIRM,KG evidence identifies location and county
+Southland,Motu Rimu,Motu Rimu,Southland County,High,"LINZ gazetteer: Southland, -46.472685, 168.420564 — south of Invercargill",,,,motu rimu,Southland,Southland,CONFIRM,Gazetteer land district 'Southland' consistent with district
+Southland,Mount Alfred,Mount Alfred,Lake County,High,Polling: Wakatipu ED; sheep station near Garston,,,,,,,CONFIRM,Strong original evidence (small_cities / polling)
+Southland,Mount Aspiring,Mount Aspiring,Lake County,High,Near Pembroke/Wanaka; polling Wakatipu ED,,,,,,,CONFIRM,Strong original evidence (small_cities / polling)
+Southland,New River Ferry,New River Ferry,Southland County,High,Polling: Awarua ED (line 1435),,,,,,,CONFIRM,Strong original evidence (small_cities / polling)
+Southland,Niagara,Niagara,Southland County,Medium,Near Wyndham in eastern Southland County; area confirmed,,,,niagara,Southland,Southland,CONFIRM,Gazetteer land district 'Southland' consistent with district
+Southland,Oraki,Oraki,Wallace County,High,"Railway file: ""Oraki Invercargill–Tuatapere See Tihaka""; Tihaka is in Wallace ED",,,,,,,CONFIRM,Strong original evidence (small_cities / polling)
+Southland,Oreti Plains,Oreti Plains,Southland County,High,Polling: Awarua ED (line 1425),,,,oreti plains,Southland,Southland,CONFIRM,Gazetteer land district 'Southland' consistent with district
+Southland,Otahau,Otahau,Wallace County,High,"Otahau = Maori name for Otautau; polling Wallace ED confirms; same town, separate school",,,,otaha,North Auckland,,CONFIRM,Strong original evidence (small_cities / polling)
+Southland,Otautau,Otautau,Wallace County,High,"Polling: Wallace ED (line 1358 ""Courthouse, Otautau"")",otautau,Wallace,Wallace,otautau,Southland,Southland,CONFIRM,Polling ED 'Wallace' confirms county
+Southland,Oteramika,Oteramika,Southland County,Medium,Small locality near Invercargill; outside Borough boundary; within Southland County area,,,,oteramika,Southland,Southland,CONFIRM,Gazetteer land district 'Southland' consistent with district
+Southland,Oteramika Gorge,Oteramika Gorge,Southland County,Medium,Same area as Oteramika; Southland County,,,,,,,CONFIRM,KG evidence identifies location and county
+Southland,Pyramid Siding,Pyramid Siding,Southland County,Medium,Polling: Wakatipu ED; Pyramid Siding near Mataura in Southland County,,,,,,,CONFIRM,Strong original evidence (small_cities / polling)
+Southland,Quarry Hills (12) and Waikawa Valley (14),Quarry Hills and Waikawa Valley,Southland County,Medium,"Combined entry; near Waikawa (Catlins); small_cities: Waikawa, Southland, 154",,,,,,,CONFIRM,Strong original evidence (small_cities / polling)
+Southland,Redan,Redan,Southland County,Low,No direct source; Redan area near Waikaia/Gore in Southland County,,,,redan,Southland,Southland,CONFIRM,Gazetteer land district 'Southland' consistent with district
+Southland,Roslyn Bush,Roslyn Bush,Southland County,High,Polling: Awarua ED (line 1432),,,,roslyn bush,Southland,Southland,CONFIRM,Gazetteer land district 'Southland' consistent with district
+Southland,Sandstone,Sandstone,Southland County,High,"LINZ gazetteer: Southland, -45.888683, 168.601937 — eastern Southland",,,,sandstone,Southland,Southland,CONFIRM,Gazetteer land district 'Southland' consistent with district
+Southland,"Shotover, Lower",Shotover,Lake County,High,"Polling: Wakatipu ED ""Lower Shotover""",,,,,,,CONFIRM,Strong original evidence (small_cities / polling)
+Southland,Springhills,Springhills,Southland County,High,"Polling: Awarua ED (line 1423 ""Spring Hills"")",,,,springhills,Southland,Southland,CONFIRM,Gazetteer land district 'Southland' consistent with district
+Southland,St. George,St. George,Southland County,Low,Not in polling stations; AJHR appendix alphabetical position between Spar Bush (Southland) and Springbank (Southland),,,,,,,CONFIRM,Strong original evidence (small_cities / polling)
+Southland,Taramoa,Taramoa,Southland County,High,Polling: Awarua ED (line 1436),taramoa,Awarua,Awarua,taramoa,Southland,Southland,CONFIRM,Polling ED 'Awarua' confirms county
+Southland,Taunoa,Taunoa,Wallace County,High,"LINZ gazetteer: Taunoa Stream, Southland, -46.27663, 167.776082 — near Orepuki/Colac Bay",,,,taunoka,Wellington,,CONFIRM,KG evidence identifies location and county
+Southland,Te Anau,Te Anau,Fiord County,High,"coordinates_county.csv: Fiord, Southland; LINZ gazetteer confirms Te Anau in Fiord County area",te anga,Bay Of Plenty,,te anau,Southland,Southland,CONFIRM,Gazetteer land district 'Southland' consistent with district
+Southland,Titipua,Titipua,Southland County,High,"LINZ gazetteer: Titipua Stream, Southland, -46.244963, 168.541108 — between Invercargill and Dipton",,,,,,,CONFIRM,KG evidence identifies location and county
+Southland,Waikawa Valley (see under Quarry Hill),Waikawa Valley (see under Quarry Hill,Southland County,High,Cross-referenced under Quarry Hills; same Catlins area,,,,,,,CONFIRM,KG evidence identifies location and county
+Southland,Waikouro,Waikouro,Wallace County,High,"Polling: Wallace ED ""Waikoura""; railway file: ""Waicola Otautau–Nightcaps See Waikouro""",waikoura,Wallace,Wallace,waikouro,Southland,Southland,CONFIRM,Polling ED 'Wallace' confirms county
+Southland,Waipounamu,Waipounamu,Southland County,Medium,Polling: Wakatipu ED; locality between Lumsden and Balfour = Southland County,,,,waipounamu,Southland,Southland,CONFIRM,Gazetteer land district 'Southland' consistent with district
+Southland,Wairaki,Wairaki,Wallace County,High,Polling: Wallace ED (line 1403),wairaki,Wallace,Wallace,wairakei,South Auckland,,CONFIRM,Polling ED 'Wallace' confirms county
+Southland,Wairekiki,Wairekiki,Wallace County,Medium,AJHR appendix: listed between Wairaki (Wallace) and Wairio (Wallace) alphabetically; not in polling stations,,,,,,,CONFIRM,Strong original evidence (small_cities / polling)
+Southland,Wendon Valley,Wendon Valley,Southland County,Medium,Near Wendon; Southland County,,,,wendon valley,Southland,Southland,CONFIRM,Gazetteer land district 'Southland' consistent with district
+Southland,Whitehead,Whitehead,Wallace County,Low,AJHR appendix: listed between Wild Bush (Wallace) and Winton (Winton Borough) alphabetically; no polling or gazetteer match,,,,,,,CONFIRM,Strong original evidence (small_cities / polling)
+Southland,Wyndham,Wyndham,Southland County,Medium,Town in eastern Southland County near Mataura River,,,,wyndham,Southland,Southland,CONFIRM,Gazetteer land district 'Southland' consistent with district
+Southland,Wyndham South,Wyndham South,Southland County,Medium,Same district as Wyndham; Southland County,,,,,,,CONFIRM,KG evidence identifies location and county
