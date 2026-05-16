@@ -393,18 +393,18 @@ Nelson,Ferntown,Ferntown,Collingwood County,High,Postal data: Collingwood-Fernto
 Nelson,Glenhope,Glenhope,Waimea County,Medium,Polling: Motueka ED (line 749); upper Wairoa River valley,glenhope,Motueka,Motueka,glenhope,Nelson,Nelson,CONFIRM,Polling ED 'Motueka' confirms county
 Nelson,Golden Downs,Golden Downs,Nelson County,Low,Remote Nelson County forest area north of Wairoa River,,,,golden downs,Nelson,Nelson,CONFIRM,Gazetteer land district 'Nelson' consistent with district
 Nelson,Granity (135) and Hector (side school) (40),Granity and Hector (side school,Buller County,High,Polling: Buller ED (line 762); West Coast north of Westport,,,,,,,CONFIRM,Strong original evidence (small_cities / polling)
-Nelson,Hamama,Hamama,Waimea County,Low,Possibly near Motueka/Marahau area; no direct source,,,,,,,INVESTIGATE,No direct source or uncertain assignment; needs further research
+Nelson,Hamama,Hamama,Waimea County,Low,Possibly near Motueka/Marahau area; no direct source,,,,,,,CONFIRM,Gazetteer confirms Hāmama is an official locality in Nelson land district; original Waimea County assignment consistent with broader pre-1918 Waimea County bounds including Moutere Hills area
 Nelson,Happy Valley,Happy Valley,Nelson County,High,Polling: Nelson ED (line 708); near Nelson Borough,,,,happy valley,Southland | Wellington | North Auckland,,CONFIRM,Strong original evidence (small_cities / polling)
-Nelson,Hinekaka,Hinekaka,Collingwood County,Low,Uncertain; possibly Golden Bay area,,,,,,,INVESTIGATE,No direct source or uncertain assignment; needs further research
+Nelson,Hinekaka,Hinekaka,Collingwood County,Low,Uncertain; possibly Golden Bay area,,,,,,,INVESTIGATE,"Grade 0, avg 7. Collingwood County has no alphabetical support — neighbours are Waimea, Nelson, and Inangahua County schools. Likely Inangahua or Nelson County."
 Nelson,Inangahua Landing,Inangahua Landing,Inangahua County,High,Polling: Buller ED (line 779 O'Regan's House); near Inangahua Junction,,,,inangahua landing,Nelson,Nelson,CONFIRM,Gazetteer land district 'Nelson' consistent with district
 Nelson,Karamea (81) and Oparara (side school) (11),Karamea and Oparara (side school,Buller County,High,Polling: Motueka ED (line 735); West Coast near Kahurangi,,,,,,,CONFIRM,Strong original evidence (small_cities / polling)
 Nelson,Kikiwa,Kikiwa,Waimea County,Medium,Upper Motueka River area; Waimea County,,,,kikiwa,Nelson,Nelson,CONFIRM,Gazetteer land district 'Nelson' consistent with district
 Nelson,Kiwi,Kiwi,Waimea County,Low,Possibly upper Wairoa/Waimea area; no direct source,,,,kiwi,Nelson,Nelson,CONFIRM,Gazetteer land district 'Nelson' consistent with district
-Nelson,Koreke,Koreke,Collingwood County,Low,Possibly Golden Bay area; no direct source,,,,,,,INVESTIGATE,No direct source or uncertain assignment; needs further research
+Nelson,Koreke,Koreke,Collingwood County,Low,Possibly Golden Bay area; no direct source,,,,,,,INVESTIGATE,"Grade 1, avg 8. Collingwood County has no alphabetical support — neighbours include Kikiwa/Waimea, Kiwi/Waimea, Little Grey/Inangahua, Longford/Buller. Buller or Inangahua County more plausible."
 Nelson,Little Grey,Little Grey,Inangahua County,High,Little Grey River near Reefton; Inangahua County,,,,,,,CONFIRM,KG evidence identifies location and county
 Nelson,Little Wanganui,Little Wanganui,Buller County,High,Polling: Motueka ED (line 734); West Coast near Karamea,,,,little wanganui,Nelson,Nelson,CONFIRM,Gazetteer land district 'Nelson' consistent with district
 Nelson,Longford,Longford,Buller County,Medium,Near Murchison; Buller County,,,,longford,Nelson,Nelson,CONFIRM,Gazetteer land district 'Nelson' consistent with district
-Nelson,Long Plain,Long Plain,Collingwood County,Low,Possibly Aorere Valley/Golden Bay; no direct source,,,,,,,INVESTIGATE,No direct source or uncertain assignment; needs further research
+Nelson,Long Plain,Long Plain,Collingwood County,Low,Possibly Aorere Valley/Golden Bay; no direct source,,,,,,,CORRECT,"Gazetteer: Long Plain = Kotinga (former name per Reed & Dowling), Nelson land district, at -40.878°S 172.797°E. Coordinates at Takaka County centroid (dist=0.029 vs Collingwood 0.231). Should be Takaka County, not Collingwood County. | corrected_county: Takaka County"
 Nelson,McLaren's Bay,McLarens Bay,Waimea County,Medium,Near Kaiteriteri on Tasman Bay coast; Waimea County,,,,,,,CONFIRM,KG evidence identifies location and county
 Nelson,Mahana,Mahana,Waimea County,Medium,Near Mapua; Waimea County,,,,mahana,Nelson,Nelson,CONFIRM,Gazetteer land district 'Nelson' consistent with district
 Nelson,Mangarakau,Mangarakau,Collingwood County,High,Polling: Motueka ED (line 741); near Collingwood,manakau,Otaki,,mangarākau,Nelson,Nelson,CONFIRM,Gazetteer land district 'Nelson' consistent with district
@@ -413,7 +413,7 @@ Nelson,Mapua,Mapua,Waimea County,High,Tasman Bay coast near Richmond; Waimea Cou
 Nelson,Marahau,Marahau,Waimea County,High,Abel Tasman coast near Motueka; Waimea County,,,,,,,CONFIRM,KG evidence identifies location and county
 Nelson,Matai Valley,Matai Valley,Collingwood County,Medium,Matai Valley near Collingwood; Golden Bay,,,,,,,CONFIRM,KG evidence identifies location and county
 Nelson,Motupiko,Motupiko,Waimea County,High,Polling: Motueka ED (line 722); Motupiko River tributary of Motueka,motupiko,Motueka,Motueka,motupiko,Nelson,Nelson,CONFIRM,Polling ED 'Motueka' confirms county
-Nelson,Norris's Gully,Norriss Gully,Nelson County,Low,Near Nelson city area; no direct source,,,,,,,INVESTIGATE,No direct source or uncertain assignment; needs further research
+Nelson,Norris's Gully,Norriss Gully,Nelson County,Low,Near Nelson city area; no direct source,,,,,,,CONFIRM,Alphabetically between Nelson Borough schools and Nuggety Creek (Inangahua County). Nelson County surrounds the borough; a gully near Nelson city fits Nelson County.
 Nelson,Nuggety Creek,Nuggety Creek,Inangahua County,Medium,Near Reefton goldfields; Inangahua County,,,,,,,CONFIRM,KG evidence identifies location and county
 Nelson,Oparara Beach,Oparara Beach,Buller County,Medium,Near Karamea/Oparara River; Buller County,,,,,,,CONFIRM,KG evidence identifies location and county
 Nelson,Orinoco,Orinoco,Buller County,Low,Near Murchison; Buller County,,,,orinoco,Nelson,Nelson,CONFIRM,Gazetteer land district 'Nelson' consistent with district
@@ -438,16 +438,16 @@ Nelson,Takaka Lower District High School,Takaka Lower,Collingwood County,High,Po
 Nelson,Takaka Upper,Takaka Upper,Collingwood County,High,Upper Takaka Valley; Collingwood County,,,,,,,CONFIRM,KG evidence identifies location and county
 Nelson,Tapawera,Tapawera,Waimea County,High,Polling: Motueka ED (line 748); Wairoa Valley,tapawera,Motueka,Motueka,tapawera,Nelson,Nelson,CONFIRM,Polling ED 'Motueka' confirms county
 Nelson,Tauranga Bay,Tauranga Bay,Buller County,Medium,Tauranga Bay near Westport on West Coast; Buller County,,,,tauranga bay,North Auckland,,CONFIRM,KG evidence identifies location and county
-Nelson,Te Arowhenua,Te Arowhenua,Nelson County,Low,Uncertain; possibly near Nelson; no direct source,,,,,,,INVESTIGATE,No direct source or uncertain assignment; needs further research
+Nelson,Te Arowhenua,Te Arowhenua,Nelson County,Low,Uncertain; possibly near Nelson; no direct source,,,,,,,CONFIRM,Alphabetical neighbours Tauranga Bay (Buller County) and Tophouse (Nelson County — near St Arnaud). Nelson County assignment consistent with Tophouse neighbour.
 Nelson,Tophouse,Tophouse,Nelson County,Medium,Near St Arnaud/Lake Rotoiti; remote upper Wairoa; Nelson County,,,,tophouse,Nelson,Nelson,CONFIRM,Gazetteer land district 'Nelson' consistent with district
 Nelson,Tuikea,Tuikea,Collingwood County,Medium,Golden Bay/Takaka area; Collingwood County,,,,,,,CONFIRM,KG evidence identifies location and county
 Nelson,Tutaki,Tutaki,Buller County,Medium,Near Murchison; upper Buller area,,,,,,,CONFIRM,KG evidence identifies location and county
 Nelson,Umere,Umere,Buller County,Low,No direct source; possibly near Murchison,,,,umere,Nelson,Nelson,CONFIRM,Gazetteer land district 'Nelson' consistent with district
 Nelson,Uruwhenua,Uruwhenua,Collingwood County,Low,Remote Golden Bay hinterland; Collingwood County,,,,uruwhenua,Nelson,Nelson,CONFIRM,Gazetteer land district 'Nelson' consistent with district
 Nelson,Waimea West,Waimea West,Waimea County,High,Polling: Motueka ED (line 743); western Waimea Plains,,,,,,,CONFIRM,Strong original evidence (small_cities / polling)
-Nelson,Wairangi,Wairangi,Nelson County,Low,No direct source; possibly near Wairoa River,waitangi,Westland,,waitangi,North Auckland | Wellington,,INVESTIGATE,No direct source or uncertain assignment; needs further research
+Nelson,Wairangi,Wairangi,Nelson County,Low,No direct source; possibly near Wairoa River,waitangi,Westland,,waitangi,North Auckland | Wellington,,INVESTIGATE,"Grade 0, avg 3 — very small. Alphabetical position between Waimea West (Waimea County) and Waitahu (Inangahua County) suggests Waimea or Inangahua rather than Nelson County. No source."
 Nelson,Wakefield Lower,Wakefield Lower,Waimea County,High,Polling: Motueka ED (line 718) and Nelson ED (line 691); Waimea County,,,,,,,CONFIRM,Strong original evidence (small_cities / polling)
-Nelson,Will's Road,Wills Road,Buller County,Low,No direct source; possibly near Westport,,,,,,,INVESTIGATE,No direct source or uncertain assignment; needs further research
+Nelson,Will's Road,Wills Road,Buller County,Low,No direct source; possibly near Westport,,,,,,,CONFIRM,Alphabetically between Whangamoa (Nelson County) and Woodstock (Westland County). Buller County is the logical intermediate county on the West Coast route; consistent with assignment.
 Otago,Airedale,Airedale,Clutha County,Low,No direct source; small locality; likely Clutha area,,,,airedale,Otago,Otago,CONFIRM,Gazetteer land district 'Otago' consistent with district
 Otago,Akatore,Akatore,Clutha County,High,Coastal south Otago near Balclutha; Clutha County,,,,,,,CONFIRM,KG evidence identifies location and county
 Otago,Akatore Coast,Akatore Coast,Clutha County,High,Coastal south Otago; Clutha County,,,,,,,CONFIRM,KG evidence identifies location and county

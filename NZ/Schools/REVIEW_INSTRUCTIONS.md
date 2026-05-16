@@ -38,7 +38,7 @@ Two phases have been completed. What remains is **25 INVESTIGATE cases** across 
 
 | District | School | Assigned county | Issue |
 |---|---|---|---|
-| Nelson | Woodstock | Inangahua County | sc=Westland; evidence weak; possible Westland County |
+| ~~Nelson~~ | ~~Woodstock~~ | ~~Inangahua County~~ | ~~Resolved CORRECT → Westland County — small_cities + polling both definitive~~ |
 | Otago | Fair View | Clutha County | sc=Levels; avg attendance 2; no direct source |
 | Wanganui | Matarawa | Rangitikei County | exact sc match; original evidence tentative |
 | Wellington | Spring Grove | Sounds County | sc=Waimea; grade 0; no Sounds County source found |
@@ -48,14 +48,14 @@ Two phases have been completed. What remains is **25 INVESTIGATE cases** across 
 | District | School | Assigned county | Issue |
 |---|---|---|---|
 | Auckland | Hora Hora Rapids | Waikato County | grade 0, 8 pupils; no source |
-| Nelson | Hamama | Waimea County | no direct source |
-| Nelson | Hinekaka | Collingwood County | uncertain; possibly Golden Bay |
-| Nelson | Koreke | Collingwood County | no direct source |
-| Nelson | Long Plain | Collingwood County | no direct source |
-| Nelson | Norriss Gully | Nelson County | no direct source |
-| Nelson | Te Arowhenua | Nelson County | uncertain |
-| Nelson | Wairangi | Nelson County | no direct source |
-| Nelson | Wills Road | Buller County | no direct source |
+| ~~Nelson~~ | ~~Hamama~~ | ~~Waimea County~~ | ~~Resolved CONFIRM — gazetteer confirms official locality in Nelson LD~~ |
+| Nelson | Hinekaka | Collingwood County | no source; neighbours are Nelson/Waimea/Inangahua schools — Collingwood has no alphabetical support |
+| Nelson | Koreke | Collingwood County | no source; neighbours Kikiwa/Kiwi (Waimea) + Little Grey (Inangahua) suggest Buller/Inangahua more plausible |
+| ~~Nelson~~ | ~~Long Plain~~ | ~~Collingwood County~~ | ~~Resolved CORRECT → Takaka County — Kotinga=Long Plain per gazetteer; coordinates at Takaka centroid~~ |
+| ~~Nelson~~ | ~~Norriss Gully~~ | ~~Nelson County~~ | ~~Resolved CONFIRM — alphabetical neighbours support Nelson County~~ |
+| ~~Nelson~~ | ~~Te Arowhenua~~ | ~~Nelson County~~ | ~~Resolved CONFIRM — Tophouse neighbour confirms Nelson County~~ |
+| Nelson | Wairangi | Nelson County | grade 0/3 pupils; alphabetical position suggests Waimea or Inangahua rather than Nelson County |
+| ~~Nelson~~ | ~~Wills Road~~ | ~~Buller County~~ | ~~Resolved CONFIRM — alphabetically between Nelson and Westland schools; Buller is intermediate~~ |
 | Otago | Berwen | Clutha County | grade 0/4 pupils; neighbours Benhar+Blacks = Bruce County — Bruce more plausible |
 | Otago | Hill Springs | Waitaki County | grade 0/5 pupils; between Hillend (Bruce) and Hinahina (Clutha) alphabetically |
 | Otago | Killermont | Tuapeka County | grade 0/1 pupil — essentially no school; unresolvable |

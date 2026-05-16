@@ -116,7 +116,7 @@ MISMATCH,HawkesBay,Woodlands,Woodlands,Wairoa County,Low,Woodlands,Southland,1.0
 MISMATCH,Nelson,Churchill,Churchill,Buller County,Low,Churchill,Raglan,1.0,,,-41.813,171.793,CONFIRM,
 MISMATCH,Nelson,Glenroy,Glenroy,Waimea County,Low,Glenroy,Selwyn,1.0,Glenroy,Selwyn,-41.33333,173.183333,CONFIRM,
 MISMATCH,Nelson,Gordon,Gordon,Buller County,Low,Gordon,Piako,1.0,,,-41.813,171.793,CONFIRM,
-MISMATCH,Nelson,Woodstock,Woodstock,Inangahua County,Low,Woodstock,Westland,1.0,Woodstock,Westland,-41.85724663,171.9298009,INVESTIGATE,
+MISMATCH,Nelson,Woodstock,Woodstock,Inangahua County,Low,Woodstock,Westland,1.0,Woodstock,Westland,-41.85724663,171.9298009,CORRECT,Westland County
 MISMATCH,Otago,Bluespur,Bluespur,Waitaki County,Low,blue spur,Tuapeka,0.941,,,-44.926,170.635,DISMISS,
 MISMATCH,Otago,Fair View,Fair View,Clutha County,Low,Fair View,Levels,1.0,fairview,Timaru,-46.233333,169.75,INVESTIGATE,
 MISMATCH,Otago,Goodwood,Goodwood,Clutha County,Low,Goodwood,Waihemo,1.0,,,-46.233333,169.75,CONFIRM,
