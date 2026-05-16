@@ -61,7 +61,7 @@ Two phases have been completed. What remains is **25 INVESTIGATE cases** across 
 | Otago | Killermont | Tuapeka County | avg 1 pupil; no source |
 | Otago | Kokoano | Clutha County | no source |
 | Otago | Reomoana | Clutha County | no source |
-| **Otago** | **Southbridge** | **Clutha County** | **likely wrong — Southbridge = Ellesmere County (Canterbury)** |
+| ~~Otago~~ | ~~Southbridge~~ | ~~Clutha County~~ | ~~Resolved: marked Unresolved — AJHR transcription error; no Otago Southbridge exists~~ |
 | Otago | Table Hill | Taieri County | no source |
 | Otago | Waronui | Clutha County | no source |
 | Wanganui | Aratika | Wanganui County | no direct match |
@@ -69,7 +69,7 @@ Two phases have been completed. What remains is **25 INVESTIGATE cases** across 
 | Southland | Daere | Southland County | no direct source |
 | Southland | Glen Dhu | Southland County | grade 0, 3 pupils; no source |
 
-**Priority:** Southbridge/Otago is the most likely genuine error. Research via AJHR 1919 Otago appendix or Te Ara.
+**Priority:** Remaining Otago cases (Berwen, Hill Springs, Killermont, Kokoano, Reomoana, Table Hill, Waronui) — all have no direct source.
 
 ---
 
