@@ -2,16 +2,25 @@
 """
 apply_corrections.py
 
-Applies confirmed county corrections to *_county_borough.csv files.
-Each correction is a tuple:
-    (file_stem, school_name_fragment, new_county, new_evidence_note)
+Two modes:
 
-school_name_fragment is matched against the start of the 'school' column
-(case-insensitive, stripped). The first match wins.
+  Default (hardcoded table):
+    Applies CORRECTIONS list below to *_county_borough.csv files.
+
+  --from-csv <path>:
+    Reads a filled-in mismatches_enriched.csv (from check_assignments.py
+    --enrich) and applies rows where verdict == 'CORRECT', using
+    corrected_county as the new county_borough value.
+    source_district maps to the file stem (e.g. 'Auckland' →
+    Auckland_county_borough.csv).
+
+Usage:
+    python apply_corrections.py
+    python apply_corrections.py --from-csv check_results/mismatches_enriched.csv
 """
 
 import csv
-import re
+import sys
 from pathlib import Path
 
 BASE        = Path(__file__).parent
@@ -245,5 +254,83 @@ def apply_corrections():
     print(f"Done. {total_applied} corrections applied, {total_missed} fragments not matched.")
 
 
+def apply_from_csv(csv_path: Path):
+    """Apply CORRECT verdicts from a filled-in enriched mismatch CSV."""
+    if not csv_path.exists():
+        print(f"File not found: {csv_path}")
+        sys.exit(1)
+
+    with open(csv_path, newline='', encoding='utf-8-sig') as f:
+        rows = [r for r in csv.DictReader(f) if r.get('verdict', '').strip() == 'CORRECT']
+
+    if not rows:
+        print("No CORRECT verdicts found in the CSV.")
+        return
+
+    # Group by source_district
+    by_district: dict[str, list[dict]] = {}
+    for row in rows:
+        district = row['source_district'].strip()
+        by_district.setdefault(district, []).append(row)
+
+    total_applied = 0
+    total_missed  = 0
+
+    for district, corrections in by_district.items():
+        path = file_for(district)
+        if not path.exists():
+            print(f"  [SKIP] {path.name} not found")
+            continue
+
+        with open(path, newline='', encoding='utf-8-sig') as f:
+            reader     = csv.DictReader(f)
+            fieldnames = reader.fieldnames
+            target_rows = list(reader)
+
+        applied_here = 0
+        for corr in corrections:
+            school_fragment   = corr['school'].strip().lower()
+            new_county        = corr['corrected_county'].strip()
+            corrected_evidence = f"Verdict CORRECT from enriched review; was: {corr['my_county']}"
+
+            if not new_county:
+                print(f"  [SKIP] {district} | {corr['school']!r} — corrected_county is blank")
+                continue
+
+            matched = False
+            for target_row in target_rows:
+                school = target_row['school'].strip().strip('"').lower()
+                if school == school_fragment or school.startswith(school_fragment[:30]):
+                    old = target_row['county_borough']
+                    target_row['county_borough'] = new_county
+                    target_row['confidence']     = corr.get('confidence', 'High')
+                    target_row['evidence']       = corrected_evidence
+                    matched = True
+                    applied_here += 1
+                    print(f"  [{district}] {target_row['school'][:50]!r}")
+                    print(f"         {old!r} → {new_county!r}")
+                    break
+
+            if not matched:
+                print(f"  [MISS] {district} | {corr['school']!r} not found in {path.name}")
+                total_missed += 1
+
+        with open(path, 'w', newline='', encoding='utf-8') as f:
+            writer = csv.DictWriter(f, fieldnames=fieldnames)
+            writer.writeheader()
+            writer.writerows(target_rows)
+
+        print(f"  → {path.name}: {applied_here} correction(s) applied\n")
+        total_applied += applied_here
+
+    print(f"Done. {total_applied} corrections applied, {total_missed} not matched.")
+
+
 if __name__ == '__main__':
-    apply_corrections()
+    if '--from-csv' in sys.argv:
+        idx      = sys.argv.index('--from-csv')
+        csv_path = Path(sys.argv[idx + 1]) if idx + 1 < len(sys.argv) \
+                   else BASE / 'check_results' / 'mismatches_enriched.csv'
+        apply_from_csv(csv_path)
+    else:
+        apply_corrections()

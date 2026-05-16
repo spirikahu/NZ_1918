@@ -1,0 +1,872 @@
+source_district,school,school_cleaned,my_county,confidence
+Auckland,Ahuroa Nos 1 (7) and 2 (9),Ahuroa Nos 1 and 2,Rodney County,Medium
+Auckland,Albertland North (14) and Hoteo North (20),Albertland North and Hoteo North,Rodney County,Medium
+Auckland,Alexandra,Alexandra,Waipa County,Medium
+Auckland,Amodeo Bay Nos. 1 (9) and 2 (8),Amodeo Bay Nos. 1 and 2,Coromandel County,High
+Auckland,Arapae,Arapae,Bay of Islands County,Low
+Auckland,Araparara (10) and Mangakura (9),Araparara and Mangakura,Hokianga County,Medium
+Auckland,Ararimu (11) and Paparimu (12),Ararimu and Paparimu,Franklin County,High
+Auckland,Ararua,Ararua,Otamatea County,Medium
+Auckland,Avoca,Avoca,Ohinemuri County,Low
+Auckland,Awaroa (10) and Matira (8),Awaroa and Matira,Bay of Islands County,Low
+Auckland,Awitu No. 2,Awitu No. 2,Franklin County,High
+Auckland,Bickerstaffe,Bickerstaffe,Otamatea County,Medium
+Auckland,Birkdale,Birkdale,Waitemata County,High
+Auckland,Bream Tail (5) and Waipu Cove (18),Bream Tail and Waipu Cove,Whangarei County,High
+Auckland,Brighams Creek,Brighams Creek,Rodney County,Medium
+Auckland,Brookby,Brookby,Manukau County,Medium
+Auckland,Brynavon (12) and Whareora (11),Brynavon and Whareora,Whangarei County,High
+Auckland,Brynderwyn,Brynderwyn,Otamatea County,Medium
+Auckland,Cambridge Road,Cambridge Road,Waipa County,Medium
+Auckland,Cambridge West,Cambridge West,Waipa County,Medium
+Auckland,Cape Colvillw,Cape Colvillw,Coromandel County,High
+Auckland,Dacre's (19) and Tawharanui (16),Dacres and Tawharanui,Rodney County,High
+Auckland,Dairy Flat (19) and Fernilea (9),Dairy Flat and Fernilea,Waitemata County,High
+Auckland,Dome Valley,Dome Valley,Rodney County,Medium
+Auckland,Edendale,Edendale,Eden County,Medium
+Auckland,Fariburn's Road,Fariburns Road,Mongonui County,Medium
+Auckland,Flat Bush,Flat Bush,Manukau County,Medium
+Auckland,Glenbervie,Glenbervie,Whangarei County,Medium
+Auckland,Glen Murray (12) and Opouatia (17),Glen Murray and Opouatia,Raglan County,High
+Auckland,Graham's Fern,Grahams Fern,Thames County,Low
+Auckland,Great Barrier (7) and Katherine Bay (17),Great Barrier and Katherine Bay,Waitemata County,High
+Auckland,Greenhithe (12) and Long Bay (11),Greenhithe and Long Bay,Waitemata County,High
+Auckland,Gumtown (11) and Whenuakite (10),Gumtown and Whenuakite,Thames County,High
+Auckland,Hakaru (14) and Tara Road (17),Hakaru and Tara Road,Otamatea County,Medium
+Auckland,Helena Bay,Helena Bay,Whangarei County,High
+Auckland,Helensville,Helensville,Rodney County,High
+Auckland,Henderson Valley,Henderson Valley,Waitemata County,High
+Auckland,Hikurangi,Hikurangi,Whangarei County,High
+Auckland,Hora Hora,Hora Hora,Waikato County,Medium
+Auckland,Hora Hora Rapids,Hora Hora Rapids,Waikato County,Low
+Auckland,Houhora,Houhora,Mongonui County,High
+Auckland,Houto (12) and Parakao (11),Houto and Parakao,Hobson County,Medium
+Auckland,Huarau,Huarau,Hobson County,Low
+Auckland,Huia,Huia,Eden County,Medium
+Auckland,Hukerenui South,Hukerenui South,Whangarei County,High
+Auckland,Huntly District High School Primary (338) secondary (14),Huntly,Waikato County,High
+Auckland,Jordan (10) and Miranda (9),Jordan and Miranda,Franklin County,Medium
+Auckland,Kaeaca (14) and Rira (17),Kaeaca and Rira,Waitomo County,Medium
+Auckland,Kaiawa (12) and Miranda (9),Kaiawa and Miranda,Franklin County,Medium
+Auckland,Kaihere,Kaihere,Waikato County,Medium
+Auckland,Kaimanawa,Kaimanawa,East Taupo County,Low
+Auckland,Kamo,Kamo,Whangarei County,High
+Auckland,Kara (11) and Kokupu (19),Kara and Kokupu,Whangarei County,High
+Auckland,Katikati No.1,Katikati No.1,Tauranga County,High
+Auckland,Katikati No.2,Katikati No.2,Tauranga County,High
+Auckland,Katikati No.3,Katikati No.3,Tauranga County,High
+Auckland,Kawa No.1 (13) and Kawa No.2 (20),Kawa No.1 and Kawa No.2,Waipa County,Low
+Auckland,Kawakawa,Kawakawa,Bay of Islands County,High
+Auckland,Kawhia,Kawhia,Kawhia County,High
+Auckland,Kennedy Bay,Kennedy Bay,Coromandel County,High
+Auckland,Kerepehi,Kerepehi,Thames County,Medium
+Auckland,Kereta (11) and Waikaway (10),Kereta and Waikaway,Coromandel County,Medium
+Auckland,Kerikeri Inlet,Kerikeri Inlet,Bay of Islands County,High
+Auckland,Kihikihi,Kihikihi,Waipa County,High
+Auckland,Kinohaku No.1,Kinohaku No.1,Waitomo County,Medium
+Auckland,Kinohaku No.2,Kinohaku No.2,Waitomo County,Medium
+Auckland,Kohukohu,Kohukohu,Hokianga County,High
+Auckland,Komata South,Komata South,Ohinemuri County,High
+Auckland,Kopuarahi,Kopuarahi,Thames County,Medium
+Auckland,Kutarere,Kutarere,Opotiki County,Medium
+Auckland,Lichfield,Lichfield,Matamata County,Medium
+Auckland,Lochnorrie (23) and Wainui (15),Lochnorrie and Wainui,Rodney County,Low
+Auckland,Lower Waitoa,Lower Waitoa,Piako County,High
+Auckland,Mahurangi Heads West (13) and Puhuehue (9),Mahurangi Heads West and Puhuehue,Rodney County,Medium
+Auckland,Maihiihi,Maihiihi,Waitomo County,Medium
+Auckland,Mairoa (16) and Waitanguru (17),Mairoa and Waitanguru,Waitomo County,Medium
+Auckland,Makarau (15) and Tahekeroa (15),Makarau and Tahekeroa,Rodney County,Medium
+Auckland,Manawahe,Manawahe,Rotorua County,Medium
+Auckland,Mangaotaki,Mangaotaki,Waitomo County,Medium
+Auckland,Mangatu (14) and Tuamoe (8),Mangatu and Tuamoe,Otamatea County,Medium
+Auckland,Mangawai beach,Mangawai beach,Otamatea County,High
+Auckland,Mangawhero,Mangawhero,Matamata County,Medium
+Auckland,Manukau Heads,Manukau Heads,Franklin County,Medium
+Auckland,Manurewa,Manurewa,Manukau County,High
+Auckland,Maraetai Nos.1 (13) and 2 (8),Maraetai Nos.1 and 2,Franklin County,Medium
+Auckland,Maramarua (13) and Maramarya East (10),Maramarua and Maramarya East,Franklin County,Medium
+Auckland,Marlow (7) and Ruapekapeka West (12),Marlow and Ruapekapeka West,Bay of Islands County,Medium
+Auckland,Marsden Point,Marsden Point,Whangarei County,High
+Auckland,Matahuru Nos 1 (16) and 2 (21),Matahuru Nos 1 and 2,Waikato County,High
+Auckland,Matakohe No.2,Matakohe No.2,Otamatea County,High
+Auckland,Matapouri (16) and Tutukaka (17),Matapouri and Tutukaka,Whangarei County,High
+Auckland,Maungatautari No.2,Maungatautari No.2,Matamata County,High
+Auckland,Maungatawhiri Valley,Maungatawhiri Valley,Franklin County,High
+Auckland,Mercer,Mercer,Waikato County,High
+Auckland,Mercury Bay,Mercury Bay,Coromandel County,High
+Auckland,Motutara (11) and Muriwai (15),Motutara and Muriwai,Rodney County,Medium
+Auckland,Moumoukai,Moumoukai,Franklin County,High
+Auckland,Mount Maunganui,Mount Maunganui,Tauranga County,High
+Auckland,Mullet Point,Mullet Point,Whangarei County,Medium
+Auckland,Ngahape (17) and Tokanui (16),Ngahape and Tokanui,West Taupo County,Medium
+Auckland,Ngapuke,Ngapuke,Ohura County,Medium
+Auckland,Ngararatunua,Ngararatunua,Waikato County,Low
+Auckland,Ngunguru,Ngunguru,Whangarei County,High
+Auckland,Ngutunui,Ngutunui,Kawhia County,Low
+Auckland,Nukuhou,Nukuhou,Opotiki County,Low
+Auckland,Ohauiti,Ohauiti,Tauranga County,Medium
+Auckland,Ohaupo,Ohaupo,Waipa County,High
+Auckland,Okahu Nos.1 (13) and 2 (7),Okahu Nos.1 and 2,Hobson County,High
+Auckland,Okaihau No.2 (8) and Utakura Valley (13),Okaihau No.2 and Utakura Valley,Bay of Islands County,High
+Auckland,Okaihau East,Okaihau East,Bay of Islands County,High
+Auckland,Okupu (11) and Tryphena (13),Okupu and Tryphena,Waitemata County,High
+Auckland,Omaha Little,Omaha Little,Rodney County,Medium
+Auckland,Omahine,Omahine,Waikato County,Low
+Auckland,Omana,Omana,Franklin County,Low
+Auckland,Omanawa (8) and Omanawa Falls (18),Omanawa and Omanawa Falls,Tauranga County,High
+Auckland,Omapere,Omapere,Hokianga County,High
+Auckland,Omokoroa,Omokoroa,Tauranga County,High
+Auckland,Onerahi,Onerahi,Whangarei County,High
+Auckland,Opouriao South,Opouriao South,Whakatane County,High
+Auckland,Opuawhango (18) and Otonga (20),Opuawhango and Otonga,Opotiki County,Low
+Auckland,Oruaiti (14) and Upper Oruaiti (7),Oruaiti and Upper Oruaiti,Whangaroa County,Medium
+Auckland,Ostend (5) and Te Huruhi (9),Ostend and Te Huruhi,Waitemata County,High
+Auckland,Otaika Valley,Otaika Valley,Whangarei County,High
+Auckland,Otamarakau,Otamarakau,Tauranga County,Medium
+Auckland,Otara East (19) and Tirohanga (17),Otara East and Tirohanga,Opotiki County,Medium
+Auckland,Otewe,Otewe,Waipa County,Low
+Auckland,Otorohanga,Otorohanga,Waitomo County,High
+Auckland,Owhiwha (13) and Taraunui (13),Owhiwha and Taraunui,Whakatane County,Medium
+Auckland,Paemako (25) and Wairiri Falls (15),Paemako and Wairiri Falls,Waitomo County,High
+Auckland,Paerata Ridge,Paerata Ridge,Franklin County,High
+Auckland,Pakanae,Pakanae,Hokianga County,Medium
+Auckland,Pakautukua (8) and Port Charles (8),Pakautukua and Port Charles,Coromandel County,High
+Auckland,Pakiri,Pakiri,Rodney County,High
+Auckland,Pakotai,Pakotai,Hobson County,Low
+Auckland,Papakura,Papakura,Manukau County,Medium
+Auckland,Papamoa No.1,Papamoa No.1,Tauranga County,High
+Auckland,Papamoa No.2,Papamoa No.2,Tauranga County,High
+Auckland,Papatoetoe,Papatoetoe,Manukau County,High
+Auckland,Paranui (14) and Taipa(5),Paranui and Taipa,Mongonui County,High
+Auckland,Parenga,Parenga,Mongonui County,Low
+Auckland,Parua Bay Nos. 1 (23) and 2 (25),Parua Bay Nos. 1 and 2,Whangarei County,High
+Auckland,Patetonga,Patetonga,Thames County,Medium
+Auckland,Piarere,Piarere,Matamata County,Low
+Auckland,Piha (6) and Whatipu (7),Piha and Whatipu,Waitemata County,High
+Auckland,Pollock,Pollock,Franklin County,High
+Auckland,Ponga,Ponga,Franklin County,High
+Auckland,Ponui,Ponui,Franklin County,Low
+Auckland,Puahue,Puahue,Waitomo County,Low
+Auckland,Pukekawa,Pukekawa,Waikato County,Medium
+Auckland,Pukemiro Colleries,Pukemiro Colleries,Raglan County,High
+Auckland,Punakitere,Punakitere,Hokianga County,Medium
+Auckland,Purua No.1,Purua No.1,Whangarei County,Medium
+Auckland,Putake (7) and Waitomo Caves (6),Putake and Waitomo Caves,Waitomo County,High
+Auckland,Raglan,Raglan,Raglan County,High
+Auckland,Rangiahua (24) and Upper Waihou (19),Rangiahua and Upper Waihou,Hokianga County,High
+Auckland,Rangitoto No.2,Rangitoto No.2,Waitemata County,Low
+Auckland,Rotokakahi (12) and Salt Springs (9),Rotokakahi and Salt Springs,Rotorua County,High
+Auckland,Rotokauri,Rotokauri,Waikato County,Medium
+Auckland,Rotorua Island,Rotorua Island,Rotorua County,Low
+Auckland,Ruatangata East,Ruatangata East,Whangarei County,High
+Auckland,Ruatangata West,Ruatangata West,Whangarei County,High
+Auckland,Stanley Bay,Stanley Bay,Waitemata County,Medium
+Auckland,Tangitu,Tangitu,Ohura County,Medium
+Auckland,Tangowahine Valley,Tangowahine Valley,Hobson County,High
+Auckland,Taotaoroa No.1,Taotaoroa No.1,Matamata County,Medium
+Auckland,Tapapa,Tapapa,Matamata County,Medium
+Auckland,Tapu,Tapu,Thames County,High
+Auckland,Tapuhi,Tapuhi,Bay of Islands County,High
+Auckland,Tauhei No.1,Tauhei No.1,Piako County,High
+Auckland,Tauhei No.2,Tauhei No.2,Piako County,High
+Auckland,Tauraroa,Tauraroa,Otamatea County,Medium
+Auckland,Te Akau,Te Akau,Raglan County,Medium
+Auckland,Te Aroha West,Te Aroha West,Matamata County,High
+Auckland,Te Hihi,Te Hihi,Franklin County,Medium
+Auckland,Te Hoe,Te Hoe,Waikato County,Medium
+Auckland,Te Pahu,Te Pahu,Waipa County,Medium
+Auckland,Te Papapa,Te Papapa,Eden County,Medium
+Auckland,Te Pua,Te Pua,Hokianga County,Low
+Auckland,Te Puke,Te Puke,Tauranga County,High
+Auckland,Te Puke No.2,Te Puke No.2,Tauranga County,High
+Auckland,Te Puna,Te Puna,Tauranga County,Medium
+Auckland,Te Rahu,Te Rahu,Waitomo County,Medium
+Auckland,Te Rauamoa,Te Rauamoa,Waitomo County,Medium
+Auckland,Tererenga (10) and Whangapoua (11),Tererenga and Whangapoua,Coromandel County,High
+Auckland,Te Uku,Te Uku,Raglan County,Medium
+Auckland,Thames North,Thames North,Thames County,Medium
+Auckland,Thornton,Thornton,Whakatane County,Medium
+Auckland,Ti Point,Ti Point,Rodney County,Medium
+Auckland,Titoki (22) and Wharekohe (16),Titoki and Wharekohe,Whangarei County,High
+Auckland,Tuakau,Tuakau,Franklin County,High
+Auckland,Tuhikaramea,Tuhikaramea,Waikato County,Medium
+Auckland,Upper Waiwera,Upper Waiwera,Waitemata County,High
+Auckland,Waikiekie East (17) and Waikiekie West (29),Waikiekie East and Waikiekie West,Whangarei County,High
+Auckland,Waimai (6) and Waingaro (9),Waimai and Waingaro,Raglan County,High
+Auckland,Waimamaku Valley,Waimamaku Valley,Hokianga County,High
+Auckland,Waimatenui,Waimatenui,Bay of Islands County,Low
+Auckland,Waiotahi Valley,Waiotahi Valley,Opotiki County,High
+Auckland,Waiotemarama (18) and Weke-weka (17),Waiotemarama and Weke-weka,Hokianga County,High
+Auckland,Waipari (18) and Wharepuhunga (18),Waipari and Wharepuhunga,Waipa County,Medium
+Auckland,Waipu Cave,Waipu Cave,Whangarei County,High
+Auckland,Waipu North,Waipu North,Whangarei County,High
+Auckland,Waipu Upper,Waipu Upper,Whangarei County,High
+Auckland,Waitakaruru,Waitakaruru,Thames County,High
+Auckland,Waitangi,Waitangi,Bay of Islands County,High
+Auckland,Waitomo Valley Road (12) and Te Rau Mauku (13),Waitomo Valley Road and Te Rau Mauku,Waitomo County,High
+Auckland,Wardville,Wardville,Piako County,Low
+Auckland,Warkworth,Warkworth,Rodney County,High
+Auckland,Wayby,Wayby,Rodney County,Medium
+Auckland,Weymouth,Weymouth,Franklin County,Medium
+Auckland,Whananaki,Whananaki,Whangarei County,High
+Auckland,Whangarei Heads (42) and side school (14),Whangarei Heads,Whangarei County,High
+Auckland,Whangaroa North,Whangaroa North,Whangaroa County,High
+Auckland,Wharehine,Wharehine,Hokianga County,Medium
+Auckland,Whitford No.1,Whitford No.1,Manukau County,High
+Auckland,Whitford No.2,Whitford No.2,Manukau County,High
+Canterbury,Adair,Adair,Levels County,High
+Canterbury,Amberly,Amberly,Kowai County,High
+Canterbury,Arahura Road,Arahura Road,Westland County,High
+Canterbury,Aratika,Aratika,Grey County,Medium
+Canterbury,Ashburton Forks,Ashburton Forks,Ashburton County,Medium
+Canterbury,Ashley Gorge,Ashley Gorge,Ashley County,Medium
+Canterbury,Ashton,Ashton,Ashburton County,Low
+Canterbury,Ashwick Flat,Ashwick Flat,Mackenzie County,Medium
+Canterbury,Ataahua,Ataahua,Geraldine County,Low
+Canterbury,Barr Hill,Barr Hill,Malvern County,Low
+Canterbury,Barrytown,Barrytown,Grey County,High
+Canterbury,Big River,Big River,Inangahua County,Medium
+Canterbury,Birdling's Flat,Birdlings Flat,Ellesmere County,Medium
+Canterbury,Boddytown,Boddytown,Grey County,Medium
+Canterbury,Broadfield,Broadfield,Paparua County,Medium
+Canterbury,Broomfield,Broomfield,Levels County,Low
+Canterbury,Bruce Bay,Bruce Bay,Westland County,High
+Canterbury,Callaghan's,Callaghans,Selwyn County,Medium
+Canterbury,Calrleton,Calrleton,Eyre County,Medium
+Canterbury,Charing Cross,Charing Cross,Paparua County,Medium
+Canterbury,Claremont,Claremont,Malvern County,Low
+Canterbury,Cook's River,Cooks River,Westland County,Low
+Canterbury,Cooper's Creek,Coopers Creek,Ashburton County,Low
+Canterbury,Dobson,Dobson,Grey County,High
+Canterbury,Dromore,Dromore,Ashburton County,Medium
+Canterbury,Dunganville (7) andd Marsden (4),Dunganville andd Marsden,Cheviot County,Low
+Canterbury,Eyreton West,Eyreton West,Eyre County,High
+Canterbury,Fairton,Fairton,Ashburton County,Medium
+Canterbury,Four Peaks,Four Peaks,Geraldine County,Low
+Canterbury,French Farm,French Farm,Akaroa County,Low
+Canterbury,Glen Kowhai,Glen Kowhai,Oxford County,Low
+Canterbury,Goldsborough,Goldsborough,Westland County,High
+Canterbury,Governor's Bay,Governors Bay,Mt Herbert County,Medium
+Canterbury,Greta Valley,Greta Valley,Cheviot County,Medium
+Canterbury,Hanmer Plains,Hanmer Plains,Amuri County,High
+Canterbury,Hannaton,Hannaton,Malvern County,Low
+Canterbury,Hatters,Hatters,Grey County,Low
+Canterbury,Hazelburn,Hazelburn,Geraldine County,Medium
+Canterbury,Homebush,Homebush,Ashburton County,Low
+Canterbury,Hook Bush,Hook Bush,Waimate County,Medium
+Canterbury,Horsley Downs,Horsley Downs,Cheviot County,Medium
+Canterbury,Humphrey's,Humphreys,Westland County,High
+Canterbury,Hundalee,Hundalee,Cheviot County,Medium
+Canterbury,Huntingdon,Huntingdon,Ashburton County,Medium
+Canterbury,Hurunui,Hurunui,Amuri County,Low
+Canterbury,Ikawai,Ikawai,Waimate County,High
+Canterbury,Inchbonnie,Inchbonnie,Grey County,High
+Canterbury,Jack's Mill,Jacks Mill,Grey County,Medium
+Canterbury,Jackson,Jackson,Westland County,High
+Canterbury,Kaikoura Surburban,Kaikoura Surburban,Kaikoura County,High
+Canterbury,Kaikoura Town District High School Primary (94) secondary (9),Kaikoura Town,Kaikoura County,High
+Canterbury,Kakahu Bush,Kakahu Bush,Geraldine County,High
+Canterbury,Kohika,Kohika,Westland County,Low
+Canterbury,Kokatahi Lower,Kokatahi Lower,Westland County,High
+Canterbury,Kokatahi Upper,Kokatahi Upper,Westland County,High
+Canterbury,Kokiri,Kokiri,Grey County,High
+Canterbury,Kowhai Bush,Kowhai Bush,Malvern County,Low
+Canterbury,Kumara Junction,Kumara Junction,Westland County,High
+Canterbury,La Fontaine,La Fontaine,Levels County,Low
+Canterbury,Le Bon's Bay,Le Bons Bay,Akaroa County,High
+Canterbury,Loburn North,Loburn North,Ashley County,High
+Canterbury,Lyalldale,Lyalldale,Amuri County,Low
+Canterbury,Lynton Downs,Lynton Downs,Mackenzie County,Low
+Canterbury,Mahitahi,Mahitahi,Westland County,High
+Canterbury,Mananui,Mananui,Westland County,Low
+Canterbury,Mason's Flat,Masons Flat,Grey County,Low
+Canterbury,Mead,Mead,Ashburton County,Low
+Canterbury,Mikonui,Mikonui,Westland County,Medium
+Canterbury,Milford,Milford,Levels County,Low
+Canterbury,Moana,Moana,Grey County,High
+Canterbury,Moonlight,Moonlight,Westland County,Medium
+Canterbury,Mount Grey Downs,Mount Grey Downs,Ashley County,Low
+Canterbury,Okarito,Okarito,Westland County,High
+Canterbury,Okarito Forks,Okarito Forks,Westland County,High
+Canterbury,Okuku,Okuku,Ashley County,Low
+Canterbury,Okuru,Okuru,Westland County,High
+Canterbury,Okute Valley,Okute Valley,Westland County,Low
+Canterbury,Opawa,Opawa,Heathcote County,High
+Canterbury,Opihi,Opihi,Geraldine County,Medium
+Canterbury,Orari Bridge,Orari Bridge,Geraldine County,High
+Canterbury,Orari Gorge,Orari Gorge,Geraldine County,High
+Canterbury,Oxford East District High School - Primary (106) Secondary (13),Oxford East,Oxford County,High
+Canterbury,Oxford West,Oxford West,Oxford County,High
+Canterbury,Papanui (262) and Bligh's Road (side school) (104),Papanui and Blighs Road (side school,Waimairi County,High
+Canterbury,Pareora East,Pareora East,Levels County,High
+Canterbury,Pareora West,Pareora West,Levels County,High
+Canterbury,Pendarves,Pendarves,Ashburton County,Medium
+Canterbury,Pigeon's Bay,Pigeons Bay,Akaroa County,Medium
+Canterbury,Pleasant Point District High School Primary (146) Secondary (22),Pleasant Point,Levels County,High
+Canterbury,Port Levy,Port Levy,Mt Herbert County,Medium
+Canterbury,Port Robinson,Port Robinson,Cheviot County,Low
+Canterbury,Rakaia South,Rakaia South,Ashburton County,High
+Canterbury,Rangitata Station,Rangitata Station,Geraldine County,Low
+Canterbury,Roa,Roa,Grey County,High
+Canterbury,Robinson's Bay,Robinsons Bay,Akaroa County,Medium
+Canterbury,Rokeby,Rokeby,Ashburton County,Low
+Canterbury,Rosewill,Rosewill,Levels County,Medium
+Canterbury,Rotomanu,Rotomanu,Grey County,High
+Canterbury,Salisbury,Salisbury,Waimairi County,Low
+Canterbury,Saltwater Creek,Saltwater Creek,Westland County,Medium
+Canterbury,Seaview,Seaview,Heathcote County,Low
+Canterbury,Sedgemere,Sedgemere,Ashburton County,Low
+Canterbury,Shirley Road,Shirley Road,Waimairi County,High
+Canterbury,Southbridge District High School Primary (140) Secondary (23),Southbridge,Ellesmere County,High
+Canterbury,South Malvern,South Malvern,Malvern County,Medium
+Canterbury,Spencerville,Spencerville,Waimairi County,Medium
+Canterbury,Springbrook,Springbrook,Malvern County,Low
+Canterbury,Stillwater,Stillwater,Grey County,High
+Canterbury,Summerhill,Summerhill,Levels County,Low
+Canterbury,Swedes Mill,Swedes Mill,Grey County,Low
+Canterbury,Taramakau,Taramakau,Grey County,Low
+Canterbury,Taylorville,Taylorville,Grey County,High
+Canterbury,Teddington,Teddington,Akaroa County,Medium
+Canterbury,Te Moana,Te Moana,Geraldine County,Low
+Canterbury,Te Pirita,Te Pirita,Ashburton County,Low
+Canterbury,Teschmakers,Teschmakers,Waimate County,Low
+Canterbury,Tuahiwi,Tuahiwi,Eyre County,Medium
+Canterbury,Waihao Downs,Waihao Downs,Waimate County,High
+Canterbury,Wainihinihi,Wainihinihi,Westland County,High
+Canterbury,Wairewa,Wairewa,Wairewa County,High
+Canterbury,Waitohi Flat,Waitohi Flat,Geraldine County,Medium
+Canterbury,Waitohi Upper,Waitohi Upper,Geraldine County,Medium
+Canterbury,Waituna Creek,Waituna Creek,Ashburton County,Low
+Canterbury,Westbrook,Westbrook,Grey County,Low
+Canterbury,Whiterock,Whiterock,Waimate County,Low
+Canterbury,Winslow,Winslow,Ashburton County,Low
+HawkesBay,Argyll East,Argyll East,Waipawa County,High
+HawkesBay,Awariki,Awariki,Wairoa County,Low
+HawkesBay,Fernhill,Fernhill,Hawke's Bay County,Medium
+HawkesBay,Flemington,Flemington,Waipawa County,Low
+HawkesBay,Havelock North,Havelock North,Hawke's Bay County,High
+HawkesBay,Heretaunga,Heretaunga,Hawke's Bay County,Medium
+HawkesBay,Hopelands,Hopelands,Waipawa County,Low
+HawkesBay,Ihungia,Ihungia,Waiapu County,Low
+HawkesBay,Kaitaratahi,Kaitaratahi,Cook County,Low
+HawkesBay,Keruru,Keruru,Cook County,Low
+HawkesBay,Maharahara West,Maharahara West,Weber County,Low
+HawkesBay,Makaretu South,Makaretu South,Waipawa County,High
+HawkesBay,Mangatahi,Mangatahi,Hawke's Bay County,Low
+HawkesBay,Marakeke,Marakeke,Cook County,Low
+HawkesBay,Marumaru,Marumaru,Cook County,High
+HawkesBay,Morere,Morere,Wairoa County,Medium
+HawkesBay,Ngatarawa,Ngatarawa,Hawke's Bay County,Medium
+HawkesBay,Norsewood,Norsewood,Waipawa County,High
+HawkesBay,Omakere,Omakere,Patangata County,Low
+HawkesBay,Opapa,Opapa,Waipawa County,Medium
+HawkesBay,Opoutama,Opoutama,Wairoa County,Medium
+HawkesBay,Ormondville,Ormondville,Dannevirke County,High
+HawkesBay,Otamauri,Otamauri,Hawke's Bay County,Low
+HawkesBay,Otane,Otane,Waipawa County,High
+HawkesBay,Patangata,Patangata,Patangata County,Medium
+HawkesBay,Port Awanui,Port Awanui,Waiapu County,High
+HawkesBay,Putorino,Putorino,Wairoa County,Low
+HawkesBay,Ruaroa,Ruaroa,Cook County,Low
+HawkesBay,Ruataniwha,Ruataniwha,Waipawa County,Medium
+HawkesBay,Sherenden,Sherenden,Hawke's Bay County,Low
+HawkesBay,Tangitere,Tangitere,Cook County,Low
+HawkesBay,Taradale (237) and Greenmeadows (side school) (53),Taradale and Greenmeadows (side school,Hawke's Bay County,High
+HawkesBay,Te Arai,Te Arai,Hawke's Bay County,Medium
+HawkesBay,Te Pohue,Te Pohue,Hawke's Bay County,Low
+HawkesBay,Te Puia Springs,Te Puia Springs,Waiapu County,Medium
+HawkesBay,Tipapakuku,Tipapakuku,Hawke's Bay County,Medium
+HawkesBay,Tutira,Tutira,Hawke's Bay County,High
+HawkesBay,Waitahora,Waitahora,Dannevirke County,Low
+HawkesBay,Wigan,Wigan,Cook County,High
+Nelson,Addison's Flat,Addisons Flat,Buller County,High
+Nelson,Anatimo,Anatimo,Buller County,Low
+Nelson,Arapito,Arapito,Buller County,High
+Nelson,Awaroa,Awaroa,Waimea County,Medium
+Nelson,Blackwater Upper,Blackwater Upper,Inangahua County,High
+Nelson,Brightwater (59) and River Terrace (side school) (22),Brightwater and River Terrace (side school,Waimea County,High
+Nelson,Brooklyn,Brooklyn,Waimea County,High
+Nelson,Clifton Terrace,Clifton Terrace,Nelson County,High
+Nelson,Fairdown,Fairdown,Buller County,High
+Nelson,Fern Flat,Fern Flat,Buller County,High
+Nelson,Ferntown,Ferntown,Collingwood County,High
+Nelson,Glenhope,Glenhope,Waimea County,Medium
+Nelson,Golden Downs,Golden Downs,Nelson County,Low
+Nelson,Granity (135) and Hector (side school) (40),Granity and Hector (side school,Buller County,High
+Nelson,Hamama,Hamama,Waimea County,Low
+Nelson,Happy Valley,Happy Valley,Nelson County,High
+Nelson,Hinekaka,Hinekaka,Collingwood County,Low
+Nelson,Inangahua Landing,Inangahua Landing,Inangahua County,High
+Nelson,Karamea (81) and Oparara (side school) (11),Karamea and Oparara (side school,Buller County,High
+Nelson,Kikiwa,Kikiwa,Waimea County,Medium
+Nelson,Kiwi,Kiwi,Waimea County,Low
+Nelson,Koreke,Koreke,Collingwood County,Low
+Nelson,Little Grey,Little Grey,Inangahua County,High
+Nelson,Little Wanganui,Little Wanganui,Buller County,High
+Nelson,Longford,Longford,Buller County,Medium
+Nelson,Long Plain,Long Plain,Collingwood County,Low
+Nelson,McLaren's Bay,McLarens Bay,Waimea County,Medium
+Nelson,Mahana,Mahana,Waimea County,Medium
+Nelson,Mangarakau,Mangarakau,Collingwood County,High
+Nelson,Mangles Valley,Mangles Valley,Buller County,Medium
+Nelson,Mapua,Mapua,Waimea County,High
+Nelson,Marahau,Marahau,Waimea County,High
+Nelson,Matai Valley,Matai Valley,Collingwood County,Medium
+Nelson,Motupiko,Motupiko,Waimea County,High
+Nelson,Norris's Gully,Norriss Gully,Nelson County,Low
+Nelson,Nuggety Creek,Nuggety Creek,Inangahua County,Medium
+Nelson,Oparara Beach,Oparara Beach,Buller County,Medium
+Nelson,Orinoco,Orinoco,Buller County,Low
+Nelson,Owen Junction,Owen Junction,Buller County,High
+Nelson,Pakawau,Pakawau,Collingwood County,High
+Nelson,Pariwhakaho,Pariwhakaho,Nelson County,Medium
+Nelson,Pigeon Valley,Pigeon Valley,Waimea County,Medium
+Nelson,Pokororo,Pokororo,Waimea County,Medium
+Nelson,Progress,Progress,Buller County,High
+Nelson,Punakaikai,Punakaikai,Buller County,High
+Nelson,Ranzau,Ranzau,Waimea County,High
+Nelson,Redwood's Valley,Redwoods Valley,Nelson County,Low
+Nelson,Rockville (42) and Dall's Creek (side school) (11),Rockville and Dalls Creek (side school,Collingwood County,High
+Nelson,Rocky River,Rocky River,Collingwood County,Medium
+Nelson,Rotokohu,Rotokohu,Buller County,Low
+Nelson,Sergeant's Hill,Sergeants Hill,Inangahua County,Medium
+Nelson,Sherry River,Sherry River,Waimea County,High
+Nelson,Six-mile,Six-mile,Buller County,Medium
+Nelson,Summerlea,Summerlea,Inangahua County,Medium
+Nelson,Takaka Central,Takaka,Collingwood County,High
+Nelson,Takaka Lower District High School,Takaka Lower,Collingwood County,High
+Nelson,Takaka Upper,Takaka Upper,Collingwood County,High
+Nelson,Tapawera,Tapawera,Waimea County,High
+Nelson,Tauranga Bay,Tauranga Bay,Buller County,Medium
+Nelson,Te Arowhenua,Te Arowhenua,Nelson County,Low
+Nelson,Tophouse,Tophouse,Nelson County,Medium
+Nelson,Tuikea,Tuikea,Collingwood County,Medium
+Nelson,Tutaki,Tutaki,Buller County,Medium
+Nelson,Umere,Umere,Buller County,Low
+Nelson,Uruwhenua,Uruwhenua,Collingwood County,Low
+Nelson,Waimea West,Waimea West,Waimea County,High
+Nelson,Wairangi,Wairangi,Nelson County,Low
+Nelson,Wakefield Lower,Wakefield Lower,Waimea County,High
+Nelson,Will's Road,Wills Road,Buller County,Low
+Otago,Airedale,Airedale,Clutha County,Low
+Otago,Akatore,Akatore,Clutha County,High
+Otago,Akatore Coast,Akatore Coast,Clutha County,High
+Otago,Arthurton,Arthurton,Clutha County,High
+Otago,Bald Hill,Bald Hill,Vincent County,High
+Otago,Bendigo,Bendigo,Lake County,Medium
+Otago,Berwen,Berwen,Clutha County,Low
+Otago,Blacks,Blacks,Bruce County,Low
+Otago,Blackstone,Blackstone,Maniototo County,High
+Otago,Broad Bay,Broad Bay,Peninsula County,High
+Otago,Chaslands,Chaslands,Clutha County,High
+Otago,Chatto Creek,Chatto Creek,Vincent County,High
+Otago,Clark's Flat,Clarks Flat,Tuapeka County,Low
+Otago,Dunrobin,Dunrobin,Tuapeka County,Medium
+Otago,East Taieri,East Taieri,Taieri County,High
+Otago,Edievale,Edievale,Tuapeka County,High
+Otago,Elderslie,Elderslie,Bruce County,Low
+Otago,Evansdale,Evansdale,Waikouaiti County,Medium
+Otago,Evans Flat,Evans Flat,Tuapeka County,Medium
+Otago,Five Forks,Five Forks,Tuapeka County,Low
+Otago,Flag Swamp,Flag Swamp,Taieri County,Medium
+Otago,Glenledi,Glenledi,Clutha County,Low
+Otago,Glenore,Glenore,Bruce County,Low
+Otago,Greenfield,Greenfield,Waitaki County,Low
+Otago,Hampden,Hampden,Waitaki County,High
+Otago,Hawea,Hawea,Lake County,High
+Otago,Hill Springs,Hill Springs,Waitaki County,Low
+Otago,Hinahina,Hinahina,Clutha County,Low
+Otago,Hindon Railway,Hindon Railway,Maniototo County,High
+Otago,Hooper's Inlet,Hoopers Inlet,Peninsula County,High
+Otago,Inch Valley,Inch Valley,Waitaki County,Low
+Otago,Island Cliffe,Island Cliffe,Waitaki County,Medium
+Otago,Kaihiku,Kaihiku,Tuapeka County,Medium
+Otago,Karitane,Karitane,Waikouaiti County,High
+Otago,Kartigi,Kartigi,Waitaki County,Low
+Otago,Kauroo,Kauroo,Waitaki County,Medium
+Otago,Killermont,Killermont,Tuapeka County,Low
+Otago,Kokoano,Kokoano,Clutha County,Low
+Otago,Kokonga,Kokonga,Maniototo County,High
+Otago,Kuri Bush,Kuri Bush,Taieri County,High
+Otago,Kuriwao,Kuriwao,Clutha County,High
+Otago,Kyeburn Diggings,Kyeburn Diggings,Maniototo County,High
+Otago,Lauder Railway Station,Lauder Railway Station,Maniototo County,High
+Otago,Lower Harbour,Lower Harbour,Peninsula County,High
+Otago,Luggate,Luggate,Lake County,High
+Otago,McLennan,McLennan,Clutha County,Medium
+Otago,Manuka Creek,Manuka Creek,Clutha County,Low
+Otago,Matakanui,Matakanui,Maniototo County,High
+Otago,Merino Downs,Merino Downs,Tuapeka County,High
+Otago,Moonlight,Moonlight,Maniototo County,High
+Otago,Mount Cargill,Mount Cargill,Peninsula County,High
+Otago,Mount Stewart,Mount Stewart,Taieri County,Medium
+Otago,Ngapuna,Ngapuna,Maniototo County,High
+Otago,North East Harbour,North East Harbour,Peninsula County,High
+Otago,North Taieri,North Taieri,Taieri County,High
+Otago,Nugget Point,Nugget Point,Clutha County,High
+Otago,Otakou,Otakou,Peninsula County,High
+Otago,Otanomomo,Otanomomo,Bruce County,Medium
+Otago,Otekura,Otekura,Clutha County,Medium
+Otago,Otepopo,Otepopo,Waitaki County,High
+Otago,Outram,Outram,Taieri County,High
+Otago,Owaka Valley,Owaka Valley,Clutha County,High
+Otago,Paerau,Paerau,Maniototo County,High
+Otago,Papatowai,Papatowai,Clutha County,High
+Otago,Popotunoa,Popotunoa,Bruce County,Medium
+Otago,Port Molyneux,Port Molyneux,Clutha County,High
+Otago,Pounawea,Pounawea,Clutha County,High
+Otago,Pukeiwitahi,Pukeiwitahi,Bruce County,Low
+Otago,Pukema,Pukema,Maniototo County,Medium
+Otago,Pukepito,Pukepito,Clutha County,Low
+Otago,Puketi,Puketi,Bruce County,Low
+Otago,Purakauiti,Purakauiti,Waitaki County,Low
+Otago,Rae's Junction,Raes Junction,Vincent County,High
+Otago,Ravensbourne,Ravensbourne,Peninsula County,High
+Otago,Reomoana,Reomoana,Clutha County,Low
+Otago,St. Leonards,St. Leonards,Peninsula County,High
+Otago,Southbridge,Southbridge,Clutha County,Low
+Otago,Spottis Creek,Spottis Creek,Clutha County,Medium
+Otago,Spylaw Valley,Spylaw Valley,Clutha County,Low
+Otago,Stony Creek,Stony Creek,Clutha County,Low
+Otago,Strath Taieri,Strath Taieri,Maniototo County,High
+Otago,Table Hill,Table Hill,Taieri County,Low
+Otago,Taieri Beach,Taieri Beach,Taieri County,High
+Otago,Taieri Ferry,Taieri Ferry,Taieri County,High
+Otago,Tapui,Tapui,Bruce County,Medium
+Otago,Tarara,Tarara,Clutha County,Medium
+Otago,Taumata,Taumata,Clutha County,Low
+Otago,Teaneraki,Teaneraki,Waitaki County,High
+Otago,Upper Junction,Upper Junction,Clutha County,Low
+Otago,Waihemo,Waihemo,Waihemo County,Medium
+Otago,Waikouaiti,Waikouaiti,Waikouaiti County,High
+Otago,Waipori,Waipori,Taieri County,Medium
+Otago,Waipori Falls,Waipori Falls,Taieri County,Medium
+Otago,Waitahuna Gully,Waitahuna Gully,Tuapeka County,High
+Otago,Waitaki Bridge,Waitaki Bridge,Waitaki County,Medium
+Otago,Waitapeka,Waitapeka,Clutha County,Medium
+Otago,Wanaka,Wanaka,Lake County,High
+Otago,Wanaka Road,Wanaka Road,Lake County,Medium
+Otago,Wangaloa,Wangaloa,Clutha County,Medium
+Otago,Waronui,Waronui,Clutha County,Low
+Otago,West Taieri,West Taieri,Taieri County,High
+Otago,Wetherstones,Wetherstones,Clutha County,Low
+Otago,Whare Flat,Whare Flat,Taieri County,High
+Otago,Wharekuri,Wharekuri,Waihemo County,Medium
+Otago,Wharetoa,Wharetoa,Clutha County,Low
+Taranaki,Ackland,Ackland,Inglewood County,Low
+Taranaki,Ahiti,Ahiti,Ohura County,Medium
+Taranaki,Aukopae,Aukopae,Ohura County,Medium
+Taranaki,Denbigh,Denbigh,Stratford County,Medium
+Taranaki,Dudley,Dudley,Stratford County,High
+Taranaki,Durham,Durham,Stratford County,High
+Taranaki,Finnerty,Finnerty,Clifton County,Medium
+Taranaki,Fraser Road,Fraser Road,Egmont County,Medium
+Taranaki,Hapurua (6) and Waitewhena (5),Hapurua and Waitewhena,Clifton County,Low
+Taranaki,Herangi,Herangi,Ohura County,Medium
+Taranaki,Huiakama,Huiakama,Clifton County,Medium
+Taranaki,Hurford,Hurford,Inglewood County,Low
+Taranaki,Kahui,Kahui,Egmont County,High
+Taranaki,Kaimiro,Kaimiro,Taranaki County,High
+Taranaki,Kaponga,Kaponga,Eltham County,High
+Taranaki,Kent,Kent,Taranaki County,Medium
+Taranaki,Kiore,Kiore,Stratford County,Medium
+Taranaki,Koru,Koru,Taranaki County,High
+Taranaki,Mahirakau,Mahirakau,Ohura County,Medium
+Taranaki,Makahu,Makahu,Stratford County,Medium
+Taranaki,Manaia,Manaia,Hawera County,Medium
+Taranaki,Mangahume,Mangahume,Eltham County,High
+Taranaki,Mangamingi,Mangamingi,Eltham County,High
+Taranaki,Mangorei Lower,Mangorei Lower,Taranaki County,High
+Taranaki,Mangorei Upper,Mangorei Upper,Taranaki County,High
+Taranaki,Marco,Marco,Whangamomona County,Medium
+Taranaki,Matau (household),Matau (household,Clifton County,Medium
+Taranaki,Mimi,Mimi,Clifton County,High
+Taranaki,Mokau River,Mokau River,Clifton County,Medium
+Taranaki,Mount Messenger,Mount Messenger,Clifton County,High
+Taranaki,Newall,Newall,Egmont County,High
+Taranaki,Nihoniho,Nihoniho,Ohura County,High
+Taranaki,Norfolk,Norfolk,Stratford County,High
+Taranaki,Normanby,Normanby,Hawera County,High
+Taranaki,Okato,Okato,Taranaki County,Medium
+Taranaki,Okoke,Okoke,Clifton County,High
+Taranaki,Opunake,Opunake,Egmont County,High
+Taranaki,Otangiwai,Otangiwai,Ohura County,High
+Taranaki,Paraketu Valley,Paraketu Valley,Ohura County,Low
+Taranaki,Pehu,Pehu,Whangamomona County,Medium
+Taranaki,Piko,Piko,Stratford County,Medium
+Taranaki,Pitone,Pitone,Taranaki County,Medium
+Taranaki,Pukearuhe,Pukearuhe,Clifton County,High
+Taranaki,Puniho,Puniho,Egmont County,High
+Taranaki,Puniwhakau,Puniwhakau,Stratford County,Medium
+Taranaki,Purangi,Purangi,Stratford County,High
+Taranaki,Raupuha,Raupuha,Taranaki County,Low
+Taranaki,Rotokare,Rotokare,Eltham County,Medium
+Taranaki,Rowan,Rowan,Egmont County,Medium
+Taranaki,Stanley,Stanley,Stratford County,High
+Taranaki,Tatu,Tatu,Ohura County,Medium
+Taranaki,Tokirima Road,Tokirima Road,Ohura County,High
+Taranaki,Tuna,Tuna,Stratford County,Medium
+Taranaki,Tututawa,Tututawa,Whangamomona County,Medium
+Taranaki,Waitaanga,Waitaanga,Whangamomona County,Medium
+Taranaki,Waitewhena (half-time) See under Hapurua,Waitewhena,Clifton County,Medium
+Taranaki,York,York,Clifton County,Medium
+Wanganui,Aratika,Aratika,Wanganui County,Low
+Wanganui,Awahou,Awahou,Kiwitea County,Medium
+Wanganui,Awahou South,Awahou South,Kiwitea County,Medium
+Wanganui,Bainesse,Bainesse,Kiwitea County,High
+Wanganui,Bluff Road,Bluff Road,Wanganui County,Low
+Wanganui,Bull's District High School Primary (127) Secondary (12),Bulls,Rangitikei County,High
+Wanganui,Carnarvon,Carnarvon,Oroua County,Medium
+Wanganui,Durie Hill,Durie Hill,Wanganui County,Medium
+Wanganui,Fitzherbert East,Fitzherbert East,Kairanga County,Medium
+Wanganui,Halcombe,Halcombe,Oroua County,High
+Wanganui,Herrington (side school) See under Umumuri,Herrington (side school,Wanganui County,High
+Wanganui,Hiwinui,Hiwinui,Kiwitea County,Medium
+Wanganui,Hukapapa,Hukapapa,Rangitikei County,Low
+Wanganui,Hunterville District High School Primary (129) Secondary (14),Hunterville,Rangitikei County,High
+Wanganui,Kaheke,Kaheke,Wanganui County,Low
+Wanganui,Kaitieke,Kaitieke,Kaitieke County,High
+Wanganui,Kaitoke,Kaitoke,Wanganui County,High
+Wanganui,Kakariki,Kakariki,Rangitikei County,High
+Wanganui,Kelvin Grove,Kelvin Grove,Kairanga County,High
+Wanganui,Kimbolton,Kimbolton,Kiwitea County,Medium
+Wanganui,Kiwitea,Kiwitea,Kiwitea County,High
+Wanganui,Koeke,Koeke,Rangitikei County,High
+Wanganui,Lacy's Landing,Lacys Landing,Wanganui County,Low
+Wanganui,Main South Road,Main South Road,Wanganui County,Low
+Wanganui,Makino Road,Makino Road,Oroua County,Medium
+Wanganui,Makohine Valley,Makohine Valley,Rangitikei County,Medium
+Wanganui,Mangarimu,Mangarimu,Rangitikei County,High
+Wanganui,Mangatiti Landing,Mangatiti Landing,Wanganui County,Low
+Wanganui,Mangaweka,Mangaweka,Rangitikei County,High
+Wanganui,Manunui,Manunui,Kaitieke County,Medium
+Wanganui,Maxwell,Maxwell,Wanganui County,Medium
+Wanganui,Nukumaru,Nukumaru,Waitotara County,Low
+Wanganui,Opaku,Opaku,Patea County,Medium
+Wanganui,Orautoha,Orautoha,Wanganui County,Low
+Wanganui,Pohonui,Pohonui,Wanganui County,Low
+Wanganui,Pokako,Pokako,Rangitikei County,Low
+Wanganui,Poukiore,Poukiore,Wanganui County,Low
+Wanganui,Pukekaha,Pukekaha,Kiwitea County,Low
+Wanganui,Pukeokahu,Pukeokahu,Rangitikei County,Low
+Wanganui,Raetihi,Raetihi,Waimarino County,High
+Wanganui,Rangataua,Rangataua,Waimarino County,High
+Wanganui,Rata-iti,Rata-iti,Rangitikei County,Low
+Wanganui,Retaruke,Retaruke,Kaitieke County,Low
+Wanganui,Rewa,Rewa,Wanganui County,Low
+Wanganui,Rongotea,Rongotea,Rangitikei County,Medium
+Wanganui,Ruahine,Ruahine,Rangitikei County,Low
+Wanganui,Ruatiti,Ruatiti,Waimarino County,High
+Wanganui,South Makirikiri,South Makirikiri,Wanganui County,High
+Wanganui,Stoney Creek,Stoney Creek,Oroua County,Medium
+Wanganui,Taihape District High School Primary (296) Secondary (18) and Winiata (side school) (17),Taihape,Rangitikei County,High
+Wanganui,Tangiwai,Tangiwai,Waimarino County,Medium
+Wanganui,Taoroa Road,Taoroa Road,Rangitikei County,High
+Wanganui,Te Ara-Kura,Te Ara-Kura,Wanganui County,Low
+Wanganui,Te Rena,Te Rena,Wanganui County,Low
+Wanganui,Tiakitahuna,Tiakitahuna,Kairanga County,Medium
+Wanganui,Tiritea,Tiritea,Kairanga County,Medium
+Wanganui,Torere,Torere,Wanganui County,Low
+Wanganui,Tunakotekote,Tunakotekote,Wanganui County,Low
+Wanganui,Umumuri (81) and Herrington (side school) (14),Umumuri and Herrington (side school,Wanganui County,Medium
+Wanganui,Upokongaro,Upokongaro,Wanganui County,High
+Wanganui,Upper Kawhatau,Upper Kawhatau,Kiwitea County,Medium
+Wanganui,Upper Retaruke,Upper Retaruke,Kaitieke County,Low
+Wanganui,Upper Tutaenui,Upper Tutaenui,Rangitikei County,High
+Wanganui,Warrengate,Warrengate,Kairanga County,Low
+Wanganui,Waverley,Waverley,Patea County,Medium
+Wanganui,Western Rangitikei,Western Rangitikei,Rangitikei County,Medium
+Wanganui,Whaka Road,Whaka Road,Wanganui County,Low
+Wanganui,Winiata (side school) see under Taihape,Winiata (side school,Rangitikei County,High
+Wellington,Blind River,Blind River,Awatere County,Medium
+Wellington,Brancott,Brancott,Marlborough County,Medium
+Wellington,Carluke,Carluke,Marlborough County,High
+Wellington,Dillon's Point,Dillons Point,Marlborough County,Medium
+Wellington,Eli Bay,Eli Bay,Sounds County,Medium
+Wellington,Fabian's Valley,Fabians Valley,Marlborough County,Medium
+Wellington,Fairhall,Fairhall,Marlborough County,High
+Wellington,Finnie's Creek,Finnies Creek,Marlborough County,Low
+Wellington,Four-fathom Bay,Four-fathom Bay,Sounds County,Low
+Wellington,French Pass,French Pass,Sounds County,High
+Wellington,Havelock,Havelock,Marlborough County,High
+Wellington,Hillersden,Hillersden,Marlborough County,Medium
+Wellington,Jordan,Jordan,Awatere County,High
+Wellington,Kaiuma,Kaiuma,Sounds County,Medium
+Wellington,Kakapou Bay,Kakapou Bay,Sounds County,Low
+Wellington,Kekerangu,Kekerangu,Awatere County,High
+Wellington,Koromiko,Koromiko,Sounds County,High
+Wellington,Linkwater,Linkwater,Sounds County,High
+Wellington,Maori Bay,Maori Bay,Sounds County,Low
+Wellington,Marathon,Marathon,Sounds County,Low
+Wellington,Marlboroughtown,Marlboroughtown,Marlborough County,High
+Wellington,Ocean Bay,Ocean Bay,Sounds County,Medium
+Wellington,Onamalutu,Onamalutu,Marlborough County,High
+Wellington,Pelorus Bridge,Pelorus Bridge,Marlborough County,Medium
+Wellington,Renwick,Renwick,Marlborough County,High
+Wellington,Richmond Brook,Richmond Brook,Marlborough County,High
+Wellington,Riverlands,Riverlands,Marlborough County,Medium
+Wellington,Ronga Valley,Ronga Valley,Sounds County,Low
+Wellington,Saratoga Bay,Saratoga Bay,Sounds County,Low
+Wellington,Sea View,Sea View,Awatere County,Medium
+Wellington,Stephens Island,Stephens Island,Sounds County,Low
+Wellington,Te Rou,Te Rou,Sounds County,Low
+Wellington,Ugbrooke,Ugbrooke,Awatere County,Medium
+Wellington,Upton Downs,Upton Downs,Awatere County,Low
+Wellington,Wairau Bar,Wairau Bar,Marlborough County,Medium
+Wellington,Wairau Pa,Wairau Pa,Marlborough County,Medium
+Wellington,Wantwood,Wantwood,Marlborough County,Medium
+Wellington,Wharanui,Wharanui,Awatere County,Medium
+Wellington,Woodbank,Woodbank,Marlborough County,Low
+Wellington,East Taratahi,East Taratahi,Wairarapa South County,Medium
+Wellington,Ponatahi,Ponatahi,Wairarapa South County,Medium
+Wellington,Horoeka,Horoeka,Eketahuna County,Medium
+Wellington,Waione,Waione,Eketahuna County,Low
+Wellington,Kaiparoro,Kaiparoro,Eketahuna County,Medium
+Wellington,Mangamahoe,Mangamahoe,Eketahuna County,Low
+Wellington,Mangaone,Mangaone,Eketahuna County,Low
+Wellington,Putara,Putara,Pahiatua County,Low
+Wellington,Saunders Road,Saunders Road,Eketahuna County,Low
+Wellington,Tane,Tane,Eketahuna County,Low
+Wellington,Waihoki Valley,Waihoki Valley,Eketahuna County,Low
+Wellington,Kahautara,Kahautara,Featherston County,Medium
+Wellington,Kaiwaiwai,Kaiwaiwai,Featherston County,High
+Wellington,South Featherston,South Featherston,Featherston County,Medium
+Wellington,Eastern Hutt,Eastern Hutt,Hutt County,Medium
+Wellington,Muhunoa East,Muhunoa East,Horowhenua County,Medium
+Wellington,Dyer,Dyer,Wairarapa South County,Low
+Wellington,Martinborough,Martinborough,Wairarapa South County,High
+Wellington,Tablelands,Tablelands,Wairarapa South County,Low
+Wellington,Dreyers Rock,Dreyers Rock,Mauriceville County,High
+Wellington,Fernridge,Fernridge,Masterton County,Medium
+Wellington,Mangapakeha,Mangapakeha,Castlepoint County,Low
+Wellington,Mauriceville West,Mauriceville West,Mauriceville County,High
+Wellington,Mikimiki,Mikimiki,Masterton County,High
+Wellington,Poroporo,Poroporo,Masterton County,Low
+Wellington,Te Wharau,Te Wharau,Masterton County,High
+Wellington,Te Whiti,Te Whiti,Masterton County,Low
+Wellington,Waingawa,Waingawa,Masterton County,High
+Wellington,Whareama,Whareama,Castlepoint County,Medium
+Wellington,Hinemoa,Hinemoa,Pahiatua County,Low
+Wellington,Kakariki,Kakariki,Pahiatua County,Medium
+Wellington,Kohiku,Kohiku,Pahiatua County,Low
+Wellington,Korora (14) and Pukehinau (19),Korora and Pukehinau,Pahiatua County,Medium
+Wellington,Makairo,Makairo,Pahiatua County,Low
+Wellington,Makomako,Makomako,Pahiatua County,Medium
+Wellington,Maungahao,Maungahao,Pahiatua County,Low
+Wellington,Marima,Marima,Pahiatua County,Low
+Wellington,Ngaturi,Ngaturi,Pahiatua County,Medium
+Wellington,Nikau,Nikau,Pahiatua County,Low
+Wellington,Puketoi,Puketoi,Pahiatua County,Low
+Wellington,Black Rock,Black Rock,Sounds County,Low
+Wellington,Coniston,Coniston,Sounds County,Low
+Wellington,Endeavour Inlet,Endeavour Inlet,Sounds County,High
+Wellington,Fitzroy Bay,Fitzroy Bay,Sounds County,Low
+Wellington,Havelock Surburban,Havelock Surburban,Marlborough County,Medium
+Wellington,Hitaua,Hitaua,Sounds County,Low
+Wellington,Hurituni,Hurituni,Sounds County,Low
+Wellington,Maude Island,Maude Island,Sounds County,High
+Wellington,Nopera Bay,Nopera Bay,Sounds County,Low
+Wellington,Ohana,Ohana,Sounds County,Low
+Wellington,Onauku,Onauku,Sounds County,Medium
+Wellington,Resolution Bay,Resolution Bay,Sounds County,High
+Wellington,Rocks,Rocks,Sounds County,Low
+Wellington,Te Weka,Te Weka,Sounds County,Medium
+Wellington,Tira Ora,Tira Ora,Sounds County,Low
+Wellington,Waikawa Pah,Waikawa Pah,Sounds County,Medium
+Wellington,Waitaria,Waitaria,Sounds County,Medium
+Wellington,Whareatea Bay,Whareatea Bay,Sounds County,Low
+Wellington,Wharehunga,Wharehunga,Sounds County,Low
+Wellington,Akaroa Road,Akaroa Road,Akitio County,Low
+Wellington,Bulwer,Bulwer,Sounds County,High
+Wellington,Castlepoint,Castlepoint,Castlepoint County,High
+Wellington,Catherine's Cove,Catherines Cove,Sounds County,Low
+Wellington,Kaitoke,Kaitoke,Hutt County,High
+Wellington,Karapoti,Karapoti,Hutt County,Low
+Wellington,Korokoro North,Korokoro North,Hutt County,High
+Wellington,Makerua,Makerua,Horowhenua County,Medium
+Wellington,Mangaroa,Mangaroa,Hutt County,High
+Wellington,Ngamuka,Ngamuka,Sounds County,Low
+Wellington,Pahautanui,Pahautanui,Makara County,Medium
+Wellington,Pukatea Bay,Pukatea Bay,Sounds County,Low
+Wellington,St. Lawerence,St. Lawerence,Sounds County,Low
+Wellington,Stokes Valley,Stokes Valley,Hutt County,High
+Wellington,Te Marua,Te Marua,Hutt County,Medium
+Wellington,Upper Hutt,Upper Hutt,Hutt County,High
+Wellington,Waikawa Bay,Waikawa Bay,Sounds County,Medium
+Wellington,Wallaceville,Wallaceville,Hutt County,High
+Southland,Ardlussa,Ardlussa,Southland County,Medium
+Southland,Arthur's Point,Arthurs Point,Lake County,High
+Southland,Awarua Plains,Awarua Plains,Southland County,High
+Southland,Caroline,Caroline,Wallace County,High
+Southland,Chatton North,Chatton North,Southland County,High
+Southland,Crown Terrace,Crown Terrace,Lake County,High
+Southland,Croydon,Croydon,Southland County,High
+Southland,Daere,Daere,Southland County,Medium
+Southland,Eastern Bush,Eastern Bush,Wallace County,High
+Southland,East Limehills,East Limehills,Southland County,High
+Southland,Edendale,Edendale,Southland County,High
+Southland,Elderslie,Elderslie,Southland County,High
+Southland,Ermedale,Ermedale,Wallace County,High
+Southland,Etavale,Etavale,Wallace County,Low
+Southland,Etavale No.2,Etavale No.2,Wallace County,Low
+Southland,Feldwick,Feldwick,Wallace County,High
+Southland,Ferndale,Ferndale,Southland County,High
+Southland,Ferndunlaw,Ferndunlaw,Wallace County,High
+Southland,Fernhills,Fernhills,Wallace County,Medium
+Southland,Five Rivers Siding,Five Rivers Siding,Southland County,High
+Southland,Forest Hill North,Forest Hill North,Southland County,High
+Southland,Gibbston,Gibbston,Lake County,High
+Southland,Gladfield,Gladfield,Wallace County,High
+Southland,Glencoe,Glencoe,Southland County,High
+Southland,Glen Dhu,Glen Dhu,Southland County,Low
+Southland,Haldane,Haldane,Southland County,Medium
+Southland,Hamilton Burn,Hamilton Burn,Wallace County,High
+Southland,Happy Valley,Happy Valley,Wallace County,High
+Southland,Hedgehope Lower,Hedgehope Lower,Southland County,High
+Southland,Hedgehope Upper,Hedgehope Upper,Southland County,High
+Southland,Holmesdale,Holmesdale,Wallace County,High
+Southland,Kapuka South,Kapuka South,Southland County,Medium
+Southland,Key,Key,Fiord County,Medium
+Southland,Kingston,Kingston,Lake County,High
+Southland,Kinlock,Kinlock,Lake County,High
+Southland,Limestone Plains,Limestone Plains,Southland County,Medium
+Southland,Longridge Village,Longridge Village,Southland County,High
+Southland,Lumsden,Lumsden,Southland County,High
+Southland,Mabel,Mabel,Southland County,High
+Southland,Maitland Village,Maitland Village,Southland County,High
+Southland,Makarewa North,Makarewa North,Southland County,High
+Southland,Merrivale,Merrivale,Wallace County,High
+Southland,Mimihau,Mimihau,Southland County,Medium
+Southland,Morton Mains siding,Morton Mains siding,Southland County,High
+Southland,Motu Rimu,Motu Rimu,Southland County,High
+Southland,Mount Alfred,Mount Alfred,Lake County,High
+Southland,Mount Aspiring,Mount Aspiring,Lake County,High
+Southland,New River Ferry,New River Ferry,Southland County,High
+Southland,Niagara,Niagara,Southland County,Medium
+Southland,Oraki,Oraki,Wallace County,High
+Southland,Oreti Plains,Oreti Plains,Southland County,High
+Southland,Otahau,Otahau,Wallace County,High
+Southland,Otautau,Otautau,Wallace County,High
+Southland,Oteramika,Oteramika,Southland County,Medium
+Southland,Oteramika Gorge,Oteramika Gorge,Southland County,Medium
+Southland,Pyramid Siding,Pyramid Siding,Southland County,Medium
+Southland,Quarry Hills (12) and Waikawa Valley (14),Quarry Hills and Waikawa Valley,Southland County,Medium
+Southland,Redan,Redan,Southland County,Low
+Southland,Roslyn Bush,Roslyn Bush,Southland County,High
+Southland,Sandstone,Sandstone,Southland County,High
+Southland,"Shotover, Lower",Shotover,Lake County,High
+Southland,Springhills,Springhills,Southland County,High
+Southland,St. George,St. George,Southland County,Low
+Southland,Taramoa,Taramoa,Southland County,High
+Southland,Taunoa,Taunoa,Wallace County,High
+Southland,Te Anau,Te Anau,Fiord County,High
+Southland,Titipua,Titipua,Southland County,High
+Southland,Waikawa Valley (see under Quarry Hill),Waikawa Valley (see under Quarry Hill,Southland County,High
+Southland,Waikouro,Waikouro,Wallace County,High
+Southland,Waipounamu,Waipounamu,Southland County,Medium
+Southland,Wairaki,Wairaki,Wallace County,High
+Southland,Wairekiki,Wairekiki,Wallace County,Medium
+Southland,Wendon Valley,Wendon Valley,Southland County,Medium
+Southland,Whitehead,Whitehead,Wallace County,Low
+Southland,Wyndham,Wyndham,Southland County,Medium
+Southland,Wyndham South,Wyndham South,Southland County,Medium

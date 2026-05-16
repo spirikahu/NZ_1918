@@ -10,32 +10,39 @@ For each school assigned to a county (not a borough/town district), the script:
   1. Cleans the school name down to its core locality
   2. Looks it up in small_cities (exact, then fuzzy)
   3. Compares the assigned county against the small_cities county
-  4. Flags MISMATCH (different county found) or MULTI_MATCH (name appears in
-     multiple counties and mine is one of them — worth reviewing)
+  4. Flags MISMATCH when small_cities disagrees with the assignment.
+     If small_cities lists multiple counties and mine is one of them,
+     the assignment is treated as confirmed (compatible evidence).
 
 Usage:
-    python check_assignments.py [--include-unverified]
+    python check_assignments.py [--include-unverified] [--enrich]
 
 Output:
-    check_results/mismatches.csv   — MISMATCHes and MULTI_MATCHes
-    check_results/unverified.csv   — schools with no small_cities match (if flag set)
+    check_results/mismatches.csv          — MISMATCHes only
+    check_results/mismatches_enriched.csv — mismatches + match_ratio, polling,
+                                            coordinates, verdict columns (--enrich)
+    check_results/unverified.csv          — schools with no small_cities match
+                                            (--include-unverified)
 """
 
 import csv
 import re
 import sys
 from pathlib import Path
-from difflib import get_close_matches
+from difflib import get_close_matches, SequenceMatcher
 
-BASE        = Path(__file__).parent
-RESULTS_DIR = BASE / "Name_Matching_Results"
-SMALL_CITIES = BASE / "Databank" / "Places" / "small_cities.csv"
-OUT_DIR     = BASE / "check_results"
+BASE             = Path(__file__).parent
+RESULTS_DIR      = BASE / "Name_Matching_Results"
+SMALL_CITIES     = BASE / "Databank" / "Places" / "small_cities.csv"
+POLLING_LOOKUP   = BASE / "Databank" / "Admin" / "polling_lookup.csv"
+COORD_COUNTY     = BASE / "Databank" / "Places" / "coordinates_county.csv"
+OUT_DIR          = BASE / "check_results"
 
 RESULT_FILES = sorted(RESULTS_DIR.glob("*_county_borough.csv")) + \
                [RESULTS_DIR / "county_borough_assignments.csv"]
 
-FUZZY_CUTOFF = 0.85   # difflib ratio; lower = more matches, more false positives
+FUZZY_CUTOFF         = 0.85   # difflib ratio for small_cities lookup
+POLLING_FUZZY_CUTOFF = 0.80   # looser — polling locality names vary more
 
 # ---------------------------------------------------------------------------
 # Helpers
@@ -112,6 +119,68 @@ def load_small_cities() -> dict[str, list[str]]:
     return lookup
 
 
+def load_polling_lookup() -> dict[str, list[str]]:
+    """Returns {lowercase_locality: [electoral_district, ...]}."""
+    lookup: dict[str, list[str]] = {}
+    with open(POLLING_LOOKUP, newline='', encoding='utf-8-sig') as f:
+        for row in csv.DictReader(f):
+            locality = row.get('locality', '').strip()
+            ed       = row.get('electoral_district', '').strip()
+            if not locality or not ed or ed == 'Unknown':
+                continue
+            key = locality.lower()
+            lookup.setdefault(key, [])
+            if ed not in lookup[key]:
+                lookup[key].append(ed)
+    return lookup
+
+
+def load_county_coords() -> dict[str, tuple[str, str]]:
+    """Returns {lowercase_county_name: (latitude, longitude)}.
+    county_name has ' County' stripped, e.g. 'franklin' → ('-37.2', '175.0').
+    """
+    coords: dict[str, tuple[str, str]] = {}
+    with open(COORD_COUNTY, newline='', encoding='utf-8-sig') as f:
+        for row in csv.DictReader(f):
+            name = row.get('Name', '').strip()
+            lat  = row.get('latitude', '').strip()
+            lon  = row.get('longitude', '').strip()
+            if name and lat and lon:
+                coords[name.lower()] = (lat, lon)
+    return coords
+
+
+def match_ratio(a: str, b: str) -> float:
+    return round(SequenceMatcher(None, a.lower(), b.lower()).ratio(), 3)
+
+
+def polling_evidence(cleaned: str, polling: dict[str, list[str]],
+                     polling_names: list[str]) -> tuple[str, str]:
+    """Returns (matched_locality, electoral_districts_str) or ('', '')."""
+    key = cleaned.lower()
+    if key in polling:
+        eds = ' | '.join(polling[key])
+        return cleaned, eds
+    close = get_close_matches(key, polling_names, n=1, cutoff=POLLING_FUZZY_CUTOFF)
+    if close:
+        eds = ' | '.join(polling[close[0]])
+        return close[0], eds
+    return '', ''
+
+
+def county_coords(county_borough: str, coords: dict[str, tuple[str, str]]) -> tuple[str, str]:
+    """Strip ' County' suffix and look up centroid coordinates."""
+    name = normalise_county(county_borough)
+    hit  = coords.get(name)
+    if hit:
+        return hit
+    # Try fuzzy in case of minor spelling differences
+    close = get_close_matches(name, list(coords.keys()), n=1, cutoff=0.85)
+    if close:
+        return coords[close[0]]
+    return '', ''
+
+
 def load_results() -> list[dict]:
     records = []
     for path in RESULT_FILES:
@@ -136,11 +205,19 @@ def load_results() -> list[dict]:
 
 def main():
     include_unverified = '--include-unverified' in sys.argv
+    enrich             = '--enrich' in sys.argv
 
-    print(f"Loading small_cities …")
+    print("Loading small_cities …")
     sc = load_small_cities()
     sc_names = list(sc.keys())
     print(f"  {len(sc):,} locality names loaded")
+
+    if enrich:
+        print("Loading polling_lookup and county coordinates …")
+        polling      = load_polling_lookup()
+        polling_names = list(polling.keys())
+        coords       = load_county_coords()
+        print(f"  {len(polling):,} polling localities, {len(coords):,} county centroids")
 
     print(f"Loading assignment results …")
     records = load_results()
@@ -191,19 +268,8 @@ def main():
         sc_counties_norm = [normalise_county(c) for c in sc_counties]
         unique_sc = list(dict.fromkeys(sc_counties_norm))  # deduplicated, order kept
 
-        if my_county in unique_sc and len(unique_sc) == 1:
-            match_count += 1          # exact match — all good
-        elif my_county in unique_sc:
-            mismatches.append({       # my county is one valid option, but others exist
-                'flag':            'MULTI_MATCH',
-                'source_district': district,
-                'school':          school_raw,
-                'school_cleaned':  cleaned,
-                'my_county':       county_borough,
-                'confidence':      confidence,
-                'matched_sc_name': matched_name,
-                'sc_counties':     ' | '.join(sc_counties),
-            })
+        if my_county in unique_sc:
+            match_count += 1          # assignment compatible with small_cities
         else:
             mismatches.append({
                 'flag':            'MISMATCH',
@@ -214,44 +280,67 @@ def main():
                 'confidence':      confidence,
                 'matched_sc_name': matched_name,
                 'sc_counties':     ' | '.join(sc_counties),
+                'match_ratio':     match_ratio(cleaned, matched_name),
             })
 
-    # --- Sort: MISMATCH before MULTI_MATCH, then High-confidence mismatches first ---
+    # --- Sort: High-confidence mismatches first, then by district ---
     conf_rank = {'High': 0, 'Medium': 1, 'Low': 2}
     mismatches.sort(key=lambda r: (
-        0 if r['flag'] == 'MISMATCH' else 1,
         conf_rank.get(r['confidence'], 9),
         r['source_district'],
     ))
 
     # --- Print summary ---
-    n_mismatch = sum(1 for r in mismatches if r['flag'] == 'MISMATCH')
-    n_multi    = sum(1 for r in mismatches if r['flag'] == 'MULTI_MATCH')
     print(f"\n{'='*60}")
     print(f"  Confirmed matches : {match_count:>4}")
-    print(f"  MISMATCHes        : {n_mismatch:>4}  ← different county in small_cities")
-    print(f"  MULTI_MATCHes     : {n_multi:>4}  ← name exists in multiple counties")
+    print(f"  MISMATCHes        : {len(mismatches):>4}  ← different county in small_cities")
     print(f"  Unverified        : {len(unverified):>4}  ← not in small_cities")
     print(f"{'='*60}\n")
 
     for r in mismatches:
-        if r['flag'] == 'MISMATCH':
-            print(f"[MISMATCH] {r['source_district']} | {r['school_cleaned']!r}  ({r['confidence']})")
-            print(f"  Assigned : {r['my_county']}")
-            print(f"  SC says  : {r['sc_counties']}  (matched name: '{r['matched_sc_name']}')")
-            print()
+        print(f"[MISMATCH] {r['source_district']} | {r['school_cleaned']!r}  ({r['confidence']})  ratio={r['match_ratio']}")
+        print(f"  Assigned : {r['my_county']}")
+        print(f"  SC says  : {r['sc_counties']}  (matched: '{r['matched_sc_name']}')")
+        print()
 
     # --- Write outputs ---
     OUT_DIR.mkdir(exist_ok=True)
 
-    mismatch_fields = ['flag', 'source_district', 'school', 'school_cleaned',
-                       'my_county', 'confidence', 'matched_sc_name', 'sc_counties']
+    base_fields = ['flag', 'source_district', 'school', 'school_cleaned',
+                   'my_county', 'confidence', 'matched_sc_name', 'sc_counties',
+                   'match_ratio']
     mismatch_path = OUT_DIR / 'mismatches.csv'
     with open(mismatch_path, 'w', newline='', encoding='utf-8') as f:
-        w = csv.DictWriter(f, fieldnames=mismatch_fields)
+        w = csv.DictWriter(f, fieldnames=base_fields, extrasaction='ignore')
         w.writeheader()
         w.writerows(mismatches)
     print(f"Mismatches written to {mismatch_path}  ({len(mismatches)} rows)")
+
+    if enrich:
+        enriched_fields = base_fields + [
+            'polling_locality', 'polling_eds',
+            'county_lat', 'county_lon',
+            'verdict', 'corrected_county',
+        ]
+        enriched_rows = []
+        for r in mismatches:
+            poll_loc, poll_eds = polling_evidence(r['school_cleaned'], polling, polling_names)
+            lat, lon           = county_coords(r['my_county'], coords)
+            enriched_rows.append({
+                **r,
+                'polling_locality': poll_loc,
+                'polling_eds':      poll_eds,
+                'county_lat':       lat,
+                'county_lon':       lon,
+                'verdict':          '',
+                'corrected_county': '',
+            })
+        enriched_path = OUT_DIR / 'mismatches_enriched.csv'
+        with open(enriched_path, 'w', newline='', encoding='utf-8') as f:
+            w = csv.DictWriter(f, fieldnames=enriched_fields, extrasaction='ignore')
+            w.writeheader()
+            w.writerows(enriched_rows)
+        print(f"Enriched CSV written to {enriched_path}  ({len(enriched_rows)} rows)")
 
     if include_unverified:
         unverified_path = OUT_DIR / 'unverified.csv'

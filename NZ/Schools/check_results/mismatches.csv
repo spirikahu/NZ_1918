@@ -1,171 +1,150 @@
-flag,source_district,school,school_cleaned,my_county,confidence,matched_sc_name,sc_counties
-MISMATCH,Auckland,Avondale (475) and side school (32),Avondale,Eden County,High,Avondale,Edon
-MISMATCH,Auckland,Belmont,Belmont,Waitemata County,High,Belmont,Hutt
-MISMATCH,Auckland,Maketu,Maketu,Tauranga County,High,makaretu,Waipawa
-MISMATCH,Auckland,Mataitai,Mataitai,Franklin County,High,matakitaki,Murchison
-MISMATCH,Auckland,Meadowbank,Meadowbank,Eden County,High,Meadowbank,Waitaki
-MISMATCH,Auckland,Oruru,Oruru,Mongonui County,High,ruru,Grey
-MISMATCH,Auckland,Pakaraka,Pakaraka,Bay of Islands County,High,makaraka,Cook
-MISMATCH,Auckland,Purerua,Purerua,Bay of Islands County,High,puerua,Clutha
-MISMATCH,Auckland,Rangiaohia,Rangiaohia,Waipa County,High,rangiwahia,Kiwitea
-MISMATCH,Auckland,Waiheke Central,Waiheke,Waitemata County,High,waihakeke,Wairarapa South
-MISMATCH,Auckland,Waimate,Waimate,Bay of Islands County,High,waimata,Cook
-MISMATCH,Auckland,Waiuku,Waiuku,Franklin County,High,waipuku,Stratford
-MISMATCH,Auckland,Whakamarama,Whakamarama,Tauranga County,High,whakamara,Hawera
-MISMATCH,Canterbury,Redcliffs,Redcliffs,Heathcote County,High,redcliffe,Waimato
-MISMATCH,Canterbury,Waihaorunga,Waihaorunga,Waimate County,High,Waihaorunga,Waimato
-MISMATCH,Canterbury,Waiho,Waiho,Westland County,High,waihou,Piako
-MISMATCH,Canterbury,Waitahu,Waitahu,Inangahua County,High,waitihu,Horowhenua
-MISMATCH,HawkesBay,Ngamoko,Ngamoko,Dannevirke County,High,Ngamoko,Dannivirke
-MISMATCH,HawkesBay,Waimata Valley,Waimata Valley,Cook County,High,waikaka valley,Southland
-MISMATCH,Nelson,Ariki,Ariki,Buller County,High,tariki,Taranaki
-MISMATCH,Nelson,Charleston,Charleston,Buller County,High,charlton,Southland
-MISMATCH,Nelson,Denniston,Denniston,Buller County,High,Denniston,Grey
-MISMATCH,Nelson,Hillside,Hillside,Nelson County,High,Hillside,Waikato
-MISMATCH,Nelson,Tahuna,Tahuna,Nelson County,High,Tahuna,Ohinemuri
-MISMATCH,Nelson,Waitahu,Waitahu,Inangahua County,High,waitihu,Horowhenua
-MISMATCH,Nelson,Whangamoa,Whangamoa,Nelson County,High,whangaroa,Whangaroa
-MISMATCH,Otago,Barewood,Barewood,Maniototo County,High,harewood,Waimairi
-MISMATCH,Otago,Clinton,Clinton,Clutha County,High,linton,Kairanga
-MISMATCH,Otago,Kakapuaka,Kakapuaka,Clutha County,High,wakapuaka,Waimea
-MISMATCH,Otago,Makarora,Makarora,Lake County,High,makara,Makara
-MISMATCH,Otago,Waitahuna,Waitahuna,Tuapeka County,High,waituna,Waimate | Southland
-MISMATCH,Otago,Waitahuna West,Waitahuna West,Tuapeka County,High,Waitahuna West,Bruce
-MISMATCH,Southland,Beaumont,Beaumont,Tuapeka County (Otago),High,Beaumont,Tuapeka
-MISMATCH,Southland,Granity,Granity,Wallace County,High,Granity,Buller
-MISMATCH,Southland,Half-moon Bay,Half-moon Bay,Southland County,High,Half-moon Bay,Stewart Island
-MISMATCH,Southland,Hillend,Hillend,Wallace County,High,Hillend,Bruce
-MISMATCH,Southland,Opio,Opio,Wallace County,High,oio,Kaitieke
-MISMATCH,Southland,Rees Valley,Rees Valley,Lake County,High,esk valley,Waimate
-MISMATCH,Southland,Riverside,Riverside,Wallace County,High,Riverside,Taieri
-MISMATCH,Southland,Springbank,Springbank,Southland County,High,Springbank,Rangiora
-MISMATCH,Southland,Waikoaka,Waikoaka,Wallace County,High,waikaka,Southland
-MISMATCH,Southland,Waikana,Waikana,Southland County,High,waikanae,Horowhenua
-MISMATCH,Taranaki,Awakino,Awakino,Clifton County,High,waikino,Ohinemuri
-MISMATCH,Taranaki,Lincoln,Lincoln,Stratford County,High,Lincoln,Springs
-MISMATCH,Taranaki,Mahoenui,Mahoenui,Awakino County (Auckland Province),High,Mahoenui,Awakino
-MISMATCH,Taranaki,Makaka,Makaka,Egmont County,High,makaraka,Cook
-MISMATCH,Taranaki,Marakopa,Marakopa,Awakino County (Auckland Province),High,marakopa',Awakino
-MISMATCH,Taranaki,Mokau,Mokau,Awakino County (Auckland Province),High,Mokau,Awakino
-MISMATCH,Taranaki,Otunui,Otunui,Ohura County,High,motunui,Clifton
-MISMATCH,Taranaki,Waitui,Waitui,Inglewood County,High,waituhi,West Taupo
-MISMATCH,Wanganui,Kakatahi,Kakatahi,Wanganui County,High,kokatahi,Westland
-MISMATCH,Wanganui,Utuwai,Utuwai,Pohangina County,High,Utuwai,Pohangina.
-MISMATCH,Wanganui,Waitotara,Waitotara,Patea County,High,Waitotara,Pa tea
-MISMATCH,Wanganui,Waituna West,Waituna West,Oroua County,High,waitahuna west,Bruce
-MISMATCH,Wellington,Longbush,Longbush,Wairarapa South County,High,Longbush,Southland
-MISMATCH,Wellington,Nireaha,Nireaha,Eketahuna County,High,Nireaha,Ekotahuna
-MISMATCH,Wellington,Wairongomai,Wairongomai,Featherston County,High,waiorongomai,Piako
-MISMATCH,Wellington,Epuni,Epuni,Hutt County,High,puni,Franklin
-MISMATCH,Wellington,Opaki,Opaki,Masterton County,High,Opaki,Masterton'
-MISMATCH,Wellington,Mangarama,Mangarama,Pahiatua County,High,mangarawa,Woodville
-MISMATCH,Wellington,Manaroa,Manaroa,Marlborough County,High,mataroa,Rangitikei
-MISMATCH,Auckland,Maromaku,Maromaku,Bay of Islands County,Medium,mamaku,Rotorua
-MISMATCH,Auckland,Ruakuri,Ruakuri,Waitomo County,Medium,ruakituri,Wairoa
-MISMATCH,Auckland,Toatoa,Toatoa,Opotiki County,Medium,tokatoka,Otamatea
-MISMATCH,Auckland,Tokoroa,Tokoroa,Matamata County,Medium,tokaora,Hawera
-MISMATCH,Auckland,Tomarata,Tomarata,Rodney County,Medium,tarata,Clifton
-MISMATCH,Auckland,Waipapa,Waipapa,Bay of Islands County,Medium,waipara,Waipara
-MISMATCH,Auckland,Waipuna,Waipuna,Bay of Islands County,Medium,waituna,Waimate | Southland
-MISMATCH,Auckland,Wairoa South,Wairoa South,Franklin County,Medium,waiwera south,Clutha
-MISMATCH,Auckland,Waitekauri,Waitekauri,Ohinemuri County,Medium,Waitekauri,Waitomo
-MISMATCH,Auckland,Waitetuna,Waitetuna,Raglan County,Medium,waituna,Waimate | Southland
-MISMATCH,Auckland,Whangaparoa,Whangaparoa,Rodney County,Medium,whangaroa,Whangaroa
-MISMATCH,Canterbury,Awatuna,Awatuna,Westland County,Medium,Awatuna,Egmont
-MISMATCH,Canterbury,Bluespur,Bluespur,Westland County,Medium,blue spur,Tuapeka
-MISMATCH,Canterbury,Kirikiri,Kirikiri,Eyre County,Medium,makirikiri,Wanganui
-MISMATCH,Canterbury,Monavale,Monavale,Geraldine County,Medium,Monavale,Waipa
-MISMATCH,Canterbury,Oruruhia,Oruruhia,Rangiora County,Medium,ouruhia,Waimairi
-MISMATCH,Canterbury,Weedon's,Weedons,Paparua County,Medium,weedon's,Panama
-MISMATCH,HawkesBay,Hatuma,Hatuma,Waipawa County,Medium,Hatuma,Waipukurau
-MISMATCH,HawkesBay,Matahiwi,Matahiwi,Dannevirke County,Medium,Matahiwi,Masterton
-MISMATCH,HawkesBay,Whakarau,Whakarau,Cook County,Medium,whakapirau,Otamatea
-MISMATCH,Nelson,Kaituna,Kaituna,Waimea County,Medium,Kaituna,Marlborough
-MISMATCH,Nelson,Matariki,Matariki,Collingwood County,Medium,tariki,Taranaki
-MISMATCH,Otago,Hillend,Hillend,Tuapeka County,Medium,Hillend,Bruce
-MISMATCH,Otago,Lowburn,Lowburn,Vincent County,Medium,loburn,Ashley
-MISMATCH,Southland,Clifton,Clifton,Southland County,Medium,Clifton,Takaka
-MISMATCH,Taranaki,Carrington,Carrington,Taranaki County,Medium,Carrington,Wairarapa South
-MISMATCH,Taranaki,Matau,Matau,Clifton County,Medium,matapu,Eltham
-MISMATCH,Wellington,Marama,Marama,Awatere County,Medium,ramarama,Franklin
-MISMATCH,Wellington,Waikakaho,Waikakaho,Marlborough County,Medium,waikaka,Southland
-MISMATCH,Wellington,Kaitara,Kaitara,Wairarapa South County,Medium,kaitawa,Pahiatua
-MISMATCH,Wellington,Takapu,Takapu,Makara County,Medium,takapau,Waipawa
-MISMATCH,Auckland,Goodwood,Goodwood,Piako County,Low,Goodwood,Waihemo
-MISMATCH,Auckland,Hore Hore,Hore Hore,Whangaroa County,Low,horehore,Hobson
-MISMATCH,Auckland,Kaimamaku,Kaimamaku,Hobson County,Low,waimamaku,Hokianga
-MISMATCH,Auckland,Mata,Mata,Whangarei County,Low,Mata,Eltham
-MISMATCH,Auckland,Orere,Orere,Franklin County,Low,korere,Waimea
-MISMATCH,Auckland,Wairanga,Wairanga,Thames County,Low,kairanga,Kairanga
-MISMATCH,Canterbury,Chorlton,Chorlton,Malvern County,Low,charlton,Southland
-MISMATCH,Canterbury,Douglas,Douglas,Grey County,Low,Douglas,Stratford | Waimate
-MISMATCH,Canterbury,Kapua,Kapua,Westland County,Low,kapuka,Southland
-MISMATCH,Canterbury,Riverside,Riverside,Westland County,Low,Riverside,Taieri
-MISMATCH,Canterbury,Silverstream,Silverstream,Ashley County,Low,Silverstream,Hutt
-MISMATCH,Canterbury,Tawa,Tawa,Grey County,Low,tawai,Waimate
-MISMATCH,Canterbury,Te Awa,Te Awa,Westland County,Low,te kawa,West Taupo
-MISMATCH,Canterbury,Te Ngawai,Te Ngawai,Geraldine County,Low,tengawai,Mackenzie
-MISMATCH,Canterbury,Te Roto,Te Roto,Westland County,Low,te roti,Eltham
-MISMATCH,Canterbury,Waikakahi,Waikakahi,Waimate County,Low,waikaka,Southland
-MISMATCH,HawkesBay,Clifton,Clifton,Hawke's Bay County,Low,Clifton,Takaka
-MISMATCH,HawkesBay,Hinuera,Hinuera,Waipawa County,Low,Hinuera,Matamata
-MISMATCH,HawkesBay,Maraekako,Maraekako,Wairoa County,Low,maraekakaho,Hawke's Bay
-MISMATCH,HawkesBay,Pouawa,Pouawa,Cook County,Low,poukawa,Hawke's Bay
-MISMATCH,HawkesBay,Waikari,Waikari,Wairoa County,Low,Waikari,Waipara
-MISMATCH,HawkesBay,Woodlands,Woodlands,Wairoa County,Low,Woodlands,Southland
-MISMATCH,Nelson,Churchill,Churchill,Buller County,Low,Churchill,Raglan
-MISMATCH,Nelson,Glenroy,Glenroy,Waimea County,Low,Glenroy,Selwyn
-MISMATCH,Nelson,Gordon,Gordon,Buller County,Low,Gordon,Piako
-MISMATCH,Nelson,Woodstock,Woodstock,Inangahua County,Low,Woodstock,Westland
-MISMATCH,Otago,Bluespur,Bluespur,Waitaki County,Low,blue spur,Tuapeka
-MISMATCH,Otago,Fair View,Fair View,Clutha County,Low,Fair View,Levels
-MISMATCH,Otago,Goodwood,Goodwood,Clutha County,Low,Goodwood,Waihemo
-MISMATCH,Otago,Kia Ora,Kia Ora,Clutha County,Low,Kia Ora,Waitaki
-MISMATCH,Otago,Matau,Matau,Clutha County,Low,matapu,Eltham
-MISMATCH,Otago,Matea,Matea,Clutha County,Low,mata,Eltham
-MISMATCH,Otago,Tahora,Tahora,Clutha County,Low,Tahora,Whangamomona | Cook
-MISMATCH,Otago,Te Houka,Te Houka,Tuapeka County,Low,Te Houka,Clutha
-MISMATCH,Otago,Waiwera,Waiwera,Clutha County,Low,Waiwera,Waitemata
-MISMATCH,Otago,Walton,Walton,Waitaki County,Low,Walton,Piako
-MISMATCH,Taranaki,Okau,Okau,Ohura County,Low,Okau,Clifton
-MISMATCH,Taranaki,Pembroke,Pembroke,Stratford County,Low,Pembroke,Lake
-MISMATCH,Taranaki,Pukeho,Pukeho,Taranaki County,Low,pukehou,Waipawa
-MISMATCH,Taranaki,Waiau,Waiau,Clifton County,Low,Waiau,Franklin | Amuri
-MISMATCH,Wanganui,Coal Creek,Coal Creek,Rangitikei County,Low,Coal Creek,Tuapeka
-MISMATCH,Wanganui,Mangara,Mangara,Wanganui County,Low,mangarawa,Woodville
-MISMATCH,Wanganui,Matarawa,Matarawa,Rangitikei County,Low,Matarawa,Wairarapa South
-MISMATCH,Wanganui,Otairi,Otairi,Rangitikei County,Low,otapiri,Southland
-MISMATCH,Wanganui,Owhakura,Owhakura,Pohangina County,Low,oakura,Taranaki
-MISMATCH,Wanganui,Parawanui,Parawanui,Wanganui County,Low,parawai,Thames
-MISMATCH,Wanganui,Rapanui,Rapanui,Waitotara County,Low,ratanui,Clutha
-MISMATCH,Wanganui,Raukura,Raukura,Oroua County,Low,ruakura,Waikato
-MISMATCH,Wanganui,Tokorangi,Tokorangi,Wanganui County,Low,tikorangi,Clifton
-MISMATCH,Wanganui,Woodlands,Woodlands,Wanganui County,Low,Woodlands,Southland
-MISMATCH,Wellington,Hakahaka,Hakahaka,Sounds County,Low,akaaka,Franklin
-MISMATCH,Wellington,Titirangi,Titirangi,Sounds County,Low,Titirangi,Waitemata
-MISMATCH,Wellington,Waireka,Waireka,Marlborough County,Low,waiareka,Waitaki
-MISMATCH,Wellington,Pukenui,Pukenui,Wairarapa South County,Low,Pukenui,Mongonui
-MISMATCH,Wellington,Maku,Maku,Pahiatua County,Low,mauku,Franklin
-MISMATCH,Wellington,Spring Grove,Spring Grove,Sounds County,Low,Spring Grove,Waimea
-MISMATCH,Wellington,Waitai,Waitai,Sounds County,Low,waitati,Waikouaiti
-MULTI_MATCH,Auckland,Ruakaka,Ruakaka,Whangarei County,High,Ruakaka,Whangarei | Ohinemuri
-MULTI_MATCH,Auckland,Te Mata,Te Mata,Raglan County,High,Te Mata,Raglan | Hawke's Bay
-MULTI_MATCH,Auckland,Totara,Totara,Whangaroa County,High,Totara,Whangaroa | Waitaki
-MULTI_MATCH,Canterbury,Spotswood,Spotswood,Cheviot County,High,Spotswood,Taranaki | Cheviot
-MULTI_MATCH,Canterbury,Springfield,Springfield,Tawera County,High,Springfield,Ashburton | Tawera
-MULTI_MATCH,Canterbury,Waiau,Waiau,Amuri County,High,Waiau,Franklin | Amuri
-MULTI_MATCH,Canterbury,Woodend,Woodend,Rangiora County,High,Woodend,Rangiora | Southland
-MULTI_MATCH,Nelson,Collingwood,Collingwood,Collingwood County,High,Collingwood,Collingwood | Southland
-MULTI_MATCH,Otago,Totara,Totara,Waitaki County,High,Totara,Whangaroa | Waitaki
-MULTI_MATCH,Southland,Mossburn,Mossburn,Wallace County,High,Mossburn,Taieri | Wallace
-MULTI_MATCH,Southland,Otara,Otara,Southland County,High,Otara,Opotiki | Southland
-MULTI_MATCH,Southland,Rimu,Rimu,Southland County,High,Rimu,Westland | Southland
-MULTI_MATCH,Southland,Tokanui,Tokanui,Southland County,High,Tokanui,West Taupo | Southland
-MULTI_MATCH,Southland,Waituna,Waituna,Southland County,High,Waituna,Waimate | Southland
-MULTI_MATCH,Taranaki,Douglas,Douglas,Stratford County,High,Douglas,Stratford | Waimate
-MULTI_MATCH,Taranaki,Hillsborough,Hillsborough,Taranaki County,High,Hillsborough,Eden | Taranaki | Heathcote
-MULTI_MATCH,Taranaki,Tahora,Tahora,Whangamomona County,High,Tahora,Whangamomona | Cook
-MULTI_MATCH,Wanganui,Wangehu,Wangehu,Rangitikei County,High,wangaehu,Rangitikei | Masterton
-MULTI_MATCH,Wellington,Grassmere,Grassmere,Awatere County,High,Grassmere,Awatere | Southland
-MULTI_MATCH,Auckland,Otara,Otara,Opotiki County,Medium,Otara,Opotiki | Southland
-MULTI_MATCH,Otago,Wairuna,Wairuna,Clutha County,Medium,Wairuna,Clutha | Tuapeka
+flag,source_district,school,school_cleaned,my_county,confidence,matched_sc_name,sc_counties,match_ratio
+MISMATCH,Auckland,Avondale (475) and side school (32),Avondale,Eden County,High,Avondale,Edon,1.0
+MISMATCH,Auckland,Belmont,Belmont,Waitemata County,High,Belmont,Hutt,1.0
+MISMATCH,Auckland,Maketu,Maketu,Tauranga County,High,makaretu,Waipawa,0.857
+MISMATCH,Auckland,Mataitai,Mataitai,Franklin County,High,matakitaki,Murchison,0.889
+MISMATCH,Auckland,Meadowbank,Meadowbank,Eden County,High,Meadowbank,Waitaki,1.0
+MISMATCH,Auckland,Oruru,Oruru,Mongonui County,High,ruru,Grey,0.889
+MISMATCH,Auckland,Pakaraka,Pakaraka,Bay of Islands County,High,makaraka,Cook,0.875
+MISMATCH,Auckland,Purerua,Purerua,Bay of Islands County,High,puerua,Clutha,0.923
+MISMATCH,Auckland,Rangiaohia,Rangiaohia,Waipa County,High,rangiwahia,Kiwitea,0.9
+MISMATCH,Auckland,Waiheke Central,Waiheke,Waitemata County,High,waihakeke,Wairarapa South,0.875
+MISMATCH,Auckland,Waimate,Waimate,Bay of Islands County,High,waimata,Cook,0.857
+MISMATCH,Auckland,Waiuku,Waiuku,Franklin County,High,waipuku,Stratford,0.923
+MISMATCH,Auckland,Whakamarama,Whakamarama,Tauranga County,High,whakamara,Hawera,0.9
+MISMATCH,Canterbury,Redcliffs,Redcliffs,Heathcote County,High,redcliffe,Waimato,0.889
+MISMATCH,Canterbury,Waihaorunga,Waihaorunga,Waimate County,High,Waihaorunga,Waimato,1.0
+MISMATCH,Canterbury,Waiho,Waiho,Westland County,High,waihou,Piako,0.909
+MISMATCH,Canterbury,Waitahu,Waitahu,Inangahua County,High,waitihu,Horowhenua,0.857
+MISMATCH,HawkesBay,Ngamoko,Ngamoko,Dannevirke County,High,Ngamoko,Dannivirke,1.0
+MISMATCH,HawkesBay,Waimata Valley,Waimata Valley,Cook County,High,waikaka valley,Southland,0.857
+MISMATCH,Nelson,Ariki,Ariki,Buller County,High,tariki,Taranaki,0.909
+MISMATCH,Nelson,Charleston,Charleston,Buller County,High,charlton,Southland,0.889
+MISMATCH,Nelson,Denniston,Denniston,Buller County,High,Denniston,Grey,1.0
+MISMATCH,Nelson,Hillside,Hillside,Nelson County,High,Hillside,Waikato,1.0
+MISMATCH,Nelson,Tahuna,Tahuna,Nelson County,High,Tahuna,Ohinemuri,1.0
+MISMATCH,Nelson,Waitahu,Waitahu,Inangahua County,High,waitihu,Horowhenua,0.857
+MISMATCH,Nelson,Whangamoa,Whangamoa,Nelson County,High,whangaroa,Whangaroa,0.889
+MISMATCH,Otago,Barewood,Barewood,Maniototo County,High,harewood,Waimairi,0.875
+MISMATCH,Otago,Clinton,Clinton,Clutha County,High,linton,Kairanga,0.923
+MISMATCH,Otago,Kakapuaka,Kakapuaka,Clutha County,High,wakapuaka,Waimea,0.889
+MISMATCH,Otago,Makarora,Makarora,Lake County,High,makara,Makara,0.857
+MISMATCH,Otago,Waitahuna,Waitahuna,Tuapeka County,High,waituna,Waimate | Southland,0.875
+MISMATCH,Otago,Waitahuna West,Waitahuna West,Tuapeka County,High,Waitahuna West,Bruce,1.0
+MISMATCH,Southland,Beaumont,Beaumont,Tuapeka County (Otago),High,Beaumont,Tuapeka,1.0
+MISMATCH,Southland,Granity,Granity,Wallace County,High,Granity,Buller,1.0
+MISMATCH,Southland,Half-moon Bay,Half-moon Bay,Southland County,High,Half-moon Bay,Stewart Island,1.0
+MISMATCH,Southland,Hillend,Hillend,Wallace County,High,Hillend,Bruce,1.0
+MISMATCH,Southland,Opio,Opio,Wallace County,High,oio,Kaitieke,0.857
+MISMATCH,Southland,Rees Valley,Rees Valley,Lake County,High,esk valley,Waimate,0.857
+MISMATCH,Southland,Riverside,Riverside,Wallace County,High,Riverside,Taieri,1.0
+MISMATCH,Southland,Springbank,Springbank,Southland County,High,Springbank,Rangiora,1.0
+MISMATCH,Southland,Waikoaka,Waikoaka,Wallace County,High,waikaka,Southland,0.933
+MISMATCH,Southland,Waikana,Waikana,Southland County,High,waikanae,Horowhenua,0.933
+MISMATCH,Taranaki,Awakino,Awakino,Clifton County,High,waikino,Ohinemuri,0.857
+MISMATCH,Taranaki,Lincoln,Lincoln,Stratford County,High,Lincoln,Springs,1.0
+MISMATCH,Taranaki,Mahoenui,Mahoenui,Awakino County (Auckland Province),High,Mahoenui,Awakino,1.0
+MISMATCH,Taranaki,Makaka,Makaka,Egmont County,High,makaraka,Cook,0.857
+MISMATCH,Taranaki,Marakopa,Marakopa,Awakino County (Auckland Province),High,marakopa',Awakino,0.941
+MISMATCH,Taranaki,Mokau,Mokau,Awakino County (Auckland Province),High,Mokau,Awakino,1.0
+MISMATCH,Taranaki,Otunui,Otunui,Ohura County,High,motunui,Clifton,0.923
+MISMATCH,Taranaki,Waitui,Waitui,Inglewood County,High,waituhi,West Taupo,0.923
+MISMATCH,Wanganui,Kakatahi,Kakatahi,Wanganui County,High,kokatahi,Westland,0.875
+MISMATCH,Wanganui,Utuwai,Utuwai,Pohangina County,High,Utuwai,Pohangina.,1.0
+MISMATCH,Wanganui,Waitotara,Waitotara,Patea County,High,Waitotara,Pa tea,1.0
+MISMATCH,Wanganui,Waituna West,Waituna West,Oroua County,High,waitahuna west,Bruce,0.923
+MISMATCH,Wellington,Longbush,Longbush,Wairarapa South County,High,Longbush,Southland,1.0
+MISMATCH,Wellington,Nireaha,Nireaha,Eketahuna County,High,Nireaha,Ekotahuna,1.0
+MISMATCH,Wellington,Wairongomai,Wairongomai,Featherston County,High,waiorongomai,Piako,0.957
+MISMATCH,Wellington,Epuni,Epuni,Hutt County,High,puni,Franklin,0.889
+MISMATCH,Wellington,Opaki,Opaki,Masterton County,High,Opaki,Masterton',1.0
+MISMATCH,Wellington,Mangarama,Mangarama,Pahiatua County,High,mangarawa,Woodville,0.889
+MISMATCH,Wellington,Manaroa,Manaroa,Marlborough County,High,mataroa,Rangitikei,0.857
+MISMATCH,Auckland,Maromaku,Maromaku,Bay of Islands County,Medium,mamaku,Rotorua,0.857
+MISMATCH,Auckland,Ruakuri,Ruakuri,Waitomo County,Medium,ruakituri,Wairoa,0.875
+MISMATCH,Auckland,Toatoa,Toatoa,Opotiki County,Medium,tokatoka,Otamatea,0.857
+MISMATCH,Auckland,Tokoroa,Tokoroa,Matamata County,Medium,tokaora,Hawera,0.857
+MISMATCH,Auckland,Tomarata,Tomarata,Rodney County,Medium,tarata,Clifton,0.857
+MISMATCH,Auckland,Waipapa,Waipapa,Bay of Islands County,Medium,waipara,Waipara,0.857
+MISMATCH,Auckland,Waipuna,Waipuna,Bay of Islands County,Medium,waituna,Waimate | Southland,0.857
+MISMATCH,Auckland,Wairoa South,Wairoa South,Franklin County,Medium,waiwera south,Clutha,0.88
+MISMATCH,Auckland,Waitekauri,Waitekauri,Ohinemuri County,Medium,Waitekauri,Waitomo,1.0
+MISMATCH,Auckland,Waitetuna,Waitetuna,Raglan County,Medium,waituna,Waimate | Southland,0.875
+MISMATCH,Auckland,Whangaparoa,Whangaparoa,Rodney County,Medium,whangaroa,Whangaroa,0.9
+MISMATCH,Canterbury,Awatuna,Awatuna,Westland County,Medium,Awatuna,Egmont,1.0
+MISMATCH,Canterbury,Bluespur,Bluespur,Westland County,Medium,blue spur,Tuapeka,0.941
+MISMATCH,Canterbury,Kirikiri,Kirikiri,Eyre County,Medium,makirikiri,Wanganui,0.889
+MISMATCH,Canterbury,Monavale,Monavale,Geraldine County,Medium,Monavale,Waipa,1.0
+MISMATCH,Canterbury,Oruruhia,Oruruhia,Rangiora County,Medium,ouruhia,Waimairi,0.933
+MISMATCH,Canterbury,Weedon's,Weedons,Paparua County,Medium,weedon's,Panama,0.933
+MISMATCH,HawkesBay,Hatuma,Hatuma,Waipawa County,Medium,Hatuma,Waipukurau,1.0
+MISMATCH,HawkesBay,Matahiwi,Matahiwi,Dannevirke County,Medium,Matahiwi,Masterton,1.0
+MISMATCH,HawkesBay,Whakarau,Whakarau,Cook County,Medium,whakapirau,Otamatea,0.889
+MISMATCH,Nelson,Kaituna,Kaituna,Waimea County,Medium,Kaituna,Marlborough,1.0
+MISMATCH,Nelson,Matariki,Matariki,Collingwood County,Medium,tariki,Taranaki,0.857
+MISMATCH,Otago,Hillend,Hillend,Tuapeka County,Medium,Hillend,Bruce,1.0
+MISMATCH,Otago,Lowburn,Lowburn,Vincent County,Medium,loburn,Ashley,0.923
+MISMATCH,Southland,Clifton,Clifton,Southland County,Medium,Clifton,Takaka,1.0
+MISMATCH,Taranaki,Carrington,Carrington,Taranaki County,Medium,Carrington,Wairarapa South,1.0
+MISMATCH,Taranaki,Matau,Matau,Clifton County,Medium,matapu,Eltham,0.909
+MISMATCH,Wellington,Marama,Marama,Awatere County,Medium,ramarama,Franklin,0.857
+MISMATCH,Wellington,Waikakaho,Waikakaho,Marlborough County,Medium,waikaka,Southland,0.875
+MISMATCH,Wellington,Kaitara,Kaitara,Wairarapa South County,Medium,kaitawa,Pahiatua,0.857
+MISMATCH,Wellington,Takapu,Takapu,Makara County,Medium,takapau,Waipawa,0.923
+MISMATCH,Auckland,Goodwood,Goodwood,Piako County,Low,Goodwood,Waihemo,1.0
+MISMATCH,Auckland,Hore Hore,Hore Hore,Whangaroa County,Low,horehore,Hobson,0.941
+MISMATCH,Auckland,Kaimamaku,Kaimamaku,Hobson County,Low,waimamaku,Hokianga,0.889
+MISMATCH,Auckland,Mata,Mata,Whangarei County,Low,Mata,Eltham,1.0
+MISMATCH,Auckland,Orere,Orere,Franklin County,Low,korere,Waimea,0.909
+MISMATCH,Auckland,Wairanga,Wairanga,Thames County,Low,kairanga,Kairanga,0.875
+MISMATCH,Canterbury,Chorlton,Chorlton,Malvern County,Low,charlton,Southland,0.875
+MISMATCH,Canterbury,Douglas,Douglas,Grey County,Low,Douglas,Stratford | Waimate,1.0
+MISMATCH,Canterbury,Kapua,Kapua,Westland County,Low,kapuka,Southland,0.909
+MISMATCH,Canterbury,Riverside,Riverside,Westland County,Low,Riverside,Taieri,1.0
+MISMATCH,Canterbury,Silverstream,Silverstream,Ashley County,Low,Silverstream,Hutt,1.0
+MISMATCH,Canterbury,Tawa,Tawa,Grey County,Low,tawai,Waimate,0.889
+MISMATCH,Canterbury,Te Awa,Te Awa,Westland County,Low,te kawa,West Taupo,0.923
+MISMATCH,Canterbury,Te Ngawai,Te Ngawai,Geraldine County,Low,tengawai,Mackenzie,0.941
+MISMATCH,Canterbury,Te Roto,Te Roto,Westland County,Low,te roti,Eltham,0.857
+MISMATCH,Canterbury,Waikakahi,Waikakahi,Waimate County,Low,waikaka,Southland,0.875
+MISMATCH,HawkesBay,Clifton,Clifton,Hawke's Bay County,Low,Clifton,Takaka,1.0
+MISMATCH,HawkesBay,Hinuera,Hinuera,Waipawa County,Low,Hinuera,Matamata,1.0
+MISMATCH,HawkesBay,Maraekako,Maraekako,Wairoa County,Low,maraekakaho,Hawke's Bay,0.9
+MISMATCH,HawkesBay,Pouawa,Pouawa,Cook County,Low,poukawa,Hawke's Bay,0.923
+MISMATCH,HawkesBay,Waikari,Waikari,Wairoa County,Low,Waikari,Waipara,1.0
+MISMATCH,HawkesBay,Woodlands,Woodlands,Wairoa County,Low,Woodlands,Southland,1.0
+MISMATCH,Nelson,Churchill,Churchill,Buller County,Low,Churchill,Raglan,1.0
+MISMATCH,Nelson,Glenroy,Glenroy,Waimea County,Low,Glenroy,Selwyn,1.0
+MISMATCH,Nelson,Gordon,Gordon,Buller County,Low,Gordon,Piako,1.0
+MISMATCH,Nelson,Woodstock,Woodstock,Inangahua County,Low,Woodstock,Westland,1.0
+MISMATCH,Otago,Bluespur,Bluespur,Waitaki County,Low,blue spur,Tuapeka,0.941
+MISMATCH,Otago,Fair View,Fair View,Clutha County,Low,Fair View,Levels,1.0
+MISMATCH,Otago,Goodwood,Goodwood,Clutha County,Low,Goodwood,Waihemo,1.0
+MISMATCH,Otago,Kia Ora,Kia Ora,Clutha County,Low,Kia Ora,Waitaki,1.0
+MISMATCH,Otago,Matau,Matau,Clutha County,Low,matapu,Eltham,0.909
+MISMATCH,Otago,Matea,Matea,Clutha County,Low,mata,Eltham,0.889
+MISMATCH,Otago,Tahora,Tahora,Clutha County,Low,Tahora,Whangamomona | Cook,1.0
+MISMATCH,Otago,Te Houka,Te Houka,Tuapeka County,Low,Te Houka,Clutha,1.0
+MISMATCH,Otago,Waiwera,Waiwera,Clutha County,Low,Waiwera,Waitemata,1.0
+MISMATCH,Otago,Walton,Walton,Waitaki County,Low,Walton,Piako,1.0
+MISMATCH,Taranaki,Okau,Okau,Ohura County,Low,Okau,Clifton,1.0
+MISMATCH,Taranaki,Pembroke,Pembroke,Stratford County,Low,Pembroke,Lake,1.0
+MISMATCH,Taranaki,Pukeho,Pukeho,Taranaki County,Low,pukehou,Waipawa,0.923
+MISMATCH,Taranaki,Waiau,Waiau,Clifton County,Low,Waiau,Franklin | Amuri,1.0
+MISMATCH,Wanganui,Coal Creek,Coal Creek,Rangitikei County,Low,Coal Creek,Tuapeka,1.0
+MISMATCH,Wanganui,Mangara,Mangara,Wanganui County,Low,mangarawa,Woodville,0.875
+MISMATCH,Wanganui,Matarawa,Matarawa,Rangitikei County,Low,Matarawa,Wairarapa South,1.0
+MISMATCH,Wanganui,Otairi,Otairi,Rangitikei County,Low,otapiri,Southland,0.923
+MISMATCH,Wanganui,Owhakura,Owhakura,Pohangina County,Low,oakura,Taranaki,0.857
+MISMATCH,Wanganui,Parawanui,Parawanui,Wanganui County,Low,parawai,Thames,0.875
+MISMATCH,Wanganui,Rapanui,Rapanui,Waitotara County,Low,ratanui,Clutha,0.857
+MISMATCH,Wanganui,Raukura,Raukura,Oroua County,Low,ruakura,Waikato,0.857
+MISMATCH,Wanganui,Tokorangi,Tokorangi,Wanganui County,Low,tikorangi,Clifton,0.889
+MISMATCH,Wanganui,Woodlands,Woodlands,Wanganui County,Low,Woodlands,Southland,1.0
+MISMATCH,Wellington,Hakahaka,Hakahaka,Sounds County,Low,akaaka,Franklin,0.857
+MISMATCH,Wellington,Titirangi,Titirangi,Sounds County,Low,Titirangi,Waitemata,1.0
+MISMATCH,Wellington,Waireka,Waireka,Marlborough County,Low,waiareka,Waitaki,0.933
+MISMATCH,Wellington,Pukenui,Pukenui,Wairarapa South County,Low,Pukenui,Mongonui,1.0
+MISMATCH,Wellington,Maku,Maku,Pahiatua County,Low,mauku,Franklin,0.889
+MISMATCH,Wellington,Spring Grove,Spring Grove,Sounds County,Low,Spring Grove,Waimea,1.0
+MISMATCH,Wellington,Waitai,Waitai,Sounds County,Low,waitati,Waikouaiti,0.923
