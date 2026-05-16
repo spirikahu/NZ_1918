@@ -2,105 +2,103 @@
 
 ## Overview
 
-Two phases:
-1. **Audit** — adjudicate 149 MISMATCHes flagged by `small_cities.csv`
-2. **Expand** — verify/assign the 871 schools with no `small_cities` match
-
 The canonical data store is `Name_Matching_Results/*.csv`. Never edit the Matariki CSVs in `Databank/Schools/`.
 
+Two phases have been completed. What remains is **25 INVESTIGATE cases** across both phases.
+
 ---
 
-## Phase 1 — Audit MISMATCHes
+## Status
 
-### Step 1: Generate the enriched review CSV
+### Phase 1 — Audit MISMATCHes ✓ COMPLETE
+
+`check_results/mismatches_enriched.csv` — 149 rows, all verdicted.
+
+| Verdict | Count | Meaning |
+|---|---|---|
+| CONFIRM | 63 | Original assignment correct; `small_cities` wrong or matched different locality |
+| DISMISS | 81 | Bad fuzzy hit; `matched_sc_name` is a different place entirely |
+| CORRECT | 1 | Hillend/Otago: Tuapeka → Bruce County (applied) |
+| INVESTIGATE | 4 | Insufficient evidence — see below |
+
+### Phase 2 — Verify Unverified Schools ✓ COMPLETE
+
+`check_results/unverified_enriched.csv` — 871 rows, all verdicted.
+
+| Verdict | Count | Meaning |
+|---|---|---|
+| CONFIRM | 850 | Assignment supported by polling ED, gazetteer, or clear KG evidence |
+| INVESTIGATE | 21 | No direct source, or explicitly uncertain/probable assignment |
+
+---
+
+## Remaining work — 25 INVESTIGATE cases
+
+### From Phase 1 (mismatches_enriched.csv, verdict = INVESTIGATE)
+
+| District | School | Assigned county | Issue |
+|---|---|---|---|
+| Nelson | Woodstock | Inangahua County | sc=Westland; evidence weak; possible Westland County |
+| Otago | Fair View | Clutha County | sc=Levels; avg attendance 2; no direct source |
+| Wanganui | Matarawa | Rangitikei County | exact sc match; original evidence tentative |
+| Wellington | Spring Grove | Sounds County | sc=Waimea; grade 0; no Sounds County source found |
+
+### From Phase 2 (unverified_enriched.csv, verdict = INVESTIGATE)
+
+| District | School | Assigned county | Issue |
+|---|---|---|---|
+| Auckland | Hora Hora Rapids | Waikato County | grade 0, 8 pupils; no source |
+| Nelson | Hamama | Waimea County | no direct source |
+| Nelson | Hinekaka | Collingwood County | uncertain; possibly Golden Bay |
+| Nelson | Koreke | Collingwood County | no direct source |
+| Nelson | Long Plain | Collingwood County | no direct source |
+| Nelson | Norriss Gully | Nelson County | no direct source |
+| Nelson | Te Arowhenua | Nelson County | uncertain |
+| Nelson | Wairangi | Nelson County | no direct source |
+| Nelson | Wills Road | Buller County | no direct source |
+| Otago | Berwen | Clutha County | very small; no source |
+| Otago | Hill Springs | Waitaki County | no source |
+| Otago | Killermont | Tuapeka County | avg 1 pupil; no source |
+| Otago | Kokoano | Clutha County | no source |
+| Otago | Reomoana | Clutha County | no source |
+| **Otago** | **Southbridge** | **Clutha County** | **likely wrong — Southbridge = Ellesmere County (Canterbury)** |
+| Otago | Table Hill | Taieri County | no source |
+| Otago | Waronui | Clutha County | no source |
+| Wanganui | Aratika | Wanganui County | no direct match |
+| Wanganui | Bluff Road | Wanganui County | no direct match |
+| Southland | Daere | Southland County | no direct source |
+| Southland | Glen Dhu | Southland County | grade 0, 3 pupils; no source |
+
+**Priority:** Southbridge/Otago is the most likely genuine error. Research via AJHR 1919 Otago appendix or Te Ara.
+
+---
+
+## How to apply corrections
+
+For any INVESTIGATE case you resolve as a correction:
 
 ```bash
-python check_assignments.py --enrich
-```
-
-Output: `check_results/mismatches_enriched.csv` (149 rows)
-
-### Step 2: Open in a spreadsheet and sort
-
-Open `mismatches_enriched.csv`. Key columns:
-
-| Column | Meaning |
-|---|---|
-| `school_cleaned` | Core locality name extracted from the school name |
-| `my_county` | Current assignment |
-| `matched_sc_name` | What `small_cities` matched — may be a different place |
-| `sc_counties` | County `small_cities` says the matched locality is in |
-| `match_ratio` | 0–1 similarity between `school_cleaned` and `matched_sc_name` |
-| `polling_locality` / `polling_eds` | Nearest polling lookup match and its electoral district(s) |
-| `county_lat` / `county_lon` | Centroid of the currently assigned county |
-| `verdict` | **You fill this in** |
-| `corrected_county` | **You fill this in** if verdict = CORRECT |
-
-### Step 3: Triage by match_ratio
-
-Sort descending by `match_ratio`:
-
-- **ratio < 0.85** — `small_cities` almost certainly found the wrong locality (a different place with a similar name). The original assignment is likely correct. Verdict: `DISMISS`.
-- **ratio 0.85–0.95** — borderline. Check `matched_sc_name` carefully. Is it the same place or a different one? Cross-reference `polling_eds` and the original evidence column in the source CSV.
-- **ratio ≥ 0.95 or exact match** — `small_cities` found the right locality. This is a genuine dispute. Research which county is correct.
-
-### Step 4: Fill in verdict and corrected_county
-
-Four valid verdicts:
-
-| Verdict | When to use |
-|---|---|
-| `CONFIRM` | Original assignment is correct; `small_cities` is wrong or matched a different place |
-| `CORRECT` | `small_cities` is right; fill `corrected_county` with the correct county/borough |
-| `DISMISS` | Bad fuzzy hit — `matched_sc_name` is a different place; no action needed |
-| `INVESTIGATE` | Insufficient evidence to decide; leave for further research |
-
-**For `CORRECT` rows:** write the full county/borough name in `corrected_county`, matching the format used in the source CSVs (e.g. `Franklin County`, `Invercargill Borough`).
-
-### Step 5: Apply corrections
-
-```bash
+# 1. Fill corrected_county in the relevant enriched CSV
+# 2. Run:
 python apply_corrections.py --from-csv check_results/mismatches_enriched.csv
+# or add to the CORRECTIONS table in apply_corrections.py for unverified cases
 ```
 
-This writes every `CORRECT` row back to the relevant `Name_Matching_Results/*.csv`. Run `check_assignments.py` again afterwards to confirm the MISMATCH count drops.
+For unverified school corrections, add an entry to the `CORRECTIONS` table in `apply_corrections.py`:
 
-### Additional evidence sources
-
-When `match_ratio` is high and you need to decide between two counties, consult:
-
-- `Databank/Admin/polling_lookup.csv` — electoral district → locality. Electoral districts often follow county boundaries closely.
-- `Databank/Places/coordinates_county.csv` — county centroids. Compare `county_lat`/`county_lon` against the known location of the school locality.
-- `Databank/Places/placenames_gazateer_csv.csv` — NZ place names with land district. Note: land districts ≠ counties, but can narrow down the region.
-- `Databank/Places/Post_offices.txt` — post office routes; useful for remote rural schools.
-- `Databank/Articles/` — local newspaper articles may mention specific school locations.
+```python
+("District", "School name fragment", "Correct County", "High",
+ "Evidence note explaining the correction"),
+```
 
 ---
 
-## Phase 2 — Expand Unverified Schools
-
-871 schools have no `small_cities` match (not in `check_results/unverified.csv` by default — regenerate with):
+## Regenerating check outputs
 
 ```bash
-python check_assignments.py --include-unverified
+# Re-run mismatch check (picks up any new corrections):
+python check_assignments.py --enrich --include-unverified
 ```
-
-Two sub-tasks:
-
-### 2a — Verify already-assigned schools
-
-These have a county/borough in `Name_Matching_Results` but no `small_cities` confirmation. Use polling, coordinates, and the gazetteer to corroborate or correct the existing assignment. Apply corrections via the hardcoded `CORRECTIONS` table in `apply_corrections.py` or a separate enriched CSV workflow.
-
-### 2b — Fill Unresolved schools
-
-These have `county_borough = Unresolved` in `Name_Matching_Results`. They need a county/borough assigned from scratch. For each:
-
-1. Try exact/fuzzy match in `Databank/Places/placenames_gazateer_csv.csv` (column `name`).
-2. Try `polling_lookup.csv` — match the school name against `locality`; the `electoral_district` narrows the county.
-3. Try `Post_offices.txt` for mail routes that place the school in a known district.
-4. Check school grade and average attendance in the Matariki source CSV — very small schools (grade 1, <20 pupils) are almost always rural, confirming a county rather than a borough.
-
-Record the assignment with evidence and confidence in the relevant `Name_Matching_Results/*.csv`.
 
 ---
 
@@ -112,3 +110,12 @@ Record the assignment with evidence and confidence in the relevant `Name_Matchin
 | `Medium` | Indirect match (nearby locality, railway line, mail route) |
 | `Low` | Fallback reasoning (nearest borough, general district) |
 | `Unresolved` | No evidence found |
+
+## Quick reference — verdict values
+
+| Verdict | Meaning |
+|---|---|
+| `CONFIRM` | Assignment is correct |
+| `DISMISS` | Bad fuzzy hit; `small_cities` matched a different place; no action |
+| `CORRECT` | Assignment wrong; fill `corrected_county` and apply via `--from-csv` |
+| `INVESTIGATE` | Insufficient evidence; needs further research |
