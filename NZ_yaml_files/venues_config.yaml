@@ -1,0 +1,67 @@
+venue_types:
+  household:
+    enabled: true
+    batch_mode: true
+    filter_column: "BTCode"
+    filter_values: ["C"]
+    is_residence: true
+    subset_categories:
+      - name: "Children"
+        attribute: "age"
+        type: "numerical"
+        numerical:
+          min: 0
+          max: 17
+      - name: "Adults"
+        attribute: "age"
+        type: "numerical"
+        numerical:
+          min: 25
+          max: 60
+      - name: "Old Adults"
+        attribute: "age"
+        type: "numerical"
+        numerical:
+          min: 61
+          max: null
+
+  # Workplace subtypes 
+  workplace_sales:
+    enabled: true
+    batch_mode: true
+    subset_categories:
+      - name: "Male"
+        attribute: "sex"
+        type: ""
+      - name: "Female"
+        attribute: "sex"
+        type: "numerical"
+        numerical:
+          min: 25
+          max: 60
+ 
+ 
+  workplace_service:
+    enabled: true
+    batch_mode: true
+    filter_column: "BTCode"
+    filter_values: ["3"]
+
+  workplace_production:
+    enabled: true
+    batch_mode: true
+    filter_column: "BTCode"
+    filter_values: ["5"]
+
+  workplace_education:
+    enabled: true
+    batch_mode: true
+    filter_column: "BTCode"
+    filter_values: ["12"]
+
+  workplace_mine:
+    enabled: true
+    batch_mode: true
+    filter_column: "BTCode"
+    filter_values: ["50"]
+

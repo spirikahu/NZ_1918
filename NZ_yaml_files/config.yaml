@@ -1,0 +1,50 @@
+geography:
+  data_dir: "world_specific_code/NZ/data/geography"
+  levels: [SGU, Province]
+  hierarchy_file: "hierarchy.csv"
+
+venues:
+  data_dir: "world_specific_code/NZ/data/venues"
+  config_file: "world_specific_code/NZ/yaml/venues_config.yaml"
+
+population:
+  type: "generated"
+  data_dir: "world_specific_code/NZ/data/population"
+  demographics_male_file: "demography_male.csv"
+  demographics_female_file: "demography_female.csv"
+
+households:
+  enabled: true
+  data_dir: "world_specific_code/NZ/data/households"
+  data_file: "synthetic_households.csv"
+  config_file: "world_specific_code/NZ/yaml/households/households_config.yaml"
+  strategy_file: "world_specific_code/NZ/yaml/households/allocation_strategy.yaml"
+
+timeline:
+  enabled: true
+  steps:
+    - type: attribute
+      config: "world_specific_code/NZ/yaml/attributes/sector_assignment.yaml"
+    - type: distributor
+      config: "world_specific_code/NZ/yaml/distributors/residence_distribution_config.yaml"
+    - type: distributor
+      config: "world_specific_code/NZ/yaml/distributors/workplace_agricultural_distributor.yaml"
+    - type: distributor
+      config: "world_specific_code/NZ/yaml/distributors/workplace_commercial_distributor.yaml"
+    - type: distributor
+      config: "world_specific_code/NZ/yaml/distributors/workplace_domestic_distributor.yaml"
+    - type: distributor
+      config: "world_specific_code/NZ/yaml/distributors/workplace_industrial_distributor.yaml"
+    - type: distributor
+      config: "world_specific_code/NZ/yaml/distributors/workplace_professional_distributor.yaml"
+    - type: distributor
+      config: "world_specific_code/NZ/yaml/distributors/workplace_transport_distributor.yaml"
+    - type: distributor
+      config: "world_specific_code/NZ/yaml/distributors/workplace_indefinite_distributor.yaml"
+
+serialization:
+  enabled: true
+  config_file: "world_specific_code/NZ/yaml/serialization_config.yaml"
+  output_dir: "output/NZ"
+  filename: "nz_1918_world.h5"
+  compression: "gzip"
