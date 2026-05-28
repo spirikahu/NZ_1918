@@ -1,0 +1,1929 @@
+geo_unit,school,name,latitude,longitude,grade_1918,average_attendance_1918,gender,StatutoryLowAge,StatutoryHighAge,number_staff,SchoolCapacity
+BR00018,Albany Street,Dunedin,-45.87416,170.50361,7,621,Mixed,5,12,14,690
+BR00002,Alexandra District High School,Alexandra,-45.24917,169.37972,4,183,Mixed,5,18,4,203
+BR00018,Anderson's Bay,Dunedin,-45.87416,170.50361,5,271,Mixed,5,12,11,301
+BR00018,Arthur Street,Dunedin,-45.87416,170.50361,7,515,Mixed,5,12,18,572
+BR00006,Balclutha District High School,Balclutha,-46.233,169.75,6,418,Mixed,5,18,15,464
+BR00018,Caversham,Dunedin,-45.87416,170.50361,7,635,Mixed,5,12,11,706
+BR00018,Concord,Dunedin,-45.87416,170.50361,4,125,Mixed,5,12,6,139
+BR00014,Cromwell,Cromwell,-45.045944,169.19556,4,131,Mixed,5,12,6,146
+BR00018,Forbury,Dunedin,-45.87416,170.50361,7,675,Mixed,5,12,11,750
+BR00018,George Street,Dunedin,-45.87416,170.50361,7,605,Mixed,5,12,16,672
+BR00028,Green Island,Green Island,-45.90278,170.43056,5,327,Mixed,5,12,7,363
+BR00018,High Street,Dunedin,-45.87416,170.50361,7,531,Mixed,5,12,13,590
+BR00018,Kaikorai,Dunedin,-45.87416,170.50361,7,577,Mixed,5,12,18,641
+BR00040,Kaitangata,Kaitangata,-46.275,169.85,5,357,Mixed,5,12,10,397
+BR00018,Kensington,Dunedin,-45.87416,170.50361,5,385,Mixed,5,12,7,428
+BR00042,Lawrence District High School,Lawrence,-45.913,169.689,4,166,Mixed,5,18,4,184
+BR00018,Leith Valley,Dunedin,-45.87416,170.50361,3,51,Mixed,5,12,3,57
+BR00018,Macandrew Road,Dunedin,-45.87416,170.50361,7,622,Mixed,5,12,15,691
+BR00018,Maori Hill,Dunedin,-45.87416,170.50361,5,355,Mixed,5,12,11,394
+BR00018,Moray Place,Dunedin,-45.87416,170.50361,5,313,Mixed,5,12,11,348
+BR00018,Mornington,Dunedin,-45.87416,170.50361,7,538,Mixed,5,12,10,598
+BR00051,Mosgiel District High School,Mosgiel,-45.875,170.347,5,341,Mixed,5,18,11,379
+BR00018,Musselburgh,Dunedin,-45.87416,170.50361,7,596,Mixed,5,12,12,662
+BR00056,Naseby,Naseby,-45.016667,170.133333,3,97,Mixed,5,12,2,108
+BR00018,North-east Valley,Dunedin,-45.87416,170.50361,7,653,Mixed,5,12,16,726
+BR00063,Oamaru Middle,Oamaru,-45.09746,170.96911,4,159,Mixed,5,12,5,177
+BR00063,Oamaru North,Oamaru,-45.09746,170.96911,NA,470,Mixed,5,12,NA,522
+BR00063,Oamaru South,Oamaru,-45.09746,170.96911,5,413,Mixed,5,12,8,459
+BR00071,Palmerston District High School,Palmerston,-45.484026,170.715265,5,249,Mixed,5,18,10,277
+BR00018,Pine Hill,Dunedin,-45.87416,170.50361,3,40,Mixed,5,12,3,44
+BR00076,Port Chalmers District High School,Port Chalmers,-45.8178,170.6188,6,472,Mixed,5,18,10,524
+BR00085,Roxburgh,Roxburgh,-45.53905,169.3123,4,148,Mixed,5,12,4,164
+BR00018,St. Clair,Dunedin,-45.87416,170.50361,5,321,Mixed,5,12,11,357
+BR00093,Tapanui District High School,Tapanui,-45.94332,169.2605276,4,188,Mixed,5,18,5,209
+BR00049,Tokamairiro District High School,Milton,-46.12083,169.96944,5,244,Mixed,5,18,12,271
+BR00018,Wakari,Dunedin,-45.87416,170.50361,4,170,Mixed,5,12,5,189
+CT00014,Airedale,Clutha,-46.233333,169.75,2,24,Mixed,5,12,1,27
+CT00014,Akatore,Clutha,-46.233333,169.75,1,13,Mixed,5,12,1,14
+CT00014,Akatore Coast,Clutha,-46.233333,169.75,1,10,Mixed,5,12,1,11
+CT00087,Allanton,Taieri,-45.887,170.2335,3,32,Mixed,5,12,2,36
+CT00113,Ardgowan,Waitaki,-44.926,170.635,1,22,Mixed,5,12,1,24
+CT00014,Arthurton,Clutha,-46.233333,169.75,1,13,Mixed,5,12,1,14
+CT00009,Awamangu,Bruce,-46.116667,169.966667,2,19,Mixed,5,12,1,21
+CT00113,Awamoko,Waitaki,-44.926,170.635,3,62,Mixed,5,12,2,69
+CT00095,Bald Hill,Vincent,-45.52,169.46,1,12,Mixed,5,12,1,13
+CT00095,Bannockburn,Vincent,-45.52,169.46,3,37,Mixed,5,12,2,41
+CT00054,Barewood,Maniototo,-45.12086448,170.0292969,1,13,Mixed,5,12,1,14
+CT00093,Beaumont,Tuapeka,-45.913,169.688,3,57,Mixed,5,12,2,63
+CT00048,Bendigo,Lake,-44.83281,168.50304,1,21,Mixed,5,12,1,23
+CT00009,Benhar,Bruce,-46.116667,169.966667,3,51,Mixed,5,12,2,57
+CT00050,Berwen,Mackenzie,-44.1,170.8289,0,4,Mixed,5,12,1,4
+CT00087,Berwick,Taieri,-45.887,170.2335,2,25,Mixed,5,12,1,28
+CT00009,Blacks,Bruce,-46.116667,169.966667,3,41,Mixed,5,12,2,46
+CT00054,Blackstone,Maniototo,-45.12086448,170.0292969,1,9,Mixed,5,12,1,10
+CT00113,Bluespur,Waitaki,-44.926,170.635,2,20,Mixed,5,12,1,22
+CT00087,Brighton,Taieri,-45.887,170.2335,3,36,Mixed,5,12,3,40
+CT00074,Broad Bay,Peninsula,-45.8583,170.65,1,15,Mixed,5,12,1,17
+CT00054,Cambrians,Maniototo,-45.12086448,170.0292969,2,25,Mixed,5,12,1,28
+CT00014,Chaslands,Clutha,-46.233333,169.75,1,9,Mixed,5,12,1,10
+CT00095,Chatto Creek,Vincent,-45.52,169.46,1,11,Mixed,5,12,1,12
+CT00093,Clark's Flat,Tuapeka,-45.913,169.688,1,21,Mixed,5,12,1,23
+CT00014,Clinton,Clutha,-46.233333,169.75,3,83,Mixed,5,12,2,92
+CT00095,Clyde,Vincent,-45.52,169.46,3,85,Mixed,5,12,3,94
+CT00014,Clydevale,Clutha,-46.233333,169.75,1,21,Mixed,5,12,1,23
+CT00093,Coal Creek,Tuapeka,-45.913,169.688,3,36,Mixed,5,12,2,40
+CT00014,Conicall Hill,Clutha,-46.233333,169.75,1,17,Mixed,5,12,1,19
+CT00093,Crookston,Tuapeka,-45.913,169.688,2,17,Mixed,5,12,1,19
+CT00097,Dunback,Waihemo,-45.383,170.633,3,56,Mixed,5,12,3,62
+CT00093,Dunrobin,Tuapeka,-45.913,169.688,2,28,Mixed,5,12,1,31
+CT00113,Duntroon,Waitaki,-44.926,170.635,3,66,Mixed,5,12,2,73
+CT00095,Earnscleugh,Vincent,-45.52,169.46,3,42,Mixed,5,12,2,47
+CT00087,East Taieri,Taieri,-45.887,170.2335,3,78,Mixed,5,12,2,87
+CT00009,Elderslie,Bruce,-46.116667,169.966667,2,17,Mixed,5,12,1,19
+CT00093,Ettrick,Tuapeka,-45.913,169.688,2,31,Mixed,5,12,1,34
+CT00100,Evansdale,Waikouaiti,-45.60014881,170.4716171,3,29,Mixed,5,12,2,32
+CT00093,Evans Flat,Tuapeka,-45.913,169.688,2,30,Mixed,5,12,1,33
+CT00049,Fair View,Levels,-44.29873,171.2225,0,2,Mixed,5,12,1,2
+CT00093,Five Forks,Tuapeka,-45.913,169.688,0,14,Mixed,5,12,1,16
+CT00087,Flag Swamp,Taieri,-45.887,170.2335,3,48,Mixed,5,12,3,53
+CT00095,Galloway,Vincent,-45.52,169.46,2,25,Mixed,5,12,1,28
+CT00054,Gimmerburn,Maniototo,-45.12086448,170.0292969,1,5,Mixed,5,12,1,6
+CT00014,Glenkenich,Clutha,-46.233333,169.75,1,20,Mixed,5,12,1,22
+CT00014,Glenledi,Clutha,-46.233333,169.75,1,7,Mixed,5,12,1,8
+CT00014,Glenomaru,Clutha,-46.233333,169.75,3,40,Mixed,5,12,2,44
+CT00009,Glenore,Bruce,-46.116667,169.966667,1,18,Mixed,5,12,1,20
+CT00014,Goodwood,Clutha,-46.233333,169.75,0,7,Mixed,5,12,1,8
+CT00113,Greenfield,Waitaki,-44.926,170.635,1,20,Mixed,5,12,1,22
+CT00113,Hampden,Waitaki,-44.926,170.635,3,100,Mixed,5,12,2,111
+CT00048,Hawea,Lake,-44.83281,168.50304,3,37,Mixed,5,12,2,41
+CT00087,Henley,Taieri,-45.887,170.2335,2,36,Mixed,5,12,1,40
+CT00093,Heriot,Tuapeka,-45.913,169.688,3,68,Mixed,5,12,2,76
+CT00074,Highcliff,Peninsula,-45.8583,170.65,3,52,Mixed,5,12,3,58
+CT00009,Hillend,Bruce,-46.116667,169.966667,1,11,Mixed,5,12,1,12
+CT00093,Hill Springs,Tuapeka,-45.913,169.688,0,5,Mixed,5,12,1,6
+CT00014,Hinahina,Clutha,-46.233333,169.75,0,6,Mixed,5,12,1,7
+CT00054,Hindon Railway,Maniototo,-45.12086448,170.0292969,1,9,Mixed,5,12,1,10
+CT00074,Hooper's Inlet,Peninsula,-45.8583,170.65,1,16,Mixed,5,12,1,18
+CT00014,Houipapa,Clutha,-46.233333,169.75,2,37,Mixed,5,12,1,41
+CT00054,Hyde,Maniototo,-45.12086448,170.0292969,3,39,Mixed,5,12,2,43
+CT00054,Ida Valley,Maniototo,-45.12086448,170.0292969,1,18,Mixed,5,12,1,20
+CT00113,Incholme,Waitaki,-44.926,170.635,2,32,Mixed,5,12,1,36
+CT00113,Inch Valley,Waitaki,-44.926,170.635,1,16,Mixed,5,12,1,18
+CT00113,Island Cliffe,Waitaki,-44.926,170.635,2,33,Mixed,5,12,1,37
+CT00014,Kahuika,Clutha,-46.233333,169.75,2,18,Mixed,5,12,1,20
+CT00093,Kaihiku,Tuapeka,-45.913,169.688,1,14,Mixed,5,12,1,16
+CT00113,Kakanui,Waitaki,-44.926,170.635,3,55,Mixed,5,12,3,61
+CT00014,Kakapuaka,Clutha,-46.233333,169.75,1,18,Mixed,5,12,1,20
+CT00100,Karitane,Waikouaiti,-45.60014881,170.4716171,2,28,Mixed,5,12,1,31
+CT00113,Kartigi,Waitaki,-44.926,170.635,2,16,Mixed,5,12,1,18
+CT00014,Katea,Clutha,-46.233333,169.75,2,19,Mixed,5,12,1,21
+CT00113,Kauroo,Waitaki,-44.926,170.635,1,12,Mixed,5,12,1,13
+CT00093,Kelso,Tuapeka,-45.913,169.688,3,47,Mixed,5,12,3,52
+CT00014,Kia Ora,Clutha,-46.233333,169.75,3,36,Mixed,5,12,3,40
+CT00093,Killermont,Tuapeka,-45.913,169.688,0,1,Mixed,5,12,1,1
+CT00014,Kokoano,Clutha,-46.233333,169.75,1,10,Mixed,5,12,1,11
+CT00054,Kokonga,Maniototo,-45.12086448,170.0292969,1,13,Mixed,5,12,1,14
+CT00087,Kuri Bush,Taieri,-45.887,170.2335,0,12,Mixed,5,12,1,13
+CT00014,Kuriwao,Clutha,-46.233333,169.75,1,11,Mixed,5,12,1,12
+CT00113,Kurow,Waitaki,-44.926,170.635,3,66,Mixed,5,12,3,73
+CT00054,Kyeburn,Maniototo,-45.12086448,170.0292969,1,13,Mixed,5,12,1,14
+CT00054,Kyeburn Diggings,Maniototo,-45.12086448,170.0292969,1,10,Mixed,5,12,1,11
+CT00095,Lauder,Vincent,-45.52,169.46,1,19,Mixed,5,12,1,21
+CT00054,Lauder Railway Station,Maniototo,-45.12086448,170.0292969,2,25,Mixed,5,12,1,28
+CT00113,Livingstone,Waitaki,-44.926,170.635,3,57,Mixed,5,12,3,63
+CT00009,Lovell's Flat,Bruce,-46.116667,169.966667,3,55,Mixed,5,12,2,61
+CT00095,Lowburn,Vincent,-45.52,169.46,3,56,Mixed,5,12,2,62
+CT00074,Lower Harbour,Peninsula,-45.8583,170.65,2,24,Mixed,5,12,1,27
+CT00048,Luggate,Lake,-44.83281,168.50304,1,12,Mixed,5,12,1,13
+CT00014,McLennan,Clutha,-46.233333,169.75,2,21,Mixed,5,12,1,23
+CT00097,Macrae's,Waihemo,-45.383,170.633,2,27,Mixed,5,12,1,30
+CT00113,Maerewhenua,Waitaki,-44.926,170.635,2,18,Mixed,5,12,1,20
+CT00113,Maheno,Waitaki,-44.926,170.635,4,126,Mixed,5,12,5,140
+CT00048,Makarora,Lake,-44.83281,168.50304,1,11,Mixed,5,12,1,12
+CT00014,Manuka Creek,Clutha,-46.233333,169.75,0,7,Mixed,5,12,1,8
+CT00054,Matakanui,Maniototo,-45.12086448,170.0292969,2,28,Mixed,5,12,1,31
+CT00014,Matau,Clutha,-46.233333,169.75,1,25,Mixed,5,12,1,28
+CT00014,Matea,Clutha,-46.233333,169.75,1,19,Mixed,5,12,1,21
+CT00087,Maungatua,Taieri,-45.887,170.2335,3,37,Mixed,5,12,2,41
+CT00093,Merino Downs,Tuapeka,-45.913,169.688,1,10,Mixed,5,12,1,11
+CT00100,Merton,Waikouaiti,-45.60014881,170.4716171,2,23,Mixed,5,12,1,26
+CT00009,Milburn,Bruce,-46.116667,169.966667,3,60,Mixed,5,12,2,67
+CT00093,Miller's Flat,Tuapeka,-45.913,169.688,3,63,Mixed,5,12,2,70
+CT00095,Moa Creek,Vincent,-45.52,169.46,3,38,Mixed,5,12,2,42
+CT00093,Moa Flat,Tuapeka,-45.913,169.688,1,10,Mixed,5,12,1,11
+CT00113,Moeraki,Waitaki,-44.926,170.635,3,41,Mixed,5,12,2,46
+CT00087,Momona,Taieri,-45.887,170.2335,3,47,Mixed,5,12,2,52
+CT00054,Moonlight,Maniototo,-45.12086448,170.0292969,1,15,Mixed,5,12,1,17
+CT00074,Mount Cargill,Peninsula,-45.8583,170.65,2,21,Mixed,5,12,1,23
+CT00087,Mount Stewart,Taieri,-45.887,170.2335,1,11,Mixed,5,12,1,12
+CT00095,Nevis,Vincent,-45.52,169.46,1,12,Mixed,5,12,1,13
+CT00113,Ngapara,Waitaki,-44.926,170.635,3,68,Mixed,5,12,2,76
+CT00054,Ngapuna,Maniototo,-45.12086448,170.0292969,1,9,Mixed,5,12,1,10
+CT00074,North East Harbour,Peninsula,-45.8583,170.65,3,45,Mixed,5,12,3,50
+CT00087,North Taieri,Taieri,-45.887,170.2335,2,21,Mixed,5,12,1,23
+CT00014,Nugget Point,Clutha,-46.233333,169.75,1,14,Mixed,5,12,1,16
+CT00074,Otakou,Peninsula,-45.8583,170.65,2,25,Mixed,5,12,1,28
+CT00009,Otanomomo,Bruce,-46.116667,169.966667,2,30,Mixed,5,12,1,33
+CT00113,Otekaike,Waitaki,-44.926,170.635,3,38,Mixed,5,12,3,42
+CT00014,Otekura,Clutha,-46.233333,169.75,1,13,Mixed,5,12,1,14
+CT00113,Otepopo,Waitaki,-44.926,170.635,3,81,Mixed,5,12,2,90
+CT00113,Otiake,Waitaki,-44.926,170.635,2,29,Mixed,5,12,1,32
+CT00087,Otokia,Taieri,-45.887,170.2335,2,21,Mixed,5,12,1,23
+CT00054,Oturehua,Maniototo,-45.12086448,170.0292969,2,26,Mixed,5,12,1,29
+CT00087,Outram,Taieri,-45.887,170.2335,3,88,Mixed,5,12,2,98
+CT00014,Owaka,Clutha,-46.233333,169.75,4,119,Mixed,5,12,5,132
+CT00014,Owaka Valley,Clutha,-46.233333,169.75,2,26,Mixed,5,12,1,29
+CT00054,Paerau,Maniototo,-45.12086448,170.0292969,0,6,Mixed,5,12,1,7
+CT00113,Papakaio,Waitaki,-44.926,170.635,3,69,Mixed,5,12,2,77
+CT00014,Papatowai,Clutha,-46.233333,169.75,2,18,Mixed,5,12,1,20
+CT00054,Patearoa,Maniototo,-45.12086448,170.0292969,2,29,Mixed,5,12,1,32
+CT00095,Poolburn,Vincent,-45.52,169.46,1,17,Mixed,5,12,1,19
+CT00009,Popotunoa,Bruce,-46.116667,169.966667,1,12,Mixed,5,12,1,13
+CT00014,Port Molyneux,Clutha,-46.233333,169.75,2,14,Mixed,5,12,1,16
+CT00074,Portobello,Peninsula,-45.8583,170.65,3,57,Mixed,5,12,2,63
+CT00014,Pounawea,Clutha,-46.233333,169.75,1,14,Mixed,5,12,1,16
+CT00009,Pukeiwitahi,Bruce,-46.116667,169.966667,2,28,Mixed,5,12,1,31
+CT00054,Pukema,Maniototo,-45.12086448,170.0292969,1,8,Mixed,5,12,1,9
+CT00014,Pukepito,Clutha,-46.233333,169.75,1,17,Mixed,5,12,1,19
+CT00009,Puketi,Bruce,-46.116667,169.966667,1,14,Mixed,5,12,1,16
+CT00113,Pukeuri,Waitaki,-44.926,170.635,3,61,Mixed,5,12,3,68
+CT00100,Purakanui,Waikouaiti,-45.60014881,170.4716171,2,33,Mixed,5,12,1,37
+CT00113,Purakauiti,Waitaki,-44.926,170.635,1,16,Mixed,5,12,1,18
+CT00014,Purekireki,Clutha,-46.233333,169.75,2,17,Mixed,5,12,1,19
+CT00095,Rae's Junction,Vincent,-45.52,169.46,1,17,Mixed,5,12,1,19
+CT00054,Ranfurly,Maniototo,-45.12086448,170.0292969,3,76,Mixed,5,12,2,84
+CT00014,Ratanui,Clutha,-46.233333,169.75,3,38,Mixed,5,12,2,42
+CT00074,Ravensbourne,Peninsula,-45.8583,170.65,4,192,Mixed,5,12,7,213
+CT00014,Reomoana,Clutha,-46.233333,169.75,1,19,Mixed,5,12,1,21
+CT00014,Romahapa,Clutha,-46.233333,169.75,3,45,Mixed,5,12,2,50
+CT00087,Saddle Hill,Taieri,-45.887,170.2335,1,9,Mixed,5,12,1,10
+CT00054,St. Bathans,Maniototo,-45.12086448,170.0292969,2,28,Mixed,5,12,1,31
+CT00074,St. Leonards,Peninsula,-45.8583,170.65,3,39,Mixed,5,12,2,43
+CT00074,Sandymount,Peninsula,-45.8583,170.65,3,38,Mixed,5,12,2,42
+CT00100,Sawyer's Bay,Waikouaiti,-45.60014881,170.4716171,4,122,Mixed,5,12,5,136
+CT00100,Seacliff,Waikouaiti,-45.60014881,170.4716171,3,90,Mixed,5,12,2,100
+CT00014,Spottis Creek,Clutha,-46.233333,169.75,1,10,Mixed,5,12,1,11
+CT00014,Spylaw Valley,Clutha,-46.233333,169.75,1,11,Mixed,5,12,1,12
+CT00009,Stirling,Bruce,-46.116667,169.966667,3,72,Mixed,5,12,3,80
+CT00014,Stony Creek,Clutha,-46.233333,169.75,2,18,Mixed,5,12,1,20
+CT00054,Strath Taieri,Maniototo,-45.12086448,170.0292969,4,117,Mixed,5,12,7,130
+CT00087,Sutton,Taieri,-45.887,170.2335,2,31,Mixed,5,12,1,34
+CT00087,Table Hill,Taieri,-45.887,170.2335,1,12,Mixed,5,12,1,13
+CT00014,Tahakapa,Clutha,-46.233333,169.75,2,33,Mixed,5,12,1,37
+CT00014,Tahatika,Clutha,-46.233333,169.75,2,22,Mixed,5,12,1,24
+CT00014,Tahora,Clutha,-46.233333,169.75,0,8,Mixed,5,12,1,9
+CT00087,Taieri Beach,Taieri,-45.887,170.2335,2,22,Mixed,5,12,1,24
+CT00087,Taieri Ferry,Taieri,-45.887,170.2335,1,14,Mixed,5,12,1,16
+CT00009,Tapui,Bruce,-46.116667,169.966667,2,15,Mixed,5,12,1,17
+CT00014,Tarara,Clutha,-46.233333,169.75,1,10,Mixed,5,12,1,11
+CT00095,Tarras,Vincent,-45.52,169.46,1,14,Mixed,5,12,1,16
+CT00014,Taumata,Clutha,-46.233333,169.75,1,12,Mixed,5,12,1,13
+CT00014,Tawanui,Clutha,-46.233333,169.75,2,21,Mixed,5,12,1,23
+CT00113,Teaneraki,Waitaki,-44.926,170.635,3,63,Mixed,5,12,2,70
+CT00093,Te Houka,Tuapeka,-45.913,169.688,2,22,Mixed,5,12,1,24
+CT00113,Tokaraki,Waitaki,-44.926,170.635,3,44,Mixed,5,12,3,49
+CT00009,Tokoiti,Bruce,-46.116667,169.966667,3,95,Mixed,5,12,3,106
+CT00113,Totara,Waitaki,-44.926,170.635,3,85,Mixed,5,12,3,94
+CT00093,Tuapeka Flat,Tuapeka,-45.913,169.688,1,13,Mixed,5,12,1,14
+CT00093,Tuapeka Mouth,Tuapeka,-45.913,169.688,3,37,Mixed,5,12,2,41
+CT00093,Tuapeka West,Tuapeka,-45.913,169.688,1,16,Mixed,5,12,1,18
+CT00014,Upper Junction,Clutha,-46.233333,169.75,2,26,Mixed,5,12,1,29
+CT00113,Waianakarua,Waitaki,-44.926,170.635,2,33,Mixed,5,12,1,37
+CT00097,Waihemo,Waihemo,-45.383,170.633,1,10,Mixed,5,12,1,11
+CT00009,Waihola,Bruce,-46.116667,169.966667,3,47,Mixed,5,12,2,52
+CT00014,Waikoikoi,Clutha,-46.233333,169.75,3,38,Mixed,5,12,2,42
+CT00100,Waikouaiti,Waikouaiti,-45.60014881,170.4716171,4,155,Mixed,5,12,6,172
+CT00014,Waipahi,Clutha,-46.233333,169.75,2,34,Mixed,5,12,1,38
+CT00054,Waipiata,Maniototo,-45.12086448,170.0292969,1,32,Mixed,5,12,1,36
+CT00087,Waipori,Taieri,-45.887,170.2335,2,19,Mixed,5,12,1,21
+CT00087,Waipori Falls,Taieri,-45.887,170.2335,1,17,Mixed,5,12,1,19
+CT00014,Wairuna,Clutha,-46.233333,169.75,2,21,Mixed,5,12,1,23
+CT00093,Waitahuna,Tuapeka,-45.913,169.688,3,83,Mixed,5,12,2,92
+CT00093,Waitahuna Gully,Tuapeka,-45.913,169.688,2,24,Mixed,5,12,1,27
+CT00093,Waitahuna West,Tuapeka,-45.913,169.688,1,17,Mixed,5,12,1,19
+CT00113,Waitaki Bridge,Waitaki,-44.926,170.635,2,26,Mixed,5,12,1,29
+CT00014,Waitapeka,Clutha,-46.233333,169.75,1,23,Mixed,5,12,1,26
+CT00100,Waitati,Waikouaiti,-45.60014881,170.4716171,3,84,Mixed,5,12,3,93
+CT00014,Waiwera,Clutha,-46.233333,169.75,3,58,Mixed,5,12,2,64
+CT00113,Walton,Waitaki,-44.926,170.635,3,58,Mixed,5,12,2,64
+CT00048,Wanaka,Lake,-44.83281,168.50304,1,14,Mixed,5,12,1,16
+CT00048,Wanaka Road,Lake,-44.83281,168.50304,0,5,Mixed,5,12,1,6
+CT00014,Wangaloa,Clutha,-46.233333,169.75,1,5,Mixed,5,12,1,6
+CT00014,Warepa,Clutha,-46.233333,169.75,1,22,Mixed,5,12,1,24
+CT00014,Waronui,Clutha,-46.233333,169.75,2,21,Mixed,5,12,1,23
+CT00054,Wedderburn,Maniototo,-45.12086448,170.0292969,2,23,Mixed,5,12,1,26
+CT00113,Weston,Waitaki,-44.926,170.635,3,90,Mixed,5,12,2,100
+CT00087,West Taieri,Taieri,-45.887,170.2335,2,27,Mixed,5,12,1,30
+CT00014,Wetherstones,Clutha,-46.233333,169.75,1,13,Mixed,5,12,1,14
+CT00087,Whare Flat,Taieri,-45.887,170.2335,0,9,Mixed,5,12,1,10
+CT00097,Wharekuri,Waihemo,-45.383,170.633,1,14,Mixed,5,12,1,16
+CT00014,Wharetoa,Clutha,-46.233333,169.75,1,10,Mixed,5,12,1,11
+CT00113,Windsor,Waitaki,-44.926,170.635,3,47,Mixed,5,12,2,52
+CT00087,Wylie's Crossing,Taieri,-45.887,170.2335,2,24,Mixed,5,12,1,27
+BR00057,Clifton Terrace,Nelson,-41.27078,173.28404,2,28,Mixed,5,12,1,31
+BR00057,Golden Downs,Nelson,-41.27078,173.28404,0,5,Mixed,5,12,1,6
+BR00057,Happy Valley,Nelson,-41.27078,173.28404,2,26,Mixed,5,12,1,29
+BR00057,Hillside,Nelson,-41.27078,173.28404,1,16,Mixed,5,12,1,18
+BR00052,Motueka District High School and Whakarewa (side school),Motueka,-41.12333,173.01472,5,281,Mixed,5,18,10,312
+BR00057,Nelson Boys' (260) Brook Street (side school) (122) and Tasman Street (side school) (157),Nelson,-41.27078,173.28404,7,529,Boys,5,12,20,588
+BR00057,Nelson Girls' (223) Hampden Street (side school) (175) and Haven Road (side school) (87),Nelson,-41.27078,173.28404,7,585,Girls,5,12,11,650
+BR00057,Norris's Gully,Nelson,-41.27078,173.28404,0,5,Mixed,5,12,1,6
+BR00057,Pariwhakaho,Nelson,-41.27078,173.28404,0,10,Mixed,5,12,1,11
+BR00057,Redwood's Valley,Nelson,-41.27078,173.28404,0,5,Mixed,5,12,1,6
+BR00081,Richmond,Richmond,-41.3333,173.183,4,201,Mixed,5,12,4,223
+BR00057,Tahuna,Nelson,-41.27078,173.28404,3,86,Mixed,5,12,2,96
+BR00057,Te Arowhenua,Nelson,-41.27078,173.28404,0,4,Mixed,5,12,1,4
+BR00057,Tophouse,Nelson,-41.27078,173.28404,0,6,Mixed,5,12,1,7
+BR00057,Wairangi,Nelson,-41.27078,173.28404,0,3,Mixed,5,12,1,3
+BR00112,Westport District High School,Westport,-41.75262,171.6037,7,734,Mixed,5,18,19,816
+BR00057,Whangamoa,Nelson,-41.27078,173.28404,0,7,Mixed,5,12,1,8
+CT00010,Addison's Flat,Buller,-41.813,171.793,1,11,Mixed,5,12,1,12
+CT00010,Anatimo,Buller,-41.813,171.793,0,4,Mixed,5,12,1,4
+CT00105,Appleby,Waimea,-41.33333,173.183333,2,36,Mixed,5,12,1,40
+CT00010,Arapito,Buller,-41.813,171.793,1,16,Mixed,5,12,1,18
+CT00010,Ariki,Buller,-41.813,171.793,1,9,Mixed,5,12,1,10
+CT00105,Awaroa,Waimea,-41.33333,173.183333,0,8,Mixed,5,12,1,9
+CT00015,Bainham,Collingwood,-40.677222,172.682778,3,40,Mixed,5,12,2,44
+CT00010,Birchfield,Buller,-41.813,171.793,2,26,Mixed,5,12,1,29
+CT00040,Black's Point,Inangahua,-41.85724663,171.9298009,3,91,Mixed,5,12,3,101
+CT00040,Blackwater Upper,Inangahua,-41.85724663,171.9298009,2,28,Mixed,5,12,1,31
+CT00105,Brightwater (59) and River Terrace (side school) (22),Waimea,-41.33333,173.183333,3,81,Mixed,5,12,2,90
+CT00105,Brooklyn,Waimea,-41.33333,173.183333,3,85,Mixed,5,12,3,94
+CT00010,Burnett's Face,Buller,-41.813,171.793,3,70,Mixed,5,12,3,78
+CT00010,Cape Foulwind,Buller,-41.813,171.793,3,41,Mixed,5,12,2,46
+CT00040,Capleston,Inangahua,-41.85724663,171.9298009,2,27,Mixed,5,12,1,30
+CT00010,Charleston,Buller,-41.813,171.793,2,24,Mixed,5,12,1,27
+CT00010,Churchill,Buller,-41.813,171.793,1,12,Mixed,5,12,1,13
+CT00015,Collingwood,Collingwood,-40.677222,172.682778,3,33,Mixed,5,12,2,37
+CT00040,Cronadun,Inangahua,-41.85724663,171.9298009,3,33,Mixed,5,12,3,37
+CT00010,Denniston,Buller,-41.813,171.793,4,129,Mixed,5,12,6,143
+CT00105,Dovedale,Waimea,-41.33333,173.183333,2,23,Mixed,5,12,1,26
+CT00010,Fairdown,Buller,-41.813,171.793,1,14,Mixed,5,12,1,16
+CT00010,Fern Flat,Buller,-41.813,171.793,1,13,Mixed,5,12,1,14
+CT00015,Ferntown,Collingwood,-40.677222,172.682778,1,13,Mixed,5,12,1,14
+CT00105,Foxhill,Waimea,-41.33333,173.183333,3,56,Mixed,5,12,2,62
+CT00105,Glenhope,Waimea,-41.33333,173.183333,1,16,Mixed,5,12,1,18
+CT00105,Glenroy,Waimea,-41.33333,173.183333,1,11,Mixed,5,12,1,12
+CT00040,Globe Hill,Inangahua,-41.85724663,171.9298009,3,26,Mixed,5,12,3,29
+CT00010,Gordon,Buller,-41.813,171.793,0,11,Mixed,5,12,1,12
+CT00010,Granity (135) and Hector (side school) (40),Buller,-41.813,171.793,4,175,Mixed,5,12,4,194
+CT00105,Hamama,Waimea,-41.33333,173.183333,1,12,Mixed,5,12,1,13
+CT00015,Hinekaka,Collingwood,-40.677222,172.682778,0,7,Mixed,5,12,1,8
+CT00105,Hope,Waimea,-41.33333,173.183333,3,60,Mixed,5,12,3,67
+CT00040,Inangahua Junction,Inangahua,-41.85724663,171.9298009,1,20,Mixed,5,12,1,22
+CT00040,Inangahua Landing,Inangahua,-41.85724663,171.9298009,1,19,Mixed,5,12,1,21
+CT00105,Kaituna,Waimea,-41.33333,173.183333,2,23,Mixed,5,12,1,26
+CT00010,Karamea (81) and Oparara (side school) (11),Buller,-41.813,171.793,3,92,Mixed,5,12,2,102
+CT00105,Kikiwa,Waimea,-41.33333,173.183333,0,6,Mixed,5,12,1,7
+CT00105,Kiwi,Waimea,-41.33333,173.183333,1,18,Mixed,5,12,1,20
+CT00105,Koreke,Waimea,-41.33333,173.183333,1,8,Mixed,5,12,1,9
+CT00040,Little Grey,Inangahua,-41.85724663,171.9298009,3,39,Mixed,5,12,2,43
+CT00010,Little Wanganui,Buller,-41.813,171.793,1,18,Mixed,5,12,1,20
+CT00010,Longford,Buller,-41.813,171.793,1,12,Mixed,5,12,1,13
+CT00088,Long Plain,Takaka,-40.85085138,172.8070275,1,21,Mixed,5,12,1,23
+CT00105,McLaren's Bay,Waimea,-41.33333,173.183333,0,4,Mixed,5,12,1,4
+CT00105,Mahana,Waimea,-41.33333,173.183333,1,13,Mixed,5,12,1,14
+CT00015,Mangarakau,Collingwood,-40.677222,172.682778,1,7,Mixed,5,12,1,8
+CT00010,Mangles Valley,Buller,-41.813,171.793,0,9,Mixed,5,12,1,10
+CT00105,Mapua,Waimea,-41.33333,173.183333,1,19,Mixed,5,12,1,21
+CT00105,Marahau,Waimea,-41.33333,173.183333,1,17,Mixed,5,12,1,19
+CT00015,Matai Valley,Collingwood,-40.677222,172.682778,0,9,Mixed,5,12,1,10
+CT00015,Matariki,Collingwood,-40.677222,172.682778,1,10,Mixed,5,12,1,11
+CT00010,Millerton,Buller,-41.813,171.793,4,153,Mixed,5,12,5,170
+CT00105,Motupiko,Waimea,-41.33333,173.183333,2,29,Mixed,5,12,1,32
+CT00088,Motupipi,Takaka,-40.85085138,172.8070275,3,56,Mixed,5,12,3,62
+CT00105,"Moutere, Lower",Waimea,-41.33333,173.183333,3,66,Mixed,5,12,3,73
+CT00105,"Moutere, Upper",Waimea,-41.33333,173.183333,3,51,Mixed,5,12,2,57
+CT00063,Murchison,Murchison,-41.800178,172.3336836,3,60,Mixed,5,12,2,67
+CT00105,Neudorf,Waimea,-41.33333,173.183333,3,38,Mixed,5,12,3,42
+CT00105,Ngatimoti,Waimea,-41.33333,173.183333,3,38,Mixed,5,12,2,42
+CT00040,Nuggety Creek,Inangahua,-41.85724663,171.9298009,0,5,Mixed,5,12,1,6
+CT00010,Oparara Beach,Buller,-41.813,171.793,0,7,Mixed,5,12,1,8
+CT00010,Orinoco,Buller,-41.813,171.793,1,10,Mixed,5,12,1,11
+CT00010,Owen Junction,Buller,-41.813,171.793,1,15,Mixed,5,12,1,17
+CT00015,Pakawau,Collingwood,-40.677222,172.682778,1,15,Mixed,5,12,1,17
+CT00105,Pigeon Valley,Waimea,-41.33333,173.183333,1,14,Mixed,5,12,1,16
+CT00105,Pokororo,Waimea,-41.33333,173.183333,2,22,Mixed,5,12,1,24
+CT00010,Progress,Buller,-41.813,171.793,1,17,Mixed,5,12,1,19
+CT00010,Punakaikai,Buller,-41.813,171.793,1,12,Mixed,5,12,1,13
+CT00015,Puponga,Collingwood,-40.677222,172.682778,3,26,Mixed,5,12,2,29
+CT00105,Ranzau,Waimea,-41.33333,173.183333,3,45,Mixed,5,12,3,50
+CT00040,Reefton District High School,Inangahua,-41.85724663,171.9298009,5,289,Mixed,5,18,10,321
+CT00105,Riwaka,Waimea,-41.33333,173.183333,3,99,Mixed,5,12,3,110
+CT00015,Rockville (42) and Dall's Creek (side school) (11),Collingwood,-40.677222,172.682778,3,53,Mixed,5,12,2,59
+CT00015,Rocky River,Collingwood,-40.677222,172.682778,1,18,Mixed,5,12,1,20
+CT00010,Rotokohu,Buller,-41.813,171.793,1,12,Mixed,5,12,1,13
+CT00010,Seddonville,Buller,-41.813,171.793,3,47,Mixed,5,12,3,52
+CT00040,Sergeant's Hill,Inangahua,-41.85724663,171.9298009,2,22,Mixed,5,12,1,24
+CT00105,Sherry River,Waimea,-41.33333,173.183333,1,18,Mixed,5,12,1,20
+CT00010,Six-mile,Buller,-41.813,171.793,1,10,Mixed,5,12,1,11
+CT00105,Spring Grove,Waimea,-41.33333,173.183333,3,52,Mixed,5,12,2,58
+CT00105,Stanley Brook,Waimea,-41.33333,173.183333,2,23,Mixed,5,12,1,26
+CT00010,Stockton,Buller,-41.813,171.793,1,14,Mixed,5,12,1,16
+CT00105,Stoke,Waimea,-41.33333,173.183333,3,90,Mixed,5,12,3,100
+CT00040,Summerlea,Inangahua,-41.85724663,171.9298009,2,17,Mixed,5,12,1,19
+CT00105,Tadmor,Waimea,-41.33333,173.183333,2,31,Mixed,5,12,1,34
+CT00015,Takaka Central,Collingwood,-40.677222,172.682778,2,28,Mixed,5,12,1,31
+CT00088,Takaka East,Takaka,-40.85085138,172.8070275,2,19,Mixed,5,12,1,21
+CT00015,Takaka Lower District High School,Collingwood,-40.677222,172.682778,3,112,Mixed,5,18,2,124
+CT00015,Takaka Upper,Collingwood,-40.677222,172.682778,1,21,Mixed,5,12,1,23
+CT00105,Tapawera,Waimea,-41.33333,173.183333,3,36,Mixed,5,12,2,40
+CT00088,Tarakohe,Takaka,-40.85085138,172.8070275,3,39,Mixed,5,12,2,43
+CT00105,Tasman,Waimea,-41.33333,173.183333,2,29,Mixed,5,12,1,32
+CT00010,Tauranga Bay,Buller,-41.813,171.793,0,7,Mixed,5,12,1,8
+CT00015,Tuikea,Collingwood,-40.677222,172.682778,2,16,Mixed,5,12,1,18
+CT00010,Tutaki,Buller,-41.813,171.793,1,11,Mixed,5,12,1,12
+CT00010,Umere,Buller,-41.813,171.793,1,14,Mixed,5,12,1,16
+CT00015,Uruwhenua,Collingwood,-40.677222,172.682778,1,9,Mixed,5,12,1,10
+CT00105,Wai-iti,Waimea,-41.33333,173.183333,3,24,Mixed,5,12,2,27
+CT00010,Waimangaroa,Buller,-41.813,171.793,3,59,Mixed,5,12,3,66
+CT00105,Waimea West,Waimea,-41.33333,173.183333,2,18,Mixed,5,12,1,20
+CT00040,Waitahu,Inangahua,-41.85724663,171.9298009,1,9,Mixed,5,12,1,10
+CT00040,Waiuta,Inangahua,-41.85724663,171.9298009,3,67,Mixed,5,12,2,74
+CT00105,Wakefield Lower,Waimea,-41.33333,173.183333,4,116,Mixed,5,12,6,129
+CT00010,Will's Road,Buller,-41.813,171.793,1,18,Mixed,5,12,1,20
+CT00121,Woodstock,Westland,-43.431,170.155,0,11,Mixed,5,12,1,12
+BR00072,Campbell Street Palmerston North,Palmerston North,-40.35636,175.61113,7,672,Mixed,5,12,11,747
+BR00072,College Street Pamerston North,Palmerston North,-40.35636,175.61113,7,543,Mixed,5,12,14,603
+BR00023,Feilding District High School Primary (420) Secondary (60),Feilding,-40.216667,175.566667,6,480,Mixed,5,18,20,533
+BR00024,Foxton,Foxton,-40.47167,175.28583,5,372,Mixed,5,12,9,413
+BR00109,Keith Street Infants Wanganui,Wanganui,-39.9333,175.05,5,219,Mixed,5,12,10,243
+BR00023,Lytton Street Feilding,Feilding,-40.216667,175.566667,5,299,Mixed,5,12,9,332
+BR00046,Marton District High School Primary (285) Secondary (26),Marton,-40.06917,175.37833,5,311,Mixed,5,18,7,346
+BR00064,Ohakune,Ohakune,-39.41861,175.39944,5,257,Mixed,5,12,9,286
+BR00073,Patea District High School Primary (158) Secondary (15),Patea,-39.75722,174.47667,4,173,Mixed,5,18,7,192
+BR00109,Queens Park Wanganui (308) St Johns Hill (side school) (36),Wanganui,-39.9333,175.05,5,344,Mixed,5,12,9,382
+BR00072,Terrace End Palmerston North,Palmerston North,-40.35636,175.61113,7,593,Mixed,5,12,15,659
+BR00109,Victoria Avenue,Wanganui,-39.9333,175.05,7,493,Mixed,5,12,13,548
+BR00109,Wanganui Central Infants',Wanganui,-39.9333,175.05,5,276,Mixed,5,12,9,307
+BR00109,Wanganui East,Wanganui,-39.9333,175.05,6,423,Mixed,5,12,20,470
+BR00072,West End Palmerston North,Palmerston North,-40.35636,175.61113,5,273,Mixed,5,12,8,303
+CT00073,Alton,Patea,-39.7547982,174.4728191,3,59,Mixed,5,12,2,66
+CT00076,Apiti,Pohangina,-40.16666,175.7999968,3,83,Mixed,5,12,2,92
+CT00116,Aramoho,Waitotara,-39.805833,174.734444,4,222,Mixed,5,12,5,247
+CT00118,Aratika,Wanganui,-39.9333,175.05,1,19,Mixed,5,12,1,21
+CT00067,Ashhurst,Oroua,-40.166667,175.583333,4,143,Mixed,5,12,7,159
+CT00046,Awahou,Kiwitea,-40.10857,175.71552,2,23,Mixed,5,12,1,26
+CT00046,Awahou South,Kiwitea,-40.10857,175.71552,1,12,Mixed,5,12,1,13
+CT00053,Awahuri,Manawatu,-39.7273356,175.4375574,3,56,Mixed,5,12,2,62
+CT00046,Bainesse,Kiwitea,-40.10857,175.71552,3,39,Mixed,5,12,2,43
+CT00046,Beaconsfield,Kiwitea,-40.10857,175.71552,2,26,Mixed,5,12,1,29
+CT00118,Bluff Road,Wanganui,-39.9333,175.05,1,8,Mixed,5,12,1,9
+CT00116,Brunswick,Waitotara,-39.805833,174.734444,3,35,Mixed,5,12,2,39
+CT00079,Bull's District High School Primary (127) Secondary (12),Rangitikei,-39.66667,175.75,4,139,Mixed,5,18,5,154
+CT00043,Bunnythorpe,Kairanga,-40.34807006,175.5318268,3,114,Mixed,5,12,2,127
+CT00067,Carnarvon,Oroua,-40.166667,175.583333,3,61,Mixed,5,12,2,68
+CT00067,Cheltenham,Oroua,-40.166667,175.583333,3,63,Mixed,5,12,3,70
+CT00079,Coal Creek,Rangitikei,-39.66667,175.75,1,15,Mixed,5,12,1,17
+CT00076,Colyton,Pohangina,-40.16666,175.7999968,3,45,Mixed,5,12,2,50
+CT00079,Crofton (87) and side school (57),Rangitikei,-39.66667,175.75,4,144,Mixed,5,12,5,160
+CT00118,Durie Hill,Wanganui,-39.9333,175.05,3,117,Mixed,5,12,3,130
+CT00043,Fitzherbert East,Kairanga,-40.34807006,175.5318268,3,37,Mixed,5,12,2,41
+CT00053,Glen Oroua,Manawatu,-39.7273356,175.4375574,3,48,Mixed,5,12,2,53
+CT00079,Greatford,Rangitikei,-39.66667,175.75,1,22,Mixed,5,12,1,24
+CT00067,Halcombe,Oroua,-40.166667,175.583333,3,96,Mixed,5,12,2,107
+CT00118,Herrington (side school) See under Umumuri,Wanganui,-39.9333,175.05,2,23,Mixed,5,12,1,26
+CT00118,Hihitahi,Wanganui,-39.9333,175.05,2,23,Mixed,5,12,1,26
+CT00044,Hikimutu,Kaitieke,-39.10051591,175.2629136,2,32,Mixed,5,12,1,36
+CT00046,Hiwinui,Kiwitea,-40.10857,175.71552,2,23,Mixed,5,12,1,26
+CT00102,Horopito,Waimarino,-39.4,175.3,3,61,Mixed,5,12,2,68
+CT00079,Hukapapa,Rangitikei,-39.66667,175.75,2,22,Mixed,5,12,1,24
+CT00079,Hunterville District High School Primary (129) Secondary (14),Rangitikei,-39.66667,175.75,4,143,Mixed,5,18,5,159
+CT00073,Hurleyville,Patea,-39.7547982,174.4728191,3,38,Mixed,5,12,3,42
+CT00118,Kaheke,Wanganui,-39.9333,175.05,1,18,Mixed,5,12,1,20
+CT00116,Kai Iwi,Waitotara,-39.805833,174.734444,3,48,Mixed,5,12,2,53
+CT00043,Kairanga,Kairanga,-40.34807006,175.5318268,3,58,Mixed,5,12,2,64
+CT00044,Kaitieke,Kaitieke,-39.10051591,175.2629136,1,14,Mixed,5,12,1,16
+CT00118,Kaitoke,Wanganui,-39.9333,175.05,3,60,Mixed,5,12,2,67
+CT00044,Kakahi,Kaitieke,-39.10051591,175.2629136,4,116,Mixed,5,12,4,129
+CT00073,Kakaramea,Patea,-39.7547982,174.4728191,3,48,Mixed,5,12,2,53
+CT00079,Kakariki,Rangitikei,-39.66667,175.75,1,18,Mixed,5,12,1,20
+CT00118,Kakatahi,Wanganui,-39.9333,175.05,1,15,Mixed,5,12,1,17
+CT00046,Kawhatau,Kiwitea,-40.10857,175.71552,2,24,Mixed,5,12,1,27
+CT00043,Kelvin Grove,Kairanga,-40.34807006,175.5318268,3,54,Mixed,5,12,2,60
+CT00046,Kimbolton,Kiwitea,-40.10857,175.71552,3,109,Mixed,5,12,2,121
+CT00046,Kiwitea,Kiwitea,-40.10857,175.71552,3,49,Mixed,5,12,3,54
+CT00079,Koeke,Rangitikei,-39.66667,175.75,1,17,Mixed,5,12,1,19
+CT00073,Kohi,Patea,-39.7547982,174.4728191,2,22,Mixed,5,12,1,24
+CT00118,Lacy's Landing,Wanganui,-39.9333,175.05,1,10,Mixed,5,12,1,11
+CT00043,Linton,Kairanga,-40.34807006,175.5318268,3,91,Mixed,5,12,2,101
+CT00043,Longburn,Kairanga,-40.34807006,175.5318268,3,98,Mixed,5,12,2,109
+CT00118,Main South Road,Wanganui,-39.9333,175.05,0,7,Mixed,5,12,1,8
+CT00067,Makino Road,Oroua,-40.166667,175.583333,3,39,Mixed,5,12,3,43
+CT00079,Makohine Valley,Rangitikei,-39.66667,175.75,1,14,Mixed,5,12,1,16
+CT00018,Makotuku,Dannevirke,-40.205303,176.100311,3,25,Mixed,5,12,2,28
+CT00118,Mangamahu,Wanganui,-39.9333,175.05,1,10,Mixed,5,12,1,11
+CT00079,Mangaonoho,Rangitikei,-39.66667,175.75,2,30,Mixed,5,12,1,33
+CT00118,Mangara,Wanganui,-39.9333,175.05,1,15,Mixed,5,12,1,17
+CT00079,Mangarimu,Rangitikei,-39.66667,175.75,1,19,Mixed,5,12,1,21
+CT00118,Mangatiti Landing,Wanganui,-39.9333,175.05,0,2,Mixed,5,12,1,2
+CT00079,Mangaweka,Rangitikei,-39.66667,175.75,3,91,Mixed,5,12,2,101
+CT00044,Manunui,Kaitieke,-39.10051591,175.2629136,4,216,Mixed,5,12,7,240
+CT00073,Manutahi,Patea,-39.7547982,174.4728191,3,38,Mixed,5,12,2,42
+CT00118,Matarawa,Wanganui,-39.9333,175.05,1,19,Mixed,5,12,1,21
+CT00079,Mataroa,Rangitikei,-39.66667,175.75,3,46,Mixed,5,12,2,51
+CT00118,Maxwell,Wanganui,-39.9333,175.05,3,46,Mixed,5,12,2,51
+CT00079,Moawhanga,Rangitikei,-39.66667,175.75,1,25,Mixed,5,12,1,28
+CT00116,Mosston,Waitotara,-39.805833,174.734444,3,95,Mixed,5,12,3,106
+CT00053,Moutoa,Manawatu,-39.7273356,175.4375574,3,42,Mixed,5,12,3,47
+CT00043,Newbury,Kairanga,-40.34807006,175.5318268,3,59,Mixed,5,12,2,66
+CT00118,Ngamatea,Wanganui,-39.9333,175.05,1,12,Mixed,5,12,1,13
+CT00073,Ngutuwera,Patea,-39.7547982,174.4728191,1,16,Mixed,5,12,1,18
+CT00116,Nukumaru,Waitotara,-39.805833,174.734444,1,21,Mixed,5,12,1,23
+CT00053,Ohakea,Manawatu,-39.7273356,175.4375574,3,52,Mixed,5,12,2,58
+CT00079,Ohingaiti,Rangitikei,-39.66667,175.75,3,70,Mixed,5,12,3,78
+CT00118,Okoia,Wanganui,-39.9333,175.05,3,27,Mixed,5,12,2,30
+CT00073,Opaku,Patea,-39.7547982,174.4728191,2,26,Mixed,5,12,1,29
+CT00118,Orautoha,Wanganui,-39.9333,175.05,2,30,Mixed,5,12,1,33
+CT00053,Oroua Downs,Manawatu,-39.7273356,175.4375574,3,66,Mixed,5,12,2,73
+CT00079,Otairi,Rangitikei,-39.66667,175.75,1,11,Mixed,5,12,1,12
+CT00076,Owhakura,Pohangina,-40.16666,175.7999968,2,19,Mixed,5,12,1,21
+CT00044,Owhango,Kaitieke,-39.10051591,175.2629136,4,147,Mixed,5,12,4,163
+CT00046,Pakihikura,Kiwitea,-40.10857,175.71552,1,21,Mixed,5,12,1,23
+CT00118,Parawanui,Wanganui,-39.9333,175.05,2,37,Mixed,5,12,1,41
+CT00044,Piriaka,Kaitieke,-39.10051591,175.2629136,3,41,Mixed,5,12,2,46
+CT00076,Pohangina,Pohangina,-40.16666,175.7999968,3,38,Mixed,5,12,2,42
+CT00118,Pohonui,Wanganui,-39.9333,175.05,1,15,Mixed,5,12,1,17
+CT00079,Pokako,Rangitikei,-39.66667,175.75,1,21,Mixed,5,12,1,23
+CT00079,Porewa,Rangitikei,-39.66667,175.75,1,10,Mixed,5,12,1,11
+CT00118,Poukiore,Wanganui,-39.9333,175.05,1,12,Mixed,5,12,1,13
+CT00046,Pukekaha,Kiwitea,-40.10857,175.71552,1,6,Mixed,5,12,1,7
+CT00079,Pukeokahu,Rangitikei,-39.66667,175.75,1,15,Mixed,5,12,1,17
+CT00102,Raetihi,Waimarino,-39.4,175.3,4,150,Mixed,5,12,7,167
+CT00102,Rangataua,Waimarino,-39.4,175.3,4,121,Mixed,5,12,6,134
+CT00053,Rangiotu,Manawatu,-39.7273356,175.4375574,3,67,Mixed,5,12,2,74
+CT00046,Rangiwahia,Kiwitea,-40.10857,175.71552,3,45,Mixed,5,12,2,50
+CT00116,Rapanui,Waitotara,-39.805833,174.734444,1,18,Mixed,5,12,1,20
+CT00079,Rata,Rangitikei,-39.66667,175.75,3,56,Mixed,5,12,2,62
+CT00079,Rata-iti,Rangitikei,-39.66667,175.75,1,13,Mixed,5,12,1,14
+CT00067,Raukura,Oroua,-40.166667,175.583333,2,17,Mixed,5,12,1,19
+CT00076,Raumai,Pohangina,-40.16666,175.7999968,2,14,Mixed,5,12,1,16
+CT00044,Raurimu,Kaitieke,-39.10051591,175.2629136,3,68,Mixed,5,12,2,76
+CT00044,Retaruke,Kaitieke,-39.10051591,175.2629136,0,9,Mixed,5,12,1,10
+CT00118,Rewa,Wanganui,-39.9333,175.05,2,28,Mixed,5,12,1,31
+CT00079,Rongotea,Rangitikei,-39.66667,175.75,4,26,Mixed,5,12,4,29
+CT00079,Ruahine,Rangitikei,-39.66667,175.75,2,20,Mixed,5,12,1,22
+CT00102,Ruatiti,Waimarino,-39.4,175.3,1,14,Mixed,5,12,1,16
+CT00053,Sanson,Manawatu,-39.7273356,175.4375574,3,72,Mixed,5,12,2,80
+CT00118,South Makirikiri,Wanganui,-39.9333,175.05,3,40,Mixed,5,12,2,44
+CT00067,Stanway,Oroua,-40.166667,175.583333,2,33,Mixed,5,12,1,37
+CT00067,Stoney Creek,Oroua,-40.166667,175.583333,3,62,Mixed,5,12,2,69
+CT00079,Taihape District High School Primary (296) Secondary (18) and Winiata (side school) (17),Rangitikei,-39.66667,175.75,5,331,Mixed,5,18,7,368
+CT00053,Taikorea,Manawatu,-39.7273356,175.4375574,2,34,Mixed,5,12,1,38
+CT00102,Tangiwai,Waimarino,-39.4,175.3,1,11,Mixed,5,12,1,12
+CT00067,Taonui,Oroua,-40.166667,175.583333,3,49,Mixed,5,12,2,54
+CT00079,Taoroa,Rangitikei,-39.66667,175.75,1,7,Mixed,5,12,1,8
+CT00079,Taoroa Road,Rangitikei,-39.66667,175.75,1,14,Mixed,5,12,1,16
+CT00118,Te Ara-Kura,Wanganui,-39.9333,175.05,3,52,Mixed,5,12,3,58
+CT00118,Te Rena,Wanganui,-39.9333,175.05,1,10,Mixed,5,12,1,11
+CT00043,Tiakitahuna,Kairanga,-40.34807006,175.5318268,2,33,Mixed,5,12,1,37
+CT00079,Tiriraukawa,Rangitikei,-39.66667,175.75,1,13,Mixed,5,12,1,14
+CT00043,Tiritea,Kairanga,-40.34807006,175.5318268,3,44,Mixed,5,12,3,49
+CT00118,Tokorangi,Wanganui,-39.9333,175.05,2,34,Mixed,5,12,1,38
+CT00118,Torere,Wanganui,-39.9333,175.05,3,52,Mixed,5,12,2,58
+CT00118,Tunakotekote,Wanganui,-39.9333,175.05,1,14,Mixed,5,12,1,16
+CT00079,Turakina,Rangitikei,-39.66667,175.75,3,74,Mixed,5,12,3,82
+CT00118,Turangarere,Wanganui,-39.9333,175.05,3,67,Mixed,5,12,2,74
+CT00118,Umumuri (81) and Herrington (side school) (14),Wanganui,-39.9333,175.05,3,95,Mixed,5,12,2,106
+CT00076,Umutoi,Pohangina,-40.16666,175.7999968,2,18,Mixed,5,12,1,20
+CT00118,Upokongaro,Wanganui,-39.9333,175.05,3,47,Mixed,5,12,3,52
+CT00046,Upper Kawhatau,Kiwitea,-40.10857,175.71552,1,7,Mixed,5,12,1,8
+CT00044,Upper Retaruke,Kaitieke,-39.10051591,175.2629136,0,11,Mixed,5,12,1,12
+CT00079,Upper Tutaenui,Rangitikei,-39.66667,175.75,3,39,Mixed,5,12,2,43
+CT00079,Utiku,Rangitikei,-39.66667,175.75,3,87,Mixed,5,12,3,97
+CT00076,Utuwai,Pohangina,-40.16666,175.7999968,2,23,Mixed,5,12,1,26
+CT00073,Waitotara,Patea,-39.7547982,174.4728191,3,42,Mixed,5,12,3,47
+CT00067,Waituna West,Oroua,-40.166667,175.583333,3,44,Mixed,5,12,2,49
+CT00079,Wangehu,Rangitikei,-39.66667,175.75,2,42,Mixed,5,12,1,47
+CT00043,Warrengate,Kairanga,-40.34807006,175.5318268,3,53,Mixed,5,12,3,59
+CT00067,Watershed Road,Oroua,-40.166667,175.583333,0,7,Mixed,5,12,1,8
+CT00073,Waverley,Patea,-39.7547982,174.4728191,4,138,Mixed,5,12,5,153
+CT00079,Western Rangitikei,Rangitikei,-39.66667,175.75,2,26,Mixed,5,12,1,29
+CT00116,Westmere,Waitotara,-39.805833,174.734444,3,77,Mixed,5,12,2,86
+CT00118,Whaka Road,Wanganui,-39.9333,175.05,1,17,Mixed,5,12,1,19
+CT00073,Whenuakura,Patea,-39.7547982,174.4728191,3,45,Mixed,5,12,3,50
+CT00118,Woodlands,Wanganui,-39.9333,175.05,1,16,Mixed,5,12,1,18
+BR00008,Blenheim (533) and Redwoodtown (side school) (47),Blenheim,-41.514,173.96,7,580,Mixed,5,12,13,644
+BR00012,Carterton District High Schhol Primary (269) Secondary (40),Carterton,-41.025,175.5275,5,309,Mixed,5,12,9,343
+BR00020,Eketahuna District High School Primary (166) Secondary (31),Eketahuna,-40.647,175.704,4,197,Mixed,5,18,6,219
+BR00022,Featherston,Featherston,-41.117,175.317,4,244,Mixed,5,12,7,271
+BR00030,Greytown District High School and side school primary (205) secondary (14) side school (13),Greytown,-41.08,175.461,5,232,Mixed,5,18,12,258
+BR00044,Hutt District High School Primary (509) secondary (41),Lower Hutt,-41.21667,174.91667,7,550,Mixed,5,18,20,611
+BR00043,Levin District High School Primary (545) secondary (28),Levin,-40.63333,175.275,7,573,Mixed,5,18,12,637
+BR00047,Masterton District High School Primary (617) Secondary (108) side school (149),Masterton,-40.95972,175.6575,7,874,Mixed,5,18,11,971
+BR00110,Berhampore Wellington,Wellington,-41.28664,174.77557,7,518,Mixed,5,12,17,576
+BR00110,Newtown,Wellington,-41.28664,174.77557,7,805,Mixed,5,12,12,894
+BR00110,South Wellington,Wellington,-41.28664,174.77557,7,752,Mixed,5,12,12,836
+BR00068,Otaki,Otaki,-40.75833,175.15,4,181,Mixed,5,12,6,201
+BR00070,Pahiatua District High School Primary (229) Secondary (32),Pahiatua,-40.45333,175.84083,5,261,Mixed,5,18,11,290
+BR00074,Petone District High School Primary (686) secondary (71),Petone,-41.22166578,174.8734632,7,757,Mixed,5,18,11,841
+BR00074,Petone West (323) and side school (169),Petone,-41.22166578,174.8734632,6,492,Mixed,5,12,11,547
+BR00075,Picton,Picton,-41.29067,174.00801,4,166,Mixed,5,12,4,184
+BR00087,Shannon,Shannon,-40.5472,175.4107,5,300,Mixed,5,12,10,333
+BR00110,Clyde Quay,Wellington,-41.28664,174.77557,7,643,Mixed,5,12,13,714
+BR00110,Island Bay,Wellington,-41.28664,174.77557,6,479,Mixed,5,12,14,532
+BR00110,Kilbirnie,Wellington,-41.28664,174.77557,5,374,Mixed,5,12,9,416
+BR00110,Lyall Bay,Wellington,-41.28664,174.77557,7,624,Mixed,5,12,20,693
+BR00110,Mount Cook Boys' (Wellington),Wellington,-41.28664,174.77557,5,338,Boys,5,12,11,376
+BR00110,Mount Cook Girls' (Wellington),Wellington,-41.28664,174.77557,5,293,Girls,5,12,8,326
+BR00110,Mount Cook Infants' (Wellington),Wellington,-41.28664,174.77557,5,324,Mixed,5,12,11,360
+BR00110,Roseneath (154) and Hataitai (side school) (146),Wellington,-41.28664,174.77557,5,300,Mixed,5,12,10,333
+BR00110,Te Aro Wellington (489) Mitchell-town (side-school) (150) and Te Aro Infants' (side school) (203),Wellington,-41.28664,174.77557,7,842,Mixed,5,12,18,936
+BR00120,Worser Bay (221) Seatoun (side school) (89) Miramar (side school) (63),Miramar,-41.3167,174.8167,5,373,Mixed,5,12,12,414
+BR00110,Brooklyn,Wellington,-41.28664,174.77557,7,683,Mixed,5,12,20,759
+BR00110,Kaiwarra,Wellington,-41.28664,174.77557,3,109,Mixed,5,12,2,121
+BR00119,Karori,Karori,-41.28512,174.73818,5,264,Mixed,5,12,7,293
+BR00118,Khandallah,Onslow,-41.2308,174.7969,3,115,Mixed,5,12,2,128
+BR00019,Muritai,Eastbourne,-41.3,174.9,4,170,Mixed,5,12,4,189
+BR00118,Ngaio,Onslow,-41.2308,174.7969,4,148,Mixed,5,12,5,164
+BR00118,Northland,Onslow,-41.2308,174.7969,4,176,Mixed,5,12,7,196
+BR00110,Terrace,Wellington,-41.28664,174.77557,7,598,Mixed,5,12,16,664
+BR00110,Wadestown,Wellington,-41.28664,174.77557,4,181,Mixed,5,12,6,201
+BR00110,Normal District High School and four model schools (at Training College) and Kelburn Infants' (side school) Normal Primary (303) Model Schools type i rural (27) type ii junior P-S2 (34) type iii Secondary (12) type v junior kindergarten (average not reckoned) children under 5 years of age; Kelburn Infants' side school (217),Wellington,-41.28664,174.77557,7,593,Mixed,5,18,17,659
+CT00007,Blind River,Awatere,-41.88419888,173.6366844,0,10,Mixed,5,12,1,11
+CT00056,Brancott,Marlborough,-41.514,173.96,0,2,Mixed,5,12,1,2
+CT00056,Canvastown,Marlborough,-41.514,173.96,3,52,Mixed,5,12,2,58
+CT00056,Carluke,Marlborough,-41.514,173.96,3,46,Mixed,5,12,2,51
+CT00056,Deep Creek,Marlborough,-41.514,173.96,3,42,Mixed,5,12,3,47
+CT00056,Dillon's Point,Marlborough,-41.514,173.96,1,15,Mixed,5,12,1,17
+CT00083,Eli Bay,Sounds,-41.1417,174.0894,1,8,Mixed,5,12,1,9
+CT00056,Fabian's Valley,Marlborough,-41.514,173.96,0,4,Mixed,5,12,1,4
+CT00056,Fairhall,Marlborough,-41.514,173.96,2,78,Mixed,5,12,1,87
+CT00056,Finnie's Creek,Marlborough,-41.514,173.96,0,7,Mixed,5,12,1,8
+CT00056,Flat Creek,Marlborough,-41.514,173.96,2,19,Mixed,5,12,1,21
+CT00083,Four-fathom Bay,Sounds,-41.1417,174.0894,0,5,Mixed,5,12,1,6
+CT00083,French Pass,Sounds,-41.1417,174.0894,1,14,Mixed,5,12,1,16
+CT00007,Grassmere,Awatere,-41.88419888,173.6366844,1,15,Mixed,5,12,1,17
+CT00056,Grovetown,Marlborough,-41.514,173.96,3,68,Mixed,5,12,3,76
+CT00083,Hakahaka,Sounds,-41.1417,174.0894,0,1,Mixed,5,12,1,1
+CT00056,Havelock,Marlborough,-41.514,173.96,3,79,Mixed,5,12,2,88
+CT00056,Hillersden,Marlborough,-41.514,173.96,1,17,Mixed,5,12,1,19
+CT00007,Jordan,Awatere,-41.88419888,173.6366844,0,6,Mixed,5,12,1,7
+CT00056,Kaituna,Marlborough,-41.514,173.96,1,16,Mixed,5,12,1,18
+CT00083,Kaiuma,Sounds,-41.1417,174.0894,1,13,Mixed,5,12,1,14
+CT00083,Kakapou Bay,Sounds,-41.1417,174.0894,0,3,Mixed,5,12,1,3
+CT00083,Koromiko,Sounds,-41.1417,174.0894,2,23,Mixed,5,12,1,26
+CT00083,Linkwater,Sounds,-41.1417,174.0894,2,17,Mixed,5,12,1,19
+CT00083,Maori Bay,Sounds,-41.1417,174.0894,0,4,Mixed,5,12,1,4
+CT00007,Marama,Awatere,-41.88419888,173.6366844,1,14,Mixed,5,12,1,16
+CT00083,Marathon,Sounds,-41.1417,174.0894,1,9,Mixed,5,12,1,10
+CT00056,Marlboroughtown,Marlborough,-41.514,173.96,3,69,Mixed,5,12,2,77
+CT00056,Marshlands,Marlborough,-41.514,173.96,2,28,Mixed,5,12,1,31
+CT00083,Nydia Bay,Sounds,-41.1417,174.0894,1,11,Mixed,5,12,1,12
+CT00083,Ocean Bay,Sounds,-41.1417,174.0894,3,45,Mixed,5,12,2,50
+CT00056,Okaramio,Marlborough,-41.514,173.96,2,29,Mixed,5,12,1,32
+CT00056,Omaka,Marlborough,-41.514,173.96,1,16,Mixed,5,12,1,18
+CT00056,Onamalutu,Marlborough,-41.514,173.96,1,17,Mixed,5,12,1,19
+CT00056,Opouri Valley,Marlborough,-41.514,173.96,1,11,Mixed,5,12,1,12
+CT00056,Pelorus Bridge,Marlborough,-41.514,173.96,2,27,Mixed,5,12,1,30
+CT00056,Rapaura,Marlborough,-41.514,173.96,3,43,Mixed,5,12,2,48
+CT00056,Renwick,Marlborough,-41.514,173.96,3,68,Mixed,5,12,3,76
+CT00056,Riverlands,Marlborough,-41.514,173.96,2,34,Mixed,5,12,1,38
+CT00083,Ronga Valley,Sounds,-41.1417,174.0894,1,14,Mixed,5,12,1,16
+CT00083,Saratoga Bay,Sounds,-41.1417,174.0894,1,8,Mixed,5,12,1,9
+CT00007,Sea View,Awatere,-41.88419888,173.6366844,1,12,Mixed,5,12,1,13
+CT00007,Seddon,Awatere,-41.88419888,173.6366844,3,63,Mixed,5,12,3,70
+CT00056,Springlands,Marlborough,-41.514,173.96,4,148,Mixed,5,12,6,164
+CT00083,Stephens Island,Sounds,-41.1417,174.0894,0,4,Mixed,5,12,1,4
+CT00083,Te Rou,Sounds,-41.1417,174.0894,1,11,Mixed,5,12,1,12
+CT00083,Titirangi,Sounds,-41.1417,174.0894,0,5,Mixed,5,12,1,6
+CT00056,Tuamarina,Marlborough,-41.514,173.96,3,61,Mixed,5,12,2,68
+CT00007,Ugbrooke,Awatere,-41.88419888,173.6366844,1,11,Mixed,5,12,1,12
+CT00007,Upton Downs,Awatere,-41.88419888,173.6366844,0,1,Mixed,5,12,1,1
+CT00056,Waikakaho,Marlborough,-41.514,173.96,0,5,Mixed,5,12,1,6
+CT00056,Wairau Bar,Marlborough,-41.514,173.96,1,14,Mixed,5,12,1,16
+CT00056,Wairau Pa,Marlborough,-41.514,173.96,1,13,Mixed,5,12,1,14
+CT00056,Wairau Valley,Marlborough,-41.514,173.96,2,29,Mixed,5,12,1,32
+CT00056,Waireka,Marlborough,-41.514,173.96,0,5,Mixed,5,12,1,6
+CT00056,Wantwood,Marlborough,-41.514,173.96,1,11,Mixed,5,12,1,12
+CT00007,Ward,Awatere,-41.88419888,173.6366844,3,63,Mixed,5,12,2,70
+CT00007,Wharanui,Awatere,-41.88419888,173.6366844,1,15,Mixed,5,12,1,17
+CT00056,Woodbank,Marlborough,-41.514,173.96,1,22,Mixed,5,12,1,24
+CT00110,Belvedere,Wairarapa South,-41.356,175.372,3,60,Mixed,5,12,3,67
+CT00110,Carrington,Wairarapa South,-41.356,175.372,2,22,Mixed,5,12,1,24
+CT00110,Clareville,Wairarapa South,-41.356,175.372,3,48,Mixed,5,12,3,53
+CT00110,Dalefield,Wairarapa South,-41.356,175.372,3,43,Mixed,5,12,3,48
+CT00110,East Taratahi,Wairarapa South,-41.356,175.372,2,21,Mixed,5,12,1,23
+CT00110,Longbush,Wairarapa South,-41.356,175.372,2,23,Mixed,5,12,1,26
+CT00110,Matarawa,Wairarapa South,-41.356,175.372,2,34,Mixed,5,12,1,38
+CT00110,Parkvale,Wairarapa South,-41.356,175.372,3,56,Mixed,5,12,2,62
+CT00110,Ponatahi,Wairarapa South,-41.356,175.372,1,21,Mixed,5,12,1,23
+CT00110,Waihakeke,Wairarapa South,-41.356,175.372,3,40,Mixed,5,12,2,44
+CT00022,Horoeka,Eketahuna,-40.6461889,175.7041691,1,26,Mixed,5,12,1,29
+CT00022,Waione,Eketahuna,-40.6461889,175.7041691,2,22,Mixed,5,12,1,24
+CT00022,Alfredton,Eketahuna,-40.6461889,175.7041691,2,21,Mixed,5,12,1,23
+CT00060,Hastwell,Mauriceville,-40.7749023,175.7017963,3,39,Mixed,5,12,2,43
+CT00022,Kaiparoro,Eketahuna,-40.6461889,175.7041691,2,32,Mixed,5,12,1,36
+CT00022,Mangamahoe,Eketahuna,-40.6461889,175.7041691,1,12,Mixed,5,12,1,13
+CT00070,Mangamaire,Pahiatua,-40.4596526,175.8349216,2,17,Mixed,5,12,1,19
+CT00022,Mangaone,Eketahuna,-40.6461889,175.7041691,1,17,Mixed,5,12,1,19
+CT00022,Newman,Eketahuna,-40.6461889,175.7041691,3,36,Mixed,5,12,2,40
+CT00022,Nireaha,Eketahuna,-40.6461889,175.7041691,3,70,Mixed,5,12,2,78
+CT00070,Putara,Pahiatua,-40.4596526,175.8349216,1,16,Mixed,5,12,1,18
+CT00022,Rongokokako,Eketahuna,-40.6461889,175.7041691,3,38,Mixed,5,12,2,42
+CT00022,Rongomai,Eketahuna,-40.6461889,175.7041691,2,22,Mixed,5,12,1,24
+CT00022,Saunders Road,Eketahuna,-40.6461889,175.7041691,1,19,Mixed,5,12,1,21
+CT00022,Tane,Eketahuna,-40.6461889,175.7041691,1,17,Mixed,5,12,1,19
+CT00022,Waihoki Valley,Eketahuna,-40.6461889,175.7041691,0,7,Mixed,5,12,1,8
+CT00026,Cross Creek,Featherston,-41.11687066,175.3257958,3,37,Mixed,5,12,2,41
+CT00026,Kahautara,Featherston,-41.11687066,175.3257958,2,31,Mixed,5,12,1,34
+CT00026,Kaiwaiwai,Featherston,-41.11687066,175.3257958,3,47,Mixed,5,12,3,52
+CT00026,Pirinoa,Featherston,-41.11687066,175.3257958,2,33,Mixed,5,12,1,37
+CT00026,South Featherston,Featherston,-41.11687066,175.3257958,3,76,Mixed,5,12,3,84
+CT00026,Tauherenikau,Featherston,-41.11687066,175.3257958,2,34,Mixed,5,12,1,38
+CT00026,Wairongomai,Featherston,-41.11687066,175.3257958,1,18,Mixed,5,12,1,20
+CT00057,Bideford,Masterton,-40.9666628,175.6499974,2,21,Mixed,5,12,1,23
+CT00110,Kaitara,Wairarapa South,-41.356,175.372,2,17,Mixed,5,12,1,19
+CT00039,Eastern Hutt,Hutt,-41.209164,174.908051,5,325,Mixed,5,12,12,361
+CT00039,Epuni,Hutt,-41.209164,174.908051,3,66,Mixed,5,12,2,73
+CT00039,Taita,Hutt,-41.209164,174.908051,3,103,Mixed,5,12,2,114
+CT00038,Koputaroa (82) and side school (25),Horowhenua,-40.57733,175.38071,3,107,Mixed,5,12,2,119
+CT00038,Manakau,Horowhenua,-40.57733,175.38071,3,86,Mixed,5,12,3,96
+CT00038,Muhunoa East,Horowhenua,-40.57733,175.38071,1,16,Mixed,5,12,1,18
+CT00038,Ohau,Horowhenua,-40.57733,175.38071,3,111,Mixed,5,12,2,123
+CT00110,Dyer,Wairarapa South,-41.356,175.372,2,36,Mixed,5,12,1,40
+CT00110,Martinborough,Wairarapa South,-41.356,175.372,4,225,Mixed,5,12,4,250
+CT00110,Pukenui,Wairarapa South,-41.356,175.372,1,11,Mixed,5,12,1,12
+CT00110,Tablelands,Wairarapa South,-41.356,175.372,1,9,Mixed,5,12,1,10
+CT00060,Dreyers Rock,Mauriceville,-40.7749023,175.7017963,1,14,Mixed,5,12,1,16
+CT00057,Fernridge,Masterton,-40.9666628,175.6499974,3,94,Mixed,5,12,3,104
+CT00110,Gladstone,Wairarapa South,-41.356,175.372,3,38,Mixed,5,12,2,42
+CT00060,Ihuraua,Mauriceville,-40.7749023,175.7017963,2,23,Mixed,5,12,1,26
+CT00057,Kopuaranga,Masterton,-40.9666628,175.6499974,2,26,Mixed,5,12,1,29
+CT00057,Lansdowne,Masterton,-40.9666628,175.6499974,5,341,Mixed,5,12,10,379
+CT00011,Mangapakeha,Castlepoint,-40.9,176.21667,0,9,Mixed,5,12,1,10
+CT00057,Matahiwi,Masterton,-40.9666628,175.6499974,2,22,Mixed,5,12,1,24
+CT00060,Mauriceville,Mauriceville,-40.7749023,175.7017963,3,34,Mixed,5,12,2,38
+CT00060,Mauriceville West,Mauriceville,-40.7749023,175.7017963,3,43,Mixed,5,12,2,48
+CT00057,Mikimiki,Masterton,-40.9666628,175.6499974,2,21,Mixed,5,12,1,23
+CT00057,Opaki,Masterton,-40.9666628,175.6499974,2,21,Mixed,5,12,1,23
+CT00057,Poroporo,Masterton,-40.9666628,175.6499974,1,16,Mixed,5,12,1,18
+CT00057,Rangitumau,Masterton,-40.9666628,175.6499974,1,19,Mixed,5,12,1,21
+CT00057,Solway,Masterton,-40.9666628,175.6499974,3,43,Mixed,5,12,2,48
+CT00110,Taratahi,Wairarapa South,-41.356,175.372,2,26,Mixed,5,12,1,29
+CT00057,Taueru,Masterton,-40.9666628,175.6499974,2,12,Mixed,5,12,1,13
+CT00057,Te Ore Ore,Masterton,-40.9666628,175.6499974,3,50,Mixed,5,12,2,56
+CT00057,Te Wharau,Masterton,-40.9666628,175.6499974,1,9,Mixed,5,12,1,10
+CT00057,Te Whiti,Masterton,-40.9666628,175.6499974,1,11,Mixed,5,12,1,12
+CT00057,Waingawa,Masterton,-40.9666628,175.6499974,2,36,Mixed,5,12,1,40
+CT00011,Whareama,Castlepoint,-40.9,176.21667,3,32,Mixed,5,12,2,36
+CT00039,Reikorangi,Hutt,-41.209164,174.908051,2,34,Mixed,5,12,1,38
+CT00038,Te Horo,Horowhenua,-40.57733,175.38071,3,91,Mixed,5,12,2,101
+CT00038,Waihoanga,Horowhenua,-40.57733,175.38071,2,24,Mixed,5,12,1,27
+CT00002,Akitio,Akitio,-40.6,176.417,1,8,Mixed,5,12,1,9
+CT00070,Ballance,Pahiatua,-40.4596526,175.8349216,3,44,Mixed,5,12,3,49
+CT00022,Hamua,Eketahuna,-40.6461889,175.7041691,3,44,Mixed,5,12,2,49
+CT00070,Hinemoa,Pahiatua,-40.4596526,175.8349216,0,10,Mixed,5,12,1,11
+CT00022,Hukanui,Eketahuna,-40.6461889,175.7041691,3,45,Mixed,5,12,2,50
+CT00070,Kaitawa,Pahiatua,-40.4596526,175.8349216,2,19,Mixed,5,12,1,21
+CT00070,Kakariki,Pahiatua,-40.4596526,175.8349216,2,27,Mixed,5,12,1,30
+CT00070,Kohiku,Pahiatua,-40.4596526,175.8349216,0,6,Mixed,5,12,1,7
+CT00070,Kohinui,Pahiatua,-40.4596526,175.8349216,1,15,Mixed,5,12,1,17
+CT00070,Konini,Pahiatua,-40.4596526,175.8349216,3,62,Mixed,5,12,2,69
+CT00070,Korora (14) and Pukehinau (19),Pahiatua,-40.4596526,175.8349216,2,33,Mixed,5,12,1,37
+CT00070,Makairo,Pahiatua,-40.4596526,175.8349216,1,14,Mixed,5,12,1,16
+CT00070,Makomako,Pahiatua,-40.4596526,175.8349216,2,23,Mixed,5,12,1,26
+CT00070,Maku,Pahiatua,-40.4596526,175.8349216,1,14,Mixed,5,12,1,16
+CT00070,Makuri,Pahiatua,-40.4596526,175.8349216,2,29,Mixed,5,12,1,32
+CT00070,Maungahao,Pahiatua,-40.4596526,175.8349216,1,15,Mixed,5,12,1,17
+CT00070,Mangarama,Pahiatua,-40.4596526,175.8349216,2,17,Mixed,5,12,1,19
+CT00070,Mangatainoka,Pahiatua,-40.4596526,175.8349216,3,94,Mixed,5,12,3,104
+CT00070,Marima,Pahiatua,-40.4596526,175.8349216,1,18,Mixed,5,12,1,20
+CT00070,Ngaturi,Pahiatua,-40.4596526,175.8349216,1,16,Mixed,5,12,1,18
+CT00070,Nikau,Pahiatua,-40.4596526,175.8349216,1,10,Mixed,5,12,1,11
+CT00002,Pongaroa,Akitio,-40.6,176.417,3,61,Mixed,5,12,2,68
+CT00070,Puketoi,Pahiatua,-40.4596526,175.8349216,1,23,Mixed,5,12,1,26
+CT00002,Rakaunui,Akitio,-40.6,176.417,1,20,Mixed,5,12,1,22
+CT00070,Ruawhata,Pahiatua,-40.4596526,175.8349216,2,23,Mixed,5,12,1,26
+CT00070,Scarborough,Pahiatua,-40.4596526,175.8349216,3,66,Mixed,5,12,2,73
+CT00038,Tokomaru,Horowhenua,-40.57733,175.38071,4,116,Mixed,5,12,6,129
+CT00083,Black Rock,Sounds,-41.1417,174.0894,0,6,Mixed,5,12,1,7
+CT00083,Coniston,Sounds,-41.1417,174.0894,0,8,Mixed,5,12,1,9
+CT00083,Endeavour Inlet,Sounds,-41.1417,174.0894,1,9,Mixed,5,12,1,10
+CT00083,Fitzroy Bay,Sounds,-41.1417,174.0894,0,2,Mixed,5,12,1,2
+CT00056,Havelock Surburban,Marlborough,-41.514,173.96,1,13,Mixed,5,12,1,14
+CT00083,Hitaua,Sounds,-41.1417,174.0894,0,4,Mixed,5,12,1,4
+CT00083,Hurituni,Sounds,-41.1417,174.0894,0,6,Mixed,5,12,1,7
+CT00056,Manaroa,Marlborough,-41.514,173.96,0,4,Mixed,5,12,1,4
+CT00083,Maude Island,Sounds,-41.1417,174.0894,0,6,Mixed,5,12,1,7
+CT00083,Nopera Bay,Sounds,-41.1417,174.0894,1,14,Mixed,5,12,1,16
+CT00083,Ohana,Sounds,-41.1417,174.0894,0,3,Mixed,5,12,1,3
+CT00083,Onauku,Sounds,-41.1417,174.0894,1,10,Mixed,5,12,1,11
+CT00083,Resolution Bay,Sounds,-41.1417,174.0894,0,9,Mixed,5,12,1,10
+CT00083,Rocks,Sounds,-41.1417,174.0894,0,2,Mixed,5,12,1,2
+CT00083,Te Weka,Sounds,-41.1417,174.0894,1,11,Mixed,5,12,1,12
+CT00083,Tira Ora,Sounds,-41.1417,174.0894,0,6,Mixed,5,12,1,7
+CT00083,Waikawa Pah,Sounds,-41.1417,174.0894,2,25,Mixed,5,12,1,28
+CT00083,Waitaria,Sounds,-41.1417,174.0894,1,13,Mixed,5,12,1,14
+CT00083,Whareatea Bay,Sounds,-41.1417,174.0894,1,10,Mixed,5,12,1,11
+CT00083,Wharehunga,Sounds,-41.1417,174.0894,0,2,Mixed,5,12,1,2
+CT00002,Akaroa Road,Akitio,-40.6,176.417,1,9,Mixed,5,12,1,10
+CT00083,Bulwer,Sounds,-41.1417,174.0894,0,7,Mixed,5,12,1,8
+CT00011,Castlepoint,Castlepoint,-40.9,176.21667,1,14,Mixed,5,12,1,16
+CT00083,Catherine's Cove,Sounds,-41.1417,174.0894,0,3,Mixed,5,12,1,3
+CT00039,Judgeford,Hutt,-41.209164,174.908051,1,12,Mixed,5,12,1,13
+CT00039,Kaitoke,Hutt,-41.209164,174.908051,1,12,Mixed,5,12,1,13
+CT00039,Karapoti,Hutt,-41.209164,174.908051,1,17,Mixed,5,12,1,19
+CT00039,Korokoro North,Hutt,-41.209164,174.908051,3,55,Mixed,5,12,3,61
+CT00051,Makara,Makara,-41.2512123,174.7136094,1,11,Mixed,5,12,1,12
+CT00038,Makerua,Horowhenua,-40.57733,175.38071,2,20,Mixed,5,12,1,22
+CT00039,Mangaroa,Hutt,-41.209164,174.908051,2,29,Mixed,5,12,1,32
+CT00083,Ngamuka,Sounds,-41.1417,174.0894,0,2,Mixed,5,12,1,2
+CT00039,Normandale,Hutt,-41.209164,174.908051,2,23,Mixed,5,12,1,26
+CT00051,Ohariu,Makara,-41.2512123,174.7136094,3,44,Mixed,5,12,2,49
+CT00039,Paekakariki,Hutt,-41.209164,174.908051,3,56,Mixed,5,12,3,62
+CT00051,Pahautanui,Makara,-41.2512123,174.7136094,3,32,Mixed,5,12,3,36
+CT00039,Paraparaumu,Hutt,-41.209164,174.908051,3,79,Mixed,5,12,2,88
+CT00039,Plimmerton,Hutt,-41.209164,174.908051,3,57,Mixed,5,12,2,63
+CT00051,Porirua,Makara,-41.2512123,174.7136094,3,102,Mixed,5,12,2,113
+CT00083,Pukatea Bay,Sounds,-41.1417,174.0894,0,9,Mixed,5,12,1,10
+CT00083,St. Lawerence,Sounds,-41.1417,174.0894,0,8,Mixed,5,12,1,9
+CT00026,Spring Grove,Featherston,-41.11687066,175.3257958,0,4,Mixed,5,12,1,4
+CT00039,Stokes Valley,Hutt,-41.209164,174.908051,1,10,Mixed,5,12,1,11
+CT00051,Takapu,Makara,-41.2512123,174.7136094,1,8,Mixed,5,12,1,9
+CT00051,Tawa Flat,Makara,-41.2512123,174.7136094,2,26,Mixed,5,12,1,29
+CT00039,Te Marua,Hutt,-41.209164,174.908051,3,43,Mixed,5,12,3,48
+CT00039,Upper Hutt,Hutt,-41.209164,174.908051,5,342,Mixed,5,12,7,380
+CT00038,Waikanae,Horowhenua,-40.57733,175.38071,3,65,Mixed,5,12,2,72
+CT00083,Waikawa Bay,Sounds,-41.1417,174.0894,0,5,Mixed,5,12,1,6
+CT00039,Wainuiomata,Hutt,-41.209164,174.908051,2,27,Mixed,5,12,1,30
+CT00083,Waitai,Sounds,-41.1417,174.0894,0,2,Mixed,5,12,1,2
+CT00039,Wallaceville,Hutt,-41.209164,174.908051,1,18,Mixed,5,12,1,20
+CT00039,Whiteman's Valley,Hutt,-41.209164,174.908051,1,23,Mixed,5,12,1,26
+BR00005,Bayfield,Auckland,-36.86667,174.76667,7,660,Mixed,5,12,12,733
+BR00005,Beresford Street Auckland,Auckland,-36.86667,174.76667,7,587,Mixed,5,12,11,652
+BR00011,Cambridge District High School Primary (310) Secondary (23),Cambridge,-37.87822,175.4402,5,333,Mixed,5,18,11,370
+BR00016,Dargaville,Dargaville,-35.93833,173.87167,5,272,Mixed,5,12,10,302
+BR00017,Devonport,Devonport,-36.831667,174.796278,7,788,Mixed,5,12,11,876
+BR00005,Grafton,Auckland,-36.86667,174.76667,7,606,Mixed,5,12,11,673
+BR00005,Grey Lynn,Auckland,-36.86667,174.76667,7,669,Mixed,5,12,12,743
+BR00031,Hamilton East,Hamilton,-37.783,175.283,6,504,Mixed,5,12,13,560
+BR00031,Hamilton West,Hamilton,-37.783,175.283,7,649,Mixed,5,12,15,721
+BR00054,Maungawhau,Mount Eden,-36.88158,174.76204,7,698,Mixed,5,12,13,776
+BR00050,Morrinsville,Morrinsville,-37.65,175.517,5,261,Mixed,5,12,9,290
+BR00053,Mount Albert,Mount Albert,-36.884,174.716,7,660,Mixed,5,12,14,733
+BR00054,Mount Eden,Mount Eden,-36.88158,174.76204,7,856,Mixed,5,12,19,951
+BR00005,Napier Street Auckland,Auckland,-36.86667,174.76667,7,608,Mixed,5,12,13,676
+BR00005,Nelson Street Auckland,Auckland,-36.86667,174.76667,7,446,Mixed,5,12,14,496
+BR00060,Newmarket,Newmarket,-36.869862,174.777578,6,481,Mixed,5,12,18,534
+BR00005,Newton East,Auckland,-36.86667,174.76667,7,801,Mixed,5,12,20,890
+BR00005,Newton West,Auckland,-36.86667,174.76667,7,681,Mixed,5,12,14,757
+BR00061,Ngaruawahia,Ngaruawahia,-37.66738,175.15554,5,288,Mixed,5,12,11,320
+BR00062,Northcote (517) and Side School (92),Northcote,-36.805,174.744,7,609,Mixed,5,12,17,677
+BR00065,Onehunga,Onehunga,-36.9223,174.7838,7,722,Mixed,5,12,18,802
+BR00066,Opotiki,Opotiki,-38.00915,177.28706,4,231,Mixed,5,12,7,257
+BR00067,Otahuhu,Otahuhu,-36.9382,174.84019,6,506,Mixed,5,12,11,562
+BR00069,Paeroa District High School - Primary (347) Secondary (18),Paeroa,-37.36667,175.66667,5,365,Mixed,5,18,9,406
+BR00005,Parnell,Auckland,-36.86667,174.76667,7,614,Mixed,5,12,16,682
+BR00005,Ponsonby,Auckland,-36.86667,174.76667,7,697,Mixed,5,12,11,774
+BR00077,Pukekohe District High School Primary (302) Secondary (61),Pukekohe,-37.2,174.95,52,363,Mixed,5,18,NA,403
+BR00005,Remuera,Auckland,-36.86667,174.76667,7,658,Mixed,5,12,19,731
+BR00005,Richmond Road Auckland,Auckland,-36.86667,174.76667,7,725,Mixed,5,12,14,806
+BR00005,Richmond West,Auckland,-36.86667,174.76667,4,215,Mixed,5,12,6,239
+BR00084,Rotorua District High School Primary (344) secondary (19),Rotorua,-38.13874,176.24516,5,363,Mixed,5,18,9,403
+BR00092,Takapuna,Takapuna,-36.787,174.772,5,299,Mixed,5,12,8,332
+BR00095,Tauranga District High School Primary (349) Secondary (53),Tauranga,-37.68611,176.16667,5,402,Mixed,5,18,11,447
+BR00096,Te Aroha,Te Aroha,-37.533,175.717,5,253,Mixed,5,12,7,281
+BR00097,Te Awamutu,Te Awamutu,-38.00822,175.3302,4,235,Mixed,5,12,7,261
+BR00098,Te Kuiti District High School Primary (417) Secondary (41),Te Kuiti,-38.332983,175.163456,6,458,Mixed,5,18,13,509
+BR00100,Thames Central,Thames,-37.138389,175.5405,6,475,Mixed,5,12,11,528
+BR00100,Thames South,Thames,-37.138389,175.5405,5,326,Mixed,5,12,8,362
+BR00102,Waihi District High School Primary (352) Secondary (49),Waihi,-37.3833,175.833,6,401,Mixed,5,18,20,446
+BR00102,Waihi East,Waihi,-37.3833,175.833,5,215,Mixed,5,12,9,239
+BR00102,Waihi South,Waihi,-37.3833,175.833,5,249,Mixed,5,12,7,277
+BR00113,Whakatane,Whakatane,-37.9585,176.985,4,253,Mixed,5,12,6,281
+BR00114,Whangarei,Whangarei,-35.73167,174.32391,6,462,Mixed,5,12,11,513
+BR00005,Normal District High School and five model schools at training college - Normal Primary (353) Model Schools etc.,Auckland,-36.86667,174.76667,6,453,Mixed,5,18,16,503
+CT00080,Ahuroa Nos 1 (7) and 2 (9),Rodney,-36.539,174.528,1,16,Mixed,5,12,1,18
+CT00028,Aka Aka,Franklin,-37.201744,174.90514,3,53,Mixed,5,12,2,59
+CT00114,Albany,Waitemata,-36.75,174.67,3,39,Mixed,5,12,2,43
+CT00080,Albertland North (14) and Hoteo North (20),Rodney,-36.539,174.528,2,34,Mixed,5,12,1,38
+CT00106,Alexandra,Waipa,-37.986,175.421,3,85,Mixed,5,12,2,94
+CT00055,Alfriston,Manukau,-36.99282,174.87986,3,39,Mixed,5,12,2,43
+CT00017,Amodeo Bay Nos. 1 (9) and 2 (8),Coromandel,-36.761287,175.4981278,1,17,Mixed,5,12,1,19
+CT00036,Aoroa,Hobson,-35.9396,173.8726,3,50,Mixed,5,12,3,56
+CT00037,Aranga,Hokianga,-35.5258,173.3786,2,11,Mixed,5,12,1,12
+CT00008,Arapae,Bay of Islands,-35.2,174.166667,1,14,Mixed,5,12,1,16
+CT00037,Araparara (10) and Mangakura (9),Hokianga,-35.5258,173.3786,2,19,Mixed,5,12,1,21
+CT00036,Arapohue,Hobson,-35.9396,173.8726,3,58,Mixed,5,12,2,64
+CT00028,Ararimu (11) and Paparimu (12),Franklin,-37.201744,174.90514,1,23,Mixed,5,12,1,26
+CT00068,Ararua,Otamatea,-36.09833,174.23944,2,30,Mixed,5,12,1,33
+CT00036,Aratapu District High School Primary (100) Secondary (23),Hobson,-35.9396,173.8726,4,123,Mixed,5,18,5,137
+CT00115,Aratoro,Waitomo,-38.2615305,175.1145451,2,21,Mixed,5,12,1,23
+CT00055,Ardmore,Manukau,-36.99282,174.87986,3,46,Mixed,5,12,3,51
+CT00115,Aria,Waitomo,-38.2615305,175.1145451,2,21,Mixed,5,12,1,23
+CT00064,Avoca,Ohinemuri,-37.379448,175.669424,2,27,Mixed,5,12,1,30
+CT00020,Avondale (475) and side school (32),Eden,-36.88158,174.76204,7,507,Mixed,5,12,19,563
+CT00122,Awakeri,Whakatane,-37.95855,176.98545,2,19,Mixed,5,12,1,21
+CT00008,Awaroa (10) and Matira (8),Bay of Islands,-35.2,174.166667,1,18,Mixed,5,12,1,20
+CT00028,Awitu Central,Franklin,-37.201744,174.90514,2,20,Mixed,5,12,1,22
+CT00028,Awitu No. 2,Franklin,-37.201744,174.90514,1,13,Mixed,5,12,1,14
+CT00114,Belmont,Waitemata,-36.75,174.67,4,213,Mixed,5,12,5,237
+CT00068,Bickerstaffe,Otamatea,-36.09833,174.23944,1,19,Mixed,5,12,1,21
+CT00114,Birkdale,Waitemata,-36.75,174.67,3,100,Mixed,5,12,3,111
+CT00028,Bombay,Franklin,-37.201744,174.90514,3,100,Mixed,5,12,3,111
+CT00124,Bream Tail (5) and Waipu Cove (18),Whangarei,-35.73167,174.32391,2,23,Mixed,5,12,1,26
+CT00080,Brighams Creek,Rodney,-36.539,174.528,2,32,Mixed,5,12,1,36
+CT00037,Broadwood,Hokianga,-35.5258,173.3786,2,24,Mixed,5,12,1,27
+CT00055,Brookby,Manukau,-36.99282,174.87986,1,19,Mixed,5,12,1,21
+CT00124,Brynavon (12) and Whareora (11),Whangarei,-35.73167,174.32391,1,23,Mixed,5,12,1,26
+CT00068,Brynderwyn,Otamatea,-36.09833,174.23944,2,21,Mixed,5,12,1,23
+CT00028,Buckland,Franklin,-37.201744,174.90514,3,79,Mixed,5,12,2,88
+CT00017,Cabbage Bay,Coromandel,-36.761287,175.4981278,3,40,Mixed,5,12,3,44
+CT00106,Cambridge Road,Waipa,-37.986,175.421,1,15,Mixed,5,12,1,17
+CT00106,Cambridge West,Waipa,-37.986,175.421,3,106,Mixed,5,12,2,118
+CT00017,Cape Colvillw,Coromandel,-36.761287,175.4981278,0,6,Mixed,5,12,1,7
+CT00077,Churchill,Raglan,-37.79931138,174.8783946,1,18,Mixed,5,12,1,20
+CT00055,Clevedon,Manukau,-36.99282,174.87986,3,72,Mixed,5,12,2,80
+CT00017,Coromandel District High School Primary (148) Secondary (17),Coromandel,-36.761287,175.4981278,4,165,Mixed,5,18,7,183
+CT00080,Dacre's (19) and Tawharanui (16),Rodney,-36.539,174.528,2,35,Mixed,5,12,1,39
+CT00114,Dairy Flat (19) and Fernilea (9),Waitemata,-36.75,174.67,2,28,Mixed,5,12,1,31
+CT00080,Dome Valley,Rodney,-36.539,174.528,3,29,Mixed,5,12,2,32
+CT00028,Drury,Franklin,-37.201744,174.90514,3,55,Mixed,5,12,3,61
+CT00055,East Tamaki,Manukau,-36.99282,174.87986,3,38,Mixed,5,12,3,42
+CT00020,Edendale,Eden,-36.88158,174.76204,7,699,Mixed,5,12,18,777
+CT00020,Epsom,Eden,-36.88158,174.76204,7,563,Mixed,5,12,18,626
+CT00098,Eureka,Waikato,-37.6190862,175.023346,3,47,Mixed,5,12,2,52
+CT00061,Fariburn's Road,Mongonui,-34.9940621,173.5289181,1,19,Mixed,5,12,1,21
+CT00055,Flat Bush,Manukau,-36.99282,174.87986,2,32,Mixed,5,12,1,36
+CT00106,Frankton,Waipa,-37.986,175.421,5,309,Mixed,5,12,10,343
+CT00124,Glenbervie,Whangarei,-35.73167,174.32391,2,24,Mixed,5,12,1,27
+CT00028,Glenbrook,Franklin,-37.201744,174.90514,3,46,Mixed,5,12,2,51
+CT00114,Glenfield,Waitemata,-36.75,174.67,3,54,Mixed,5,12,2,60
+CT00077,Glen Massey,Raglan,-37.79931138,174.8783946,3,60,Mixed,5,12,3,67
+CT00077,Glen Murray (12) and Opouatia (17),Raglan,-37.79931138,174.8783946,2,29,Mixed,5,12,1,32
+CT00075,Goodwood,Piako,-37.68545,175.67254,3,44,Mixed,5,12,2,49
+CT00075,Gordon,Piako,-37.68545,175.67254,1,25,Mixed,5,12,1,28
+CT00098,Gordonton,Waikato,-37.6190862,175.023346,3,62,Mixed,5,12,2,69
+CT00092,Graham's Fern,Thames,-37.13633279,175.5358312,3,21,Mixed,5,12,2,23
+CT00114,Great Barrier (7) and Katherine Bay (17),Waitemata,-36.75,174.67,2,24,Mixed,5,12,1,27
+CT00114,Greenhithe (12) and Long Bay (11),Waitemata,-36.75,174.67,2,23,Mixed,5,12,1,26
+CT00090,Greerton,Tauranga,-37.68611,176.16667,3,39,Mixed,5,12,2,43
+CT00092,Gumtown (11) and Whenuakite (10),Thames,-37.13633279,175.5358312,1,21,Mixed,5,12,1,23
+CT00068,Hakaru (14) and Tara Road (17),Otamatea,-36.09833,174.23944,3,31,Mixed,5,12,2,34
+CT00115,Hangatiki,Waitomo,-38.2615305,175.1145451,3,84,Mixed,5,12,2,93
+CT00028,Harrisville,Franklin,-37.201744,174.90514,3,84,Mixed,5,12,3,93
+CT00098,Hautapu,Waikato,-37.6190862,175.023346,3,57,Mixed,5,12,2,63
+CT00124,Helena Bay,Whangarei,-35.73167,174.32391,1,15,Mixed,5,12,1,17
+CT00080,Helensville,Rodney,-36.539,174.528,4,180,Mixed,5,12,6,200
+CT00114,Henderson,Waitemata,-36.75,174.67,4,176,Mixed,5,12,7,196
+CT00114,Henderson Valley,Waitemata,-36.75,174.67,1,17,Mixed,5,12,1,19
+CT00037,Herekino,Hokianga,-35.5258,173.3786,3,45,Mixed,5,12,2,50
+CT00092,Hikuai,Thames,-37.13633279,175.5358312,2,22,Mixed,5,12,1,24
+CT00124,Hikurangi,Whangarei,-35.73167,174.32391,4,179,Mixed,5,12,4,199
+CT00064,Hikutaia,Ohinemuri,-37.379448,175.669424,3,64,Mixed,5,12,2,71
+CT00059,Hinuera,Matamata,-37.8106,175.76237,3,41,Mixed,5,12,2,46
+CT00114,Hobsonville,Waitemata,-36.75,174.67,3,53,Mixed,5,12,2,59
+CT00115,Honikiwi,Waitomo,-38.2615305,175.1145451,2,24,Mixed,5,12,1,27
+CT00098,Hora Hora,Waikato,-37.6190862,175.023346,4,196,Mixed,5,12,5,218
+CT00098,Hora Hora Rapids,Waikato,-37.6190862,175.023346,0,8,Mixed,5,12,1,9
+CT00125,Hore Hore,Whangaroa,-35.05205502,173.7434618,2,22,Mixed,5,12,1,24
+CT00106,Horotiu,Waipa,-37.986,175.421,3,74,Mixed,5,12,2,82
+CT00098,Horsham Downs,Waikato,-37.6190862,175.023346,2,21,Mixed,5,12,1,23
+CT00061,Houhora,Mongonui,-34.9940621,173.5289181,2,29,Mixed,5,12,1,32
+CT00036,Houto (12) and Parakao (11),Hobson,-35.9396,173.8726,3,23,Mixed,5,12,2,26
+CT00055,Howick,Manukau,-36.99282,174.87986,3,55,Mixed,5,12,3,61
+CT00036,Huarau,Hobson,-35.9396,173.8726,3,24,Mixed,5,12,2,27
+CT00020,Huia,Eden,-36.88158,174.76204,1,8,Mixed,5,12,1,9
+CT00068,Hukatere,Otamatea,-36.09833,174.23944,2,29,Mixed,5,12,1,32
+CT00124,Hukerenui South,Whangarei,-35.73167,174.32391,3,55,Mixed,5,12,2,61
+CT00098,Huntly District High School Primary (338) secondary (14),Waikato,-37.6190862,175.023346,5,352,Mixed,5,18,8,391
+CT00028,Hunua,Franklin,-37.201744,174.90514,3,36,Mixed,5,12,2,40
+CT00028,Jordan (10) and Miranda (9),Franklin,-37.201744,174.90514,2,27,Mixed,5,12,1,30
+CT00115,Kaeaca (14) and Rira (17),Waitomo,-38.2615305,175.1145451,3,31,Mixed,5,12,3,34
+CT00125,Kaeo,Whangaroa,-35.05205502,173.7434618,3,70,Mixed,5,12,2,78
+CT00028,Kaiawa (12) and Miranda (9),Franklin,-37.201744,174.90514,1,21,Mixed,5,12,1,23
+CT00098,Kaihere,Waikato,-37.6190862,175.023346,3,37,Mixed,5,12,2,41
+CT00036,Kaihu,Hobson,-35.9396,173.8726,3,75,Mixed,5,12,2,83
+CT00008,Kaikohe,Bay of Islands,-35.2,174.166667,3,75,Mixed,5,12,2,83
+CT00036,Kaimamaku,Hobson,-35.9396,173.8726,1,14,Mixed,5,12,1,16
+CT00019,Kaimanawa,East Taupo,-38.68333,176.08333,2,25,Mixed,5,12,1,28
+CT00080,Kaipara Flats,Rodney,-36.539,174.528,2,28,Mixed,5,12,1,31
+CT00061,Kaitaia,Mongonui,-34.9940621,173.5289181,3,72,Mixed,5,12,2,80
+CT00068,Kaiwaka,Otamatea,-36.09833,174.23944,2,17,Mixed,5,12,1,19
+CT00124,Kamo,Whangarei,-35.73167,174.32391,3,113,Mixed,5,12,3,126
+CT00124,Kara (11) and Kokupu (19),Whangarei,-35.73167,174.32391,2,30,Mixed,5,12,1,33
+CT00028,Karaka,Franklin,-37.201744,174.90514,2,40,Mixed,5,12,1,44
+CT00077,Karamu,Raglan,-37.79931138,174.8783946,2,18,Mixed,5,12,1,20
+CT00064,Karangahake,Ohinemuri,-37.379448,175.669424,5,202,Mixed,5,12,10,224
+CT00028,Kariaotahi,Franklin,-37.201744,174.90514,3,43,Mixed,5,12,2,48
+CT00090,Katikati No.1,Tauranga,-37.68611,176.16667,1,17,Mixed,5,12,1,19
+CT00090,Katikati No.2,Tauranga,-37.68611,176.16667,3,40,Mixed,5,12,2,44
+CT00090,Katikati No.3,Tauranga,-37.68611,176.16667,2,21,Mixed,5,12,1,23
+CT00092,Kauaeranga Valley,Thames,-37.13633279,175.5358312,1,15,Mixed,5,12,1,17
+CT00114,Kaukapakapa,Waitemata,-36.75,174.67,3,47,Mixed,5,12,2,52
+CT00124,Kaurihohore,Whangarei,-35.73167,174.32391,2,14,Mixed,5,12,1,16
+CT00106,Kawa No.1 (13) and Kawa No.2 (20),Waipa,-37.986,175.421,1,33,Mixed,5,12,1,37
+CT00008,Kawakawa,Bay of Islands,-35.2,174.166667,3,67,Mixed,5,12,2,74
+CT00045,Kawhia,Kawhia,-38.06504443,174.8200746,3,50,Mixed,5,12,2,56
+CT00017,Kennedy Bay,Coromandel,-36.761287,175.4981278,2,34,Mixed,5,12,1,38
+CT00092,Kerepehi,Thames,-37.13633279,175.5358312,2,25,Mixed,5,12,1,28
+CT00017,Kereta (11) and Waikaway (10),Coromandel,-36.761287,175.4981278,3,21,Mixed,5,12,2,23
+CT00008,Kerikeri,Bay of Islands,-35.2,174.166667,2,15,Mixed,5,12,1,17
+CT00008,Kerikeri Inlet,Bay of Islands,-35.2,174.166667,1,11,Mixed,5,12,1,12
+CT00106,Kihikihi,Waipa,-37.986,175.421,3,71,Mixed,5,12,2,79
+CT00098,Kimihia,Waikato,-37.6190862,175.023346,2,27,Mixed,5,12,1,30
+CT00115,Kinohaku No.1,Waitomo,-38.2615305,175.1145451,1,16,Mixed,5,12,1,18
+CT00115,Kinohaku No.2,Waitomo,-38.2615305,175.1145451,2,26,Mixed,5,12,1,29
+CT00115,Kiokio,Waitomo,-38.2615305,175.1145451,3,56,Mixed,5,12,2,62
+CT00036,Kirikopuni,Hobson,-35.9396,173.8726,1,17,Mixed,5,12,1,19
+CT00124,Kiripaka,Whangarei,-35.73167,174.32391,3,50,Mixed,5,12,3,56
+CT00075,Kiwitahi,Piako,-37.68545,175.67254,1,20,Mixed,5,12,1,22
+CT00028,Kohekohe,Franklin,-37.201744,174.90514,2,28,Mixed,5,12,1,31
+CT00037,Kohukohu,Hokianga,-35.5258,173.3786,4,127,Mixed,5,12,6,141
+CT00098,Komakorau,Waikato,-37.6190862,175.023346,2,29,Mixed,5,12,1,32
+CT00064,Komata,Ohinemuri,-37.379448,175.669424,2,16,Mixed,5,12,1,18
+CT00064,Komata South,Ohinemuri,-37.379448,175.669424,2,25,Mixed,5,12,1,28
+CT00092,Kopu,Thames,-37.13633279,175.5358312,3,63,Mixed,5,12,2,70
+CT00092,Kopuarahi,Thames,-37.13633279,175.5358312,2,36,Mixed,5,12,1,40
+CT00120,Korakonui,West Taupo,-38.92,175.75,2,31,Mixed,5,12,1,34
+CT00106,Koromatua,Waipa,-37.986,175.421,2,25,Mixed,5,12,1,28
+CT00037,Koutu,Hokianga,-35.5258,173.3786,2,12,Mixed,5,12,1,13
+CT00017,Kuaotunu,Coromandel,-36.761287,175.4981278,3,29,Mixed,5,12,3,32
+CT00066,Kutarere,Opotiki,-38.00915,177.28706,3,39,Mixed,5,12,3,43
+CT00059,Lichfield,Matamata,-37.8106,175.76237,1,13,Mixed,5,12,1,14
+CT00124,Limestone Island,Whangarei,-35.73167,174.32391,1,17,Mixed,5,12,1,19
+CT00080,Lochnorrie (23) and Wainui (15),Rodney,-36.539,174.528,3,38,Mixed,5,12,3,42
+CT00075,Lower Waitoa,Piako,-37.68545,175.67254,2,38,Mixed,5,12,1,42
+CT00080,Mahurangi Heads West (13) and Puhuehue (9),Rodney,-36.539,174.528,2,22,Mixed,5,12,1,24
+CT00115,Maihiihi,Waitomo,-38.2615305,175.1145451,3,39,Mixed,5,12,2,43
+CT00115,Mairoa (16) and Waitanguru (17),Waitomo,-38.2615305,175.1145451,3,33,Mixed,5,12,2,37
+CT00080,Makarau (15) and Tahekeroa (15),Rodney,-36.539,174.528,2,30,Mixed,5,12,1,33
+CT00090,Maketu,Tauranga,-37.68611,176.16667,3,105,Mixed,5,12,3,117
+CT00081,Mamaku,Rotorua,-38.16667,176.33333,3,105,Mixed,5,12,2,117
+CT00081,Manawahe,Rotorua,-38.16667,176.33333,2,19,Mixed,5,12,1,21
+CT00075,Manawaru,Piako,-37.68545,175.67254,3,86,Mixed,5,12,3,96
+CT00064,Mangaiti,Ohinemuri,-37.379448,175.669424,2,25,Mixed,5,12,1,28
+CT00115,Mangaotaki,Waitomo,-38.2615305,175.1145451,1,16,Mixed,5,12,1,18
+CT00124,Mangapai,Whangarei,-35.73167,174.32391,3,37,Mixed,5,12,2,41
+CT00115,Mangapehi,Waitomo,-38.2615305,175.1145451,3,59,Mixed,5,12,2,66
+CT00106,Mangapiko,Waipa,-37.986,175.421,2,34,Mixed,5,12,1,38
+CT00061,Mangatete,Mongonui,-34.9940621,173.5289181,3,50,Mixed,5,12,2,56
+CT00068,Mangatu (14) and Tuamoe (8),Otamatea,-36.09833,174.23944,2,22,Mixed,5,12,1,24
+CT00068,Mangawai beach,Otamatea,-36.09833,174.23944,3,41,Mixed,5,12,2,46
+CT00059,Mangawhero,Matamata,-37.8106,175.76237,1,24,Mixed,5,12,1,27
+CT00055,Mangere,Manukau,-36.99282,174.87986,3,67,Mixed,5,12,2,74
+CT00055,Mangere Bridge,Manukau,-36.99282,174.87986,3,107,Mixed,5,12,2,119
+CT00061,Mangonui,Mongonui,-34.9940621,173.5289181,3,46,Mixed,5,12,3,51
+CT00028,Manukau Heads,Franklin,-37.201744,174.90514,1,14,Mixed,5,12,1,16
+CT00055,Manurewa,Manukau,-36.99282,174.87986,4,181,Mixed,5,12,5,201
+CT00115,Mapiu,Waitomo,-38.2615305,175.1145451,3,24,Mixed,5,12,2,27
+CT00028,Maraetai Nos.1 (13) and 2 (8),Franklin,-37.201744,174.90514,2,21,Mixed,5,12,1,23
+CT00028,Maramarua (13) and Maramarya East (10),Franklin,-37.201744,174.90514,1,23,Mixed,5,12,1,26
+CT00068,Mareretu,Otamatea,-36.09833,174.23944,2,22,Mixed,5,12,1,24
+CT00008,Marlow (7) and Ruapekapeka West (12),Bay of Islands,-35.2,174.166667,1,19,Mixed,5,12,1,21
+CT00008,Maromaku,Bay of Islands,-35.2,174.166667,2,31,Mixed,5,12,1,34
+CT00124,Marsden Point,Whangarei,-35.73167,174.32391,1,11,Mixed,5,12,1,12
+CT00124,Marua,Whangarei,-35.73167,174.32391,2,29,Mixed,5,12,1,32
+CT00124,Mata,Whangarei,-35.73167,174.32391,3,20,Mixed,5,12,2,22
+CT00098,Matahuru Nos 1 (16) and 2 (21),Waikato,-37.6190862,175.023346,2,37,Mixed,5,12,1,41
+CT00028,Mataitai,Franklin,-37.201744,174.90514,2,21,Mixed,5,12,1,23
+CT00080,Matakana,Rodney,-36.539,174.528,3,52,Mixed,5,12,2,58
+CT00068,Matakohe,Otamatea,-36.09833,174.23944,3,40,Mixed,5,12,3,44
+CT00068,Matakohe No.2,Otamatea,-36.09833,174.23944,1,7,Mixed,5,12,1,8
+CT00059,Matamata District High School - Primary (186) Secondary (22),Matamata,-37.8106,175.76237,4,208,Mixed,5,18,5,231
+CT00098,Matangi,Waikato,-37.6190862,175.023346,3,111,Mixed,5,12,3,123
+CT00124,Matapouri (16) and Tutukaka (17),Whangarei,-35.73167,174.32391,2,33,Mixed,5,12,1,37
+CT00028,Mauku,Franklin,-37.201744,174.90514,3,66,Mixed,5,12,2,73
+CT00124,Maungakaramea,Whangarei,-35.73167,174.32391,3,66,Mixed,5,12,2,73
+CT00124,Maungatapere,Whangarei,-35.73167,174.32391,3,59,Mixed,5,12,3,66
+CT00059,Maungatautari,Matamata,-37.8106,175.76237,3,39,Mixed,5,12,3,43
+CT00059,Maungatautari No.2,Matamata,-37.8106,175.76237,1,17,Mixed,5,12,1,19
+CT00028,Maungatawhiri Valley,Franklin,-37.201744,174.90514,3,45,Mixed,5,12,2,50
+CT00068,Maungaturoto,Otamatea,-36.09833,174.23944,3,56,Mixed,5,12,3,62
+CT00124,Maunu,Whangarei,-35.73167,174.32391,3,44,Mixed,5,12,2,49
+CT00020,Meadowbank,Eden,-36.88158,174.76204,4,230,Mixed,5,12,5,256
+CT00098,Mercer,Waikato,-37.6190862,175.023346,3,88,Mixed,5,12,2,98
+CT00017,Mercury Bay,Coromandel,-36.761287,175.4981278,3,96,Mixed,5,12,2,107
+CT00019,Mokai,East Taupo,-38.68333,176.08333,3,42,Mixed,5,12,3,47
+CT00115,Mokauiti,Waitomo,-38.2615305,175.1145451,3,37,Mixed,5,12,2,41
+CT00106,Monavale,Waipa,-37.986,175.421,1,26,Mixed,5,12,1,29
+CT00037,Motukaraka,Hokianga,-35.5258,173.3786,3,42,Mixed,5,12,2,47
+CT00075,Motumaoho,Piako,-37.68545,175.67254,3,45,Mixed,5,12,2,50
+CT00080,Motutara (11) and Muriwai (15),Rodney,-36.539,174.528,2,26,Mixed,5,12,1,29
+CT00028,Moumoukai,Franklin,-37.201744,174.90514,1,13,Mixed,5,12,1,14
+CT00090,Mount Maunganui,Tauranga,-37.68611,176.16667,3,38,Mixed,5,12,2,42
+CT00020,Mount Roskill,Eden,-36.88158,174.76204,5,288,Mixed,5,12,8,320
+CT00124,Mullet Point,Whangarei,-35.73167,174.32391,2,21,Mixed,5,12,1,23
+CT00068,Naumai,Otamatea,-36.09833,174.23944,3,44,Mixed,5,12,2,49
+CT00064,Netherton,Ohinemuri,-37.379448,175.669424,3,89,Mixed,5,12,2,99
+CT00098,Newstead,Waikato,-37.6190862,175.023346,3,49,Mixed,5,12,2,54
+CT00120,Ngahape (17) and Tokanui (16),West Taupo,-38.92,175.75,2,33,Mixed,5,12,1,37
+CT00065,Ngapuke,Ohura,-38.8439123,174.9816397,2,25,Mixed,5,12,1,28
+CT00098,Ngararatunua,Waikato,-37.6190862,175.023346,3,42,Mixed,5,12,3,47
+CT00075,Ngarua,Piako,-37.68545,175.67254,2,32,Mixed,5,12,1,36
+CT00061,Ngataki,Mongonui,-34.9940621,173.5289181,1,9,Mixed,5,12,1,10
+CT00092,Ngatea,Thames,-37.13633279,175.5358312,3,50,Mixed,5,12,2,56
+CT00081,Ngongotaha,Rotorua,-38.16667,176.33333,3,85,Mixed,5,12,2,94
+CT00124,Ngunguru,Whangarei,-35.73167,174.32391,2,31,Mixed,5,12,1,34
+CT00045,Ngutunui,Kawhia,-38.06504443,174.8200746,1,22,Mixed,5,12,1,24
+CT00066,Nukuhou,Opotiki,-38.00915,177.28706,1,20,Mixed,5,12,1,22
+CT00008,Ohaeawai,Bay of Islands,-35.2,174.166667,2,38,Mixed,5,12,1,42
+CT00090,Ohauiti,Tauranga,-37.68611,176.16667,1,17,Mixed,5,12,1,19
+CT00106,Ohaupo,Waipa,-37.986,175.421,3,105,Mixed,5,12,3,117
+CT00098,Ohinewai,Waikato,-37.6190862,175.023346,3,42,Mixed,5,12,2,47
+CT00036,Okahu Nos.1 (13) and 2 (7),Hobson,-35.9396,173.8726,1,20,Mixed,5,12,1,22
+CT00008,Okaihau,Bay of Islands,-35.2,174.166667,2,33,Mixed,5,12,1,37
+CT00008,Okaihau No.2 (8) and Utakura Valley (13),Bay of Islands,-35.2,174.166667,2,21,Mixed,5,12,1,23
+CT00008,Okaihau East,Bay of Islands,-35.2,174.166667,0,7,Mixed,5,12,1,8
+CT00059,Okauia,Matamata,-37.8106,175.76237,3,34,Mixed,5,12,2,38
+CT00114,Okupu (11) and Tryphena (13),Waitemata,-36.75,174.67,1,24,Mixed,5,12,1,27
+CT00080,Omaha Little,Rodney,-36.539,174.528,1,14,Mixed,5,12,1,16
+CT00098,Omahine,Waikato,-37.6190862,175.023346,3,55,Mixed,5,12,3,61
+CT00028,Omana,Franklin,-37.201744,174.90514,1,18,Mixed,5,12,1,20
+CT00090,Omanawa (8) and Omanawa Falls (18),Tauranga,-37.68611,176.16667,2,26,Mixed,5,12,1,29
+CT00037,Omapere,Hokianga,-35.5258,173.3786,2,20,Mixed,5,12,1,22
+CT00090,Omokoroa,Tauranga,-37.68611,176.16667,2,30,Mixed,5,12,1,33
+CT00124,Onerahi,Whangarei,-35.73167,174.32391,3,68,Mixed,5,12,2,76
+CT00077,Onewhero,Raglan,-37.79931138,174.8783946,3,65,Mixed,5,12,3,72
+CT00045,Oparau,Kawhia,-38.06504443,174.8200746,2,25,Mixed,5,12,1,28
+CT00122,Opouriao South,Whakatane,-37.95855,176.98545,3,36,Mixed,5,12,2,40
+CT00008,Opua,Bay of Islands,-35.2,174.166667,3,45,Mixed,5,12,2,50
+CT00066,Opuawhango (18) and Otonga (20),Opotiki,-38.00915,177.28706,3,38,Mixed,5,12,2,42
+CT00114,Oratia,Waitemata,-36.75,174.67,2,28,Mixed,5,12,1,31
+CT00028,Orere,Franklin,-37.201744,174.90514,0,6,Mixed,5,12,1,7
+CT00098,Orini,Waikato,-37.6190862,175.023346,3,34,Mixed,5,12,3,38
+CT00090,Oropi,Tauranga,-37.68611,176.16667,2,27,Mixed,5,12,1,30
+CT00125,Oruaiti (14) and Upper Oruaiti (7),Whangaroa,-35.05205502,173.7434618,2,21,Mixed,5,12,1,23
+CT00061,Oruru,Mongonui,-34.9940621,173.5289181,2,24,Mixed,5,12,1,27
+CT00114,Ostend (5) and Te Huruhi (9),Waitemata,-36.75,174.67,1,14,Mixed,5,12,1,16
+CT00124,Otaika,Whangarei,-35.73167,174.32391,3,36,Mixed,5,12,3,40
+CT00124,Otaika Valley,Whangarei,-35.73167,174.32391,1,13,Mixed,5,12,1,14
+CT00090,Otamarakau,Tauranga,-37.68611,176.16667,1,10,Mixed,5,12,1,11
+CT00066,Otara,Opotiki,-38.00915,177.28706,1,21,Mixed,5,12,1,23
+CT00066,Otara East (19) and Tirohanga (17),Opotiki,-38.00915,177.28706,2,36,Mixed,5,12,1,40
+CT00028,Otaua,Franklin,-37.201744,174.90514,3,60,Mixed,5,12,2,67
+CT00106,Otewe,Waipa,-37.986,175.421,3,40,Mixed,5,12,2,44
+CT00115,Otorohanga,Waitomo,-38.2615305,175.1145451,4,127,Mixed,5,12,6,141
+CT00090,Otumoetai,Tauranga,-37.68611,176.16667,2,34,Mixed,5,12,1,38
+CT00081,Oturoa,Rotorua,-38.16667,176.33333,2,19,Mixed,5,12,1,21
+CT00122,Owhiwha (13) and Taraunui (13),Whakatane,-37.95855,176.98545,2,26,Mixed,5,12,1,29
+CT00115,Paemako (25) and Wairiri Falls (15),Waitomo,-38.2615305,175.1145451,3,40,Mixed,5,12,3,44
+CT00090,Paengaroa,Tauranga,-37.68611,176.16667,3,59,Mixed,5,12,3,66
+CT00028,Paerata Ridge,Franklin,-37.201744,174.90514,1,12,Mixed,5,12,1,13
+CT00037,Pakanae,Hokianga,-35.5258,173.3786,2,39,Mixed,5,12,1,43
+CT00008,Pakaraka,Bay of Islands,-35.2,174.166667,2,28,Mixed,5,12,1,31
+CT00017,Pakautukua (8) and Port Charles (8),Coromandel,-36.761287,175.4981278,1,16,Mixed,5,12,1,18
+CT00080,Pakiri,Rodney,-36.539,174.528,1,22,Mixed,5,12,1,24
+CT00036,Pakotai,Hobson,-35.9396,173.8726,2,18,Mixed,5,12,1,20
+CT00055,Pakuranga,Manukau,-36.99282,174.87986,3,43,Mixed,5,12,2,48
+CT00020,Panmure,Eden,-36.88158,174.76204,3,86,Mixed,5,12,2,96
+CT00055,Papakura,Manukau,-36.99282,174.87986,5,248,Mixed,5,12,10,276
+CT00090,Papamoa No.1,Tauranga,-37.68611,176.16667,2,24,Mixed,5,12,1,27
+CT00090,Papamoa No.2,Tauranga,-37.68611,176.16667,1,14,Mixed,5,12,1,16
+CT00028,Paparata,Franklin,-37.201744,174.90514,2,22,Mixed,5,12,1,24
+CT00068,Paparoa,Otamatea,-36.09833,174.23944,3,53,Mixed,5,12,3,59
+CT00055,Papatoetoe,Manukau,-36.99282,174.87986,4,216,Mixed,5,12,7,240
+CT00061,Paranui (14) and Taipa(5),Mongonui,-34.9940621,173.5289181,1,19,Mixed,5,12,1,21
+CT00061,Parenga,Mongonui,-34.9940621,173.5289181,1,13,Mixed,5,12,1,14
+CT00124,Parua Bay Nos. 1 (23) and 2 (25),Whangarei,-35.73167,174.32391,3,48,Mixed,5,12,3,53
+CT00106,Paterangi,Waipa,-37.986,175.421,3,48,Mixed,5,12,2,53
+CT00092,Patetonga,Thames,-37.13633279,175.5358312,3,46,Mixed,5,12,2,51
+CT00028,Patumahoe,Franklin,-37.201744,174.90514,3,58,Mixed,5,12,2,64
+CT00061,Peria,Mongonui,-34.9940621,173.5289181,3,52,Mixed,5,12,2,58
+CT00059,Piarere,Matamata,-37.8106,175.76237,2,28,Mixed,5,12,1,31
+CT00114,Piha (6) and Whatipu (7),Waitemata,-36.75,174.67,2,13,Mixed,5,12,1,14
+CT00115,Piopio,Waitomo,-38.2615305,175.1145451,3,76,Mixed,5,12,2,84
+CT00092,Pipiroa,Thames,-37.13633279,175.5358312,2,26,Mixed,5,12,1,29
+CT00020,Point Chevalier,Eden,-36.88158,174.76204,5,403,Mixed,5,12,8,448
+CT00028,Pokeno,Franklin,-37.201744,174.90514,3,67,Mixed,5,12,2,74
+CT00028,Pollock,Franklin,-37.201744,174.90514,2,29,Mixed,5,12,1,32
+CT00028,Ponga,Franklin,-37.201744,174.90514,1,10,Mixed,5,12,1,11
+CT00090,Pongakawa,Tauranga,-37.68611,176.16667,2,16,Mixed,5,12,1,18
+CT00028,Ponui,Franklin,-37.201744,174.90514,0,3,Mixed,5,12,1,3
+CT00080,Port Albert,Rodney,-36.539,174.528,3,37,Mixed,5,12,2,41
+CT00115,Puahue,Waitomo,-38.2615305,175.1145451,2,14,Mixed,5,12,1,16
+CT00080,Puhoi,Rodney,-36.539,174.528,3,62,Mixed,5,12,3,69
+CT00098,Pukekawa,Waikato,-37.6190862,175.023346,2,40,Mixed,5,12,1,44
+CT00028,Pukekohe East,Franklin,-37.201744,174.90514,3,42,Mixed,5,12,2,47
+CT00077,Pukemiro Colleries,Raglan,-37.79931138,174.8783946,3,39,Mixed,5,12,2,43
+CT00106,Pukerimu,Waipa,-37.986,175.421,3,37,Mixed,5,12,2,41
+CT00059,Puketurua,Matamata,-37.8106,175.76237,2,25,Mixed,5,12,1,28
+CT00037,Punakitere,Hokianga,-35.5258,173.3786,2,37,Mixed,5,12,1,41
+CT00028,Puni,Franklin,-37.201744,174.90514,3,56,Mixed,5,12,3,62
+CT00008,Purerua,Bay of Islands,-35.2,174.166667,1,10,Mixed,5,12,1,11
+CT00092,Puriri,Thames,-37.13633279,175.5358312,3,92,Mixed,5,12,2,102
+CT00124,Purua No.1,Whangarei,-35.73167,174.32391,1,8,Mixed,5,12,1,9
+CT00115,Putake (7) and Waitomo Caves (6),Waitomo,-38.2615305,175.1145451,1,18,Mixed,5,12,1,20
+CT00059,Putaruru,Matamata,-37.8106,175.76237,3,70,Mixed,5,12,3,78
+CT00077,Raglan,Raglan,-37.79931138,174.8783946,3,55,Mixed,5,12,2,61
+CT00028,Ramarama,Franklin,-37.201744,174.90514,3,48,Mixed,5,12,3,53
+CT00037,Rangiahua (24) and Upper Waihou (19),Hokianga,-35.5258,173.3786,3,43,Mixed,5,12,3,48
+CT00106,Rangiaohia,Waipa,-37.986,175.421,2,36,Mixed,5,12,1,40
+CT00098,Rangiriri,Waikato,-37.6190862,175.023346,2,21,Mixed,5,12,1,23
+CT00114,Rangitoto No.2,Waitemata,-36.75,174.67,1,9,Mixed,5,12,1,10
+CT00068,Raupo,Otamatea,-36.09833,174.23944,3,43,Mixed,5,12,2,48
+CT00037,Rawene,Hokianga,-35.5258,173.3786,3,57,Mixed,5,12,3,63
+CT00036,Red Hill,Hobson,-35.9396,173.8726,1,19,Mixed,5,12,1,21
+CT00114,Riverhead,Waitemata,-36.75,174.67,3,51,Mixed,5,12,3,57
+CT00081,Rotokakahi (12) and Salt Springs (9),Rotorua,-38.16667,176.33333,2,21,Mixed,5,12,1,23
+CT00098,Rotokauri,Waikato,-37.6190862,175.023346,2,21,Mixed,5,12,1,23
+CT00106,Rotorangi,Waipa,-37.986,175.421,2,32,Mixed,5,12,1,36
+CT00081,Rotorua Island,Rotorua,-38.16667,176.33333,1,7,Mixed,5,12,1,8
+CT00098,Rototuna,Waikato,-37.6190862,175.023346,3,50,Mixed,5,12,2,56
+CT00124,Ruakaka,Whangarei,-35.73167,174.32391,2,19,Mixed,5,12,1,21
+CT00115,Ruakuri,Waitomo,-38.2615305,175.1145451,2,22,Mixed,5,12,1,24
+CT00124,Ruatangata East,Whangarei,-35.73167,174.32391,1,16,Mixed,5,12,1,18
+CT00124,Ruatangata West,Whangarei,-35.73167,174.32391,2,20,Mixed,5,12,1,22
+CT00068,Ruawai,Otamatea,-36.09833,174.23944,3,81,Mixed,5,12,2,90
+CT00106,Rukuhia,Waipa,-37.986,175.421,2,44,Mixed,5,12,1,49
+CT00008,Russell,Bay of Islands,-35.2,174.166667,3,81,Mixed,5,12,2,90
+CT00020,St. Heliers,Eden,-36.88158,174.76204,4,147,Mixed,5,12,6,163
+CT00114,Silverdale,Waitemata,-36.75,174.67,3,43,Mixed,5,12,2,48
+CT00114,Stanley Bay,Waitemata,-36.75,174.67,5,243,Mixed,5,12,9,270
+CT00114,Swanson,Waitemata,-36.75,174.67,3,57,Mixed,5,12,3,63
+CT00115,Tahaia,Waitomo,-38.2615305,175.1145451,2,12,Mixed,5,12,1,13
+CT00064,Tahuna,Ohinemuri,-37.379448,175.669424,2,22,Mixed,5,12,1,24
+CT00092,Tairua,Thames,-37.13633279,175.5358312,2,23,Mixed,5,12,1,26
+CT00061,Takahue,Mongonui,-34.9940621,173.5289181,2,32,Mixed,5,12,1,36
+CT00098,Tamahere,Waikato,-37.6190862,175.023346,3,38,Mixed,5,12,2,42
+CT00122,Teneatua,Whakatane,-37.95855,176.98545,3,100,Mixed,5,12,2,111
+CT00036,Tangiteroria,Hobson,-35.9396,173.8726,3,41,Mixed,5,12,2,46
+CT00065,Tangitu,Ohura,-38.8439123,174.9816397,2,34,Mixed,5,12,1,38
+CT00036,Tangowahine,Hobson,-35.9396,173.8726,2,22,Mixed,5,12,1,24
+CT00036,Tangowahine Valley,Hobson,-35.9396,173.8726,1,11,Mixed,5,12,1,12
+CT00059,Taotaoroa No.1,Matamata,-37.8106,175.76237,2,32,Mixed,5,12,1,36
+CT00059,Tapapa,Matamata,-37.8106,175.76237,1,15,Mixed,5,12,1,17
+CT00092,Tapu,Thames,-37.13633279,175.5358312,2,24,Mixed,5,12,1,27
+CT00008,Tapuhi,Bay of Islands,-35.2,174.166667,3,36,Mixed,5,12,2,40
+CT00120,Taringamutu,West Taupo,-38.92,175.75,3,39,Mixed,5,12,2,43
+CT00036,Tatarariki,Hobson,-35.9396,173.8726,2,21,Mixed,5,12,1,23
+CT00075,Tauhei No.1,Piako,-37.68545,175.67254,1,12,Mixed,5,12,1,13
+CT00075,Tauhei No.2,Piako,-37.68545,175.67254,2,24,Mixed,5,12,1,27
+CT00080,Tauhoa,Rodney,-36.539,174.528,2,26,Mixed,5,12,1,29
+CT00114,Taupaki,Waitemata,-36.75,174.67,3,55,Mixed,5,12,2,61
+CT00098,Taupiri,Waikato,-37.6190862,175.023346,3,101,Mixed,5,12,2,112
+CT00019,Taupo,East Taupo,-38.68333,176.08333,2,26,Mixed,5,12,1,29
+CT00068,Tauraroa,Otamatea,-36.09833,174.23944,1,24,Mixed,5,12,1,27
+CT00120,Tautari,West Taupo,-38.92,175.75,2,41,Mixed,5,12,1,46
+CT00098,Tawhare,Waikato,-37.6190862,175.023346,3,45,Mixed,5,12,2,50
+CT00077,Te Akau,Raglan,-37.79931138,174.8783946,2,19,Mixed,5,12,1,21
+CT00059,Te Aroha West,Matamata,-37.8106,175.76237,3,65,Mixed,5,12,3,72
+CT00114,Te Atatu,Waitemata,-36.75,174.67,2,25,Mixed,5,12,1,28
+CT00028,Te Hihi,Franklin,-37.201744,174.90514,1,12,Mixed,5,12,1,13
+CT00098,Te Hoe,Waikato,-37.6190862,175.023346,2,27,Mixed,5,12,1,30
+CT00036,Te Kopuru,Hobson,-35.9396,173.8726,4,167,Mixed,5,12,5,186
+CT00106,Te Kowhai,Waipa,-37.986,175.421,3,87,Mixed,5,12,2,97
+CT00115,Te Mapara,Waitomo,-38.2615305,175.1145451,2,36,Mixed,5,12,1,40
+CT00077,Te Mata,Raglan,-37.79931138,174.8783946,3,55,Mixed,5,12,2,61
+CT00120,Te Mawhai,West Taupo,-38.92,175.75,3,55,Mixed,5,12,2,61
+CT00106,Te Pahu,Waipa,-37.986,175.421,2,32,Mixed,5,12,1,36
+CT00020,Te Papapa,Eden,-36.88158,174.76204,5,331,Mixed,5,12,12,368
+CT00037,Te Pua,Hokianga,-35.5258,173.3786,3,39,Mixed,5,12,3,43
+CT00090,Te Puke,Tauranga,-37.68611,176.16667,4,135,Mixed,5,12,7,150
+CT00090,Te Puke No.2,Tauranga,-37.68611,176.16667,2,36,Mixed,5,12,1,40
+CT00090,Te Puna,Tauranga,-37.68611,176.16667,2,20,Mixed,5,12,1,22
+CT00115,Te Rahu,Waitomo,-38.2615305,175.1145451,2,37,Mixed,5,12,1,41
+CT00106,Te Rapa,Waipa,-37.986,175.421,3,39,Mixed,5,12,2,43
+CT00115,Te Rauamoa,Waitomo,-38.2615305,175.1145451,1,13,Mixed,5,12,1,14
+CT00017,Tererenga (10) and Whangapoua (11),Coromandel,-36.761287,175.4981278,2,21,Mixed,5,12,1,23
+CT00106,Te Rore,Waipa,-37.986,175.421,2,11,Mixed,5,12,1,12
+CT00077,Te Uku,Raglan,-37.79931138,174.8783946,2,21,Mixed,5,12,1,23
+CT00092,Thames North,Thames,-37.13633279,175.5358312,3,59,Mixed,5,12,2,66
+CT00122,Thornton,Whakatane,-37.95855,176.98545,1,11,Mixed,5,12,1,12
+CT00080,Ti Point,Rodney,-36.539,174.528,2,29,Mixed,5,12,1,32
+CT00059,Tirau,Matamata,-37.8106,175.76237,3,46,Mixed,5,12,3,51
+CT00114,Titirangi,Waitemata,-36.75,174.67,1,12,Mixed,5,12,1,13
+CT00124,Titoki (22) and Wharekohe (16),Whangarei,-35.73167,174.32391,3,38,Mixed,5,12,2,42
+CT00066,Toatoa,Opotiki,-38.00915,177.28706,0,6,Mixed,5,12,1,7
+CT00068,Tokatoka,Otamatea,-36.09833,174.23944,3,38,Mixed,5,12,2,42
+CT00059,Tokoroa,Matamata,-37.8106,175.76237,2,24,Mixed,5,12,1,27
+CT00080,Tomarata,Rodney,-36.539,174.528,2,24,Mixed,5,12,1,27
+CT00125,Totara,Whangaroa,-35.05205502,173.7434618,3,39,Mixed,5,12,3,43
+CT00028,Tuakau,Franklin,-37.201744,174.90514,3,81,Mixed,5,12,3,90
+CT00098,Tuhikaramea,Waikato,-37.6190862,175.023346,2,27,Mixed,5,12,1,30
+CT00092,Turua,Thames,-37.13633279,175.5358312,3,92,Mixed,5,12,2,102
+CT00114,Upper Waiwera,Waitemata,-36.75,174.67,2,23,Mixed,5,12,1,26
+CT00061,Victoria Valley,Mongonui,-34.9940621,173.5289181,3,62,Mixed,5,12,3,69
+CT00059,Waharoa,Matamata,-37.8106,175.76237,3,56,Mixed,5,12,2,62
+CT00061,Waiharara,Mongonui,-34.9940621,173.5289181,3,41,Mixed,5,12,3,46
+CT00114,Waiheke Central,Waitemata,-36.75,174.67,2,20,Mixed,5,12,1,22
+CT00064,Waihi Plains,Ohinemuri,-37.379448,175.669424,2,39,Mixed,5,12,1,43
+CT00061,Waihopo,Mongonui,-34.9940621,173.5289181,3,57,Mixed,5,12,2,63
+CT00075,Waihou,Piako,-37.68545,175.67254,3,99,Mixed,5,12,2,110
+CT00124,Waikiekie East (17) and Waikiekie West (29),Whangarei,-35.73167,174.32391,3,46,Mixed,5,12,3,51
+CT00064,Waikino,Ohinemuri,-37.379448,175.669424,4,173,Mixed,5,12,5,192
+CT00114,Waikumete,Waitemata,-36.75,174.67,3,98,Mixed,5,12,2,109
+CT00077,Waimai (6) and Waingaro (9),Raglan,-37.79931138,174.8783946,1,15,Mixed,5,12,1,17
+CT00037,Waimamaku Valley,Hokianga,-35.5258,173.3786,3,36,Mixed,5,12,2,40
+CT00122,Waimana,Whakatane,-37.95855,176.98545,3,43,Mixed,5,12,3,48
+CT00008,Waimate,Bay of Islands,-35.2,174.166667,3,55,Mixed,5,12,2,61
+CT00008,Waimatenui,Bay of Islands,-35.2,174.166667,0,10,Mixed,5,12,1,11
+CT00075,Waiorongomai,Piako,-37.68545,175.67254,2,19,Mixed,5,12,1,21
+CT00066,Waiotahi Valley,Opotiki,-38.00915,177.28706,2,27,Mixed,5,12,1,30
+CT00037,Waiotemarama (18) and Weke-weka (17),Hokianga,-35.5258,173.3786,3,35,Mixed,5,12,2,39
+CT00008,Waipapa,Bay of Islands,-35.2,174.166667,1,11,Mixed,5,12,1,12
+CT00106,Waipari (18) and Wharepuhunga (18),Waipa,-37.986,175.421,3,36,Mixed,5,12,2,40
+CT00028,Waipipi,Franklin,-37.201744,174.90514,3,61,Mixed,5,12,2,68
+CT00124,Waipu Cave,Whangarei,-35.73167,174.32391,1,7,Mixed,5,12,1,8
+CT00124,Waipu Central,Whangarei,-35.73167,174.32391,3,53,Mixed,5,12,2,59
+CT00124,Waipu North,Whangarei,-35.73167,174.32391,2,26,Mixed,5,12,1,29
+CT00124,Waipu Upper,Whangarei,-35.73167,174.32391,3,30,Mixed,5,12,3,33
+CT00008,Waipuna,Bay of Islands,-35.2,174.166667,3,38,Mixed,5,12,2,42
+CT00092,Wairanga,Thames,-37.13633279,175.5358312,2,29,Mixed,5,12,1,32
+CT00068,Wairere,Otamatea,-36.09833,174.23944,2,18,Mixed,5,12,1,20
+CT00028,Wairoa South,Franklin,-37.201744,174.90514,2,23,Mixed,5,12,1,26
+CT00092,Waitakaruru,Thames,-37.13633279,175.5358312,2,21,Mixed,5,12,1,23
+CT00008,Waitangi,Bay of Islands,-35.2,174.166667,2,25,Mixed,5,12,1,28
+CT00064,Waitekauri,Ohinemuri,-37.379448,175.669424,2,20,Mixed,5,12,1,22
+CT00077,Waitetuna,Raglan,-37.79931138,174.8783946,1,20,Mixed,5,12,1,22
+CT00075,Waitoa,Piako,-37.68545,175.67254,3,58,Mixed,5,12,2,64
+CT00115,Waitomo Valley Road (12) and Te Rau Mauku (13),Waitomo,-38.2615305,175.1145451,2,25,Mixed,5,12,1,28
+CT00120,Waituhi,West Taupo,-38.92,175.75,3,43,Mixed,5,12,2,48
+CT00028,Waiuku,Franklin,-37.201744,174.90514,4,186,Mixed,5,12,6,207
+CT00114,Waiwera,Waitemata,-36.75,174.67,1,12,Mixed,5,12,1,13
+CT00075,Walton,Piako,-37.68545,175.67254,3,63,Mixed,5,12,2,70
+CT00075,Wardville,Piako,-37.68545,175.67254,1,26,Mixed,5,12,1,29
+CT00080,Warkworth,Rodney,-36.539,174.528,4,152,Mixed,5,12,6,169
+CT00080,Wayby,Rodney,-36.539,174.528,1,15,Mixed,5,12,1,17
+CT00080,Wellsford,Rodney,-36.539,174.528,3,49,Mixed,5,12,3,54
+CT00028,Weymouth,Franklin,-37.201744,174.90514,1,23,Mixed,5,12,1,26
+CT00090,Whakamarama,Tauranga,-37.68611,176.16667,2,24,Mixed,5,12,1,27
+CT00124,Whakapara,Whangarei,-35.73167,174.32391,3,50,Mixed,5,12,2,56
+CT00124,Whananaki,Whangarei,-35.73167,174.32391,3,38,Mixed,5,12,2,42
+CT00080,Whangaparoa,Rodney,-36.539,174.528,11,16,Mixed,5,12,1,18
+CT00028,Whangarata,Franklin,-37.201744,174.90514,2,30,Mixed,5,12,1,33
+CT00124,Whangarei Heads (42) and side school (14),Whangarei,-35.73167,174.32391,3,56,Mixed,5,12,2,62
+CT00080,Whangaripo,Rodney,-36.539,174.528,0,8,Mixed,5,12,1,9
+CT00125,Whangaroa North,Whangaroa,-35.05205502,173.7434618,2,25,Mixed,5,12,1,28
+CT00037,Wharehine,Hokianga,-35.5258,173.3786,1,23,Mixed,5,12,1,26
+CT00092,Wharepoa,Thames,-37.13633279,175.5358312,3,64,Mixed,5,12,2,71
+CT00106,Whatawhata,Waipa,-37.986,175.421,3,58,Mixed,5,12,2,64
+CT00055,Whitford No.1,Manukau,-36.99282,174.87986,3,42,Mixed,5,12,2,47
+CT00055,Whitford No.2,Manukau,-36.99282,174.87986,1,16,Mixed,5,12,1,18
+CT00114,Woodhill,Waitemata,-36.75,174.67,3,71,Mixed,5,12,2,79
+BR00001,Akaroa District High School Primary (102) Secondary (12),Akaroa,-43.80467,172.966667,3,114,Mixed,5,18,2,127
+BR00004,Ashburton Main (389) and Allenton (side school) (124),Ashburton,-43.90556,171.74556,7,513,Mixed,5,12,19,570
+BR00025,Geraldine District High School Primary (209) Secondary (24),Geraldine,-44.09028,171.24333,5,233,Mixed,5,18,7,259
+BR00029,Greymouth District High School Primary (468) Secondary (52) Blaketown (side school) (88),Greymouth,-42.45,171.2075,7,608,Mixed,5,18,17,676
+BR00004,Hampstead,Ashburton,-43.90556,171.74556,5,329,Mixed,5,12,10,366
+BR00035,Hokitika District High School Primary (295) secondary (50),Hokitika,-42.71667,170.96667,5,345,Mixed,5,18,8,383
+BR00039,Kaiapoi District High School Primary (385) Secondary (10),Kaiapoi,-43.37832,172.64013,6,395,Mixed,5,18,10,439
+BR00039,Kaiapoi Island,Kaiapoi,-43.37832,172.64013,1,14,Mixed,5,12,1,16
+BR00041,Kumara,Kumara,-42.63111,171.18694,3,88,Mixed,5,12,2,98
+BR00045,Lyttleton District High Schol Primary (404) Secondary (19),Lyttelton,-43.526945,172.632377,6,423,Mixed,5,12,13,470
+BR00045,Lyttleton Heads,Lyttelton,-43.526945,172.632377,0,6,Mixed,5,12,1,7
+BR00045,Lyttleton West,Lyttelton,-43.526945,172.632377,4,162,Mixed,5,12,7,180
+BR00058,New Brighton (452) and North New Brighton (side school) (51),New Brighton,-43.50962726,172.7303742,6,503,Mixed,5,12,18,559
+BR00079,Rangiora,Rangiora,-43.30437,172.58356,5,282,Mixed,5,12,12,313
+BR00045,Rapaki,Lyttelton,-43.526945,172.632377,1,14,Mixed,5,12,1,16
+BR00080,Riccarton,Riccarton,-43.52998,172.59744,4,203,Mixed,5,12,4,226
+BR00083,Ross,Ross,-42.89583,170.81417,3,81,Mixed,5,12,2,90
+BR00086,Runanga,Runanga,-42.4020632,171.2465516,4,241,Mixed,5,12,5,268
+BR00013,Spreydon,Christchurch,-43.55,172.6667,4,193,Mixed,5,12,4,214
+BR00090,Sumner,Sumner,-43.57144,172.76447,4,252,Mixed,5,12,6,280
+BR00099,Temuka District High School Primary (330) Secondary (34),Temuka,-44.2453,171.27786,5,364,Mixed,5,18,12,404
+BR00101,Timaru Main (735) and Timaru West (side school) (127),Timaru,-44.39672,171.25364,7,862,Mixed,5,12,18,958
+BR00101,Timaru South,Timaru,-44.39672,171.25364,6,463,Mixed,5,12,18,514
+BR00004,Tinwald,Ashburton,-43.90556,171.74556,4,171,Mixed,5,12,4,190
+BR00101,Waimataitai,Timaru,-44.39672,171.25364,7,588,Mixed,5,12,16,653
+BR00104,Waimate District High School Primary (458) Secondary (73),Waimate,-44.72836,171.05009,7,531,Mixed,5,18,14,590
+BR00080,Wharenui,Riccarton,-43.52998,172.59744,5,322,Mixed,5,12,12,358
+BR00117,Woolston,Woolston,-43.55,172.683333,7,565,Mixed,5,12,15,628
+CT00049,Adair,Levels,-44.29873,171.2225,1,13,Mixed,5,12,1,14
+CT00030,Ahaura,Grey,-42.546,171.606,2,20,Mixed,5,12,1,22
+CT00050,Albury,Mackenzie,-44.1,170.8289,3,59,Mixed,5,12,2,66
+CT00004,Alford Forest,Ashburton,-43.89834,171.73011,2,26,Mixed,5,12,1,29
+CT00050,Allandale,Mackenzie,-44.1,170.8289,1,12,Mixed,5,12,1,13
+CT00047,Amberly,Kowai,-43.2097,172.6956,3,90,Mixed,5,12,2,100
+CT00004,Anama,Ashburton,-43.89834,171.73011,2,28,Mixed,5,12,1,31
+CT00052,Annat,Malvern,-43.4884,172.11462,3,39,Mixed,5,12,2,43
+CT00121,Arahura Road,Westland,-43.431,170.155,3,49,Mixed,5,12,2,54
+CT00030,Aratika,Grey,-42.546,171.606,1,17,Mixed,5,12,1,19
+CT00091,Arthur's Pass,Tawera,-43.3371994,171.9269209,3,28,Mixed,5,12,2,31
+CT00029,Arundel,Geraldine,-44.09061,171.24458,1,20,Mixed,5,12,1,22
+CT00004,Ashburton Forks,Ashburton,-43.89834,171.73011,1,16,Mixed,5,12,1,18
+CT00005,Ashley,Ashley,-43.3034,172.5914,3,44,Mixed,5,12,2,49
+CT00005,Ashley Gorge,Ashley,-43.3034,172.5914,2,23,Mixed,5,12,1,26
+CT00004,Ashton,Ashburton,-43.89834,171.73011,2,24,Mixed,5,12,1,27
+CT00050,Ashwick Flat,Mackenzie,-44.1,170.8289,1,8,Mixed,5,12,1,9
+CT00029,Ataahua,Geraldine,-44.09061,171.24458,1,17,Mixed,5,12,1,19
+CT00121,Awatuna,Westland,-43.431,170.155,0,9,Mixed,5,12,1,10
+CT00052,Aylesbury,Malvern,-43.4884,172.11462,2,27,Mixed,5,12,1,30
+CT00047,Balcairn,Kowai,-43.2097,172.6956,3,36,Mixed,5,12,3,40
+CT00052,Barr Hill,Malvern,-43.4884,172.11462,2,20,Mixed,5,12,1,22
+CT00001,Barry's Bay,Akaroa,-43.526945,172.632377,2,22,Mixed,5,12,1,24
+CT00030,Barrytown,Grey,-42.546,171.606,1,10,Mixed,5,12,1,11
+CT00101,Belfast (106) and side school (90),Waimairi,-43.482,172.719,4,196,Mixed,5,12,6,218
+CT00029,Belfield,Geraldine,-44.09061,171.24458,1,15,Mixed,5,12,1,17
+CT00040,Big River,Inangahua,-41.85724663,171.9298009,0,4,Mixed,5,12,1,4
+CT00023,Birdling's Flat,Ellesmere,-43.8,172.416667,1,11,Mixed,5,12,1,12
+CT00030,Blackball,Grey,-42.546,171.606,4,173,Mixed,5,12,7,192
+CT00103,Bluecliffs,Waimate,-44.7328091,171.0471354,2,21,Mixed,5,12,1,23
+CT00121,Bluespur,Westland,-43.431,170.155,1,18,Mixed,5,12,1,20
+CT00030,Boddytown,Grey,-42.546,171.606,1,14,Mixed,5,12,1,16
+CT00071,Broadfield,Paparua,-43.529,172.458173,2,27,Mixed,5,12,1,30
+CT00035,Bromley,Heathcote,-43.583,172.716638,3,95,Mixed,5,12,2,106
+CT00023,Brookside,Ellesmere,-43.8,172.416667,3,40,Mixed,5,12,2,44
+CT00049,Broomfield,Levels,-44.29873,171.2225,2,25,Mixed,5,12,1,28
+CT00121,Bruce Bay,Westland,-43.431,170.155,1,9,Mixed,5,12,1,10
+CT00071,Burnham,Paparua,-43.529,172.458173,2,31,Mixed,5,12,1,34
+CT00082,Callaghan's,Selwyn,-43.64884427,172.2322075,1,11,Mixed,5,12,1,12
+CT00030,Cameron's,Grey,-42.546,171.606,3,38,Mixed,5,12,3,42
+CT00103,Cannington,Waimate,-44.7328091,171.0471354,1,17,Mixed,5,12,1,19
+CT00004,Carew,Ashburton,-43.89834,171.73011,1,16,Mixed,5,12,1,18
+CT00025,Calrleton,Eyre,-43.3049,172.5967,2,21,Mixed,5,12,1,23
+CT00035,Cashmere,Heathcote,-43.583,172.716638,4,123,Mixed,5,12,4,137
+CT00049,Cave,Levels,-44.29873,171.2225,2,42,Mixed,5,12,1,47
+CT00050,Chamberlain,Mackenzie,-44.1,170.8289,2,17,Mixed,5,12,1,19
+CT00071,Charing Cross,Paparua,-43.529,172.458173,1,13,Mixed,5,12,1,14
+CT00004,Chertsey,Ashburton,-43.89834,171.73011,3,40,Mixed,5,12,2,44
+CT00052,Chorlton,Malvern,-43.4884,172.11462,1,14,Mixed,5,12,1,16
+CT00029,Clandeboye,Geraldine,-44.09061,171.24458,3,81,Mixed,5,12,2,90
+CT00052,Claremont,Malvern,-43.4884,172.11462,3,31,Mixed,5,12,2,34
+CT00025,Clarkville,Eyre,-43.3049,172.5967,3,48,Mixed,5,12,2,53
+CT00030,Cobden,Grey,-42.546,171.606,4,224,Mixed,5,12,5,249
+CT00121,Cook's River,Westland,-43.431,170.155,0,3,Mixed,5,12,1,3
+CT00004,Cooper's Creek,Ashburton,-43.89834,171.73011,2,29,Mixed,5,12,1,32
+CT00003,Culverden,Amuri,-42.50480809,173.0221142,3,43,Mixed,5,12,2,48
+CT00078,Cust,Rangiora,-43.30437,172.58356,3,83,Mixed,5,12,3,92
+CT00052,Darfield District High School Primary (30) Secondary (14),Malvern,-43.4884,172.11462,3,44,Mixed,5,18,2,49
+CT00030,Dobson,Grey,-42.546,171.606,2,25,Mixed,5,12,1,28
+CT00012,Domett,Cheviot,-42.81212,173.2736762,2,26,Mixed,5,12,1,29
+CT00004,Dorie,Ashburton,-43.89834,171.73011,2,22,Mixed,5,12,1,24
+CT00030,Douglas,Grey,-42.546,171.606,2,23,Mixed,5,12,1,26
+CT00023,Doyleston,Ellesmere,-43.8,172.416667,3,66,Mixed,5,12,3,73
+CT00004,Dromore,Ashburton,-43.89834,171.73011,2,16,Mixed,5,12,1,18
+CT00012,Dunganville (7) andd Marsden (4),Cheviot,-42.81212,173.2736762,1,11,Mixed,5,12,1,12
+CT00023,Dunsandel,Ellesmere,-43.8,172.416667,3,62,Mixed,5,12,2,69
+CT00001,Duvauchelle's Bay,Akaroa,-43.526945,172.632377,3,36,Mixed,5,12,3,40
+CT00004,Ealing,Ashburton,-43.89834,171.73011,1,25,Mixed,5,12,1,28
+CT00004,Eiffleton,Ashburton,-43.89834,171.73011,2,26,Mixed,5,12,1,29
+CT00004,Elgin,Ashburton,-43.89834,171.73011,1,14,Mixed,5,12,1,16
+CT00085,Ellesmere,Springs,-43.633,172.417,2,28,Mixed,5,12,1,31
+CT00103,Esk Valley,Waimate,-44.7328091,171.0471354,1,14,Mixed,5,12,1,16
+CT00025,Eyreton,Eyre,-43.3049,172.5967,2,19,Mixed,5,12,1,21
+CT00025,Eyreton West,Eyre,-43.3049,172.5967,3,38,Mixed,5,12,3,42
+CT00050,Fairlie,Mackenzie,-44.1,170.8289,4,183,Mixed,5,12,7,203
+CT00004,Fairton,Ashburton,-43.89834,171.73011,3,56,Mixed,5,12,2,62
+CT00049,Fairview,Levels,-44.29873,171.2225,3,38,Mixed,5,12,2,42
+CT00101,Fendalton,Waimairi,-43.482,172.719,4,162,Mixed,5,12,7,180
+CT00078,Fernside,Rangiora,-43.30437,172.58356,3,55,Mixed,5,12,3,61
+CT00029,Four Peaks,Geraldine,-44.09061,171.24458,1,9,Mixed,5,12,1,10
+CT00001,French Farm,Akaroa,-43.526945,172.632377,1,9,Mixed,5,12,1,10
+CT00029,Gapes Valley,Geraldine,-44.09061,171.24458,2,23,Mixed,5,12,1,26
+CT00111,Gebbie's Valley,Wairewa,-43.805,172.7407,2,23,Mixed,5,12,1,26
+CT00103,Glenavy,Waimate,-44.7328091,171.0471354,2,27,Mixed,5,12,1,30
+CT00049,Glen-iti,Levels,-44.29873,171.2225,3,37,Mixed,5,12,2,41
+CT00069,Glen Kowhai,Oxford,-43.29609879,172.1886163,1,16,Mixed,5,12,1,18
+CT00082,Glenroy,Selwyn,-43.64884427,172.2322075,1,21,Mixed,5,12,1,23
+CT00052,Glentunnel,Malvern,-43.4884,172.11462,3,86,Mixed,5,12,3,96
+CT00121,Goldsborough,Westland,-43.431,170.155,1,14,Mixed,5,12,1,16
+CT00062,Governor's Bay,Mount Herbert,-43.68959,172.74196,1,21,Mixed,5,12,1,23
+CT00052,Greendale,Malvern,-43.4884,172.11462,3,41,Mixed,5,12,2,46
+CT00085,Greenpark,Springs,-43.633,172.417,3,46,Mixed,5,12,2,51
+CT00004,Greenstreet,Ashburton,-43.89834,171.73011,1,19,Mixed,5,12,1,21
+CT00012,Greta Valley,Cheviot,-42.81212,173.2736762,2,18,Mixed,5,12,1,20
+CT00103,Hakataramea,Waimate,-44.7328091,171.0471354,2,21,Mixed,5,12,1,23
+CT00103,Hakataramea Valley,Waimate,-44.7328091,171.0471354,2,33,Mixed,5,12,1,37
+CT00052,Halkett,Malvern,-43.4884,172.11462,2,25,Mixed,5,12,1,28
+CT00031,Halswell,Halswell,-43.583,172.567,3,54,Mixed,5,12,3,60
+CT00003,Hanmer Plains,Amuri,-42.50480809,173.0221142,3,42,Mixed,5,12,2,47
+CT00052,Hannaton,Malvern,-43.4884,172.11462,3,28,Mixed,5,12,2,31
+CT00042,Hapuka,Kaikoura,-42.41667,173.68333,2,28,Mixed,5,12,1,31
+CT00101,Harewood,Waimairi,-43.482,172.719,4,110,Mixed,5,12,6,122
+CT00121,Harihari,Westland,-43.431,170.155,2,22,Mixed,5,12,1,24
+CT00030,Hatters,Grey,-42.546,171.606,3,28,Mixed,5,12,3,31
+CT00029,Hazelburn,Geraldine,-44.09061,171.24458,2,25,Mixed,5,12,1,28
+CT00035,Heathcote Valley,Heathcote,-43.583,172.716638,4,128,Mixed,5,12,7,142
+CT00004,Highbank,Ashburton,-43.89834,171.73011,3,69,Mixed,5,12,2,77
+CT00029,Hilton,Geraldine,-44.09061,171.24458,3,54,Mixed,5,12,2,60
+CT00004,Hinds,Ashburton,-43.89834,171.73011,3,57,Mixed,5,12,2,63
+CT00004,Homebush,Ashburton,-43.89834,171.73011,2,17,Mixed,5,12,1,19
+CT00103,Hook,Waimate,-44.7328091,171.0471354,3,46,Mixed,5,12,3,51
+CT00103,Hook Bush,Waimate,-44.7328091,171.0471354,1,10,Mixed,5,12,1,11
+CT00071,Hornby,Paparua,-43.529,172.458173,4,201,Mixed,5,12,7,223
+CT00082,Hororata,Selwyn,-43.64884427,172.2322075,3,72,Mixed,5,12,2,80
+CT00012,Horsley Downs,Cheviot,-42.81212,173.2736762,2,32,Mixed,5,12,1,36
+CT00121,Humphrey's,Westland,-43.431,170.155,2,29,Mixed,5,12,1,32
+CT00012,Hundalee,Cheviot,-42.81212,173.2736762,1,10,Mixed,5,12,1,11
+CT00103,Hunter,Waimate,-44.7328091,171.0471354,3,36,Mixed,5,12,2,40
+CT00004,Huntingdon,Ashburton,-43.89834,171.73011,1,16,Mixed,5,12,1,18
+CT00003,Hurunui,Amuri,-42.50480809,173.0221142,1,11,Mixed,5,12,1,12
+CT00103,Ikawai,Waimate,-44.7328091,171.0471354,2,23,Mixed,5,12,1,26
+CT00030,Inchbonnie,Grey,-42.546,171.606,1,12,Mixed,5,12,1,13
+CT00023,Irwell,Ellesmere,-43.8,172.416667,3,42,Mixed,5,12,3,47
+CT00030,Jack's Mill,Grey,-42.546,171.606,1,21,Mixed,5,12,1,23
+CT00121,Jackson,Westland,-43.431,170.155,1,11,Mixed,5,12,1,12
+CT00042,Kaikoura Surburban,Kaikoura,-42.41667,173.68333,3,67,Mixed,5,12,2,74
+CT00042,Kaikoura Town District High School Primary (94) secondary (9),Kaikoura,-42.41667,173.68333,3,103,Mixed,5,18,2,114
+CT00029,Kakahu Bush,Geraldine,-44.09061,171.24458,1,14,Mixed,5,12,1,16
+CT00121,Kanieri,Westland,-43.431,170.155,3,45,Mixed,5,12,3,50
+CT00121,Kapua,Westland,-43.431,170.155,2,22,Mixed,5,12,1,24
+CT00023,Kiliinchy,Ellesmere,-43.8,172.416667,3,48,Mixed,5,12,3,53
+CT00052,Kimberley,Malvern,-43.4884,172.11462,2,27,Mixed,5,12,1,30
+CT00049,Kingsdown,Levels,-44.29873,171.2225,3,34,Mixed,5,12,2,38
+CT00025,Kirikiri,Eyre,-43.3049,172.5967,2,24,Mixed,5,12,1,27
+CT00052,Kirwee,Malvern,-43.4884,172.11462,2,40,Mixed,5,12,1,44
+CT00121,Kohika,Westland,-43.431,170.155,1,13,Mixed,5,12,1,14
+CT00121,Koiterangi,Westland,-43.431,170.155,2,22,Mixed,5,12,1,24
+CT00121,Kokatahi Lower,Westland,-43.431,170.155,2,29,Mixed,5,12,1,32
+CT00121,Kokatahi Upper,Westland,-43.431,170.155,1,9,Mixed,5,12,1,10
+CT00030,Kokiri,Grey,-42.546,171.606,2,33,Mixed,5,12,1,37
+CT00052,Kowhai Bush,Malvern,-43.4884,172.11462,2,13,Mixed,5,12,1,14
+CT00121,Kumara Junction,Westland,-43.431,170.155,1,13,Mixed,5,12,1,14
+CT00071,Ladbrooks,Paparua,-43.529,172.458173,3,42,Mixed,5,12,3,47
+CT00049,La Fontaine,Levels,-44.29873,171.2225,2,16,Mixed,5,12,1,18
+CT00023,Lakeside,Ellesmere,-43.8,172.416667,3,43,Mixed,5,12,3,48
+CT00004,Lauriston,Ashburton,-43.89834,171.73011,3,53,Mixed,5,12,2,59
+CT00001,Le Bon's Bay,Akaroa,-43.526945,172.632377,3,33,Mixed,5,12,2,37
+CT00023,Leeston,Ellesmere,-43.8,172.416667,3,74,Mixed,5,12,3,82
+CT00047,Leithfield,Kowai,-43.2097,172.6956,3,32,Mixed,5,12,2,36
+CT00085,Lincoln District High School Primary (81) Secondary (10),Springs,-43.633,172.417,3,91,Mixed,5,18,2,101
+CT00004,Lismore,Ashburton,-43.89834,171.73011,3,42,Mixed,5,12,2,47
+CT00001,Little Akaloa,Akaroa,-43.526945,172.632377,2,21,Mixed,5,12,1,23
+CT00111,Little River,Wairewa,-43.805,172.7407,3,54,Mixed,5,12,2,60
+CT00005,Loburn,Ashley,-43.3034,172.5914,3,49,Mixed,5,12,2,54
+CT00005,Loburn North,Ashley,-43.3034,172.5914,2,22,Mixed,5,12,1,24
+CT00004,Longbeach,Ashburton,-43.89834,171.73011,2,16,Mixed,5,12,1,18
+CT00004,Lowcliffe,Ashburton,-43.89834,171.73011,2,30,Mixed,5,12,1,33
+CT00003,Lyalldale,Amuri,-42.50480809,173.0221142,2,23,Mixed,5,12,1,26
+CT00004,Lyndhurst,Ashburton,-43.89834,171.73011,3,42,Mixed,5,12,2,47
+CT00003,Lyndon,Amuri,-42.50480809,173.0221142,1,10,Mixed,5,12,1,11
+CT00050,Lynton Downs,Mackenzie,-44.1,170.8289,1,11,Mixed,5,12,1,12
+CT00012,Mackenzie,Cheviot,-42.81212,173.2736762,3,86,Mixed,5,12,2,96
+CT00121,Mahitahi,Westland,-43.431,170.155,0,8,Mixed,5,12,1,9
+CT00103,Makikihi,Waimate,-44.7328091,171.0471354,2,44,Mixed,5,12,1,49
+CT00121,Mananui,Westland,-43.431,170.155,1,6,Mixed,5,12,1,7
+CT00101,Marshland,Waimairi,-43.482,172.719,4,114,Mixed,5,12,5,127
+CT00030,Mason's Flat,Grey,-42.546,171.606,2,29,Mixed,5,12,1,32
+CT00004,Mayfield,Ashburton,-43.89834,171.73011,3,66,Mixed,5,12,2,73
+CT00004,Mead,Ashburton,-43.89834,171.73011,2,28,Mixed,5,12,1,31
+CT00107,Medbury,Waipara,-43.0666664,172.749997,1,18,Mixed,5,12,1,20
+CT00004,Methven,Ashburton,-43.89834,171.73011,4,146,Mixed,5,12,7,162
+CT00121,Mikonui,Westland,-43.431,170.155,1,10,Mixed,5,12,1,11
+CT00049,Milford,Levels,-44.29873,171.2225,3,59,Mixed,5,12,2,66
+CT00030,Moana,Grey,-42.546,171.606,1,12,Mixed,5,12,1,13
+CT00029,Monavale,Geraldine,-44.09061,171.24458,2,25,Mixed,5,12,1,28
+CT00121,Moonlight,Westland,-43.431,170.155,0,6,Mixed,5,12,1,7
+CT00103,Morven,Waimate,-44.7328091,171.0471354,3,61,Mixed,5,12,2,68
+CT00085,Motukarara,Springs,-43.633,172.417,2,25,Mixed,5,12,1,28
+CT00005,Mount Grey Downs,Ashley,-43.3034,172.5914,2,21,Mixed,5,12,1,23
+CT00004,Mount Somers,Ashburton,-43.89834,171.73011,3,53,Mixed,5,12,3,59
+CT00030,Ngahere,Grey,-42.546,171.606,3,52,Mixed,5,12,2,58
+CT00025,Ohoka,Eyre,-43.3049,172.5967,3,51,Mixed,5,12,2,57
+CT00001,Okain's Bay,Akaroa,-43.526945,172.632377,3,48,Mixed,5,12,3,53
+CT00121,Okarito,Westland,-43.431,170.155,0,9,Mixed,5,12,1,10
+CT00121,Okarito Forks,Westland,-43.431,170.155,0,4,Mixed,5,12,1,4
+CT00005,Okuku,Ashley,-43.3034,172.5914,1,14,Mixed,5,12,1,16
+CT00121,Okuru,Westland,-43.431,170.155,1,6,Mixed,5,12,1,7
+CT00121,Okute Valley,Westland,-43.431,170.155,1,17,Mixed,5,12,1,19
+CT00107,Omihi,Waipara,-43.0666664,172.749997,3,36,Mixed,5,12,2,40
+CT00035,Opawa,Heathcote,-43.583,172.716638,5,324,Mixed,5,12,12,360
+CT00029,Opihi,Geraldine,-44.09061,171.24458,2,25,Mixed,5,12,1,28
+CT00029,Orari,Geraldine,-44.09061,171.24458,3,81,Mixed,5,12,2,90
+CT00029,Orari Bridge,Geraldine,-44.09061,171.24458,2,27,Mixed,5,12,1,30
+CT00029,Orari Gorge,Geraldine,-44.09061,171.24458,2,17,Mixed,5,12,1,19
+CT00103,Otaio,Waimate,-44.7328091,171.0471354,1,13,Mixed,5,12,1,14
+CT00121,Otira,Westland,-43.431,170.155,3,56,Mixed,5,12,2,62
+CT00078,Oruruhia,Rangiora,-43.30437,172.58356,3,53,Mixed,5,12,2,59
+CT00004,Overdale,Ashburton,-43.89834,171.73011,1,19,Mixed,5,12,1,21
+CT00069,Oxford East District High School - Primary (106) Secondary (13),Oxford,-43.29609879,172.1886163,4,119,Mixed,5,18,7,132
+CT00069,Oxford West,Oxford,-43.29609879,172.1886163,3,48,Mixed,5,12,2,53
+CT00101,Papanui (262) and Bligh's Road (side school) (104),Waimairi,-43.482,172.719,5,360,Mixed,5,12,10,400
+CT00049,Pareora East,Levels,-44.29873,171.2225,3,77,Mixed,5,12,2,86
+CT00049,Pareora West,Levels,-44.29873,171.2225,2,32,Mixed,5,12,1,36
+CT00012,Parnassus,Cheviot,-42.81212,173.2736762,1,12,Mixed,5,12,1,13
+CT00030,Paroa,Grey,-42.546,171.606,3,54,Mixed,5,12,2,60
+CT00004,Pendarves,Ashburton,-43.89834,171.73011,2,23,Mixed,5,12,1,26
+CT00001,Pigeon's Bay,Akaroa,-43.526945,172.632377,1,18,Mixed,5,12,1,20
+CT00049,Pleasant Point District High School Primary (146) Secondary (22),Levels,-44.29873,171.2225,4,168,Mixed,5,18,5,187
+CT00029,Pleasant Valley,Geraldine,-44.09061,171.24458,2,30,Mixed,5,12,1,33
+CT00062,Port Levy,Mount Herbert,-43.68959,172.74196,1,12,Mixed,5,12,1,13
+CT00012,Port Robinson,Cheviot,-42.81212,173.2736762,1,7,Mixed,5,12,1,8
+CT00071,Prebbleton,Paparua,-43.529,172.458173,3,81,Mixed,5,12,2,90
+CT00111,Puaha,Wairewa,-43.805,172.7407,2,39,Mixed,5,12,1,43
+CT00004,Rakaia South,Ashburton,-43.89834,171.73011,3,122,Mixed,5,12,2,136
+CT00029,Rangitata Island,Geraldine,-44.09061,171.24458,1,11,Mixed,5,12,1,12
+CT00029,Rangitata Station,Geraldine,-44.09061,171.24458,1,23,Mixed,5,12,1,26
+CT00035,Redcliffs,Heathcote,-43.583,172.716638,3,83,Mixed,5,12,2,92
+CT00030,Rewanui,Grey,-42.546,171.606,1,10,Mixed,5,12,1,11
+CT00121,Riverside,Westland,-43.431,170.155,1,8,Mixed,5,12,1,9
+CT00030,Roa,Grey,-42.546,171.606,2,21,Mixed,5,12,1,23
+CT00001,Robinson's Bay,Akaroa,-43.526945,172.632377,1,12,Mixed,5,12,1,13
+CT00004,Rokeby,Ashburton,-43.89834,171.73011,2,36,Mixed,5,12,1,40
+CT00071,Rolleston,Paparua,-43.529,172.458173,3,45,Mixed,5,12,2,50
+CT00049,Rosewill,Levels,-44.29873,171.2225,2,29,Mixed,5,12,1,32
+CT00003,Rotherham,Amuri,-42.50480809,173.0221142,3,46,Mixed,5,12,2,51
+CT00030,Rotomanu,Grey,-42.546,171.606,1,17,Mixed,5,12,1,19
+CT00004,Ruapuna,Ashburton,-43.89834,171.73011,2,25,Mixed,5,12,1,28
+CT00121,Ruatapu,Westland,-43.431,170.155,3,58,Mixed,5,12,3,64
+CT00091,Russell's Flat,Tawera,-43.3371994,171.9269209,1,21,Mixed,5,12,1,23
+CT00103,St. Andrews,Waimate,-44.7328091,171.0471354,3,85,Mixed,5,12,2,94
+CT00101,Salisbury,Waimairi,-43.482,172.719,1,19,Mixed,5,12,1,21
+CT00121,Saltwater Creek,Westland,-43.431,170.155,2,24,Mixed,5,12,1,27
+CT00107,Seargill,Waipara,-43.0666664,172.749997,1,14,Mixed,5,12,1,16
+CT00049,Seadown,Levels,-44.29873,171.2225,2,29,Mixed,5,12,1,32
+CT00035,Seaview,Heathcote,-43.583,172.716638,1,15,Mixed,5,12,1,17
+CT00004,Sedgemere,Ashburton,-43.89834,171.73011,2,23,Mixed,5,12,1,26
+CT00047,Sefton,Kowai,-43.2097,172.6956,3,52,Mixed,5,12,2,58
+CT00023,Selwyn,Ellesmere,-43.8,172.416667,1,14,Mixed,5,12,1,16
+CT00050,Sherwood Downs,Mackenzie,-44.1,170.8289,1,13,Mixed,5,12,1,14
+CT00101,Shirley Road,Waimairi,-43.482,172.719,5,407,Mixed,5,12,11,452
+CT00005,Silverstream,Ashley,-43.3034,172.5914,3,43,Mixed,5,12,2,48
+CT00023,Southbridge District High School Primary (140) Secondary (23),Ellesmere,-43.8,172.416667,4,163,Mixed,5,18,5,181
+CT00078,Southbrook,Rangiora,-43.30437,172.58356,4,153,Mixed,5,12,7,170
+CT00103,Southburn,Waimate,-44.7328091,171.0471354,1,22,Mixed,5,12,1,24
+CT00052,South Malvern,Malvern,-43.4884,172.11462,2,30,Mixed,5,12,1,33
+CT00030,South Beach,Grey,-42.546,171.606,2,17,Mixed,5,12,1,19
+CT00101,Spencerville,Waimairi,-43.482,172.719,1,9,Mixed,5,12,1,10
+CT00012,Spotswood,Cheviot,-42.81212,173.2736762,3,31,Mixed,5,12,2,34
+CT00078,Springbank,Rangiora,-43.30437,172.58356,1,9,Mixed,5,12,1,10
+CT00052,Springbrook,Malvern,-43.4884,172.11462,2,23,Mixed,5,12,1,26
+CT00004,Springburn,Ashburton,-43.89834,171.73011,3,41,Mixed,5,12,2,46
+CT00091,Springfield,Tawera,-43.3371994,171.9269209,3,39,Mixed,5,12,3,43
+CT00085,Springston,Springs,-43.633,172.417,3,63,Mixed,5,12,3,70
+CT00085,Springston South,Springs,-43.633,172.417,3,45,Mixed,5,12,2,50
+CT00121,Stafford,Westland,-43.431,170.155,2,31,Mixed,5,12,1,34
+CT00030,Stillwater,Grey,-42.546,171.606,3,32,Mixed,5,12,2,36
+CT00049,Summerhill,Levels,-44.29873,171.2225,1,15,Mixed,5,12,1,17
+CT00049,Sutherlands,Levels,-44.29873,171.2225,3,45,Mixed,5,12,3,50
+CT00025,Swannanoa,Eyre,-43.3049,172.5967,2,28,Mixed,5,12,1,31
+CT00030,Swedes Mill,Grey,-42.546,171.606,3,26,Mixed,5,12,2,29
+CT00031,Tai Tapu,Halswell,-43.583,172.567,3,78,Mixed,5,12,2,87
+CT00001,Takamatua,Akaroa,-43.526945,172.632377,2,24,Mixed,5,12,1,27
+CT00030,Taramakau,Grey,-42.546,171.606,1,9,Mixed,5,12,1,10
+CT00030,Tawa,Grey,-42.546,171.606,2,32,Mixed,5,12,1,36
+CT00030,Taylorville,Grey,-42.546,171.606,3,50,Mixed,5,12,3,56
+CT00121,Te Awa,Westland,-43.431,170.155,1,12,Mixed,5,12,1,13
+CT00001,Teddington,Akaroa,-43.526945,172.632377,1,21,Mixed,5,12,1,23
+CT00030,Te Kinga,Grey,-42.546,171.606,2,30,Mixed,5,12,1,33
+CT00029,Te Moana,Geraldine,-44.09061,171.24458,1,10,Mixed,5,12,1,11
+CT00071,Templeton,Paparua,-43.529,172.458173,4,124,Mixed,5,12,6,138
+CT00029,Te Ngawai,Geraldine,-44.09061,171.24458,2,21,Mixed,5,12,1,23
+CT00004,Te Pirita,Ashburton,-43.89834,171.73011,1,10,Mixed,5,12,1,11
+CT00121,Te Roto,Westland,-43.431,170.155,2,25,Mixed,5,12,1,28
+CT00103,Teschmakers,Waimate,-44.7328091,171.0471354,1,10,Mixed,5,12,1,11
+CT00107,The Peaks,Waipara,-43.0666664,172.749997,1,16,Mixed,5,12,1,18
+CT00030,Totara Flat,Grey,-42.546,171.606,1,15,Mixed,5,12,1,17
+CT00049,Totara Valley,Levels,-44.29873,171.2225,1,9,Mixed,5,12,1,10
+CT00025,Tuahiwi,Eyre,-43.3049,172.5967,2,24,Mixed,5,12,1,27
+CT00049,Tycho,Levels,-44.29873,171.2225,2,24,Mixed,5,12,1,27
+CT00069,View Hill,Oxford,-43.29609879,172.1886163,2,36,Mixed,5,12,1,40
+CT00052,Waddington,Malvern,-43.4884,172.11462,3,84,Mixed,5,12,2,93
+CT00003,Waiau,Amuri,-42.50480809,173.0221142,3,75,Mixed,5,12,2,83
+CT00103,Waihao Downs,Waimate,-44.7328091,171.0471354,3,38,Mixed,5,12,2,42
+CT00103,Waihaorunga,Waimate,-44.7328091,171.0471354,1,16,Mixed,5,12,1,18
+CT00121,Waiho,Westland,-43.431,170.155,0,5,Mixed,5,12,1,6
+CT00103,Waikakahi,Waimate,-44.7328091,171.0471354,1,10,Mixed,5,12,1,11
+CT00107,Waikari,Waipara,-43.0666664,172.749997,3,61,Mixed,5,12,2,68
+CT00078,Waikuku,Rangiora,-43.30437,172.58356,3,41,Mixed,5,12,2,46
+CT00121,Wainihinihi,Westland,-43.431,170.155,1,10,Mixed,5,12,1,11
+CT00001,Wainui,Akaroa,-43.526945,172.632377,1,15,Mixed,5,12,1,17
+CT00107,Waipara,Waipara,-43.0666664,172.749997,2,29,Mixed,5,12,1,32
+CT00111,Wairewa,Wairewa,-43.805,172.7407,1,9,Mixed,5,12,1,10
+CT00040,Waitahu,Inangahua,-41.85724663,171.9298009,1,15,Mixed,5,12,1,17
+CT00029,Waitohi Flat,Geraldine,-44.09061,171.24458,2,28,Mixed,5,12,1,31
+CT00029,Waitohi Upper,Geraldine,-44.09061,171.24458,1,18,Mixed,5,12,1,20
+CT00004,Waituna Creek,Ashburton,-43.89834,171.73011,2,29,Mixed,5,12,1,32
+CT00004,Wakanui,Ashburton,-43.89834,171.73011,2,36,Mixed,5,12,1,40
+CT00049,Washdyke,Levels,-44.29873,171.2225,3,116,Mixed,5,12,2,129
+CT00121,Wataroa,Westland,-43.431,170.155,1,12,Mixed,5,12,1,13
+CT00071,Weedon's,Paparua,-43.529,172.458173,2,33,Mixed,5,12,1,37
+CT00030,Westbrook,Grey,-42.546,171.606,0,6,Mixed,5,12,1,7
+CT00004,Westerfield,Ashburton,-43.89834,171.73011,3,41,Mixed,5,12,2,46
+CT00071,West Melton,Paparua,-43.529,172.458173,2,33,Mixed,5,12,1,37
+CT00103,Whiterock,Waimate,-44.7328091,171.0471354,1,13,Mixed,5,12,1,14
+CT00103,Willowbridge,Waimate,-44.7328091,171.0471354,3,43,Mixed,5,12,3,48
+CT00004,Willowby,Ashburton,-43.89834,171.73011,3,38,Mixed,5,12,2,42
+CT00029,Winchester,Geraldine,-44.09061,171.24458,3,46,Mixed,5,12,3,51
+CT00004,Winchmore,Ashburton,-43.89834,171.73011,1,18,Mixed,5,12,1,20
+CT00004,Winslow,Ashburton,-43.89834,171.73011,2,21,Mixed,5,12,1,23
+CT00029,Woodbury,Geraldine,-44.09061,171.24458,3,48,Mixed,5,12,2,53
+CT00078,Woodend,Rangiora,-43.30437,172.58356,3,86,Mixed,5,12,2,96
+CT00121,Woodstock,Westland,-43.431,170.155,3,71,Mixed,5,12,2,79
+CT00071,Yaldhurst,Paparua,-43.529,172.458173,3,43,Mixed,5,12,2,48
+BR00015,Dannervirke North,Dannevirke,-40.20611,176.09944,5,341,Mixed,5,12,9,379
+BR00015,Dannervirke South,Dannevirke,-40.20611,176.09944,5,286,Mixed,5,12,11,318
+BR00026,Gisborne,Gisborne,-38.6625,178.017778,7,716,Mixed,5,12,14,796
+BR00026,Gisborne East,Gisborne,-38.6625,178.017778,5,270,Mixed,5,12,8,300
+BR00026,Gisborne North,Gisborne,-38.6625,178.017778,5,411,Mixed,5,12,11,457
+BR00026,Gisborne West,Gisborne,-38.6625,178.017778,5,355,Mixed,5,12,12,394
+BR00033,Hastings District High School Primary (761) secondary (59),Hastings,-39.6381,176.84918,7,820,Mixed,5,18,16,911
+BR00033,Hastings North,Hastings,-39.6381,176.84918,5,370,Mixed,5,12,12,411
+BR00033,Hastings West,Hastings,-39.6381,176.84918,5,250,Mixed,5,12,10,278
+BR00055,Napier,Napier,-39.4926,176.91233,7,585,Mixed,5,12,14,650
+BR00055,Napier North,Napier,-39.4926,176.91233,4,100,Mixed,5,12,6,111
+BR00055,Napier Port,Napier,-39.4926,176.91233,5,253,Mixed,5,12,12,281
+BR00055,Napier South,Napier,-39.4926,176.91233,5,361,Mixed,5,12,11,401
+BR00055,Napier West,Napier,-39.4926,176.91233,6,476,Mixed,5,12,14,529
+BR00105,Waipawa District High School Primary (220) Secondary (40),Waipawa,-39.9416,176.58963,5,260,Mixed,5,18,9,289
+BR00106,Waipukurau,Waipukurau,-39.9917,176.5583,5,355,Mixed,5,12,7,394
+BR00107,Wairoa,Wairoa,-39.03517,177.41803,5,355,Mixed,5,12,7,394
+BR00116,Woodville District High School Primary (309) Secondary (31),Woodville,-40.3371,175.8667,5,350,Mixed,5,18,7,389
+CT00108,Argyll East,Waipawa,-39.93989024,176.5908838,1,22,Mixed,5,12,1,24
+CT00108,Ashley-Clinton,Waipawa,-39.93989024,176.5908838,2,25,Mixed,5,12,1,28
+CT00112,Awariki,Wairoa,-39.03333,177.36667,1,18,Mixed,5,12,1,20
+CT00034,Clifton,Hawke's Bay,-39.483,176.917,0,3,Mixed,5,12,1,3
+CT00034,Clive,Hawke's Bay,-39.483,176.917,4,157,Mixed,5,12,7,174
+CT00072,Elsthorpe,Patangata,-39.917,176.717,3,42,Mixed,5,12,2,47
+CT00034,Fernhill,Hawke's Bay,-39.483,176.917,3,42,Mixed,5,12,2,47
+CT00108,Flemington,Waipawa,-39.93989024,176.5908838,1,12,Mixed,5,12,1,13
+CT00112,Frasertown,Wairoa,-39.03333,177.36667,3,89,Mixed,5,12,2,99
+CT00108,Hatuma,Waipawa,-39.93989024,176.5908838,3,46,Mixed,5,12,2,51
+CT00034,Havelock North,Hawke's Bay,-39.483,176.917,4,225,Mixed,5,12,7,250
+CT00072,Herbertville,Patangata,-39.917,176.717,1,7,Mixed,5,12,1,8
+CT00034,Heretaunga,Hawke's Bay,-39.483,176.917,1,21,Mixed,5,12,1,23
+CT00108,Hinuera,Waipawa,-39.93989024,176.5908838,1,19,Mixed,5,12,1,21
+CT00108,Hopelands,Waipawa,-39.93989024,176.5908838,2,20,Mixed,5,12,1,22
+CT00096,Ihungia,Waiapu,-38.055833,178.305278,0,7,Mixed,5,12,1,8
+CT00016,Kaitaratahi,Cook,-38.6623,178.0176,1,11,Mixed,5,12,1,12
+CT00016,Keruru,Cook,-38.6623,178.0176,1,22,Mixed,5,12,1,24
+CT00126,Kiritaki,Woodville,-40.33773576,175.8669028,2,45,Mixed,5,12,1,50
+CT00126,Kumeroa,Woodville,-40.33773576,175.8669028,2,33,Mixed,5,12,1,37
+CT00119,Maharahara West,Weber,-40.4,176.317,1,14,Mixed,5,12,1,16
+CT00016,Makaraka,Cook,-38.6623,178.0176,3,85,Mixed,5,12,2,94
+CT00108,Makaretu South,Waipawa,-39.93989024,176.5908838,1,11,Mixed,5,12,1,12
+CT00016,Makauri,Cook,-38.6623,178.0176,3,108,Mixed,5,12,2,120
+CT00018,Makotuku,Dannevirke,-40.205303,176.100311,3,79,Mixed,5,12,2,88
+CT00034,Mangatahi,Hawke's Bay,-39.483,176.917,1,13,Mixed,5,12,1,14
+CT00034,Mangateretere,Hawke's Bay,-39.483,176.917,3,69,Mixed,5,12,2,77
+CT00112,Maraekako,Wairoa,-39.03333,177.36667,1,22,Mixed,5,12,1,24
+CT00034,Maraetotara,Hawke's Bay,-39.483,176.917,2,19,Mixed,5,12,1,21
+CT00016,Marakeke,Cook,-38.6623,178.0176,2,23,Mixed,5,12,1,26
+CT00016,Marumaru,Cook,-38.6623,178.0176,2,22,Mixed,5,12,1,24
+CT00018,Matahiwi,Dannevirke,-40.205303,176.100311,3,38,Mixed,5,12,2,42
+CT00018,Matamau,Dannevirke,-40.205303,176.100311,3,82,Mixed,5,12,2,91
+CT00099,Matawai,Waikohu,-38.466667,177.866667,3,68,Mixed,5,12,3,76
+CT00034,Meeanee,Hawke's Bay,-39.483,176.917,3,57,Mixed,5,12,3,63
+CT00112,Mohaka,Wairoa,-39.03333,177.36667,3,74,Mixed,5,12,2,82
+CT00112,Morere,Wairoa,-39.03333,177.36667,1,15,Mixed,5,12,1,17
+CT00099,Motu,Waikohu,-38.466667,177.866667,3,39,Mixed,5,12,3,43
+CT00066,Motuhora,Opotiki,-38.00915,177.28706,3,55,Mixed,5,12,2,61
+CT00016,Murewai,Cook,-38.6623,178.0176,2,29,Mixed,5,12,1,32
+CT00018,Ngamoko,Dannevirke,-40.205303,176.100311,2,29,Mixed,5,12,1,32
+CT00016,Ngatapa,Cook,-38.6623,178.0176,3,55,Mixed,5,12,3,61
+CT00034,Ngatarawa,Hawke's Bay,-39.483,176.917,2,24,Mixed,5,12,1,27
+CT00108,Norsewood,Waipawa,-39.93989024,176.5908838,4,163,Mixed,5,12,4,181
+CT00112,Nuhaka,Wairoa,-39.03333,177.36667,2,26,Mixed,5,12,1,29
+CT00072,Omakere,Patangata,-39.917,176.717,2,24,Mixed,5,12,1,27
+CT00108,Ongaonga,Waipawa,-39.93989024,176.5908838,3,87,Mixed,5,12,2,97
+CT00108,Opapa,Waipawa,-39.93989024,176.5908838,3,42,Mixed,5,12,3,47
+CT00112,Opoutama,Wairoa,-39.03333,177.36667,2,19,Mixed,5,12,1,21
+CT00016,Ormond,Cook,-38.6623,178.0176,3,84,Mixed,5,12,3,93
+CT00018,Ormondville,Dannevirke,-40.205303,176.100311,3,61,Mixed,5,12,2,68
+CT00034,Otamauri,Hawke's Bay,-39.483,176.917,1,12,Mixed,5,12,1,13
+CT00108,Otane,Waipawa,-39.93989024,176.5908838,3,101,Mixed,5,12,3,112
+CT00099,Otoko,Waikohu,-38.466667,177.866667,2,32,Mixed,5,12,1,36
+CT00034,Pakipaki,Hawke's Bay,-39.483,176.917,3,42,Mixed,5,12,2,47
+CT00034,Pakowhai,Hawke's Bay,-39.483,176.917,3,44,Mixed,5,12,3,49
+CT00126,Papatawa,Woodville,-40.33773576,175.8669028,3,57,Mixed,5,12,3,63
+CT00072,Patangata,Patangata,-39.917,176.717,1,9,Mixed,5,12,1,10
+CT00034,Patoka,Hawke's Bay,-39.483,176.917,1,24,Mixed,5,12,1,27
+CT00016,Patutahi,Cook,-38.6623,178.0176,4,130,Mixed,5,12,4,144
+CT00034,Petane,Hawke's Bay,-39.483,176.917,3,77,Mixed,5,12,2,86
+CT00072,Porangahau,Patangata,-39.917,176.717,3,45,Mixed,5,12,2,50
+CT00096,Port Awanui,Waiapu,-38.055833,178.305278,1,11,Mixed,5,12,1,12
+CT00016,Pouawa,Cook,-38.6623,178.0176,0,8,Mixed,5,12,1,9
+CT00099,Puha,Waikohu,-38.466667,177.866667,3,46,Mixed,5,12,3,51
+CT00034,Pukahu,Hawke's Bay,-39.483,176.917,3,48,Mixed,5,12,3,53
+CT00034,Puketapu,Hawke's Bay,-39.483,176.917,3,36,Mixed,5,12,2,40
+CT00034,Puketitiri,Hawke's Bay,-39.483,176.917,2,22,Mixed,5,12,1,24
+CT00112,Putorino,Wairoa,-39.03333,177.36667,1,13,Mixed,5,12,1,14
+CT00099,Rakauroa,Waikohu,-38.466667,177.866667,1,21,Mixed,5,12,1,23
+CT00018,Raumati,Dannevirke,-40.205303,176.100311,2,31,Mixed,5,12,1,34
+CT00034,Rissington,Hawke's Bay,-39.483,176.917,1,16,Mixed,5,12,1,18
+CT00016,Ruaroa,Cook,-38.6623,178.0176,3,40,Mixed,5,12,2,44
+CT00108,Ruataniwha,Waipawa,-39.93989024,176.5908838,3,50,Mixed,5,12,2,56
+CT00034,Sherenden,Hawke's Bay,-39.483,176.917,1,14,Mixed,5,12,1,16
+CT00108,Takapau,Waipawa,-39.93989024,176.5908838,4,151,Mixed,5,12,5,168
+CT00016,Tangitere,Cook,-38.6623,178.0176,1,15,Mixed,5,12,1,17
+CT00034,Taradale (237) and Greenmeadows (side school) (53),Hawke's Bay,-39.483,176.917,5,290,Mixed,5,12,8,322
+CT00034,Te Arai,Hawke's Bay,-39.483,176.917,3,89,Mixed,5,12,2,99
+CT00099,Te Karaka,Waikohu,-38.466667,177.866667,3,95,Mixed,5,12,2,106
+CT00034,Te Pohue,Hawke's Bay,-39.483,176.917,1,18,Mixed,5,12,1,20
+CT00096,Te Puia Springs,Waiapu,-38.055833,178.305278,1,11,Mixed,5,12,1,12
+CT00018,Te Rehunga,Dannevirke,-40.205303,176.100311,3,73,Mixed,5,12,3,81
+CT00108,Tikokino,Waipawa,-39.93989024,176.5908838,3,89,Mixed,5,12,2,99
+CT00016,Tiniroto,Cook,-38.6623,178.0176,1,12,Mixed,5,12,1,13
+CT00034,Tipapakuku,Hawke's Bay,-39.483,176.917,3,68,Mixed,5,12,2,76
+CT00119,Ti-tree Point,Weber,-40.4,176.317,1,11,Mixed,5,12,1,12
+CT00096,Tokomaru Bay,Waiapu,-38.055833,178.305278,3,91,Mixed,5,12,2,101
+CT00016,Tolaga Bay,Cook,-38.6623,178.0176,4,140,Mixed,5,12,7,156
+CT00034,Tutira,Hawke's Bay,-39.483,176.917,1,11,Mixed,5,12,1,12
+CT00034,Twyford,Hawke's Bay,-39.483,176.917,3,61,Mixed,5,12,3,68
+CT00018,Umutaoroa,Dannevirke,-40.205303,176.100311,2,22,Mixed,5,12,1,24
+CT00016,Waerengaahika,Cook,-38.6623,178.0176,3,62,Mixed,5,12,2,69
+CT00112,Waikari,Wairoa,-39.03333,177.36667,0,5,Mixed,5,12,1,6
+CT00099,Waikohu,Waikohu,-38.466667,177.866667,1,17,Mixed,5,12,1,19
+CT00016,Waimata Valley,Cook,-38.6623,178.0176,1,16,Mixed,5,12,1,18
+CT00016,Waingake,Cook,-38.6623,178.0176,1,18,Mixed,5,12,1,20
+CT00096,Waipiro Bay,Waiapu,-38.055833,178.305278,3,58,Mixed,5,12,3,64
+CT00018,Waitahora,Dannevirke,-40.205303,176.100311,1,11,Mixed,5,12,1,12
+CT00108,Wakarara,Waipawa,-39.93989024,176.5908838,2,19,Mixed,5,12,1,21
+CT00072,Wallingford,Patangata,-39.917,176.717,1,16,Mixed,5,12,1,18
+CT00072,Wanstead,Patangata,-39.917,176.717,1,10,Mixed,5,12,1,11
+CT00119,Weber,Weber,-40.4,176.317,3,46,Mixed,5,12,2,51
+CT00016,Whakarau,Cook,-38.6623,178.0176,1,7,Mixed,5,12,1,8
+CT00099,Wharekopae,Waikohu,-38.466667,177.866667,1,14,Mixed,5,12,1,16
+CT00099,Whatatutu,Waikohu,-38.466667,177.866667,3,47,Mixed,5,12,2,52
+CT00018,Whetukura,Dannevirke,-40.205303,176.100311,2,32,Mixed,5,12,1,36
+CT00016,Wigan,Cook,-38.6623,178.0176,1,12,Mixed,5,12,1,13
+CT00119,Wimbledon,Weber,-40.4,176.317,1,10,Mixed,5,12,1,11
+CT00112,Woodlands,Wairoa,-39.03333,177.36667,3,50,Mixed,5,12,2,56
+BR00059,Central (570) and Vogeltown (side school) (45) New Plymouth,New Plymouth,-39.055626,174.075226,7,615,Mixed,5,12,19,683
+BR00021,Eltham,Eltham,-39.42972,174.29917,5,283,Mixed,5,12,8,314
+BR00059,Fitzroy,New Plymouth,-39.055626,174.075226,4,188,Mixed,5,12,6,209
+BR00059,Frankley (94) and Westown (side school) (38),New Plymouth,-39.055626,174.075226,4,132,Mixed,5,12,6,147
+BR00034,Hawera District High School and side school - Primary (652) secondary (27) side school (45,Hawera,-39.59167,174.28333,7,724,Mixed,5,18,20,804
+BR00036,Inglewood,Inglewood,-39.15824,174.1802,5,264,Mixed,5,12,9,293
+BR00089,Stratford District High School Primary (543) Secondary (160),Stratford,-39.33708,174.28382,7,713,Mixed,5,18,13,792
+BR00108,Waitara,Waitara,-39.00158,174.23836,5,299,Mixed,5,12,11,332
+BR00059,West End,New Plymouth,-39.055626,174.075226,6,461,Mixed,5,12,16,512
+BR00059,Westown (Side school) see under Frankley,New Plymouth,-39.055626,174.075226,2,18,Mixed,5,12,1,20
+CT00041,Ackland,Inglewood,-39.1499994,174.1999992,1,17,Mixed,5,12,1,19
+CT00065,Ahiti,Ohura,-38.8439123,174.9816397,1,16,Mixed,5,12,1,18
+CT00033,Ararata,Hawera,-39.59167,174.28333,2,27,Mixed,5,12,1,30
+CT00065,Aukopae,Ohura,-38.8439123,174.9816397,1,9,Mixed,5,12,1,10
+CT00104,Auroa,Waimate West,-39.5513,174.1281,3,95,Mixed,5,12,2,106
+CT00013,Awakino,Clifton,-38.995833,174.233056,3,15,Mixed,5,12,2,17
+CT00021,Awatuna,Egmont,-39.453736,173.854185,3,21,Mixed,5,12,2,23
+CT00089,Bell Block,Taranaki,-39.3,174.133333,3,73,Mixed,5,12,2,81
+CT00086,Cardiff,Stratford,-39.3370781,174.2838238,3,37,Mixed,5,12,2,41
+CT00089,Carrington,Taranaki,-39.3,174.133333,3,36,Mixed,5,12,2,40
+CT00086,Denbigh,Stratford,-39.3370781,174.2838238,1,12,Mixed,5,12,1,13
+CT00086,Douglas,Stratford,-39.3370781,174.2838238,3,46,Mixed,5,12,2,51
+CT00086,Dudley,Stratford,-39.3370781,174.2838238,1,10,Mixed,5,12,1,11
+CT00086,Durham,Stratford,-39.3370781,174.2838238,2,27,Mixed,5,12,1,30
+CT00089,Egmont Villiage,Taranaki,-39.3,174.133333,3,56,Mixed,5,12,2,62
+CT00013,Finnerty,Clifton,-38.995833,174.233056,2,41,Mixed,5,12,1,46
+CT00021,Fraser Road,Egmont,-39.453736,173.854185,2,26,Mixed,5,12,1,29
+CT00013,Hapurua (6) and Waitewhena (5),Clifton,-38.995833,174.233056,1,11,Mixed,5,12,1,12
+CT00065,Herangi,Ohura,-38.8439123,174.9816397,0,4,Mixed,5,12,1,4
+CT00089,Hillsborough,Taranaki,-39.3,174.133333,3,53,Mixed,5,12,2,59
+CT00013,Huiakama,Clifton,-38.995833,174.233056,3,40,Mixed,5,12,2,44
+CT00086,Huiroa,Stratford,-39.3370781,174.2838238,3,48,Mixed,5,12,2,53
+CT00041,Hurford,Inglewood,-39.1499994,174.1999992,2,32,Mixed,5,12,1,36
+CT00123,Hurimoana,Whangamomona,-39.14524461,174.7387759,2,28,Mixed,5,12,1,31
+CT00021,Ihaia,Egmont,-39.453736,173.854185,1,11,Mixed,5,12,1,12
+CT00021,Kahui,Egmont,-39.453736,173.854185,1,12,Mixed,5,12,1,13
+CT00089,Kaimata,Taranaki,-39.3,174.133333,3,73,Mixed,5,12,2,81
+CT00089,Kaimiro,Taranaki,-39.3,174.133333,3,37,Mixed,5,12,2,41
+CT00024,Kaponga,Eltham,-39.429722,174.299167,4,141,Mixed,5,12,6,157
+CT00104,Kapuni,Waimate West,-39.5513,174.1281,3,77,Mixed,5,12,2,86
+CT00089,Kent,Taranaki,-39.3,174.133333,1,23,Mixed,5,12,1,26
+CT00086,Kiore,Stratford,-39.3370781,174.2838238,1,17,Mixed,5,12,1,19
+CT00123,Kohuratahi,Whangamomona,-39.14524461,174.7387759,1,6,Mixed,5,12,1,7
+CT00089,Korito,Taranaki,-39.3,174.133333,2,23,Mixed,5,12,1,26
+CT00089,Koru,Taranaki,-39.3,174.133333,2,28,Mixed,5,12,1,31
+CT00089,Lepperton,Taranaki,-39.3,174.133333,3,59,Mixed,5,12,2,66
+CT00086,Lincoln,Stratford,-39.3370781,174.2838238,3,36,Mixed,5,12,2,40
+CT00065,Mahirakau,Ohura,-38.8439123,174.9816397,2,21,Mixed,5,12,1,23
+CT00086,Mahoe,Stratford,-39.3370781,174.2838238,3,50,Mixed,5,12,2,56
+NA,Mahoenui,Awakino (Auckland Province),NA,NA,2,25,Mixed,5,12,1,28
+CT00086,Makahu,Stratford,-39.3370781,174.2838238,2,20,Mixed,5,12,1,22
+CT00021,Makaka,Egmont,-39.453736,173.854185,1,21,Mixed,5,12,1,23
+CT00033,Manaia,Hawera,-39.59167,174.28333,4,170,Mixed,5,12,4,189
+CT00024,Mangahume,Eltham,-39.429722,174.299167,2,23,Mixed,5,12,1,26
+CT00024,Mangamingi,Eltham,-39.429722,174.299167,2,19,Mixed,5,12,1,21
+CT00024,Mangatoki,Eltham,-39.429722,174.299167,3,89,Mixed,5,12,2,99
+CT00089,Mangorei Lower,Taranaki,-39.3,174.133333,1,14,Mixed,5,12,1,16
+CT00089,Mangorei Upper,Taranaki,-39.3,174.133333,1,24,Mixed,5,12,1,27
+NA,Marakopa,Awakino (Auckland Province),NA,NA,1,14,Mixed,5,12,1,16
+CT00123,Marco,Whangamomona,-39.14524461,174.7387759,3,33,Mixed,5,12,2,37
+CT00024,Mata,Eltham,-39.429722,174.299167,1,23,Mixed,5,12,1,26
+CT00024,Matapu,Eltham,-39.429722,174.299167,1,14,Mixed,5,12,1,16
+CT00013,Matau (household),Clifton,-38.995833,174.233056,0,5,Mixed,5,12,1,6
+CT00013,Matau,Clifton,-38.995833,174.233056,1,14,Mixed,5,12,1,16
+CT00065,Matiere,Ohura,-38.8439123,174.9816397,3,59,Mixed,5,12,3,66
+CT00033,Meremere,Hawera,-39.59167,174.28333,2,32,Mixed,5,12,1,36
+CT00086,Midhurst,Stratford,-39.3370781,174.2838238,3,103,Mixed,5,12,2,114
+CT00013,Mimi,Clifton,-38.995833,174.233056,2,23,Mixed,5,12,1,26
+NA,Mokau,Awakino (Auckland Province),NA,NA,2,27,Mixed,5,12,1,30
+CT00013,Mokau River,Clifton,-38.995833,174.233056,0,4,Mixed,5,12,1,4
+CT00033,Mokoia,Hawera,-39.59167,174.28333,3,49,Mixed,5,12,2,54
+CT00013,Motonui,Clifton,-38.995833,174.233056,3,71,Mixed,5,12,2,79
+CT00013,Mount Messenger,Clifton,-38.995833,174.233056,1,17,Mixed,5,12,1,19
+CT00021,Newall,Egmont,-39.453736,173.854185,2,28,Mixed,5,12,1,31
+CT00086,Ngaere,Stratford,-39.3370781,174.2838238,3,84,Mixed,5,12,2,93
+CT00065,Nihoniho,Ohura,-38.8439123,174.9816397,1,20,Mixed,5,12,1,22
+CT00086,Norfolk,Stratford,-39.3370781,174.2838238,3,50,Mixed,5,12,2,56
+CT00033,Normanby,Hawera,-39.59167,174.28333,3,109,Mixed,5,12,2,121
+CT00089,Oakura,Taranaki,-39.3,174.133333,2,35,Mixed,5,12,1,39
+CT00021,Oaonui,Egmont,-39.453736,173.854185,3,58,Mixed,5,12,2,64
+CT00021,Oeo,Egmont,-39.453736,173.854185,2,28,Mixed,5,12,1,31
+CT00033,Ohangai,Hawera,-39.59167,174.28333,3,63,Mixed,5,12,3,70
+CT00065,Ohura,Ohura,-38.8439123,174.9816397,3,50,Mixed,5,12,3,56
+CT00065,Okahukura,Ohura,-38.8439123,174.9816397,3,35,Mixed,5,12,2,39
+CT00033,Okaiawa,Hawera,-39.59167,174.28333,3,103,Mixed,5,12,2,114
+CT00089,Okato,Taranaki,-39.3,174.133333,3,75,Mixed,5,12,3,83
+CT00065,Okau,Ohura,-38.8439123,174.9816397,2,22,Mixed,5,12,1,24
+CT00013,Okoke,Clifton,-38.995833,174.233056,1,9,Mixed,5,12,1,10
+CT00089,Omata,Taranaki,-39.3,174.133333,3,72,Mixed,5,12,3,80
+CT00065,Ongarue,Ohura,-38.8439123,174.9816397,3,40,Mixed,5,12,2,44
+CT00021,Opunake,Egmont,-39.453736,173.854185,3,84,Mixed,5,12,3,93
+CT00104,Otakeho,Waimate West,-39.5513,174.1281,3,106,Mixed,5,12,3,118
+CT00065,Otangiwai,Ohura,-38.8439123,174.9816397,3,36,Mixed,5,12,2,40
+CT00065,Otunui,Ohura,-38.8439123,174.9816397,1,20,Mixed,5,12,1,22
+CT00065,Paraketu Valley,Ohura,-38.8439123,174.9816397,1,8,Mixed,5,12,1,9
+CT00123,Pehu,Whangamomona,-39.14524461,174.7387759,0,3,Mixed,5,12,1,3
+CT00086,Pembroke,Stratford,-39.3370781,174.2838238,2,25,Mixed,5,12,1,28
+CT00021,Pihama,Egmont,-39.453736,173.854185,3,57,Mixed,5,12,2,63
+CT00086,Piko,Stratford,-39.3370781,174.2838238,1,7,Mixed,5,12,1,8
+CT00089,Pitone,Taranaki,-39.3,174.133333,1,12,Mixed,5,12,1,13
+CT00123,Pohokura,Whangamomona,-39.14524461,174.7387759,2,19,Mixed,5,12,1,21
+CT00013,Pukearuhe,Clifton,-38.995833,174.233056,1,18,Mixed,5,12,1,20
+CT00089,Pukeho,Taranaki,-39.3,174.133333,2,27,Mixed,5,12,1,30
+CT00086,Pukengahu,Stratford,-39.3370781,174.2838238,3,50,Mixed,5,12,3,56
+CT00021,Pungarehu,Egmont,-39.453736,173.854185,3,36,Mixed,5,12,2,40
+CT00021,Puniho,Egmont,-39.453736,173.854185,2,36,Mixed,5,12,1,40
+CT00086,Puniwhakau,Stratford,-39.3370781,174.2838238,2,24,Mixed,5,12,1,27
+CT00086,Purangi,Stratford,-39.3370781,174.2838238,1,9,Mixed,5,12,1,10
+CT00021,Rahotu,Egmont,-39.453736,173.854185,3,75,Mixed,5,12,2,83
+CT00089,Ratapiko,Taranaki,-39.3,174.133333,3,42,Mixed,5,12,3,47
+CT00089,Raupuha,Taranaki,-39.3,174.133333,3,30,Mixed,5,12,3,33
+CT00024,Rawhitiroa,Eltham,-39.429722,174.299167,3,45,Mixed,5,12,2,50
+CT00024,Riverlea,Eltham,-39.429722,174.299167,3,53,Mixed,5,12,2,59
+CT00024,Rotokare,Eltham,-39.429722,174.299167,2,18,Mixed,5,12,1,20
+CT00021,Rowan,Egmont,-39.453736,173.854185,2,31,Mixed,5,12,1,34
+CT00086,Stanley,Stratford,-39.3370781,174.2838238,3,62,Mixed,5,12,2,69
+CT00123,Tahora,Whangamomona,-39.14524461,174.7387759,2,38,Mixed,5,12,1,42
+CT00013,Tarata,Clifton,-38.995833,174.233056,3,31,Mixed,5,12,2,34
+CT00089,Tariki,Taranaki,-39.3,174.133333,3,72,Mixed,5,12,2,80
+CT00089,Tarurutangi,Taranaki,-39.3,174.133333,2,26,Mixed,5,12,1,29
+CT00089,Tataraimaka,Taranaki,-39.3,174.133333,3,45,Mixed,5,12,2,50
+CT00065,Tatu,Ohura,-38.8439123,174.9816397,1,13,Mixed,5,12,1,14
+CT00021,Te Kiri,Egmont,-39.453736,173.854185,3,51,Mixed,5,12,2,57
+CT00024,Te Roti,Eltham,-39.429722,174.299167,3,40,Mixed,5,12,3,44
+CT00013,Tikorangi,Clifton,-38.995833,174.233056,3,65,Mixed,5,12,2,72
+CT00033,Tokaora,Hawera,-39.59167,174.28333,2,38,Mixed,5,12,1,42
+CT00065,Tokirima Road,Ohura,-38.8439123,174.9816397,2,25,Mixed,5,12,1,28
+CT00086,Toko,Stratford,-39.3370781,174.2838238,3,104,Mixed,5,12,2,116
+CT00013,Tongaporutu,Clifton,-38.995833,174.233056,1,12,Mixed,5,12,1,13
+CT00086,Tuna,Stratford,-39.3370781,174.2838238,2,23,Mixed,5,12,1,26
+CT00123,Tututawa,Whangamomona,-39.14524461,174.7387759,2,23,Mixed,5,12,1,26
+CT00013,Urenui,Clifton,-38.995833,174.233056,3,70,Mixed,5,12,3,78
+CT00013,Uruti,Clifton,-38.995833,174.233056,2,25,Mixed,5,12,1,28
+CT00013,Waiau,Clifton,-38.995833,174.233056,1,15,Mixed,5,12,1,17
+CT00089,Waiongona,Taranaki,-39.3,174.133333,2,19,Mixed,5,12,1,21
+CT00123,Waitaanga,Whangamomona,-39.14524461,174.7387759,1,12,Mixed,5,12,1,13
+CT00013,Waitewhena (half-time) See under Hapurua,Clifton,-38.995833,174.233056,2,24,Mixed,5,12,1,27
+CT00041,Waitui,Inglewood,-39.1499994,174.1999992,2,24,Mixed,5,12,1,27
+CT00021,Warea,Egmont,-39.453736,173.854185,3,45,Mixed,5,12,3,50
+CT00033,Whakamara,Hawera,-39.59167,174.28333,2,18,Mixed,5,12,1,20
+CT00123,Whangamomona,Whangamomona,-39.14524461,174.7387759,3,62,Mixed,5,12,2,69
+CT00013,York,Clifton,-38.995833,174.233056,2,41,Mixed,5,12,1,46
+BR00114,Whangarei High School,Whangarei,-35.73167,174.32391,NA,167,Mixed,12,18,11,186
+BR00005,Auckland Boys' Grammar School,Auckland,-36.86667,174.76667,NA,747,Boys,12,18,30,830
+BR00005,Auckland Girls' Grammar School,Auckland,-36.86667,174.76667,NA,490,Girls,12,18,26,544
+BR00005,Auckland (Epsom) Girls' Grammar School,Auckland,-36.86667,174.76667,NA,181,Girls,12,18,12,201
+BR00100,Thames High School,Thames,-37.138389,175.5405,NA,140,Mixed,12,18,6,156
+BR00059,New Plymouth Boys' High School,New Plymouth,-39.055626,174.075226,NA,187,Boys,12,18,11,208
+BR00059,New Plymouth Girls' High School,New Plymouth,-39.055626,174.075226,NA,121,Girls,12,18,8,134
+BR00109,Wanganui Girls' Collage,Wanganui,-39.9333,175.05,NA,216,Girls,12,18,14,240
+BR00026,Gisborne Girls' Collage,Gisborne,-38.6625,178.017778,NA,169,Girls,12,18,10,188
+BR00055,Napier Boys' High School,Napier,-39.4926,176.91233,NA,135,Boys,12,18,9,150
+BR00055,Napier Girls' High School,Napier,-39.4926,176.91233,NA,78,Girls,12,18,9,87
+BR00110,Wellington Boys' Collage,Wellington,-41.28664,174.77557,NA,514,Boys,12,18,22,571
+BR00110,Wellington Girls' Collage,Wellington,-41.28664,174.77557,NA,445,Girls,12,18,28,494
+BR00057,Nelson Boys' Collage,Nelson,-41.27078,173.28404,NA,208,Boys,12,18,10,231
+BR00057,Nelson Girls' Collage,Nelson,-41.27078,173.28404,NA,184,Girls,12,18,10,204
+BR00013,Christchurch Boys' High School,Christchurch,-43.55,172.6667,NA,308,Boys,12,18,18,342
+BR00013,Christchurch Girls' High School,Christchurch,-43.55,172.6667,NA,361,Girls,12,18,23,401
+BR00101,Timaru Boys' High School,Timaru,-44.39672,171.25364,NA,180,Boys,12,18,11,200
+BR00101,Timaru Girls' High School,Timaru,-44.39672,171.25364,NA,133,Girls,12,18,11,148
+BR00018,Otago Boys' High School,Dunedin,-45.87416,170.50361,NA,437,Boys,12,18,17,486
+BR00018,Otago Girls' High School,Dunedin,-45.87416,170.50361,NA,336,Girls,12,18,19,373
+BR00037,Southland Boys' High School,Invercargill,-46.4132,168.3538,NA,190,Boys,12,18,10,211
+BR00037,Southland Girls' High School,Invercargill,-46.4132,168.3538,NA,224,Girls,12,18,14,249
+BR00031,Hamilton High School,Hamilton,-37.783,175.283,NA,268,Mixed,12,18,12,298
+BR00072,Palmerston North High School,Palmerston North,-40.35636,175.61113,NA,303,Mixed,12,18,19,337
+BR00027,Gore High School,Gore,-46.09917,168.94639,NA,158,Mixed,12,18,8,176
+CT00056,Marlborough High School,Marlborough,-41.514,173.96,NA,119,Mixed,12,18,6,132
+CT00078,Rangiora High School,Rangiora,-43.30437,172.58356,NA,95,Mixed,12,18,7,106
+CT00004,Ashburton High School,Ashburton,-43.89834,171.73011,NA,140,Mixed,12,18,7,156
+CT00113,Waitaki Boys' High School,Waitaki,-44.926,170.635,NA,263,Boys,12,18,9,292
+CT00113,Waitaki Girls' High School,Waitaki,-44.926,170.635,NA,115,Girls,12,18,7,128
+CT00018,Dannevirke High School,Dannevirke,-40.205303,176.100311,NA,100,Mixed,12,18,7,111
